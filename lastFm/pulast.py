@@ -512,7 +512,7 @@ class _Network(object):
             params["track[%d]" % i] = tracks_to_scrobble[i]["title"]
 
             additional_args = (
-            "timestamp", "album", "album_artist", "context", "stream_id", "track_number", "mbid", "duration")
+                "timestamp", "album", "album_artist", "context", "stream_id", "track_number", "mbid", "duration")
             args_map_to = {"album_artist": "albumArtist", "track_number": "trackNumber",
                            "stream_id": "streamID"}  # so friggin lazy
 
@@ -590,8 +590,8 @@ class LastFMNetwork(_Network):
 
     def __repr__(self):
         return "pylast.LastFMNetwork(%s)" % (
-        ", ".join(("'%s'" % self.api_key, "'%s'" % self.api_secret, "'%s'" % self.session_key,
-                   "'%s'" % self.username, "'%s'" % self.password_hash)))
+            ", ".join(("'%s'" % self.api_key, "'%s'" % self.api_secret, "'%s'" % self.session_key,
+                       "'%s'" % self.username, "'%s'" % self.password_hash)))
 
     def __str__(self):
         return "LastFM Network"
@@ -675,8 +675,8 @@ class LibreFMNetwork(_Network):
 
     def __repr__(self):
         return "pylast.LibreFMNetwork(%s)" % (
-        ", ".join(("'%s'" % self.api_key, "'%s'" % self.api_secret, "'%s'" % self.session_key,
-                   "'%s'" % self.username, "'%s'" % self.password_hash)))
+            ", ".join(("'%s'" % self.api_key, "'%s'" % self.api_secret, "'%s'" % self.session_key,
+                       "'%s'" % self.username, "'%s'" % self.password_hash)))
 
     def __str__(self):
         return "Libre.fm Network"
@@ -1207,11 +1207,11 @@ class Album(_BaseObject, _Taggable):
 
     def __eq__(self, other):
         return (self.get_title().lower() == other.get_title().lower()) and (
-        self.get_artist().get_name().lower() == other.get_artist().get_name().lower())
+            self.get_artist().get_name().lower() == other.get_artist().get_name().lower())
 
     def __ne__(self, other):
         return (self.get_title().lower() != other.get_title().lower()) or (
-        self.get_artist().get_name().lower() != other.get_artist().get_name().lower())
+            self.get_artist().get_name().lower() != other.get_artist().get_name().lower())
 
     def _get_params(self):
         return {'artist': self.get_artist().get_name(), 'album': self.get_title(), }
@@ -2373,11 +2373,11 @@ class Track(_BaseObject, _Taggable):
 
     def __eq__(self, other):
         return (self.get_title().lower() == other.get_title().lower()) and (
-        self.get_artist().get_name().lower() == other.get_artist().get_name().lower())
+            self.get_artist().get_name().lower() == other.get_artist().get_name().lower())
 
     def __ne__(self, other):
         return (self.get_title().lower() != other.get_title().lower()) or (
-        self.get_artist().get_name().lower() != other.get_artist().get_name().lower())
+            self.get_artist().get_name().lower() != other.get_artist().get_name().lower())
 
     def _get_params(self):
         return {'artist': self.get_artist().get_name(), 'track': self.get_title()}

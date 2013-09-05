@@ -1,11 +1,12 @@
 __author__ = 'mpetyx'
 
-import pickle
 import os
-from rdflib import Literal, Namespace, URIRef, ConjunctiveGraph, RDF
 import json
 from os.path import basename, abspath
 from glob import glob
+
+from rdflib import Literal, Namespace, URIRef, ConjunctiveGraph, RDF
+
 
 mbid = "6cc0ab41-adb5-457f-b90f-3e0992f7b5ff"
 
@@ -48,8 +49,8 @@ if __name__ == "__main__":
 
     for f in files:
         track = json.load(file(f))
-        if 'track' not in track.keys(): 
-            #this means last.fm does not have info for this track
+        if 'track' not in track.keys():
+        #this means last.fm does not have info for this track
             continue
         mbid = basename(f)[:-5]
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % mbid)
