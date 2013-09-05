@@ -26,4 +26,4 @@ for tag in track.get_tags():
     g.add((trackuri, MUSIC.has_tag, Literal(tag)))
 
 
-print g.serialize(format='n3')2
+print g.serialize(format='n3')
