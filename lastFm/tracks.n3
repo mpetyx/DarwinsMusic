@@ -5,6 +5,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://musicbrainz.org/recording/6cc0ab41-adb5-457f-b90f-3e0992f7b5ff> MUSIC:has_listener_count 56912 ;
+<http://musicbrainz.org/recording/6cc0ab41-adb5-457f-b90f-3e0992f7b5ff> a MUSIC:Track ;
+    MUSIC:has_listener_count 56912 ;
     MUSIC:has_playcount 261290 .
 
