@@ -3,7 +3,6 @@ __author__ = 'mpetyx'
 # http://andreatlai.com/2013/01/17/last-fm-via-python/
 
 import pulast
-import pylast
 import pickle
 
 API_KEY = 'f1a01dc19e25cfa39158d9c72695fdda'
@@ -12,10 +11,10 @@ API_SECRET = 'd45dcf1b6c1921a7157297a299fb5e5a'
 """things that enable using the API"""
 #authenticate
 username = 'petmiker'
-password_hash = pylast.md5('toolate')
+password_hash = pulast.md5('toolate')
 
 #generate network key
-network = pylast.get_lastfm_network(
+network = pulast.get_lastfm_network(
     api_key=API_KEY, api_secret=API_SECRET,
     username=username, password_hash=password_hash)
 
@@ -27,7 +26,13 @@ def getTrackInfo(mbid):
 
 
 if __name__ == "__main__":
-    getTrackInfo(mbid="6cc0ab41-adb5-457f-b90f-3e0992f7b5ff")
+
+    file_with_mbids = open("list_of_mbid.txt","r")
+    mbids = file_with_mbids.readlines()
+
+    for mbid in mbids:
+        mbid = mbid.replace("\n","")
+        getTrackInfo(mbid=mbid)
 
 
 #open a file to write to

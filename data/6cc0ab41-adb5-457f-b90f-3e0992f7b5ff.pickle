@@ -1,7 +1,7 @@
 ccopy_reg
 _reconstructor
 p0
-(cpylast
+(cpulast
 Track
 p1
 c__builtin__
@@ -21,7 +21,7 @@ p9
 sS'network'
 p10
 g0
-(cpylast
+(cpulast
 LastFMNetwork
 p11
 g2
@@ -156,7 +156,7 @@ S'0b4681b2fee065119415efe04e69d091'
 p71
 sbsg54
 g0
-(cpylast
+(cpulast
 Artist
 p72
 g2
