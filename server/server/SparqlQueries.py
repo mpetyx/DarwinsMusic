@@ -9,7 +9,7 @@ def query(sparql_query):
     sparql = SPARQLWrapper("http://192.168.0.227:8080/openrdf-sesame/repositories/Music")
 
     sparql.setQuery(sparql_query)
-    sparql.setReturnFormat(JSON)
+    sparql.setReturnFormat(N3)
     results = sparql.query().convert()
     for result in results["results"]["bindings"]:
         print result

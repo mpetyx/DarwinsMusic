@@ -29,7 +29,7 @@ sparql.setQuery("""
 SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
 """)
 
-sparql.setReturnFormat(JSON)
+sparql.setReturnFormat(N3)
 results = sparql.query().convert()
 for result in results["results"]["bindings"]:
     print result["count"]["value"]
