@@ -22,20 +22,24 @@ out_file = open("output.csv", "wt")
 
 #get data about Taylor Swift
 artist = network.get_artist('Michael Jackson')
+
+
+musicbrainz_artist_id =  artist.get_mbid()
+
+print musicbrainz_artist_id
 albums = ['Bad']
+
 
 #for every item in the list of albums (in this case "Red" only),
 #get the track listing.
 for i in albums:
     i = network.get_album(artist, i)
     tracks = i.get_tracks()
-    print tracks
     #for every track in tracklisting, return it's length
     #(in seconds) and playcount (in Last.fm total "scrobbles")
     for track in tracks:
         tracklen = track.get_duration() / 1000
         playcount = track.get_playcount()
-        print playcount
 
         #comma-delimited, write data to file
         out_file.write(str(track))
