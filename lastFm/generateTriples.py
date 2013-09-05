@@ -1,28 +1,28 @@
 __author__ = 'mpetyx'
 
-import pickle
-import os
 from rdflib import Literal, Namespace, URIRef, ConjunctiveGraph, RDF
 import json
 from os.path import basename, abspath
 from glob import glob
 
-mbid = "6cc0ab41-adb5-457f-b90f-3e0992f7b5ff"
-
 MusicOntology = Namespace('http://purl.org/ontology/mo/')
+DC = Namespace("http://purl.org/dc/terms/")
 OurVocab = Namespace('http://example.org/')
+foaf = Namespace("http://xmlns.com/foaf/0.1/")
 
-storefn = os.path.expanduser(abspath('../tracks.n3'))
+storefn = abspath('../tracks.n3')
 storeuri = 'file://' + storefn
 
 
 class Store:
     def __init__(self):
         self.graph = ConjunctiveGraph()
-        if os.path.exists(storefn):
+        if exists(storefn):
             self.graph.load(storeuri, format='n3')
         self.graph.bind('mo', MusicOntology)
         self.graph.bind('ourvocab', OurVocab)
+        self.graph.bind('dc', DC)
+        self.graph.bind('foaf', foaf)
         self.graph.bind('rev', 'http://purl.org/stuff/rev#')
 
     def save(self):
@@ -30,9 +30,17 @@ class Store:
 
     def track(self, mbid, track):
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % mbid)
-        self.graph.add((trackuri, RDF.type, MusicOntology['track']))
+        self.graph.add((trackuri, RDF.type, MusicOntology.Track))
+        self.graph.add((trackuri, DC.title, Literal(track['name'])))
         self.graph.add((trackuri, OurVocab.has_playcount, Literal(track['playcount'])))
         self.graph.add((trackuri, OurVocab.has_listener_count, Literal(track['listeners'])))
+
+        if track['artist']['mbid'] != '':
+            artisturi = URIRef('http://musicbrainz.org/artist/%s#_' % track['artist']['mbid'])
+            self.graph.add((artisturi, RDF.type, MusicOntology.MusicArtist))
+            self.graph.add((trackuri, MusicOntology.performer, artisturi))
+            self.graph.add((artisturi, foaf.name, Literal(track['artist']['name'])))
+
         for tag in track['toptags']['tag']:
             self.graph.add((trackuri, OurVocab.has_tag, Literal(tag['name'])))
 
