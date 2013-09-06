@@ -56,7 +56,7 @@
         <script>
             $(function(){
               $.getJSON('http://localhost:8000/map', function(data){
-					$.getJSON('../countries.json', function(data2){
+					$.getJSON('http://localhost:8000/map', function(data2){
 						var val = 2000;
                         aggregatedHitsValues = jvm.values.apply({}, jvm.values(data2.hits)),
                         hitsValues = Array.prototype.concat.apply([], jvm.values(data.hits));

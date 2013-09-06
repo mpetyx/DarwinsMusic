@@ -60,6 +60,7 @@ def mapJson(request):
     ?s ourvocab:has_listener_count ?listeners.
     ?s ourvocab:has_playcount ?hits.
     ?s ourvocab:has_releasedate ?date.
+    ?s ourvocab:has_tag "rock".
 
     ?s mo:performer ?pid.
 
@@ -69,7 +70,6 @@ def mapJson(request):
     ?hid geo:geometry ?point.
 
     }
-    LIMIT 10
     """
 
     countQuery  = """
@@ -130,8 +130,6 @@ def mapJson(request):
             year = year[:-1]+'0'
             # dates.append(year)
 
-            belongs_to_that_decade = False
-
             lem = result['point']['value'].replace("POINT(", "")
             lem = lem.replace(")", "")
 
@@ -142,17 +140,37 @@ def mapJson(request):
             performers.append(result['performer']['value'])
 
 
+            the_country_is_already_there = False
+
             for decade in distinct_years:
+
+                for example in totalhits["%s"%decade]:
+                    if myCountry in example.keys():
+                        the_country_is_already_there = True
+                        break
+
                 if year == decade:
 
                     hits["%s"%decade].append(result['hits']['value'])
-                    totalhits["%s"%decade].append({myCountry: result['hits']['value']})
+                    if the_country_is_already_there:
+
+                        for temporary in totalhits["%s"%decade]:
+                            if myCountry in temporary.keys():
+                                temporary[myCountry] = int(temporary[myCountry]) + int(result['hits']['value'])
+                                break
+
+                        # totalhits["%s"%decade].append({myCountry: result['hits']['value']})
+                    else:
+                        totalhits["%s"%decade].append({myCountry: result['hits']['value']})
                     listeners["%s"%decade].append(result['listeners']['value'])
 
                     # titles.append(result['title']['value'])
                 else:
                     hits["%s"%decade].append(0)
-                    totalhits["%s"%decade].append({myCountry:0})
+                    if the_country_is_already_there:
+                        continue
+                    else:
+                        totalhits["%s"%decade].append({myCountry:0})
                     listeners["%s"%decade].append(0)
 
         else:
@@ -172,5 +190,11 @@ def mapJson(request):
     finalized_json['dates'] = distinct_years
     finalized_json["country_names"] = countrynames
     finalized_json["total_hits"] = totalhits
+
+    dumpData = open("rock.json", "w")
+    json.dump(finalized_json, dumpData)
+
+    #dumpData.write(json.dumps(finalized_json))
+
 
     return json.dumps(finalized_json)
