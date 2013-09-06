@@ -10028,7 +10028,8 @@ dbpediaowl:hometown a dbpediaowl:Place ;
         "modem jazz quartet",
         "smooth jazz",
         "vibraphone" ;
-    dc:title "Django" .
+    dc:title "Django" ;
+    mo:performer <http://dbpedia.org/resource/Modern_Jazz_Quartet> .
 
 <http://musicbrainz.org/recording/_6a0401ae-1637-11e3-ac7a-74de2b82b7dd#_> a mo:Track ;
     ourvocab:has_listener_count "26913" ;
@@ -14410,6 +14411,14 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(4.89222 52.3731)" ;
     foaf:name "Amsterdam" .
 
+<http://dbpedia.org/resource/Asti> a dbpediaowl:Place ;
+    geo:geometry "POINT(8.20778 44.8989)" ;
+    foaf:name "Asti" .
+
+<http://dbpedia.org/resource/Astoria,_Queens> a dbpediaowl:Place ;
+    geo:geometry "POINT(-73.9042 40.7744)" ;
+    foaf:name "Astoria" .
+
 <http://dbpedia.org/resource/Athens,_Georgia> a dbpediaowl:Place ;
     geo:geometry "POINT(-83.3833 33.95)" ;
     foaf:name "Athens, Georgia" .
@@ -14418,13 +14427,17 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(-5.93 54.5969)" ;
     foaf:name "Belfast" .
 
+<http://dbpedia.org/resource/Birmingham,_Alabama> a dbpediaowl:Place ;
+    geo:geometry "POINT(-86.8089 33.6533)" ;
+    foaf:name "Birmingham, Alabama" .
+
 <http://dbpedia.org/resource/Brooklyn> a dbpediaowl:Place ;
     geo:geometry "POINT(-73.9903 40.6247)" ;
     foaf:name "Brooklyn" .
 
-<http://dbpedia.org/resource/Canada> a dbpediaowl:Place ;
-    geo:geometry "POINT(-75.6667 45.4)" ;
-    foaf:name "Canada" .
+<http://dbpedia.org/resource/Cambridge,_Massachusetts> a dbpediaowl:Place ;
+    geo:geometry "POINT(-71.1106 42.3736)" ;
+    foaf:name "Cambridge, Massachusetts" .
 
 <http://dbpedia.org/resource/Chattanooga,_Tennessee> a dbpediaowl:Place ;
     geo:geometry "POINT(-85.2672 35.0456)" ;
@@ -14446,9 +14459,21 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(-122.031 37.9781)" ;
     foaf:name "City of Concord" .
 
+<http://dbpedia.org/resource/Detroit> a dbpediaowl:Place ;
+    geo:geometry "POINT(-83.0458 42.3314)" ;
+    foaf:name "Detroit" .
+
 <http://dbpedia.org/resource/Eastman,_Georgia> a dbpediaowl:Place ;
     geo:geometry "POINT(-83.1792 32.1978)" ;
     foaf:name "Eastman, Georgia, USA" .
+
+<http://dbpedia.org/resource/England> a dbpediaowl:Place ;
+    geo:geometry "POINT(-0.116667 51.5)" ;
+    foaf:name "England" .
+
+<http://dbpedia.org/resource/Finland> a dbpediaowl:Place ;
+    geo:geometry "POINT(24.9333 60.1667)" ;
+    foaf:name "Finland" .
 
 <http://dbpedia.org/resource/Fort_Worth,_Texas> a dbpediaowl:Place ;
     geo:geometry "POINT(-97.3332 32.7574)" ;
@@ -14492,13 +14517,16 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(6.88333 51.4333)" ;
     foaf:name "Mülheim an der Ruhr" .
 
-<http://dbpedia.org/resource/Manhattan> a dbpediaowl:Place ;
-    geo:geometry "POINT(-73.9597 40.7283)" ;
-    foaf:name "Manhattan" .
+<http://dbpedia.org/resource/Marysville,_Kansas> a dbpediaowl:Place ;
+    geo:geometry "POINT(-96.6425 39.8447)" ;
+    foaf:name "Marysville, Kansas" .
 
 <http://dbpedia.org/resource/Maysville,_Kentucky> a dbpediaowl:Place ;
     geo:geometry "POINT(-83.7758 38.6439)" ;
     foaf:name "Maysville, Kentucky" .
+
+<http://dbpedia.org/resource/Modern_Jazz_Quartet> a mo:MusicGroup ;
+    foaf:name "Modern Jazz Quartet" .
 
 <http://dbpedia.org/resource/Nanaimo> a dbpediaowl:Place ;
     geo:geometry "POINT(-123.936 49.1642)" ;
@@ -14515,13 +14543,25 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(-110.939 31.3539)" ;
     foaf:name "Nogales, Arizona" .
 
-<http://dbpedia.org/resource/Pittsburgh> a dbpediaowl:Place ;
-    geo:geometry "POINT(-80 40.4417)" ;
-    foaf:name "Pittsburgh" .
+<http://dbpedia.org/resource/Norristown,_Pennsylvania> a dbpediaowl:Place ;
+    geo:geometry "POINT(-75.3417 40.12)" ;
+    foaf:name "Municipality of Norristown" .
+
+<http://dbpedia.org/resource/Oyo_State> a dbpediaowl:Place ;
+    geo:geometry "POINT(4 8)" ;
+    foaf:name "Ọyọ State" .
+
+<http://dbpedia.org/resource/Poland> a dbpediaowl:Place ;
+    geo:geometry "POINT(21.0333 52.2167)" ;
+    foaf:name "Poland" .
 
 <http://dbpedia.org/resource/Pomona,_California> a dbpediaowl:Place ;
     geo:geometry "POINT(-117.756 34.0608)" ;
     foaf:name "Pomona" .
+
+<http://dbpedia.org/resource/Rochester,_New_York> a dbpediaowl:Place ;
+    geo:geometry "POINT(-77.6114 43.1656)" ;
+    foaf:name "Rochester" .
 
 <http://dbpedia.org/resource/Rocky_Mount,_North_Carolina> a dbpediaowl:Place ;
     geo:geometry "POINT(-77.7906 35.9378)" ;
@@ -14530,6 +14570,18 @@ dbpediaowl:hometown a dbpediaowl:Place ;
 <http://dbpedia.org/resource/Romford> a dbpediaowl:Place ;
     geo:geometry "POINT(0.1801 51.5768)" ;
     foaf:name "Romford" .
+
+<http://dbpedia.org/resource/St._Louis,_Missouri> a dbpediaowl:Place ;
+    geo:geometry "POINT(-90.1978 38.6272)" ;
+    foaf:name "City of St. Louis" .
+
+<http://dbpedia.org/resource/Steubenville,_Ohio> a dbpediaowl:Place ;
+    geo:geometry "POINT(-80.6314 40.3656)" ;
+    foaf:name "Steubenville, Ohio" .
+
+<http://dbpedia.org/resource/Stockholm> a dbpediaowl:Place ;
+    geo:geometry "POINT(18.0686 59.3294)" ;
+    foaf:name "Stockholm" .
 
 <http://dbpedia.org/resource/Sweden> a dbpediaowl:Place ;
     geo:geometry "POINT(18.0667 59.35)" ;
@@ -14547,6 +14599,14 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(-83.5753 41.6656)" ;
     foaf:name "City of Toledo" .
 
+<http://dbpedia.org/resource/Tuscaloosa,_Alabama> a dbpediaowl:Place ;
+    geo:geometry "POINT(-87.5347 33.2067)" ;
+    foaf:name "City of Tuscaloosa, Alabama" .
+
+<http://dbpedia.org/resource/Wallsend> a dbpediaowl:Place ;
+    geo:geometry "POINT(-1.5311 54.9913)" ;
+    foaf:name "Wallsend" .
+
 <http://dbpedia.org/resource/Yale,_Oklahoma> a dbpediaowl:Place ;
     geo:geometry "POINT(-96.6983 36.1147)" ;
     foaf:name "Yale, Oklahoma" .
@@ -14554,7 +14614,8 @@ dbpediaowl:hometown a dbpediaowl:Place ;
 <http://musicbrainz.org/artist/00731a0c-5d56-4bf4-98c3-397a7cd46673#_> a mo:MusicArtist ;
     foaf:name "Karen Souza" .
 
-<http://musicbrainz.org/artist/00a9f935-ba93-4fc8-a33a-993abe9c936b#_> a mo:MusicArtist ;
+<http://musicbrainz.org/artist/00a9f935-ba93-4fc8-a33a-993abe9c936b#_> a mo:MusicGroup ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Finland> ;
     foaf:name "Nightwish" .
 
 <http://musicbrainz.org/artist/026b096e-e024-42ab-82f3-107bddae77c2#_> a mo:MusicArtist ;
@@ -14562,6 +14623,7 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     foaf:name "Hank Mobley" .
 
 <http://musicbrainz.org/artist/0b8dff0b-ce42-4cc6-afd1-1841f7781ed4#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Marysville,_Kansas> ;
     foaf:name "Moondog" .
 
 <http://musicbrainz.org/artist/0f9997bd-e079-429e-8ccd-9378c9b0c746#_> a mo:MusicGroup ;
@@ -14587,21 +14649,27 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     foaf:name "Clifford Brown" .
 
 <http://musicbrainz.org/artist/315bd083-892b-4e76-a9f0-91a7408168fc#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Rochester,_New_York> ;
     foaf:name "Cab Calloway" .
 
 <http://musicbrainz.org/artist/34179daf-b759-47a8-958e-056c858d8643#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Oyo_State> ;
     foaf:name "Sade" .
 
 <http://musicbrainz.org/artist/41ede2fa-ceba-4dc8-bed8-7ee01d38fae6#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Stockholm> ;
     foaf:name "Lisa Ekdahl" .
 
 <http://musicbrainz.org/artist/4439c2fd-a754-4f6a-b3a6-791b47726156#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Chicago> ;
     foaf:name "Mel Tormé" .
 
 <http://musicbrainz.org/artist/4704f86b-33b0-458a-9460-8f9b52869d74#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/St._Louis,_Missouri> ;
     foaf:name "Oliver Nelson" .
 
 <http://musicbrainz.org/artist/481c8894-c898-4332-8882-db5a90c318e1#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Minneapolis> ;
     foaf:name "José James" .
 
 <http://musicbrainz.org/artist/495cdb93-5d7e-4150-8f50-02a1242c3bb5#_> a mo:MusicArtist ;
@@ -14625,22 +14693,27 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     foaf:name "Coleman Hawkins" .
 
 <http://musicbrainz.org/artist/7268ff55-3ac2-4546-a0cf-d7273840472f#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Astoria,_Queens> ;
     foaf:name "Tony Bennett" .
 
 <http://musicbrainz.org/artist/72eabb1a-4d2c-4de6-90f2-671b2cada42b#_> a mo:MusicGroup ;
     dbpediaowl:hometown <http://dbpedia.org/resource/France> ;
     foaf:name "Caravan Palace" .
 
-<http://musicbrainz.org/artist/754294d5-d7d2-4ea2-8184-1dcaaf55a56f#_> a mo:MusicArtist ;
+<http://musicbrainz.org/artist/754294d5-d7d2-4ea2-8184-1dcaaf55a56f#_> a mo:MusicGroup ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Canada> ;
     foaf:name "BadBadNotGood" .
 
 <http://musicbrainz.org/artist/777bfd31-0c54-49b9-b057-c1fa742cdcf1#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Asti> ;
     foaf:name "Paolo Conte" .
 
 <http://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Wallsend> ;
     foaf:name "Sting" .
 
-<http://musicbrainz.org/artist/83a554c5-4fd3-4ec8-9dd5-15989850ea17#_> a mo:MusicArtist ;
+<http://musicbrainz.org/artist/83a554c5-4fd3-4ec8-9dd5-15989850ea17#_> a mo:MusicGroup ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/England> ;
     foaf:name "Touch and Go" .
 
 <http://musicbrainz.org/artist/8446fcca-109e-4c6d-a2ff-5a269b32b4c2#_> a mo:MusicArtist ;
@@ -14666,18 +14739,22 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     foaf:name "Bobby McFerrin" .
 
 <http://musicbrainz.org/artist/a9ee533f-8871-4f62-a6bb-91eb264abc90#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Manhattan> ;
     foaf:name "Fiona Apple" .
 
 <http://musicbrainz.org/artist/b202beb7-99bd-47e7-8b72-195c8d72ebdd#_> a mo:MusicArtist ;
     foaf:name "Christina Aguilera" .
 
-<http://musicbrainz.org/artist/b9bede5d-89b6-4c43-9c45-ca3930cf4db8#_> a mo:MusicArtist ;
+<http://musicbrainz.org/artist/b9bede5d-89b6-4c43-9c45-ca3930cf4db8#_> a mo:MusicGroup ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Minneapolis> ;
     foaf:name "The Bad Plus" .
 
 <http://musicbrainz.org/artist/badda5cf-f2c5-4dc2-b3d3-07467bdf0f71#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/California> ;
     foaf:name "Eric Dolphy" .
 
 <http://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Birmingham,_Alabama> ;
     foaf:name "Sun Ra" .
 
 <http://musicbrainz.org/artist/c60e178f-36f1-4169-9c03-84addbdbf104#_> a mo:MusicArtist ;
@@ -14706,9 +14783,9 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(4.35 50.85)" ;
     foaf:name "Belgium" .
 
-<http://dbpedia.org/resource/Chicago> a dbpediaowl:Place ;
-    geo:geometry "POINT(-87.6278 41.8819)" ;
-    foaf:name "Chicago" .
+<http://dbpedia.org/resource/Canada> a dbpediaowl:Place ;
+    geo:geometry "POINT(-75.6667 45.4)" ;
+    foaf:name "Canada" .
 
 <http://dbpedia.org/resource/France> a dbpediaowl:Place ;
     geo:geometry "POINT(2 47)" ;
@@ -14718,6 +14795,14 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     geo:geometry "POINT(-86.148 39.7667)" ;
     foaf:name "Indianapolis" .
 
+<http://dbpedia.org/resource/Manhattan> a dbpediaowl:Place ;
+    geo:geometry "POINT(-73.9597 40.7283)" ;
+    foaf:name "Manhattan" .
+
+<http://dbpedia.org/resource/Minneapolis> a dbpediaowl:Place ;
+    geo:geometry "POINT(-93.2667 44.9833)" ;
+    foaf:name "Minneapolis" .
+
 <http://dbpedia.org/resource/New_Orleans> a dbpediaowl:Place ;
     geo:geometry "POINT(-90.0706 29.9647)" ;
     foaf:name "City of New Orleans" .
@@ -14725,6 +14810,10 @@ dbpediaowl:hometown a dbpediaowl:Place ;
 <http://dbpedia.org/resource/Newark,_New_Jersey> a dbpediaowl:Place ;
     geo:geometry "POINT(-74.1726 40.7242)" ;
     foaf:name "City of Newark" .
+
+<http://dbpedia.org/resource/Pittsburgh> a dbpediaowl:Place ;
+    geo:geometry "POINT(-80 40.4417)" ;
+    foaf:name "Pittsburgh" .
 
 <http://dbpedia.org/resource/Portland,_Oregon> a dbpediaowl:Place ;
     geo:geometry "POINT(-122.682 45.52)" ;
@@ -14763,6 +14852,7 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     foaf:name "Yusef Lateef" .
 
 <http://musicbrainz.org/artist/2c4535e9-4fee-46e3-ac6f-df2ebfc8c7e9#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Steubenville,_Ohio> ;
     foaf:name "Dean Martin" .
 
 <http://musicbrainz.org/artist/34e0025a-39a9-4dd4-ba09-06ef8427cffe#_> a mo:MusicArtist ;
@@ -14772,16 +14862,20 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     dbpediaowl:hometown <http://dbpedia.org/resource/California> ;
     foaf:name "Julie London" .
 
-<http://musicbrainz.org/artist/42689657-cbec-4f66-a9ed-80f939ea23ed#_> a mo:MusicArtist ;
+<http://musicbrainz.org/artist/42689657-cbec-4f66-a9ed-80f939ea23ed#_> a mo:MusicGroup ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Cambridge,_Massachusetts> ;
     foaf:name "Morphine" .
 
 <http://musicbrainz.org/artist/46a6fac0-2e14-4214-b08e-3bdb1cffa5aa#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Norristown,_Pennsylvania> ;
     foaf:name "Jaco Pastorius" .
 
-<http://musicbrainz.org/artist/48df54af-a70c-4ba1-8489-33688c001ac1#_> a mo:MusicArtist ;
+<http://musicbrainz.org/artist/48df54af-a70c-4ba1-8489-33688c001ac1#_> a mo:MusicGroup ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Poland> ;
     foaf:name "Skalpel" .
 
 <http://musicbrainz.org/artist/601e7466-eaf5-4a91-9909-ffd770b7e04a#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Pittsburgh> ;
     foaf:name "Art Blakey" .
 
 <http://musicbrainz.org/artist/75f47650-8a52-494a-8334-c5279bc6db09#_> a mo:MusicGroup ;
@@ -14818,9 +14912,9 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     dbpediaowl:hometown <http://dbpedia.org/resource/Cheraw,_South_Carolina> ;
     foaf:name "Dizzy Gillespie" .
 
-<http://dbpedia.org/resource/California> a dbpediaowl:Place ;
-    geo:geometry "POINT(-120 37)" ;
-    foaf:name "State of California" .
+<http://dbpedia.org/resource/Chicago> a dbpediaowl:Place ;
+    geo:geometry "POINT(-87.6278 41.8819)" ;
+    foaf:name "Chicago" .
 
 <http://dbpedia.org/resource/Philadelphia> a dbpediaowl:Place ;
     geo:geometry "POINT(-75.17 39.95)" ;
@@ -14843,9 +14937,11 @@ dbpediaowl:hometown a dbpediaowl:Place ;
     foaf:name "Sidney Bechet" .
 
 <http://musicbrainz.org/artist/842c36f4-e979-4edb-9ee0-30392c72c77b#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Tuscaloosa,_Alabama> ;
     foaf:name "Dinah Washington" .
 
 <http://musicbrainz.org/artist/a85b66d2-34df-4d5a-8c0d-d585b8a14ce1#_> a mo:MusicArtist ;
+    dbpediaowl:hometown <http://dbpedia.org/resource/Detroit> ;
     foaf:name "Kenny Burrell" .
 
 <http://musicbrainz.org/artist/e22d2f66-881e-41ca-9356-544697ee5f90#_> a mo:MusicArtist ;
@@ -14855,6 +14951,10 @@ dbpediaowl:hometown a dbpediaowl:Place ;
 <http://musicbrainz.org/artist/fefeb63b-9430-4fe8-a332-0c400351af50#_> a mo:MusicArtist ;
     dbpediaowl:hometown <http://dbpedia.org/resource/Belgium> ;
     foaf:name "Selah Sue" .
+
+<http://dbpedia.org/resource/California> a dbpediaowl:Place ;
+    geo:geometry "POINT(-120 37)" ;
+    foaf:name "State of California" .
 
 <http://musicbrainz.org/artist/113e0972-077f-423b-9b5f-3cc8a5bafa0f#_> a mo:MusicGroup ;
     dbpediaowl:hometown <http://dbpedia.org/resource/Portland,_Oregon> ;
