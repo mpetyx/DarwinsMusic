@@ -103,6 +103,7 @@ def mapJson(request):
     performers = []
     points = []
 
+
     for year in distinct_years:
         hits["%s"%year] = []
 
@@ -142,6 +143,9 @@ def mapJson(request):
 
         else:
             continue
+
+    totalcounts = {}
+
 
 
 
