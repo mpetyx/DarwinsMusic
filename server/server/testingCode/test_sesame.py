@@ -24,25 +24,35 @@ __author__ = 'mpetyx'
 
 from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF
 from rdflib import Graph
+from StringIO import StringIO
 
-sparql = SPARQLWrapper("http://192.168.2.33:8080/openrdf-sesame/repositories/Music")
+sparql = SPARQLWrapper("http://192.168.2.27:8080/openrdf-sesame/repositories/Music")
 
 sparql.setQuery("""
 SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
 """)
 
-sparql.setReturnFormat(JSON)
+sparql.setReturnFormat(XML)
 
 results = sparql.query().convert()
-# print results
-for result in results:
-    print result
 
 g = Graph()
 
-for triple in results:
-    g.add(triple)
+g.parse(StringIO(results.toxml()), format='xml')
 
-print g.serialize(format='json-ld', indent=4)
+superQuery = """
 
-# curl -v -X GET  -d "query:SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}'" http://127.0.0.1:8000/sparql
+"""
+
+# rota = g.query("""
+# SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
+# """)
+#
+# for row in rota:
+#     print row
+#
+# print g.serialize(format='json-ld', indent=4)
+# print g.serialize(format='n3', indent=4)
+
+for triple in g:
+    print triple

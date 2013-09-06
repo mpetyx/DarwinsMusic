@@ -6,6 +6,8 @@ import json
 
 from SparqlQueries import query
 
+from MapResponseProvider import mapJson
+
 def test(request):
     testrdf = '''
      @prefix dc: <http://purl.org/dc/terms/> .
@@ -19,18 +21,21 @@ def test(request):
 
 
 def map(request):
-    latitude = request.GET.get("latitude", "")
-    longitude = request.GET.get("longitude", "")
+    # latitude = request.GET.get("latitude", "")
+    # longitude = request.GET.get("longitude", "")
+    #
+    # mapGraph = '''
+    #  @prefix dc: <http://purl.org/dc/terms/> .
+    #  <http://example.org/about>
+    #      dc:title "Someone's Homepage"@en .
+    #  '''
+    #
+    # g = Graph().parse(data=mapGraph, format='n3')
+    # return HttpResponse(g.serialize(format='json-ld', indent=4), status=200)
 
-    mapGraph = '''
-     @prefix dc: <http://purl.org/dc/terms/> .
-     <http://example.org/about>
-         dc:title "Someone's Homepage"@en .
-     '''
+    response = mapJson(request)
 
-    g = Graph().parse(data=mapGraph, format='n3')
-
-    return HttpResponse(g.serialize(format='json-ld', indent=4), status=200)
+    return HttpResponse(response, status=200)
 
 
 def sparql(request):
