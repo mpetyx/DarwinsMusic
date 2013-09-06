@@ -2,6 +2,7 @@ __author__ = 'mpetyx'
 
 from django.http import HttpResponse
 from rdflib import Graph
+import json
 
 from SparqlQueries import query
 
@@ -34,7 +35,7 @@ def map(request):
 
 def sparql(request):
 
-    #http://127.0.0.1:8000/sparql?query=SELECT%20?s%20?p%20?0%20WHERE%20{%20?s%20?p%20?o}%20LIMIT%20100
+    #http://127.0.0.1:8000/sparql?query=SELECT%20?s%20?p%20?o%20WHERE%20{%20?s%20?p%20?o}%20LIMIT%201000
     #http://127.0.0.1:8000/sparql?query=SELECT%20(COUNT(*)%20AS%20?count)%20WHERE%20{%20?s%20?p%20?o}
     query_parameters = request.GET.get("query", "")
 
@@ -46,6 +47,6 @@ def sparql(request):
         # for triple in result:
         #     g.add(triple)
         # g.serialize(format='json-ld', indent=4)
-        return HttpResponse(result, status=200)
+        return HttpResponse(json.dumps(result), status=200)
     else:
         return HttpResponse("You need to send a get request with parameted 'query'",status=500)

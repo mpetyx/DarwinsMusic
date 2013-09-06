@@ -5,3 +5,6 @@ Patrick Philipp
 Zaenal Akbar
 Gopala Krishna Koduri
 Michael Petychakis
+
+
+Sample Usage in docs
