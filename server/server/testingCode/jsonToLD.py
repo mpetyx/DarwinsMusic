@@ -6,36 +6,18 @@ from StringIO import StringIO
 import rdfextras
 rdfextras.registerplugins()
 
-testrdfjson = '''{
-"head":
-    {"vars": ["count"]},
-"results":
-    {"bindings":
-        [{"count": {"datatype": "http://www.w3.org/2001/XMLSchema#integer",
-"type": "typed-literal", "value": "100351"}}]
-    }
-}'''
 
-testrdfjson = '''{
-        "count": {"datatype": "http://www.w3.org/2001/XMLSchema#integer",
-"type": "typed-literal", "value": "100351"}
-}'''
-
-import json
-
-temp = json.loads(testrdfjson)
 
 # testrdfjson = testrdfjson.replace("'",'"')
 
 
-# testrdfjson = '''{
-#       "http://example.org/about" :
-#         {
-#            "http://purl.org/dc/elements/1.1/title": [
-#                 { "type" : "literal" , "value" : "Anna's Homepage." }
-#             ]
-#         }
-#     }'''
+testrdfjson = '''{
+"count":
+{"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "typed-literal",
+"value": "100351"}
+}
+'''
 
 g = Graph()
 
