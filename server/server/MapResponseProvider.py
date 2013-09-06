@@ -2,6 +2,7 @@ __author__ = 'mpetyx'
 
 from SPARQLWrapper import SPARQLWrapper, JSON
 import json
+import re
 
 
 def mapJson(request):
@@ -79,37 +80,78 @@ def mapJson(request):
 
     res = results["results"]["bindings"]
 
-    hits = []
-    listeners = []
-    performers = []
-    titles = []
-    points = []
+    # hits = []
+    # listeners = []
+    # performers = []
+    # titles = []
+    # points = []
     dates = []
 
     for result in res:
+        year = result['date']['value']
 
-        lem = result['point']['value'].replace("POINT(", "")
-        lem = lem.replace(")", "")
+        temp = re.findall(r'\d{4}', year)
+        if temp:
+            year = temp[0]
+            year = year[:-1]+'0'
+            dates.append(year)
 
-        ena, duo = lem.split(" ")
-        points.append([duo, ena])
+    distinct_years = list(set(dates))
 
-        year = 2000
-        hits.append(result['hits']['value'])
-        listeners.append(result['listeners']['value'])
+    hits = {}
+    listeners = {}
+    performers = []
+    points = []
 
-        performers.append(result['performer']['value'])
-        titles.append(result['title']['value'])
-        dates.append(result['date']['value'])
+    for year in distinct_years:
+        hits["%s"%year] = []
+
+    for year in distinct_years:
+        listeners["%s"%year] = []
+
+    for result in res:
+
+        year = result['date']['value']
+
+        res = re.findall(r'\d{4}', year)
+
+        if res:
+            year = res[0]
+            year = year[:-1]+'0'
+            # dates.append(year)
+
+            belongs_to_that_decade = False
+
+            lem = result['point']['value'].replace("POINT(", "")
+            lem = lem.replace(")", "")
+
+            ena, duo = lem.split(" ")
+            points.append([duo, ena])
+            performers.append(result['performer']['value'])
+
+            for decade in distinct_years:
+                if year == decade:
+
+                    hits["%s"%decade].append(result['hits']['value'])
+                    listeners["%s"%decade].append(result['listeners']['value'])
+
+                    # titles.append(result['title']['value'])
+                else:
+                    hits["%s"%decade].append(0)
+                    listeners["%s"%decade].append(0)
+
+        else:
+            continue
+
 
 
     finalized_json = {}
 
     finalized_json['names'] = performers
-    finalized_json['hits'] = {"2000": hits}
-    finalized_json['viewers'] = {"2000": listeners}
-    finalized_json['titles'] = titles
+    finalized_json['hits'] = hits
+    finalized_json['viewers'] = listeners
+    # finalized_json['titles'] = titles
     finalized_json['coords'] = points
-    finalized_json['dates'] = dates
+    finalized_json['dates'] = distinct_years
 
     return json.dumps(finalized_json)
