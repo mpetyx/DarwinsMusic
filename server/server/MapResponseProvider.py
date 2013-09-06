@@ -46,13 +46,14 @@ def mapJson(request):
     PREFIX umbel-sc:<http://umbel.org/umbel/sc/>
     PREFIX dbp-ont:<http://dbpedia.org/ontology/>
 
-    SELECT DISTINCT ?s ?title ?listeners ?hits ?performer ?point
+    SELECT DISTINCT ?s ?title ?listeners ?hits ?performer ?point ?date
     FROM <file://C:/fakepath/tracks.n3>
     WHERE {
     ?s a mo:Track.
     ?s dc-term:title ?title.
     ?s ourvocab:has_listener_count ?listeners.
     ?s ourvocab:has_playcount ?hits.
+    ?s ourvocab::has_releasedate ?date.
 
     ?s mo:performer ?pid.
 
@@ -83,20 +84,24 @@ def mapJson(request):
     performers = []
     titles = []
     points = []
+    dates = []
 
     for result in res:
 
-        lem = result['point']['value'].replace("POINT(","")
-        lem = lem.replace(")","")
+        lem = result['point']['value'].replace("POINT(", "")
+        lem = lem.replace(")", "")
 
         ena, duo = lem.split(" ")
+        points.append([duo, ena])
+
         year = 2000
         hits.append(result['hits']['value'])
         listeners.append(result['listeners']['value'])
 
         performers.append(result['performer']['value'])
         titles.append(result['title']['value'])
-        points.append([duo, ena])
+        dates.append(result['date']['value'])
+
 
     finalized_json = {}
 
