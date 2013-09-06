@@ -53,7 +53,7 @@ def mapJson(request):
     ?s dc-term:title ?title.
     ?s ourvocab:has_listener_count ?listeners.
     ?s ourvocab:has_playcount ?hits.
-    ?s ourvocab::has_releasedate ?date.
+    ?s ourvocab:has_releasedate ?date.
 
     ?s mo:performer ?pid.
 
@@ -110,5 +110,6 @@ def mapJson(request):
     finalized_json['viewers'] = {"2000": listeners}
     finalized_json['titles'] = titles
     finalized_json['coords'] = points
+    finalized_json['dates'] = dates
 
     return json.dumps(finalized_json)
