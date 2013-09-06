@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Music stuff ...</title>
+        <!-- <link href="style.css" rel="stylesheet"> -->
+        <link rel="stylesheet" href="jquery-jvectormap.css" type="text/css" media="screen"/>
+                        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <!-- <script src="script.js"></script> -->
+        <script src="jquery-jvectormap.js"></script>
+        <script src="jquery-jvectormap-world-mill-en.js"></script>
+    </head>
+    
+    <body>
+        <script>
+            $(function(){
+              $.getJSON('artists.json', function(data){
+                        $.getJSON('countries.json', function(data2){
+                        var val = 2000;
+                        //statesValues = jvm.values.apply({}, jvm.values(data.states)),
+                        hitsVaues = Array.prototype.concat.apply([], jvm.values(data.hits)),
+                        uniqueValues = Array.prototype.concat.apply([], jvm.values(data.viewers));
+                        aggregatedHitsValues = Array.prototype.concat.apply([], jvm.values(data2.hits)),
+                                
+                        $('#world-map-gdp').vectorMap({
+                                                      map: 'world_mill_en',
+                                                      markers: data.coords[val],
+                                                      series: {
+                                                      markers: [{
+                                                                attribute: 'r',
+                                                                scale: ['#FEE5D9', '#A50F15'],
+                                                                values: data.viewers[val],
+                                                                min: jvm.min(uniqueValues),
+                                                                max: jvm.max(uniqueValues)
+                                                                },{
+                                                                attribute: 'fill',
+                                                                scale: [5, 20],
+                                                                values: data.hits[val],
+                                                                min: jvm.min(hitsValues),
+                                                                max: jvm.max(hitsValues)
+                                                                }],
+                                                      regions: [{
+                                                                scale: ['#DEEBF7', '#08519C'],
+                                                                attribute: 'fill',
+                                                                values: data2.names,
+                                                                min: jvm.min(aggregatedHitsValues),
+                                                                max: jvm.max(aggregatedHitsValues)
+                                                                }]
+                                                      },
+                                                      onMarkerLabelShow: function(event, label, index){
+                                                      label.html(
+                                                                 ''+data.names[index]+''+
+                                                                 'Number of hits: '+data.hits[val][index]+''+
+                                                                 'Number of listeners: '+data.viewers[val][index]+'%'
+                                                                 );
+                                                      },
+                                                      onRegionLabelShow: function(event, label, code){
+                                                      label.html(
+                                                                 ''+label.html()+''+
+                                                                 'Number of hits: '+data2.hits[val][code]+'%'
+                                                                 );
+                                                      }
+                                                      });
+                        
+                        var mapObject = $('#world-map-gdp').vectorMap('get', 'mapObject');
+                        
+                        $("#slider").slider({
+                                            value: val,
+                                            min: data[0][0],
+                                            max: data[data.length-1][0],
+                                            step: 10,
+                                            slide: function( event, ui ) {
+                                            val = ui.value;
+                                            mapObject.series.regions[0].setValues(data2.names[ui.value]);
+                                            mapObject.series.markers[0].setValues(data.hits[ui.value]);
+                                            mapObject.series.markers[1].setValues(data.viewers[ui.value]);
+                                            }
+                                            });
+                        });
+                        });
+              });
+        </script>
+    </body>
+</html>
