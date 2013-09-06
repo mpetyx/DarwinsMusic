@@ -2,7 +2,7 @@ __author__ = 'mpetyx'
 
 from rdflib import Literal, Namespace, URIRef, ConjunctiveGraph, RDF
 import json
-from os.path import basename, abspath
+from os.path import basename, abspath, exists
 from glob import glob
 
 MusicOntology = Namespace('http://purl.org/ontology/mo/')
@@ -10,7 +10,7 @@ DC = Namespace("http://purl.org/dc/terms/")
 OurVocab = Namespace('http://example.org/')
 foaf = Namespace("http://xmlns.com/foaf/0.1/")
 
-storefn = abspath('../tracks.n3')
+storefn = abspath('../data/rock/tracks.n3')
 storeuri = 'file://' + storefn
 
 
@@ -44,7 +44,7 @@ class Store:
         for tag in track['toptags']['tag']:
             self.graph.add((trackuri, OurVocab.has_tag, Literal(tag['name'])))
 
-        self.save()
+        #self.save()
 
     def track_is_in(self, uri):
         return (URIRef(uri), RDF.type, MusicOntology['track']) in self.graph
@@ -52,7 +52,7 @@ class Store:
 
 if __name__ == "__main__":
     s = Store()
-    files = glob("../data/*.json")
+    files = glob("../data/rock/trackInfo/*.json")
 
     for f in files:
         track = json.load(file(f))
@@ -66,3 +66,4 @@ if __name__ == "__main__":
         else:
             s.track(mbid=mbid, track=track['track'])
             print "i saved a new one!"
+	s.save()

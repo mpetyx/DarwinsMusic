@@ -17,7 +17,7 @@ foaf = Namespace("http://xmlns.com/foaf/0.1/")
 geo = Namespace("http://www.w3.org/2003/01/geo/wgs84_pos#")
 dbpediaowl = Namespace("http://dbpedia.org/ontology/")
 
-storefn = abspath('../tracks.n3')
+storefn = abspath('../data/rock/tracks.n3')
 storeuri = 'file://' + storefn
 
 class Store:
@@ -164,23 +164,23 @@ def artistBio(name):
 if __name__ == "__main__":
     logging.basicConfig()
     s = Store()
-    files = glob("../data/*.json")
+    files = glob("../data/rock/trackInfo/*.json")
 
-#    artists = []
-#    for f in files:
-#        track = json.load(file(f))
-#        try:
-#            artists.append(track['track']['artist']['name'])
-#        except:
-#            pass
-#    artists = unique(artists)
-#    artistInfo = {}
-#
-#    for artist in artists:
-#        print artist
-#        artistInfo[artist] = artistBio(artist)
-#    
-#    pickle.dump(artistInfo, file("../artistInfo.pickle", "w"))
+    artists = []
+    for f in files:
+        track = json.load(file(f))
+        try:
+            artists.append(track['track']['artist']['name'])
+        except:
+            pass
+    artists = unique(artists)
+    artistInfo = {}
+
+    for artist in artists:
+        print artist
+        artistInfo[artist] = artistBio(artist)
+    
+    pickle.dump(artistInfo, file("../artistInfo.pickle", "w"))
 
     artistInfo = pickle.load(file("../artistInfo.pickle"))
 

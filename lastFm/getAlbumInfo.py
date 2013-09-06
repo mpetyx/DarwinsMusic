@@ -15,7 +15,7 @@ DC = Namespace("http://purl.org/dc/terms/")
 OurVocab = Namespace('http://example.org/')
 foaf = Namespace("http://xmlns.com/foaf/0.1/")
 
-storefn = abspath('../data/jazz/tracks.n3')
+storefn = abspath('../data/rock/tracks.n3')
 storeuri = 'file://' + storefn
 
 graph = ConjunctiveGraph()
@@ -47,7 +47,7 @@ def addAlbumTriples(trackFiles, albumFiles):
                 if af == None:
                     continue
             else:
-                af = '../data/jazz/albumInfo/'+trackInfo['album']['mbid']+'.json'
+                af = '../data/rock/albumInfo/'+trackInfo['album']['mbid']+'.json'
             print af
             #create triples
             albumInfo = json.load(file(af))
@@ -83,15 +83,17 @@ def getAlbumInfo(files):
                 continue
         else:
             url = "http://ws.audioscrobbler.com/2.0/?method=album.getInfo&api_key=9d8eec456625c74e02a7e23bd1d7c68a&mbid=" + mbid + "&format=json"
-        if exists("../data/jazz/albumInfo/" + mbid + ".json"): continue
+        if exists("../data/rock/albumInfo/" + mbid + ".json"): continue
 
         albumInfo = urlopen(url).read()
         albumInfo = json.loads(albumInfo)
-        json.dump(albumInfo, file("../data/jazz/albumInfo/" + mbid + ".json", 'w'))
+        json.dump(albumInfo, file("../data/rock/albumInfo/" + mbid + ".json", 'w'))
         sleep(0.25)
 
 if __name__ == "__main__":
-    trackFiles = glob("../data/jazz/trackInfo/*.json")
-    albumFiles = glob("../data/jazz/albumInfo/*.json")
+    getAlbumInfo(glob("../data/rock/trackInfo/*.json"))
+
+    trackFiles = glob("../data/rock/trackInfo/*.json")
+    albumFiles = glob("../data/rock/albumInfo/*.json")
     addAlbumTriples(trackFiles, albumFiles)
     graph.serialize(storeuri, format='n3')
