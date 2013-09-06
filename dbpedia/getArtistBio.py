@@ -180,9 +180,9 @@ if __name__ == "__main__":
         print artist
         artistInfo[artist] = artistBio(artist)
     
-    pickle.dump(artistInfo, file("../artistInfo.pickle", "w"))
+    pickle.dump(artistInfo, file("../data/rock/artistInfo.pickle", "w"))
 
-    artistInfo = pickle.load(file("../artistInfo.pickle"))
+    artistInfo = pickle.load(file("../data/rock/artistInfo.pickle"))
 
     for f in files:
         track = json.load(file(f))
