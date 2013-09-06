@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Darwin's Music</title>
+        
+        <link rel="stylesheet" media="all" href="assets/style.css"/>
+        <link rel="stylesheet" media="all" href="../jquery-jvectormap.css"/>
+  
+        <link rel="stylesheet" media="all" href="assets/jquery-ui.min.css"/>
+        <link rel="stylesheet" media="all" href="assets/jquery.ui.theme.css"/>
+  
+        <script src="assets/jquery-1.8.2.js"></script>
+        <script src="assets/jquery-ui-1.10.3.custom.min.js"></script>
+          
+        <script src="../jquery-jvectormap.js"></script>
+        <script src="../jquery-mousewheel.js"></script>
+
+        <script src="../lib/jvectormap.js"></script>
+
+        <script src="../lib/abstract-element.js"></script>
+        <script src="../lib/abstract-canvas-element.js"></script>
+        <script src="../lib/abstract-shape-element.js"></script>
+
+        <script src="../lib/svg-element.js"></script>
+        <script src="../lib/svg-group-element.js"></script>
+        <script src="../lib/svg-canvas-element.js"></script>
+        <script src="../lib/svg-shape-element.js"></script>
+        <script src="../lib/svg-path-element.js"></script>
+        <script src="../lib/svg-circle-element.js"></script>
+
+        <script src="../lib/vml-element.js"></script>
+        <script src="../lib/vml-group-element.js"></script>
+        <script src="../lib/vml-canvas-element.js"></script>
+        <script src="../lib/vml-shape-element.js"></script>
+        <script src="../lib/vml-path-element.js"></script>
+        <script src="../lib/vml-circle-element.js"></script>
+
+        <script src="../lib/vector-canvas.js"></script>
+        <script src="../lib/simple-scale.js"></script>
+        <script src="../lib/numeric-scale.js"></script>
+        <script src="../lib/ordinal-scale.js"></script>
+        <script src="../lib/color-scale.js"></script>
+        <script src="../lib/data-series.js"></script>
+        <script src="../lib/proj.js"></script>
+        <script src="../lib/world-map.js"></script>
+	
+        <script src="assets/jquery-jvectormap-world-mill-en.js"></script>
+    </head>
+    
+    <body>
+        <center>
+        <div id="all">
+        <h1>Darwin's Music</h1>
+        <h2>Check out the evolution of artists' popularity and impact for any given genre!</h2>
+        <p class="lineheight">- Colorings of <span class="orange"> countries</span> represent their aggreagted number of clicks. <br>
+        - <span class="orange">Circles</span> depict artists and their coloring visualizes their aggregated number of
+            clicks.<br>
+        - <span class="orange">Radii</span> of circles stand for their impacts based on unique listeners of artists.</p>
+        <div id="page_menu">
+            <ul>
+                <li class="genres">Genres:</li>
+                <li>Pop</li>
+                <li>Rock</li>
+                <li>Jazz</li>
+                <li>Rock</li>
+                <li>Blues</li>
+                <li>Electro</li>
+                <li>Rap</li>
+                <li>Raggae</li>
+                <li>Heavy Metal</li>
+                <li>Minimal</li>
+            </ul>
+        </div>
+		<div id="music_map"></div>
+		<div id="slider"></div>
+        <script>
+            (function(){
+             $.getJSON('all.json', function(data){
+                       var val = 2000;
+                       aggregatedHitsValues = jvm.values.apply({}, jvm.values(data.total_hits)),
+                       hitsValues = Array.prototype.concat.apply([], jvm.values(data.hits));
+                       uniqueValues = Array.prototype.concat.apply([], jvm.values(data.viewers));
+                       //aggregatedHitsValues = Array.prototype.concat.apply([], jvm.values(data2.hits));
+                        
+                        $('#music_map').vectorMap({
+							map: 'world_mill_en',
+							markers: data.coords,
+							series: {
+								markers: [{
+									attribute: 'fill',
+									scale: ['#FEE5D9', '#A50F15'],
+									values: data.hits[val],
+									min: jvm.min(hitsValues),
+									max: jvm.max(hitsValues)
+									},{
+									attribute: 'r',
+									scale: [0.2, 3],
+									values: data.viewers[val],
+									min: jvm.min(uniqueValues),
+									max: jvm.max(uniqueValues)
+								}],
+								regions: [{
+									scale: ['#DEEBF7', '#08519C'],
+									attribute: 'fill',
+									values: data.total_hits[val],
+									min: jvm.min(aggregatedHitsValues),
+									max: jvm.max(aggregatedHitsValues)
+								}]
+							
+							},
+							onMarkerLabelShow: function(event, label, index){
+								label.html(
+									''+data.names[index]+'<br/>'+ 
+									'Number of hits: '+data.hits[val][index]+'<br/>'+
+									'Number of listeners: '+data.viewers[val][index]
+								);
+							},
+							onRegionLabelShow: function(event, label, code){
+								label.html(
+									''+label.html()+'<br/>'+
+									'Number of hits: '+data.total_hits[val][code]
+								);
+							}
+						});
+						
+						var mapObject = $('#music_map ').vectorMap('get', 'mapObject');
+					
+						
+						$("#slider").slider({
+							value: val,
+                            min: 2000, //data[0][0],
+                            max: 2010, //data[data.length-1][0],
+                            step: 10,
+                            slide: function( event, ui ) {
+								val = ui.value;
+                                mapObject.series.regions[0].setValues(data.names[ui.value]);
+                                mapObject.series.markers[0].setValues(data.hits[ui.value]);
+                                mapObject.series.markers[1].setValues(data.viewers[ui.value]);
+							}
+                        })
+                              .each(function() {
+                                    var opt = $(this).data().uiSlider.options;
+                                    
+                                    var vals = opt.max -  opt.min;
+                                    
+                                    for(var i = 0; i <= vals; i++) {
+                                        var el = $('<label>'+(i+1)+'</label>').css('left', (i/vals*100)+'%');
+                                    
+                                        $('#slider').apend(el);
+                                    }
+                                });
+						
+						
+					});
+
+            });
+        </script>
+            </div>
+            </center>
+    </body>
+</html>
