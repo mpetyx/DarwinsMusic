@@ -55,7 +55,7 @@
 		<div id="slider" style="width: 280px; margin: 10px"></div>
         <script>
             $(function(){
-              $.getJSON('../artists.json', function(data){
+              $.getJSON('http://localhost:8000/map', function(data){
 					$.getJSON('../countries.json', function(data2){
 						var val = 2000;
                         aggregatedHitsValues = jvm.values.apply({}, jvm.values(data2.hits)),

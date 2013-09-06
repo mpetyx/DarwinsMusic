@@ -64,7 +64,7 @@ def mapJson(request):
     ?hid geo:geometry ?point.
 
     }
-    LIMIT 100
+    LIMIT 10000
     """
 
     countQuery  = """
