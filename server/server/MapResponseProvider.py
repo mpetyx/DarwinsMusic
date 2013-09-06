@@ -4,6 +4,11 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import json
 import re
 
+import sys
+
+sys.path.append('./../dbpedia')
+from geoToCountry import getCountry
+
 
 def mapJson(request):
     sparql = SPARQLWrapper("http://192.168.2.27:8080/openrdf-sesame/repositories/Music")
@@ -64,7 +69,7 @@ def mapJson(request):
     ?hid geo:geometry ?point.
 
     }
-    LIMIT 10000
+    LIMIT 10
     """
 
     countQuery  = """
@@ -102,13 +107,17 @@ def mapJson(request):
     listeners = {}
     performers = []
     points = []
-
+    countrynames = []
+    totalhits = {}
 
     for year in distinct_years:
         hits["%s"%year] = []
 
     for year in distinct_years:
         listeners["%s"%year] = []
+
+    for year in distinct_years:
+        totalhits["%s"%year] = []
 
     for result in res:
 
@@ -128,24 +137,28 @@ def mapJson(request):
 
             ena, duo = lem.split(" ")
             points.append([duo, ena])
+            myCountry = getCountry(duo, ena)
+            countrynames.append(myCountry)
             performers.append(result['performer']['value'])
+
 
             for decade in distinct_years:
                 if year == decade:
 
                     hits["%s"%decade].append(result['hits']['value'])
+                    totalhits["%s"%decade].append({myCountry: result['hits']['value']})
                     listeners["%s"%decade].append(result['listeners']['value'])
 
                     # titles.append(result['title']['value'])
                 else:
                     hits["%s"%decade].append(0)
+                    totalhits["%s"%decade].append({myCountry:0})
                     listeners["%s"%decade].append(0)
 
         else:
             continue
 
-    totalcounts = {}
-
+    countrynames = list(set(countrynames))
 
 
 
@@ -157,5 +170,7 @@ def mapJson(request):
     # finalized_json['titles'] = titles
     finalized_json['coords'] = points
     finalized_json['dates'] = distinct_years
+    finalized_json["country_names"] = countrynames
+    finalized_json["total_hits"] = totalhits
 
     return json.dumps(finalized_json)
