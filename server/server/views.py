@@ -33,7 +33,9 @@ def map(request):
     # g = Graph().parse(data=mapGraph, format='n3')
     # return HttpResponse(g.serialize(format='json-ld', indent=4), status=200)
 
-    response = mapJson(request)
+    genre = request.GET.get("genre", "")
+
+    response = mapJson(request, genre)
 
     return HttpResponse(response, status=200)
 

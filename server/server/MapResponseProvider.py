@@ -10,7 +10,7 @@ sys.path.append('./../dbpedia')
 from geoToCountry import getCountry
 
 
-def mapJson(request):
+def mapJson(genre):
     sparql = SPARQLWrapper("http://192.168.2.27:8080/openrdf-sesame/repositories/Music")
 
     superQuery = """
@@ -60,7 +60,7 @@ def mapJson(request):
     ?s ourvocab:has_listener_count ?listeners.
     ?s ourvocab:has_playcount ?hits.
     ?s ourvocab:has_releasedate ?date.
-    ?s ourvocab:has_tag "rock".
+    ?s ourvocab:has_tag "%s".
 
     ?s mo:performer ?pid.
 
@@ -70,11 +70,11 @@ def mapJson(request):
     ?hid geo:geometry ?point.
 
     }
-    """
+    """%genre
 
-    countQuery  = """
-    SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
-    """
+    # countQuery  = """
+    # SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
+    # """
 
     sparql.setQuery(superQuery)
 
@@ -191,8 +191,8 @@ def mapJson(request):
     finalized_json["country_names"] = countrynames
     finalized_json["total_hits"] = totalhits
 
-    dumpData = open("rock.json", "w")
-    json.dump(finalized_json, dumpData)
+    # dumpData = open("rock.json", "w")
+    # json.dump(finalized_json, dumpData)
 
     #dumpData.write(json.dumps(finalized_json))
 
