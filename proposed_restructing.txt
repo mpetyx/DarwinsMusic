@@ -1,0 +1,14 @@
+/
+/src/server/
+/src/crawler/
+/src/crawler/dbpedia/
+/src/crawler/lastfm/
+/src/crawler/musicbrainz/
+/src/ui/
+
+/data/
+/data/<genre>
+/data/<genre>/albumInfo/
+/data/<genre>/artistInfo/
+/data/<genre>/trackInfo/
+/data/<genre>/triples.n3
