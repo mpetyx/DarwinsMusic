@@ -1,17 +1,19 @@
 __author__ = 'mpetyx'
 
-from SPARQLWrapper import SPARQLWrapper, JSON
 import json
 import re
-
 import sys
+
+from SPARQLWrapper import SPARQLWrapper, JSON
+from django.conf import settings
+
 
 sys.path.append('./../dbpedia')
 from geoToCountry import getCountry
 
 
 def mapJson(genre):
-    sparql = SPARQLWrapper("http://192.168.2.27:8080/openrdf-sesame/repositories/Music")
+    sparql = SPARQLWrapper(settings.SERVER_URL)
 
     superQuery = """
 
@@ -70,7 +72,7 @@ def mapJson(genre):
     ?hid geo:geometry ?point.
 
     }
-    """%genre
+    """ % genre
 
     # countQuery  = """
     # SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
@@ -81,7 +83,6 @@ def mapJson(genre):
     sparql.setReturnFormat(JSON)
 
     results = sparql.query().convert()
-
 
     res = results["results"]["bindings"]
 
@@ -98,7 +99,7 @@ def mapJson(genre):
         temp = re.findall(r'\d{4}', year)
         if temp:
             year = temp[0]
-            year = year[:-1]+'0'
+            year = year[:-1] + '0'
             dates.append(year)
 
     distinct_years = list(set(dates))
@@ -111,13 +112,13 @@ def mapJson(genre):
     totalhits = {}
 
     for year in distinct_years:
-        hits["%s"%year] = []
+        hits["%s" % year] = []
 
     for year in distinct_years:
-        listeners["%s"%year] = []
+        listeners["%s" % year] = []
 
     for year in distinct_years:
-        totalhits["%s"%year] = []
+        totalhits["%s" % year] = []
 
     for result in res:
 
@@ -127,7 +128,7 @@ def mapJson(genre):
 
         if res:
             year = res[0]
-            year = year[:-1]+'0'
+            year = year[:-1] + '0'
             # dates.append(year)
 
             lem = result['point']['value'].replace("POINT(", "")
@@ -139,46 +140,43 @@ def mapJson(genre):
             countrynames.append(myCountry)
             performers.append(result['performer']['value'])
 
-
             the_country_is_already_there = False
 
             for decade in distinct_years:
 
-                for example in totalhits["%s"%decade]:
+                for example in totalhits["%s" % decade]:
                     if myCountry in example.keys():
                         the_country_is_already_there = True
                         break
 
                 if year == decade:
 
-                    hits["%s"%decade].append(result['hits']['value'])
+                    hits["%s" % decade].append(result['hits']['value'])
                     if the_country_is_already_there:
 
-                        for temporary in totalhits["%s"%decade]:
+                        for temporary in totalhits["%s" % decade]:
                             if myCountry in temporary.keys():
                                 temporary[myCountry] = int(temporary[myCountry]) + int(result['hits']['value'])
                                 break
 
-                        # totalhits["%s"%decade].append({myCountry: result['hits']['value']})
+                                # totalhits["%s"%decade].append({myCountry: result['hits']['value']})
                     else:
-                        totalhits["%s"%decade].append({myCountry: result['hits']['value']})
-                    listeners["%s"%decade].append(result['listeners']['value'])
+                        totalhits["%s" % decade].append({myCountry: result['hits']['value']})
+                    listeners["%s" % decade].append(result['listeners']['value'])
 
                     # titles.append(result['title']['value'])
                 else:
-                    hits["%s"%decade].append(0)
+                    hits["%s" % decade].append(0)
                     if the_country_is_already_there:
                         continue
                     else:
-                        totalhits["%s"%decade].append({myCountry:0})
-                    listeners["%s"%decade].append(0)
+                        totalhits["%s" % decade].append({myCountry: 0})
+                    listeners["%s" % decade].append(0)
 
         else:
             continue
 
     countrynames = list(set(countrynames))
-
-
 
     finalized_json = {}
 

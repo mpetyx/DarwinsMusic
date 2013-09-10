@@ -1,9 +1,11 @@
 __author__ = 'mpetyx'
 
-from rdflib import Graph, plugin
-from rdflib.parser import Parser
 from StringIO import StringIO
+
+from rdflib import Graph
 import rdfextras
+
+
 rdfextras.registerplugins()
 
 

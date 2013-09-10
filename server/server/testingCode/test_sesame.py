@@ -23,10 +23,10 @@ __author__ = 'mpetyx'
 
 
 
-from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF
-from rdflib import Graph
 import json
-from StringIO import StringIO
+
+from SPARQLWrapper import SPARQLWrapper, JSON
+
 
 sparql = SPARQLWrapper("http://192.168.2.27:8080/openrdf-sesame/repositories/Music")
 
@@ -88,7 +88,7 @@ WHERE {
 LIMIT 100
 """
 
-countQuery  = """
+countQuery = """
 SELECT (COUNT(*) AS ?count) WHERE { ?s ?p ?o}
 """
 
@@ -97,7 +97,6 @@ sparql.setQuery(superQuery)
 sparql.setReturnFormat(JSON)
 
 results = sparql.query().convert()
-
 
 res = results["results"]["bindings"]
 
@@ -108,14 +107,12 @@ titles = []
 points = []
 
 for result in res:
-
-    lem = result['point']['value'].replace("POINT(","")
-    lem = lem.replace(")","")
+    lem = result['point']['value'].replace("POINT(", "")
+    lem = lem.replace(")", "")
 
     year = 2000
     hits.append(result['hits']['value'])
     listeners.append(result['listeners']['value'])
-
 
     performers.append(result['performer']['value'])
     titles.append(result['title']['value'])

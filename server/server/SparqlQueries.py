@@ -1,11 +1,9 @@
 __author__ = 'mpetyx'
 
-import rdflib
-from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 
 def query(sparql_query):
-
     #openerdf repository - sesame
     sparql = SPARQLWrapper("http://192.168.2.33:8080/openrdf-sesame/repositories/Music")
 
@@ -20,7 +18,6 @@ def query(sparql_query):
 
 
 def sampleQuery():
-
     import rdflib
 
     g = rdflib.Graph()
