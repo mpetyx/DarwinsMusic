@@ -12,3 +12,7 @@
 /data/<genre>/artistInfo/
 /data/<genre>/trackInfo/
 /data/<genre>/triples.n3
+
+/docs/
+/docs/setup.md
+/docs/about.md
