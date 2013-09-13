@@ -5,7 +5,15 @@ function getUrlVars() {
 	});
 	return vars;
 }
-			
+
+function formatLabel(mode, o) {
+	if (o) {
+		if (mode == 0) return 'Number of Hits: ' + o + '<br/>';
+		else return 'Number of Listeners: ' + o + '<br/>';
+	}
+	return "";
+}
+	
 var gid = 0;
 if ((getUrlVars()["gid"]) == "1") gid=1; else gid=0;
 
@@ -20,7 +28,7 @@ $(function(){
 		hitsValues = Array.prototype.concat.apply([], jvm.values(data.hits));
 		uniqueValues = Array.prototype.concat.apply([], jvm.values(data.viewers));
 		//aggregatedHitsValues = Array.prototype.concat.apply([], jvm.values(data.total_hits));
-		
+				
 		$('#music_map').vectorMap({
 			map: 'world_mill_en',
 			markers: data.coords,
@@ -49,16 +57,17 @@ $(function(){
 			
 			onMarkerLabelShow: function(event, label, index){
 				label.html(
-					''+data.names[index]+'<br/>'+ 
-					'Number of hits: '+data.hits[val][index]+'<br/>'+
-					'Number of listeners: '+data.viewers[val][index]
+					''+data.names[index]+'<br/>'+
+					formatLabel(0, data.hits[val][index]) +
+					formatLabel(1, data.viewers[val][index]) 
+					
 				);
 			},
 			
 			onRegionLabelShow: function(event, label, code){
 				label.html(
 					''+label.html()+'<br/>'+
-					'Number of hits: '+data.total_hits[val][code]
+					formatLabel(0, data.total_hits[val][code])
 				);
 			}
 		});
