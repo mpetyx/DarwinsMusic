@@ -7,9 +7,9 @@
 /src/ui/
 
 /data/
+/data/artistInfo/
 /data/<genre>
 /data/<genre>/albumInfo/
-/data/<genre>/artistInfo/
 /data/<genre>/trackInfo/
 /data/<genre>/triples.n3
 

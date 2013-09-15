@@ -2,18 +2,25 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from os.path import basename, abspath, exists
 from numpy import unique
 from glob import glob
+from time import time
 import pickle
 import json
 
+#TODO - 1
 #In these functions, we need to work out the cases which have more than
 #one result. For now, I consider the first hit!
 
+#TODO - 2
+#Get influence relations
+
 class dbpedia:
-	def __init__(self):
+	def __init__(self, delay = 0.5):
 		"""
 		Initiates sparql interface to DBPedia.
 		"""
 		self.sparql = SPARQLWrapper("http://dbpedia.org/sparql/")
+        self.delay = delay
+        self.lastRequest = time()
 
 	def getBand(self, name):
 		"""
@@ -47,8 +54,13 @@ class dbpedia:
 		limit 2
 		"""%name)
 
-		sparql.setReturnFormat(JSON)
-		results = sparql.query().convert()
+		self.sparql.setReturnFormat(JSON)
+
+        actualDelay = time() - self.lastRequest
+        if actualDelay < self.delay: sleep(actualDelay)
+        self.lastRequest = time()
+
+		results = self.sparql.query().convert()
 
 		if results['results']['bindings'] == []:
 			return None
@@ -91,11 +103,16 @@ class dbpedia:
 		limit 2
 		"""%name)
 
-		sparql.setReturnFormat(JSON)
-		results = sparql.query().convert()
+		self.sparql.setReturnFormat(JSON)
+
+        actualDelay = time() - self.lastRequest
+        if actualDelay < self.delay: sleep(actualDelay)
+        self.lastRequest = time()
+		
+        results = self.sparql.query().convert()
 
 		if results['results']['bindings'] == []:
-			results = bandBio(name)
+			results = self.getBand(name)
 			return results
 
 		results = results['results']['bindings'][0]

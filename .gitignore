@@ -1,9 +1,5 @@
-
 *.xml
-
 .idea/.name
-
 .idea/*
 *.pyc
-
-*.pyc
+*.json

@@ -10,11 +10,14 @@ OurVocab = Namespace('http://example.org/')
 geo = Namespace("http://www.w3.org/2003/01/geo/wgs84_pos#")
 dbpediaowl = Namespace("http://dbpedia.org/ontology/")
 
+#TODO: Add owl:sameAs between MB and DBPedia when there is an mbid for artist from last.fm
+#Also add influence relations
+
 class Store:
     def __init__(self, tripleFile):
         self.graph = ConjunctiveGraph()
-		storefn = abspath(tripleFile)
-		storeuri = 'file://' + storefn
+		self.storefn = abspath(tripleFile)
+		self.storeuri = 'file://' + storefn
         if exists(storefn):
             self.graph.load(storeuri, format='n3')
 
@@ -27,7 +30,7 @@ class Store:
         self.graph.bind('rev', 'http://purl.org/stuff/rev#')
 
     def save(self):
-        self.graph.serialize(storeuri, format='n3')
+        self.graph.serialize(self.storeuri, format='n3')
 
     def addTrack(self, mbid, track):
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % mbid)
@@ -87,10 +90,56 @@ class Store:
             self.graph.add((artisturi, dbpediaowl.hometown, townuri))
         else:
             self.graph.add((artisturi, dbpediaowl.hometown, Literal(artistData['hometown']['value'])))
-        #self.save()
 
     def isArtistIn(self, uri):
         return (URIRef(uri), RDF.type, MusicOntology.MusicArtist) in self.graph or (URIRef(uri), RDF.type, MusicOntology.MusicGroup) in self.graph
+
+    def _matchAlbum(trackInfo, albumFiles):
+        """
+        A function to return the correct match of an album given a track.
+        """
+        #TODO: Deprecated, effect the new mbid based match
+        try:
+            albumName = trackInfo['album']['name']
+            artistName = trackInfo['artist']['name']
+        except:
+            return None
+
+        for af in albumFiles:
+            albumInfo = json.load(file(af))
+            albumInfo = albumInfo['album']
+            if albumName == albumInfo['name'] and artistName == albumInfo['artist']:
+                return af
+
+    def addAlbumTriples(trackFiles, albumFiles):
+        for tf in trackFiles:
+            trackInfo = json.load(file(tf))
+            try:
+                trackInfo = trackInfo['track']
+            except:
+                continue
+            if 'album' in trackInfo.keys():
+                if 'mbid' not in trackInfo['album'].keys() or trackInfo['album']['mbid'] == '':
+                    af = getProperAlbum(trackInfo, albumFiles)
+                    if af == None:
+                        continue
+                else:
+                    af = '../data/rock/albumInfo/'+trackInfo['album']['mbid']+'.json'
+                print af
+                #create triples
+                albumInfo = json.load(file(af))
+                try:
+                    albumInfo = albumInfo['album']
+                except:
+                    Gcontinue
+                if 'releasedate' not in albumInfo.keys():
+                    continue
+
+                trackMBID = basename(tf)[:-5]
+                trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % trackMBID)
+
+                graph.add((trackuri, OurVocab.has_releasedate, Literal(albumInfo['releasedate'].encode('utf-8'))))
+
 
 
 if __name__ == "__main__":
@@ -109,4 +158,15 @@ if __name__ == "__main__":
         else:
             s.track(mbid=mbid, track=track['track'])
             print "i saved a new one!"
+
+
+    getAlbumInfo(glob("../data/rock/trackInfo/*.json"))
+
+    trackFiles = glob("../data/rock/trackInfo/*.json")
+    albumFiles = glob("../data/rock/albumInfo/*.json")
+    addAlbumTriples(trackFiles, albumFiles)
+    graph.serialize(storeuri, format='n3')
+
+    s.addArtistBio(trackMBID, artistData, track['track'])
+
 	s.save()
