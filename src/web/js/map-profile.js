@@ -13,7 +13,7 @@ function formatLabel(mode, o) {
 	}
 	return "";
 }
-	
+
 var db = "data/jazz.json";
 
 var gid = getUrlVars()["gid"];
@@ -28,10 +28,11 @@ $(function(){
 		uniqueValues = Array.prototype.concat.apply([], jvm.values(data.viewers));
 		//aggregatedHitsValues = Array.prototype.concat.apply([], jvm.values(data.total_hits));
 
-		//to balance the datasets
+		//to balance the datasets		
 		hitsVal = Array.prototype.concat.apply([], jvm.values(data.hits[val]));
 		uniqueVal = Array.prototype.concat.apply([], jvm.values(data.viewers[val]));
 		
+		if (hitsVal.length == 0) hitsVal.push(0);
 		while (hitsVal.length > uniqueVal.length) {
 			uniqueVal.push(0);
 		}
@@ -86,11 +87,18 @@ $(function(){
 			max: 2010, //data[data.length-1][0],
 			step: 10,
 			
-			slide: function( event, ui ) {
-				val = ui.value;
-				mapObject.series.regions[0].setValues(data.country_names[ui.value]);
-				mapObject.series.markers[0].setValues(data.hits[ui.value]);
-				mapObject.series.markers[1].setValues(data.viewers[ui.value]);
+			slide: function( event, ui ) {				
+				hitsVal = Array.prototype.concat.apply([], jvm.values(data.hits[ui.value]));
+				uniqueVal = Array.prototype.concat.apply([], jvm.values(data.viewers[ui.value]));
+		
+				if (hitsVal.length == 0) hitsVal.push(0);
+				while (hitsVal.length > uniqueVal.length) {
+					uniqueVal.push(0);
+				}
+				
+				mapObject.series.regions[0].setValues(data.country_names[ui.value]);				
+				mapObject.series.markers[0].setValues(hitsVal);
+				mapObject.series.markers[1].setValues(uniqueVal);
 			}
 		})
 		.each(function() {
