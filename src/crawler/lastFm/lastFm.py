@@ -3,6 +3,7 @@
 from os.path import basename, exists, abspath
 from uuid import uuid5, NAMESPACE_URL
 from urllib2 import urlopen, quote
+from bs4 import BeautifulSoup
 from time import sleep
 from time import time
 import json
@@ -22,7 +23,25 @@ class lastFm:
         self.dataFolder = dataFolder
         self.delay = delay
         self.lastRequest = time()
+
+    def wait(self):
+        actualDelay = time() - self.lastRequest
+        if actualDelay < self.delay: sleep(actualDelay)
+        self.lastRequest = time()
     
+    def _getComments(self, url):
+        wait()
+
+        data = urlopen(url).read()
+        soup = BeautifulSoup(data)
+
+        res = soup.find_all('li', 'message')
+        comments = []
+        for i in res:
+            comments.append(i.p.text.strip())
+
+        return comments
+
     def storeTopRecs(self):
         """
         This function gets the top recordings of the genre. The number of recordings is
@@ -42,9 +61,8 @@ class lastFm:
                 print mbid
                 json.dump(track, file(self.dataFolder + self.tag + "/toptracks/" + mbid + ".json", 'w'))
 
-            actualDelay = time() - self.lastRequest
-            if actualDelay < self.delay: sleep(actualDelay)
-            self.lastRequest = time()
+            wait()
+
         
     def storeRecInfo(self, topTrackFile):
         track = json.load(file(topTrackFile))
@@ -64,12 +82,18 @@ class lastFm:
             url = "http://ws.audioscrobbler.com/2.0/?method=track.getInfo&api_key=" + self.key + "&mbid="\
 					+ track['mbid'] + "&format=json"
 
-        actualDelay = time() - self.lastRequest
-        if actualDelay < self.delay: sleep(actualDelay)
-        self.lastRequest = time()
+        wait()
 
         trackInfo = urlopen(url).read()
         trackInfo = json.loads(trackInfo)
+        if 'track' not in trackInfo.keys():
+            return
+
+        try:
+            comments = self._getComments(trackInfo['url'])
+            trackInfo['comments'] = comments
+        except:
+            pass
         json.dump(trackInfo, file(self.dataFolder + self.tag + "/trackInfo/" + mbid + ".json", 'w'))
 
     def storeAlbumInfo(self, trackFile):
@@ -98,9 +122,7 @@ class lastFm:
 
         if exists(dataFolder + self.tag + "/albumInfo/" + mbid + ".json"): return
 
-        actualDelay = time() - self.lastRequest
-        if actualDelay < self.delay: sleep(actualDelay)
-        self.lastRequest = time()
+        wait()
 
         print "Album: ", mbid
         albumInfo = urlopen(url).read()

@@ -22,6 +22,11 @@ class dbpedia:
         self.delay = delay
         self.lastRequest = time()
 
+    def wait(self):
+        actualDelay = time() - self.lastRequest
+        if actualDelay < self.delay: sleep(actualDelay)
+        self.lastRequest = time()
+    
 	def getBand(self, name):
 		"""
 		Gets band information from DBPedia, given the name of a band.
@@ -56,9 +61,7 @@ class dbpedia:
 
 		self.sparql.setReturnFormat(JSON)
 
-        actualDelay = time() - self.lastRequest
-        if actualDelay < self.delay: sleep(actualDelay)
-        self.lastRequest = time()
+        wait()
 
 		results = self.sparql.query().convert()
 
@@ -105,9 +108,7 @@ class dbpedia:
 
 		self.sparql.setReturnFormat(JSON)
 
-        actualDelay = time() - self.lastRequest
-        if actualDelay < self.delay: sleep(actualDelay)
-        self.lastRequest = time()
+        wait()
 		
         results = self.sparql.query().convert()
 
