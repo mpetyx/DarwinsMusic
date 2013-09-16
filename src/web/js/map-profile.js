@@ -14,10 +14,9 @@ function formatLabel(mode, o) {
 	return "";
 }
 	
-var gid = 0;
-if ((getUrlVars()["gid"]) == "1") gid=1; else gid=0;
-
 var db = "data/jazz.json";
+
+var gid = getUrlVars()["gid"];
 if (gid == "1") db = "data/rock.json";
 
 $(function(){
@@ -28,21 +27,29 @@ $(function(){
 		hitsValues = Array.prototype.concat.apply([], jvm.values(data.hits));
 		uniqueValues = Array.prototype.concat.apply([], jvm.values(data.viewers));
 		//aggregatedHitsValues = Array.prototype.concat.apply([], jvm.values(data.total_hits));
-				
+
+		//to balance the datasets
+		hitsVal = Array.prototype.concat.apply([], jvm.values(data.hits[val]));
+		uniqueVal = Array.prototype.concat.apply([], jvm.values(data.viewers[val]));
+		
+		while (hitsVal.length > uniqueVal.length) {
+			uniqueVal.push(0);
+		}
+		
 		$('#music_map').vectorMap({
 			map: 'world_mill_en',
-			markers: data.coords,
+			markers: data.coords,			
 			series: {
 				markers: [{
 					attribute: 'fill',
 					scale: ['#FEE5D9', '#A50F15'],
-					values: data.hits[val],
+					values: hitsVal, //data.hits[val],
 					min: jvm.min(hitsValues),
 					max: jvm.max(hitsValues)
 					},{
 					attribute: 'r',
 					scale: [0, 20],
-					values: data.viewers[val],
+					values: uniqueVal, //data.viewers[val],					
 					min: jvm.min(uniqueValues),
 					max: jvm.max(uniqueValues)
 				}],
@@ -60,7 +67,6 @@ $(function(){
 					''+data.names[index]+'<br/>'+
 					formatLabel(0, data.hits[val][index]) +
 					formatLabel(1, data.viewers[val][index]) 
-					
 				);
 			},
 			
