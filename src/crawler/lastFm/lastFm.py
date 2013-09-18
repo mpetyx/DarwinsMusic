@@ -14,7 +14,7 @@ class lastFm:
     given a tag in last.fm, which includes the album information as well. The number of 
     recordings is determined by other class parameters like pageOffset, pageLimit and numPages.
     """
-    def __init__(self, key, tag, dataFolder, numPages = 10, pageLimit = 50, pageOffset = 0, delay = 1):
+    def __init__(self, key, tag, dataFolder, numPages = 20, pageLimit = 100, pageOffset = 0, delay = 1):
         self.key = key
         self.tag = tag
         self.pageOffset = pageOffset
@@ -30,7 +30,7 @@ class lastFm:
         self.lastRequest = time()
     
     def _getComments(self, url):
-        wait()
+        self.wait()
 
         data = urlopen(url).read()
         soup = BeautifulSoup(data)
@@ -49,9 +49,10 @@ class lastFm:
         """
         print "Getting top recordings of ", self.tag, " tag"
         for page in xrange(self.pageOffset, self.pageOffset+self.numPages):
-            data = urlopen("http://ws.audioscrobbler.com/2.0/?method=tag.gettoptracks&tag=" + \
+            url = "http://ws.audioscrobbler.com/2.0/?method=tag.gettoptracks&tag=" + \
                     self.tag + "&page=" + str(page) + "&limit=" + str(self.pageLimit) + \
-                    "&api_key=" + self.key + "&format=json").read()
+                    "&api_key=" + self.key + "&format=json"
+            data = urlopen(url).read()
             data = json.loads(data)
             for track in data['toptracks']['track']:
                 if track['mbid'] == '':
@@ -61,12 +62,12 @@ class lastFm:
                 print mbid
                 json.dump(track, file(self.dataFolder + self.tag + "/toptracks/" + mbid + ".json", 'w'))
 
-            wait()
+            self.wait()
 
         
     def storeRecInfo(self, topTrackFile):
         track = json.load(file(topTrackFile))
-        mbid = basename(f)[:-5]
+        mbid = basename(topTrackFile)[:-5]
         if exists(self.dataFolder + self.tag + "/trackInfo/" + mbid + ".json"): return
 
         print "Track: ", mbid
@@ -82,7 +83,7 @@ class lastFm:
             url = "http://ws.audioscrobbler.com/2.0/?method=track.getInfo&api_key=" + self.key + "&mbid="\
 					+ track['mbid'] + "&format=json"
 
-        wait()
+        self.wait()
 
         trackInfo = urlopen(url).read()
         trackInfo = json.loads(trackInfo)
@@ -120,12 +121,12 @@ class lastFm:
             url = "http://ws.audioscrobbler.com/2.0/?method=album.getInfo&api_key=" + self.key + "&mbid="\
                     + mbid + "&format=json"
 
-        if exists(dataFolder + self.tag + "/albumInfo/" + mbid + ".json"): return
+        if exists(self.dataFolder + self.tag + "/albumInfo/" + mbid + ".json"): return
 
-        wait()
+        self.wait()
 
         print "Album: ", mbid
         albumInfo = urlopen(url).read()
         albumInfo = json.loads(albumInfo)
-        json.dump(albumInfo, file(dataFolder + self.tag + "/albumInfo/" + mbid + ".json", "w"))
+        json.dump(albumInfo, file(self.dataFolder + self.tag + "/albumInfo/" + mbid + ".json", "w"))
 

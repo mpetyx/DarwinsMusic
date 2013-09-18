@@ -13,8 +13,8 @@ if __name__ == '__main__':
     dataFolder = sys.argv[2]
 
     key = "9d8eec456625c74e02a7e23bd1d7c68a"
-    fmObj = lastFm(key, tag, dataFolder)
-    fmObj.storeTopRecs()
+    fmObj = lastFm(key, tag, dataFolder, )
+    #fmObj.storeTopRecs()
 
     files = glob(dataFolder + "/" + tag + "/toptracks/*.json")
     for f in files:
