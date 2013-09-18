@@ -20,3 +20,9 @@ SPARQL endpoint
 ===============
 
 Coming soon ...
+
+
+You can interact with the site
+===============================
+
+http://darwinsmusic.herokuapp.com/
