@@ -1,0 +1,118 @@
+body {
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:13px;
+padding:0px;
+margin-top:0px;
+color:#ffffff;
+background-color:#505050;
+}
+
+#all {
+width:83%;
+}
+
+h1 {
+text-align:left;
+font-size:30px;
+}
+
+h2 {
+margin-bottom:20px;
+margin-top:-12px;
+padding: 0;
+text-align:left;
+color:#ffb95f;
+}
+
+span.orange {
+color:#ffb95f;
+}
+
+p.lineheight {
+line-height:17px;
+color:#e5e5e5;
+text-align:left;
+}
+
+#music_map {
+position:relative;
+float:left;
+width:82%;
+height:500px;
+top:20px;
+}
+
+[class^=slider] { 
+display: inline-block; margin-bottom: 30px; 
+}
+
+.output { 
+color: #888; 
+font-size: 14px;
+padding-top: 1px; 
+margin-left: 5px; 
+vertical-align: top;
+}
+
+#page_menu {
+position:relative;
+margin:0 auto;
+cursor:pointer;
+width:100%;
+top:5px;
+}
+
+#slider {
+position:relative;
+float:left;
+clear:left;
+width: 280px;
+margin: 10px
+}
+
+#slider label {
+position:absolute;
+width:20px;
+margin-left:-10px;
+margin-top:20px;
+}
+
+#page_menu ul {
+margin:0;
+padding:0;
+list-style:none;
+}
+
+#page_menu li {
+line-height:17px;
+position:relative;
+font-size:19px; /* 143% */
+padding: 12px 5px;
+font-weight:normal;
+float:left;
+margin:3px 0px 0px 3px; /* 0.375% */
+}
+
+#page_menu li.genres {
+line-height:17px;
+position:relative;
+font-size:19px; /* 143% */
+padding: 12px 5px;
+font-weight:normal;
+float:left;
+background-color:#2f2f2f;
+margin:3px 0px 0px 3px; /* 0.375% */
+}
+
+#page_menu a {
+display:block;
+float:left;
+text-decoration:none;
+position:relative;
+color:#ffffff;
+}
+
+#page_menu li:hover {
+background-color:#6a6a6a;
+color:#ffb95f;
+}

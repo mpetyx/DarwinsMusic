@@ -3,6 +3,8 @@ __author__ = 'mpetyx'
 import json
 
 from django.http import HttpResponse
+from django.template import loader
+from django.shortcuts import render_to_response
 from rdflib import Graph
 
 from SparqlQueries import query
@@ -57,3 +59,8 @@ def sparql(request):
         return HttpResponse(json.dumps(result), status=200)
     else:
         return HttpResponse("You need to send a get request with parameted 'query'", status=500)
+
+
+def index(request):
+
+    return render_to_response("index.html")
