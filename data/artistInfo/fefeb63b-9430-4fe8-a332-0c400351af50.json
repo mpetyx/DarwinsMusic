@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Belgium"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Belgium"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(4.35 50.85)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Selah_Sue"}}

@@ -94,7 +94,7 @@ class dbpedia:
         PREFIX dbres: <http://dbpedia.org/resource/>
         PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 
-        SELECT ?artist, ?careerStartYear, ?hometown, ?hometownName, ?coordinates WHERE {
+        SELECT ?artist, ?careerStartYear, ?hometown, ?hometownName, ?coordinates, ?influenced, ?influencedBy WHERE {
          ?artist rdf:type dbpedia-owl:MusicalArtist .
          ?artist foaf:name "%s"@en .
          OPTIONAL { ?artist dbpedia-owl:activeYearsStartYear ?careerStartYear }
@@ -106,11 +106,14 @@ class dbpedia:
         limit 2
         """%name)
 
+        #OPTIONAL { { ?artist dbpedia-owl:influencedBy ?influencedBy } UNION { ?influencedBy dbpprop:influences ?artist } }
+        #OPTIONAL { { ?influenced dbpedia-owl:influencedBy ?artist } UNION { ?artist dbpprop:influences ?influenced } }
         self.sparql.setReturnFormat(JSON)
 
         self.wait()
         
         results = self.sparql.query().convert()
+        return results
 
         if results['results']['bindings'] == []:
             results = self.getBand(name)
