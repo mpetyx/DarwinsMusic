@@ -10,6 +10,12 @@ This is a mini project, done as part of ESWC Summerschool 2013 by _TooLate_ team
 * Patrick Philipp
 * Zaenal Akbar
 
+Access Online
+==============
+
+http://darwinsmusic.herokuapp.com/
+
+
 Setup Instructions
 ==================
 
@@ -20,9 +26,3 @@ SPARQL endpoint
 ===============
 
 Coming soon ...
-
-
-You can interact with the site
-===============================
-
-http://darwinsmusic.herokuapp.com/
