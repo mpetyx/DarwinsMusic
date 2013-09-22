@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Weybridge"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Weybridge"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-0.4527 51.372)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/You_Me_at_Six"}}

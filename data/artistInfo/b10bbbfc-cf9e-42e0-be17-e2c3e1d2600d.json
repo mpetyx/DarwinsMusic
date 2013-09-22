@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Liverpool"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Liverpool"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-2.98333 53.4)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/The_Beatles"}}

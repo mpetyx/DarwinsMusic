@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Los_Angeles"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Los Angeles"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-118.25 34.05)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Weezer"}}

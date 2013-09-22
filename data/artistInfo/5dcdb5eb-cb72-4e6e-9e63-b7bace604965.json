@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"artist": {"type": "band", "value": "http://dbpedia.org/resource/Bon_Jovi"}}

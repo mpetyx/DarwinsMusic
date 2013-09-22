@@ -1,1 +1,1 @@
-{"artist": {"type": "artist", "value": "http://dbpedia.org/resource/Monica_Zetterlund"}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Sweden"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Sweden"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(18.0667 59.35)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Monica_Zetterlund"}}

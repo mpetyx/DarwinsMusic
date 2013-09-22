@@ -2,6 +2,7 @@ from rdflib import Literal, Namespace, URIRef, ConjunctiveGraph, RDF
 from os.path import basename, abspath, exists
 from glob import glob
 import json
+import sys
 
 MusicOntology = Namespace('http://purl.org/ontology/mo/')
 foaf = Namespace("http://xmlns.com/foaf/0.1/")
@@ -16,10 +17,10 @@ dbpediaowl = Namespace("http://dbpedia.org/ontology/")
 class Store:
     def __init__(self, tripleFile):
         self.graph = ConjunctiveGraph()
-		self.storefn = abspath(tripleFile)
-		self.storeuri = 'file://' + storefn
-        if exists(storefn):
-            self.graph.load(storeuri, format='n3')
+        self.storefn = abspath(tripleFile)
+        self.storeuri = 'file://' + self.storefn
+        if exists(self.storefn):
+            self.graph.load(self.storeuri, format='n3')
 
         self.graph.bind('mo', MusicOntology)
         self.graph.bind('ourvocab', OurVocab)
@@ -45,13 +46,9 @@ class Store:
             self.graph.add((trackuri, MusicOntology.performer, artisturi))
             self.graph.add((artisturi, foaf.name, Literal(track['artist']['name'])))
 
-        for tag in track['toptags']['tag']:
-            self.graph.add((trackuri, OurVocab.has_tag, Literal(tag['name'])))
-
-        #self.save()
-
-    def isTrackIn(self, uri):
-        return (URIRef(uri), RDF.type, MusicOntology['track']) in self.graph
+        if isinstance(track['toptags'], dict) and 'tag' in track['toptags'].keys():
+            for tag in track['toptags']['tag']:
+                self.graph.add((trackuri, OurVocab.has_tag, Literal(tag['name'])))
 
     def addArtist(self, trackMBID, artistData, trackData):
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % trackMBID)
@@ -91,14 +88,12 @@ class Store:
         else:
             self.graph.add((artisturi, dbpediaowl.hometown, Literal(artistData['hometown']['value'])))
 
-    def isArtistIn(self, uri):
-        return (URIRef(uri), RDF.type, MusicOntology.MusicArtist) in self.graph or (URIRef(uri), RDF.type, MusicOntology.MusicGroup) in self.graph
-
     def _matchAlbum(trackInfo, albumFiles):
         """
         A function to return the correct match of an album given a track.
+        Deprecated for most cases where the match is done using mbids.
+        Use only for cases where there is no mbid link betweeb album and track.
         """
-        #TODO: Deprecated, effect the new mbid based match
         try:
             albumName = trackInfo['album']['name']
             artistName = trackInfo['artist']['name']
@@ -111,62 +106,75 @@ class Store:
             if albumName == albumInfo['name'] and artistName == albumInfo['artist']:
                 return af
 
-    def addAlbumTriples(trackFiles, albumFiles):
-        for tf in trackFiles:
-            trackInfo = json.load(file(tf))
-            try:
-                trackInfo = trackInfo['track']
-            except:
-                continue
-            if 'album' in trackInfo.keys():
-                if 'mbid' not in trackInfo['album'].keys() or trackInfo['album']['mbid'] == '':
-                    af = getProperAlbum(trackInfo, albumFiles)
-                    if af == None:
-                        continue
-                else:
-                    af = '../data/rock/albumInfo/'+trackInfo['album']['mbid']+'.json'
-                print af
-                #create triples
-                albumInfo = json.load(file(af))
-                try:
-                    albumInfo = albumInfo['album']
-                except:
-                    Gcontinue
-                if 'releasedate' not in albumInfo.keys():
-                    continue
+    def addAlbum(trackMBID, albumInfo):
+        """
+        A function to add album data into triple store. At the moment, only the releasedate is taken
+        from the album data. More to be added soon.
+        """
+        try:
+            albumInfo = albumInfo['album']
+        except:
+            return
 
-                trackMBID = basename(tf)[:-5]
-                trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % trackMBID)
+        if 'releasedate' not in albumInfo.keys():
+            return
 
-                graph.add((trackuri, OurVocab.has_releasedate, Literal(albumInfo['releasedate'].encode('utf-8'))))
-
-
+        trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % trackMBID)
+        self.graph.add((trackuri, OurVocab.has_releasedate, Literal(albumInfo['releasedate'].encode('utf-8'))))
 
 if __name__ == "__main__":
-    s = Store()
-    files = glob("../data/rock/trackInfo/*.json")
+    if len(sys.argv) < 3:
+        print "Not enough arguments:\n\nUsage: python <script.py> <tag> <dataFolder>\n\n"
+        exit()
+
+    #track triples
+    tag = sys.argv[1]
+    dataFolder = sys.argv[2]
+
+    s = Store(dataFolder + '/' + tag + '/triples.nt')
+
+    files = glob(dataFolder + '/' + tag + '/trackInfo/*.json')
+    albumFiles = glob(dataFolder + '/' + tag + '/albumInfo/*.json')
 
     for f in files:
-        track = json.load(file(f))
-        if 'track' not in track.keys(): 
+        trackInfo = json.load(file(f))
+        if 'track' not in trackInfo.keys(): 
             #this means last.fm does not have info for this track
             continue
         mbid = basename(f)[:-5]
+        print mbid
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % mbid)
-        if s.track_is_in(trackuri):
-            print "it already exist!"
-        else:
-            s.track(mbid=mbid, track=track['track'])
-            print "i saved a new one!"
 
+        #the store automatically takes care of duplicates as graph is a 'set' of triples
+        s.addTrack(mbid=mbid, track=trackInfo['track'])
 
-    getAlbumInfo(glob("../data/rock/trackInfo/*.json"))
+        #artist triples
+        artistMBID = None
+        try:
+            artistMBID = trackInfo['track']['artist']['mbid']
+        except:
+            artistMBID = str(uuid5(NAMESPACE_URL, trackInfo['track']['artist']['url']))
 
-    trackFiles = glob("../data/rock/trackInfo/*.json")
-    albumFiles = glob("../data/rock/albumInfo/*.json")
-    addAlbumTriples(trackFiles, albumFiles)
-    graph.serialize(storeuri, format='n3')
+        if artistMBID:
+            artistData = json.load(file(dataFolder + '/artistInfo/' + artistMBID + '.json'))
+            if artistData:
+                s.addArtist(trackMBID=mbid, artistData=artistData, trackData=trackInfo['track'])
 
-    s.addArtistBio(trackMBID, artistData, track['track'])
+        #album triples
+        albumInfo = None
+        if 'album' in trackInfo.keys():
+            if 'mbid' not in trackInfo['album'].keys() or trackInfo['album']['mbid'] == '':
+                try:
+                    mbid = str(uuid5(NAMESPACE_URL, trackInfo['album']['url'].encode('utf-8')))
+                    albumInfo = json.load(file(dataFolder + '/' + tag + '/albumInfo/' + mbid + '.json'))
+                except:
+                    af = self._matchAlbum(trackInfo['track'], albumFiles)
+                    if af == None:
+                        albumInfo = None
+                    albumInfo = json.load(file(af))
+            else:
+                albumInfo = json.load(file(dataFolder + '/' + tag + '/albumInfo/' + mbid + '.json'))
+        if albumInfo:
+            s.addAlbum(trackMBID=mbid, albumInfo=albumInfo)
 
-	s.save()
+    s.save()

@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/East_Bay_(San_Francisco_Bay_Area)"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-122 37.7)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Green_Day"}}

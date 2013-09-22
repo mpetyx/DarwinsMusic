@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Limerick"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Limerick"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-8.6238 52.6653)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/The_Cranberries"}}

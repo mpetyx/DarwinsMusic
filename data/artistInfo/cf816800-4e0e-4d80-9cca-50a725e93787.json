@@ -1,1 +1,1 @@
-{"artist": {"type": "artist", "value": "http://dbpedia.org/resource/Ahmad_Jamal"}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Pittsburgh"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Pittsburgh"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-80 40.4417)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Ahmad_Jamal"}}

@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Sweden"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Sweden"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(18.0667 59.35)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/The_Hives"}}

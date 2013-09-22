@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Germany"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Germany"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(13.3833 52.5167)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Guano_Apes"}}

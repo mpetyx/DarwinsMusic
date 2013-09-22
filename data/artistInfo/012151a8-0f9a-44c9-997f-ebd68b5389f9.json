@@ -1,1 +1,1 @@
-{"head": {"link": [], "vars": ["artist", "careerStartYear", "hometown", "hometownName", "coordinates", "influenced", "influencedBy"]}, "results": {"distinct": false, "bindings": [], "ordered": true}}
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Las_Vegas_Valley"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Las Vegas Valley"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Imagine_Dragons"}}
