@@ -122,7 +122,7 @@ class dbpedia:
          OPTIONAL { ?hometown geo:geometry ?coordinates }
          }
         limit 2
-        """%name)
+        """%name.replace('"', '\\"').replace("'", "\\'"))
 
         self.sparql.setReturnFormat(JSON)
         self.wait()
@@ -168,7 +168,7 @@ class dbpedia:
          }
 
         limit 2
-        """%name)
+        """%name.replace('"', '\\"').replace("'", "\\'"))
 
         self.sparql.setReturnFormat(JSON)
         self.wait()

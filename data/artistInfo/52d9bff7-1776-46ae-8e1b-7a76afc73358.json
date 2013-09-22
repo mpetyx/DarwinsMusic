@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Finland"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Finland"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(24.9333 60.1667)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Pan_Sonic"}}

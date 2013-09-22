@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Hertfordshire"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Hertfordshire"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-0.2 51.9)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Wham!"}}

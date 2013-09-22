@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Boston"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Boston"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-71.0636 42.3581)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Gang_Starr"}}

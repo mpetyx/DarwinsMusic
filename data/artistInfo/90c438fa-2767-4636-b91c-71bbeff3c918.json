@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Gwalior"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Gwalior"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(78.178 26.2215)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Amjad_Ali_Khan"}}

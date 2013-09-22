@@ -87,7 +87,7 @@ class lastFm:
 
         trackInfo = urlopen(url).read()
         trackInfo = json.loads(trackInfo)
-        if 'track' not in trackInfo.keys():
+        if isinstance(trackInfo, dict) and 'track' not in trackInfo.keys():
             return
 
         try:

@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Italy"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Italy"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(12.4833 41.9)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Dumbo_Gets_Mad"}}

@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Caernarfon"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Caernarfon"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-4.27 53.14)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Jamie_Jones_(DJ)"}}

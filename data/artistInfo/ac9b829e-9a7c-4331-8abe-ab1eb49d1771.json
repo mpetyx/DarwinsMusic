@@ -1,0 +1,1 @@
+{"careerStartYear": {"datatype": "http://www.w3.org/2001/XMLSchema#gYear", "type": "typed-literal", "value": "1998-01-01T00:00:00+02:00"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Jan_Jelinek"}}

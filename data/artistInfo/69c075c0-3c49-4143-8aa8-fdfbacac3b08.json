@@ -1,0 +1,1 @@
+{"careerStartYear": {"datatype": "http://www.w3.org/2001/XMLSchema#gYear", "type": "typed-literal", "value": "2002-01-01T00:00:00+02:00"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Guy_Gerber"}}

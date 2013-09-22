@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Jamaica"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Jamaica"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-76.8 17.9833)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Black_Uhuru"}}

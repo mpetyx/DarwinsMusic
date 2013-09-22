@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Islington,_Jamaica"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-76.852 18.321)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Capleton"}}

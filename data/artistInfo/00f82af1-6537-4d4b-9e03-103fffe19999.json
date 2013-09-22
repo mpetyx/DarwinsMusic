@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/England"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "England"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-0.116667 51.5)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Baha_Men"}}

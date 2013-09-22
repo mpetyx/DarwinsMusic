@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Wiltshire"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-1.91667 51.3333)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Black_Sheep_(anarcho-folk_band)"}}

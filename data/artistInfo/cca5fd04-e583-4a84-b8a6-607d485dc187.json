@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Berlin"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(13.3989 52.5006)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Pan-Pot"}}

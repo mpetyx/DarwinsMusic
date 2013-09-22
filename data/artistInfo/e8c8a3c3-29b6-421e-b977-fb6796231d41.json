@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Southwark"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Borough"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-0.0901 51.4988)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Alex_Clare"}}

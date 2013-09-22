@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Khandwa"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Khandwa"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(76.33 21.83)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Shaan_(singer)"}}

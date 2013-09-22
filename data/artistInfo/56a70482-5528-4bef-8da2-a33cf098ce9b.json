@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Malm%C3%B6"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Malm\u00f6"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(12.9167 55.5833)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Minilogue"}}

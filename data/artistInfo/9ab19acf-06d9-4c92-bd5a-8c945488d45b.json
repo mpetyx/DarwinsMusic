@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Detroit"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Detroit"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-83.0458 42.3314)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/D12"}}

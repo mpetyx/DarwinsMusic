@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Tamil_Nadu"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Tamil Nadu"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(80.27 13.09)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Aruna_Sairam"}}

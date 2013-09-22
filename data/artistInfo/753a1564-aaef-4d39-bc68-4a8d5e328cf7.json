@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Stockholm"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Stockholm"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(18.0686 59.3294)"}, "artist": {"type": "band", "value": "http://dbpedia.org/resource/Miike_Snow"}}

@@ -1,0 +1,1 @@
+{"hometown": {"type": "uri", "value": "http://dbpedia.org/resource/Longueuil"}, "hometownName": {"xml:lang": "en", "type": "literal", "value": "Longueuil"}, "coordinates": {"datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry", "type": "typed-literal", "value": "POINT(-73.5167 45.5333)"}, "artist": {"type": "artist", "value": "http://dbpedia.org/resource/Jon_Lajoie"}}

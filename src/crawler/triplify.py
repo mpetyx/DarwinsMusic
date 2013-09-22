@@ -48,7 +48,8 @@ class Store:
 
         if isinstance(track['toptags'], dict) and 'tag' in track['toptags'].keys():
             for tag in track['toptags']['tag']:
-                self.graph.add((trackuri, OurVocab.has_tag, Literal(tag['name'])))
+                if isinstance(tag, dict):
+                    self.graph.add((trackuri, OurVocab.has_tag, Literal(tag['name'])))
 
     def addArtist(self, trackMBID, artistData, trackData):
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % trackMBID)
@@ -138,7 +139,7 @@ if __name__ == "__main__":
 
     for f in files:
         trackInfo = json.load(file(f))
-        if 'track' not in trackInfo.keys(): 
+        if not (isinstance(trackInfo, dict) and 'track' in trackInfo.keys()):
             #this means last.fm does not have info for this track
             continue
         mbid = basename(f)[:-5]
