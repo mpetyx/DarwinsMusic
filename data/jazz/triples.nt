@@ -24,6 +24,8 @@
 <http://musicbrainz.org/recording/00456f0d-c309-49a8-8cc4-4a5e41aba813#_> a mo:Track ;
     ourvocab:has_listener_count "76161" ;
     ourvocab:has_playcount "225349" ;
+    ourvocab:has_releasedate "    9 Mar 2005, 00:00",
+        "9 Mar 2005, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalists",
         "jazz",
@@ -35,6 +37,8 @@
 <http://musicbrainz.org/recording/0049fff0-232e-40cd-9835-854ec0d15747#_> a mo:Track ;
     ourvocab:has_listener_count "87687" ;
     ourvocab:has_playcount "298188" ;
+    ourvocab:has_releasedate "    23 Nov 2004, 00:00",
+        "23 Nov 2004, 00:00" ;
     ourvocab:has_tag "jamie cullum",
         "jazz",
         "piano",
@@ -57,6 +61,8 @@
 <http://musicbrainz.org/recording/0086725b-ab4e-4260-ac9a-253dc7cb7dd4#_> a mo:Track ;
     ourvocab:has_listener_count "30620" ;
     ourvocab:has_playcount "77107" ;
+    ourvocab:has_releasedate "    30 Nov 1972, 00:00",
+        "30 Nov 1972, 00:00" ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "instrumental",
         "jazz",
@@ -68,6 +74,8 @@
 <http://musicbrainz.org/recording/00aa440b-2cea-4f23-ae8b-298bf371ceeb#_> a mo:Track ;
     ourvocab:has_listener_count "52766" ;
     ourvocab:has_playcount "163374" ;
+    ourvocab:has_releasedate "    22 Jan 1999, 00:00",
+        "22 Jan 1999, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -79,6 +87,8 @@
 <http://musicbrainz.org/recording/00e55f43-c6fa-4906-9214-92226a258408#_> a mo:Track ;
     ourvocab:has_listener_count "31650" ;
     ourvocab:has_playcount "79423" ;
+    ourvocab:has_releasedate "    30 Nov 2012, 00:00",
+        "30 Nov 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "instrumental",
         "jazz",
@@ -90,6 +100,8 @@
 <http://musicbrainz.org/recording/00edc840-6fc7-405c-b622-daa48bb6f959#_> a mo:Track ;
     ourvocab:has_listener_count "33043" ;
     ourvocab:has_playcount "85777" ;
+    ourvocab:has_releasedate "    3 Dec 2012, 00:00",
+        "3 Dec 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "drjazzmrfunkmusic",
         "jazz",
@@ -112,6 +124,8 @@
 <http://musicbrainz.org/recording/0139d649-6e63-4c18-bb1f-95f769d178d0#_> a mo:Track ;
     ourvocab:has_listener_count "210596" ;
     ourvocab:has_playcount "826003" ;
+    ourvocab:has_releasedate "    18 Sep 2001, 00:00",
+        "18 Sep 2001, 00:00" ;
     ourvocab:has_tag "acid jazz",
         "chillout",
         "electronic",
@@ -123,6 +137,8 @@
 <http://musicbrainz.org/recording/014bc4dc-55d3-44ff-a9e6-0d79ccbc8fc7#_> a mo:Track ;
     ourvocab:has_listener_count "120210" ;
     ourvocab:has_playcount "358732" ;
+    ourvocab:has_releasedate "    11 Oct 2004, 00:00",
+        "11 Oct 2004, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "fip",
@@ -134,6 +150,8 @@
 <http://musicbrainz.org/recording/01a12bc4-3d23-4be9-832f-534803dc65c6#_> a mo:Track ;
     ourvocab:has_listener_count "30332" ;
     ourvocab:has_playcount "72307" ;
+    ourvocab:has_releasedate "    3 Mar 2003, 00:00",
+        "3 Mar 2003, 00:00" ;
     ourvocab:has_tag "instrumental jazz",
         "jazz",
         "jazz piano",
@@ -145,6 +163,8 @@
 <http://musicbrainz.org/recording/01a6a1c2-937a-44d3-bc90-248d768d4fc7#_> a mo:Track ;
     ourvocab:has_listener_count "84138" ;
     ourvocab:has_playcount "196578" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -156,6 +176,8 @@
 <http://musicbrainz.org/recording/02134c35-2c07-4b06-ad86-0f37fd130c3c#_> a mo:Track ;
     ourvocab:has_listener_count "69705" ;
     ourvocab:has_playcount "215700" ;
+    ourvocab:has_releasedate "    26 Aug 2006, 00:00",
+        "26 Aug 2006, 00:00" ;
     ourvocab:has_tag "female vocalist",
         "female vocalists",
         "jazz",
@@ -167,6 +189,8 @@
 <http://musicbrainz.org/recording/02200582-dfdc-4d4c-b36c-6be9e613c8cf#_> a mo:Track ;
     ourvocab:has_listener_count "96488" ;
     ourvocab:has_playcount "276951" ;
+    ourvocab:has_releasedate "    9 Mar 2005, 00:00",
+        "9 Mar 2005, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalists",
         "jazz",
@@ -178,6 +202,8 @@
 <http://musicbrainz.org/recording/0244a847-c640-4d72-bc09-09bba89e5240#_> a mo:Track ;
     ourvocab:has_listener_count "42076" ;
     ourvocab:has_playcount "109247" ;
+    ourvocab:has_releasedate "    13 Nov 2006, 00:00",
+        "13 Nov 2006, 00:00" ;
     ourvocab:has_tag "bass",
         "cool jazz",
         "jazz",
@@ -189,6 +215,8 @@
 <http://musicbrainz.org/recording/024ef8d6-0773-4243-856c-8437b0a2c3b4#_> a mo:Track ;
     ourvocab:has_listener_count "29556" ;
     ourvocab:has_playcount "120207" ;
+    ourvocab:has_releasedate "    28 Apr 2009, 00:00",
+        "28 Apr 2009, 00:00" ;
     ourvocab:has_tag "4 stars",
         "4jsjazz",
         "jazz",
@@ -200,6 +228,8 @@
 <http://musicbrainz.org/recording/0266f3ff-0011-41b3-988d-5ca659a6fc53#_> a mo:Track ;
     ourvocab:has_listener_count "914052" ;
     ourvocab:has_playcount "6626441" ;
+    ourvocab:has_releasedate "    13 Mar 2007, 00:00",
+        "13 Mar 2007, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "british",
         "female vocalists",
@@ -211,6 +241,8 @@
 <http://musicbrainz.org/recording/0269c946-f685-4ce1-98d5-7268bd436e25#_> a mo:Track ;
     ourvocab:has_listener_count "47657" ;
     ourvocab:has_playcount "144567" ;
+    ourvocab:has_releasedate "    16 Oct 2006, 00:00",
+        "16 Oct 2006, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalist",
         "jazz",
@@ -233,6 +265,8 @@
 <http://musicbrainz.org/recording/02837ac4-6ea4-4ca6-a258-4eba7f917072#_> a mo:Track ;
     ourvocab:has_listener_count "31750" ;
     ourvocab:has_playcount "86441" ;
+    ourvocab:has_releasedate "    20 Aug 2013, 00:00",
+        "20 Aug 2013, 00:00" ;
     ourvocab:has_tag "free jazz",
         "gimme sum friends03",
         "jazz",
@@ -244,6 +278,8 @@
 <http://musicbrainz.org/recording/03483c62-10ba-49c8-b43f-fec0dd15ba24#_> a mo:Track ;
     ourvocab:has_listener_count "120821" ;
     ourvocab:has_playcount "403738" ;
+    ourvocab:has_releasedate "    1 Jan 2006, 00:00",
+        "1 Jan 2006, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "michael buble",
@@ -255,6 +291,8 @@
 <http://musicbrainz.org/recording/034c9adf-1625-4dd5-bf8e-b26218fcee72#_> a mo:Track ;
     ourvocab:has_listener_count "13852" ;
     ourvocab:has_playcount "44040" ;
+    ourvocab:has_releasedate "    20 Mar 1987, 00:00",
+        "20 Mar 1987, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "sax",
@@ -277,6 +315,8 @@
 <http://musicbrainz.org/recording/036a33e8-144f-4b2d-b1c0-795173fa7ee2#_> a mo:Track ;
     ourvocab:has_listener_count "31999" ;
     ourvocab:has_playcount "188763" ;
+    ourvocab:has_releasedate "    25 Feb 2000, 00:00",
+        "25 Feb 2000, 00:00" ;
     ourvocab:has_tag "ambient",
         "dark jazz",
         "doom jazz",
@@ -288,6 +328,8 @@
 <http://musicbrainz.org/recording/03c1e007-62b5-44b2-90d3-16265c7ba95a#_> a mo:Track ;
     ourvocab:has_listener_count "82081" ;
     ourvocab:has_playcount "408542" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "easy listening",
         "jazz",
@@ -299,6 +341,8 @@
 <http://musicbrainz.org/recording/03c253ba-78f5-4d8e-84ca-ca1d4ed15217#_> a mo:Track ;
     ourvocab:has_listener_count "39950" ;
     ourvocab:has_playcount "114666" ;
+    ourvocab:has_releasedate "    7 Mar 1996, 00:00",
+        "7 Mar 1996, 00:00" ;
     ourvocab:has_tag "gypsy",
         "gypsy jazz",
         "jazz",
@@ -310,6 +354,8 @@
 <http://musicbrainz.org/recording/03f5c808-0092-4fdd-a2ae-a83ad3dd8c6e#_> a mo:Track ;
     ourvocab:has_listener_count "78966" ;
     ourvocab:has_playcount "303050" ;
+    ourvocab:has_releasedate "    1 Dec 2007, 00:00",
+        "1 Dec 2007, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "michael buble",
@@ -321,6 +367,8 @@
 <http://musicbrainz.org/recording/03fe56df-b83a-4310-9d3a-cf4e272487d3#_> a mo:Track ;
     ourvocab:has_listener_count "19639" ;
     ourvocab:has_playcount "59914" ;
+    ourvocab:has_releasedate "    8 Apr 2013, 00:00",
+        "8 Apr 2013, 00:00" ;
     ourvocab:has_tag "instrumental",
         "instrumental jazz tag",
         "jazz",
@@ -332,6 +380,8 @@
 <http://musicbrainz.org/recording/04120e6b-f224-4344-8424-a84e1a36f0d4#_> a mo:Track ;
     ourvocab:has_listener_count "43045" ;
     ourvocab:has_playcount "192080" ;
+    ourvocab:has_releasedate "    9 Nov 2009, 00:00",
+        "9 Nov 2009, 00:00" ;
     ourvocab:has_tag "jazz",
         "love",
         "male vocalists",
@@ -343,6 +393,8 @@
 <http://musicbrainz.org/recording/04212c16-c25e-4930-abc0-6e60a970296b#_> a mo:Track ;
     ourvocab:has_listener_count "41311" ;
     ourvocab:has_playcount "106230" ;
+    ourvocab:has_releasedate "    14 Aug 2006, 00:00",
+        "14 Aug 2006, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "jazz piano",
@@ -354,6 +406,8 @@
 <http://musicbrainz.org/recording/045ddd33-e2bc-4b4b-88c0-510d70e13814#_> a mo:Track ;
     ourvocab:has_listener_count "30881" ;
     ourvocab:has_playcount "83792" ;
+    ourvocab:has_releasedate "    13 Mar 2006, 00:00",
+        "13 Mar 2006, 00:00" ;
     ourvocab:has_tag "gimme sum friends",
         "gimme sum friends01",
         "jazz",
@@ -365,6 +419,8 @@
 <http://musicbrainz.org/recording/04725060-93a5-49b4-9a53-fa9ffad29cd5#_> a mo:Track ;
     ourvocab:has_listener_count "24290" ;
     ourvocab:has_playcount "62550" ;
+    ourvocab:has_releasedate "    30 Nov 1965, 00:00",
+        "30 Nov 1965, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "instrumental",
         "jazz",
@@ -376,6 +432,8 @@
 <http://musicbrainz.org/recording/04959300-1de5-4878-b177-8110c3e5ef83#_> a mo:Track ;
     ourvocab:has_listener_count "197022" ;
     ourvocab:has_playcount "807717" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "mellow",
@@ -387,6 +445,8 @@
 <http://musicbrainz.org/recording/04aa41d0-c65f-4fb0-b590-85dcf3b93155#_> a mo:Track ;
     ourvocab:has_listener_count "67052" ;
     ourvocab:has_playcount "210144" ;
+    ourvocab:has_releasedate "    31 Jul 1976, 00:00",
+        "31 Jul 1976, 00:00" ;
     ourvocab:has_tag "bass",
         "fusion",
         "jaco pastorius",
@@ -398,6 +458,8 @@
 <http://musicbrainz.org/recording/04ba3f46-3e96-4172-9f24-757b0aa6fa51#_> a mo:Track ;
     ourvocab:has_listener_count "37973" ;
     ourvocab:has_playcount "187384" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "beautiful",
         "female vocalists",
         "jazz",
@@ -420,6 +482,8 @@
 <http://musicbrainz.org/recording/05583c2f-4d3e-4f2b-a857-76c20725486c#_> a mo:Track ;
     ourvocab:has_listener_count "29642" ;
     ourvocab:has_playcount "91766" ;
+    ourvocab:has_releasedate "    30 Nov 1993, 00:00",
+        "30 Nov 1993, 00:00" ;
     ourvocab:has_tag "black classical music",
         "drjazzmrfunkmusic",
         "jazz",
@@ -431,6 +495,8 @@
 <http://musicbrainz.org/recording/057686b4-e41d-4d0c-bdc2-da0d79d4f7af#_> a mo:Track ;
     ourvocab:has_listener_count "119901" ;
     ourvocab:has_playcount "403016" ;
+    ourvocab:has_releasedate "    23 Nov 2004, 00:00",
+        "23 Nov 2004, 00:00" ;
     ourvocab:has_tag "cover",
         "jamie cullum",
         "jazz",
@@ -442,6 +508,8 @@
 <http://musicbrainz.org/recording/057ae2d6-3748-436f-ba06-4f1db3dcb31f#_> a mo:Track ;
     ourvocab:has_listener_count "149328" ;
     ourvocab:has_playcount "798605" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "cover",
         "female vocalists",
@@ -453,6 +521,8 @@
 <http://musicbrainz.org/recording/059cb29d-e81c-472d-984a-093292829fd1#_> a mo:Track ;
     ourvocab:has_listener_count "64841" ;
     ourvocab:has_playcount "236567" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "fallout 3",
@@ -464,6 +534,8 @@
 <http://musicbrainz.org/recording/05cd0b2e-d2a6-4854-8aca-8299264ae80c#_> a mo:Track ;
     ourvocab:has_listener_count "49331" ;
     ourvocab:has_playcount "157968" ;
+    ourvocab:has_releasedate "    30 Nov 2002, 00:00",
+        "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "nina simone",
@@ -475,6 +547,8 @@
 <http://musicbrainz.org/recording/05ff3bd8-c6ed-4164-ad0e-a315055e6e0f#_> a mo:Track ;
     ourvocab:has_listener_count "14262" ;
     ourvocab:has_playcount "68943" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "beautiful",
         "jazz",
         "piano",
@@ -486,6 +560,8 @@
 <http://musicbrainz.org/recording/064509cd-8497-4d2a-a072-b6cf3942ea6d#_> a mo:Track ;
     ourvocab:has_listener_count "34653" ;
     ourvocab:has_playcount "83298" ;
+    ourvocab:has_releasedate "    14 Aug 2006, 00:00",
+        "14 Aug 2006, 00:00" ;
     ourvocab:has_tag "bebop",
         "cool jazz according to stretchead",
         "jazz",
@@ -497,6 +573,8 @@
 <http://musicbrainz.org/recording/064b22cb-7d66-4474-9f12-dc0a01dcbec0#_> a mo:Track ;
     ourvocab:has_listener_count "115899" ;
     ourvocab:has_playcount "452334" ;
+    ourvocab:has_releasedate "    20 Nov 2007, 00:00",
+        "20 Nov 2007, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "british",
         "female vocalists",
@@ -530,6 +608,8 @@
 <http://musicbrainz.org/recording/06ae6985-2346-4b63-9450-82bf0e0858ab#_> a mo:Track ;
     ourvocab:has_listener_count "37404" ;
     ourvocab:has_playcount "95158" ;
+    ourvocab:has_releasedate "    3 Sep 2007, 00:00",
+        "3 Sep 2007, 00:00" ;
     ourvocab:has_tag "cover",
         "female singer",
         "female vocalists",
@@ -541,6 +621,8 @@
 <http://musicbrainz.org/recording/06c11b50-e5cc-49ad-af3a-35b7433b1b95#_> a mo:Track ;
     ourvocab:has_listener_count "528884" ;
     ourvocab:has_playcount "2936866" ;
+    ourvocab:has_releasedate "    13 Mar 2007, 00:00",
+        "13 Mar 2007, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "british",
         "female vocalists",
@@ -552,6 +634,8 @@
 <http://musicbrainz.org/recording/06e3165b-7d53-4f5d-ada9-9b06bcbd0d53#_> a mo:Track ;
     ourvocab:has_listener_count "49791" ;
     ourvocab:has_playcount "155862" ;
+    ourvocab:has_releasedate "    19 Jun 1996, 00:00",
+        "19 Jun 1996, 00:00" ;
     ourvocab:has_tag "fallout 3",
         "galaxy news radio",
         "jazz",
@@ -563,6 +647,8 @@
 <http://musicbrainz.org/recording/06e6cd95-82a5-46bc-a81e-388660b20bbd#_> a mo:Track ;
     ourvocab:has_listener_count "25678" ;
     ourvocab:has_playcount "61503" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "big band",
         "ella",
         "ella fitzgerald",
@@ -574,6 +660,8 @@
 <http://musicbrainz.org/recording/074a0a5c-3702-4c17-b861-32c2974d3a3a#_> a mo:Track ;
     ourvocab:has_listener_count "18978" ;
     ourvocab:has_playcount "44857" ;
+    ourvocab:has_releasedate "    19 Mar 1996, 00:00",
+        "19 Mar 1996, 00:00" ;
     ourvocab:has_tag "free jazz",
         "hard bop",
         "jazz",
@@ -585,6 +673,8 @@
 <http://musicbrainz.org/recording/07843ec9-aad3-4088-aaaf-b5a638bc0755#_> a mo:Track ;
     ourvocab:has_listener_count "506714" ;
     ourvocab:has_playcount "2152082" ;
+    ourvocab:has_releasedate "    25 Apr 2012, 00:00",
+        "25 Apr 2012, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "oldies",
@@ -596,6 +686,8 @@
 <http://musicbrainz.org/recording/07846aca-7471-493a-8d18-5c43eea967d5#_> a mo:Track ;
     ourvocab:has_listener_count "12388" ;
     ourvocab:has_playcount "72001" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "beautiful",
         "jazz",
         "piano",
@@ -618,6 +710,8 @@
 <http://musicbrainz.org/recording/07ff4e4a-e7be-4b81-baf9-9c5da307794d#_> a mo:Track ;
     ourvocab:has_listener_count "38616" ;
     ourvocab:has_playcount "97521" ;
+    ourvocab:has_releasedate "    3 Dec 2012, 00:00",
+        "3 Dec 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "bluebackgroundmissn-eworleans library",
         "jazz",
@@ -629,6 +723,8 @@
 <http://musicbrainz.org/recording/08a194ef-c335-4084-a2cf-686b3e4cf570#_> a mo:Track ;
     ourvocab:has_listener_count "25150" ;
     ourvocab:has_playcount "62012" ;
+    ourvocab:has_releasedate "    10 Mar 2010, 00:00",
+        "10 Mar 2010, 00:00" ;
     ourvocab:has_tag "art blakey and the jazz messengers",
         "drums",
         "hard bop",
@@ -640,6 +736,8 @@
 <http://musicbrainz.org/recording/08e69729-ca17-40ad-85e8-60f8864eb838#_> a mo:Track ;
     ourvocab:has_listener_count "44857" ;
     ourvocab:has_playcount "110835" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -651,6 +749,8 @@
 <http://musicbrainz.org/recording/08fe383d-829a-4bdb-af45-9fa346b5cbc2#_> a mo:Track ;
     ourvocab:has_listener_count "62116" ;
     ourvocab:has_playcount "208819" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "british",
         "jamie cullum",
         "jazz",
@@ -673,6 +773,8 @@
 <http://musicbrainz.org/recording/092ef3be-a819-4104-a10c-7363c18bd156#_> a mo:Track ;
     ourvocab:has_listener_count "89919" ;
     ourvocab:has_playcount "326216" ;
+    ourvocab:has_releasedate "    23 Nov 2004, 00:00",
+        "23 Nov 2004, 00:00" ;
     ourvocab:has_tag "jamie cullum",
         "jazz",
         "other",
@@ -684,6 +786,8 @@
 <http://musicbrainz.org/recording/093a5f1a-f828-49d4-b0c6-0702a63280ec#_> a mo:Track ;
     ourvocab:has_listener_count "24525" ;
     ourvocab:has_playcount "49596" ;
+    ourvocab:has_releasedate "    10 Jun 2005, 00:00",
+        "10 Jun 2005, 00:00" ;
     ourvocab:has_tag "jazz",
         "jazz saxophone",
         "meglep",
@@ -695,6 +799,8 @@
 <http://musicbrainz.org/recording/094f423a-5d3e-40d4-9f29-825bc5c5bdbb#_> a mo:Track ;
     ourvocab:has_listener_count "27200" ;
     ourvocab:has_playcount "101769" ;
+    ourvocab:has_releasedate "    1 Jun 2007, 00:00",
+        "1 Jun 2007, 00:00" ;
     ourvocab:has_tag "chillout",
         "cover",
         "female vocalists",
@@ -705,6 +811,8 @@
 <http://musicbrainz.org/recording/09b3fd5f-b78e-4e33-9950-277f50e026ee#_> a mo:Track ;
     ourvocab:has_listener_count "25545" ;
     ourvocab:has_playcount "59804" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "dc wash jazz",
         "jazz",
         "metrohadriani loves this music",
@@ -727,6 +835,8 @@
 <http://musicbrainz.org/recording/0a16100f-daea-4aae-bc53-a62b2f9eb3e6#_> a mo:Track ;
     ourvocab:has_listener_count "30393" ;
     ourvocab:has_playcount "105982" ;
+    ourvocab:has_releasedate "    20 Jul 2004, 00:00",
+        "20 Jul 2004, 00:00" ;
     ourvocab:has_tag "contemporary jazz",
         "instrumental",
         "jazz",
@@ -738,6 +848,8 @@
 <http://musicbrainz.org/recording/0a20953f-0c8e-4ce2-8994-c1e173b53cf5#_> a mo:Track ;
     ourvocab:has_listener_count "60855" ;
     ourvocab:has_playcount "212649" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "british",
         "jamie cullum",
         "jazz",
@@ -749,6 +861,8 @@
 <http://musicbrainz.org/recording/0a26085c-dd3a-4e99-8978-df3d538b8305#_> a mo:Track ;
     ourvocab:has_listener_count "19000" ;
     ourvocab:has_playcount "50964" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "listened",
@@ -760,6 +874,8 @@
 <http://musicbrainz.org/recording/0a804d18-a0f4-4959-99be-5e57c2c44eb8#_> a mo:Track ;
     ourvocab:has_listener_count "28479" ;
     ourvocab:has_playcount "82668" ;
+    ourvocab:has_releasedate "    2 May 2011, 00:00",
+        "2 May 2011, 00:00" ;
     ourvocab:has_tag "2giveme5",
         "classic vocal jazz",
         "duo",
@@ -781,6 +897,8 @@
 <http://musicbrainz.org/recording/0acc1da1-46b9-403e-91c2-f9cb5933b7c2#_> a mo:Track ;
     ourvocab:has_listener_count "77090" ;
     ourvocab:has_playcount "183883" ;
+    ourvocab:has_releasedate "    3 Oct 2005, 00:00",
+        "3 Oct 2005, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal",
@@ -792,6 +910,8 @@
 <http://musicbrainz.org/recording/0af410c2-757b-4acc-8f42-6b12de2211be#_> a mo:Track ;
     ourvocab:has_listener_count "81519" ;
     ourvocab:has_playcount "344061" ;
+    ourvocab:has_releasedate "    14 Jul 2009, 00:00",
+        "14 Jul 2009, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -803,6 +923,8 @@
 <http://musicbrainz.org/recording/0b1481ad-7d83-480a-92f6-46a90fa7a3d3#_> a mo:Track ;
     ourvocab:has_listener_count "30699" ;
     ourvocab:has_playcount "142494" ;
+    ourvocab:has_releasedate "    2 Jun 2011, 00:00",
+        "2 Jun 2011, 00:00" ;
     ourvocab:has_tag "caro emerald",
         "female vocalists",
         "good stuff",
@@ -847,6 +969,8 @@
 <http://musicbrainz.org/recording/0be6d37a-1051-4394-8364-308fab19bb0d#_> a mo:Track ;
     ourvocab:has_listener_count "20148" ;
     ourvocab:has_playcount "42226" ;
+    ourvocab:has_releasedate "    17 Aug 1996, 00:00",
+        "17 Aug 1996, 00:00" ;
     ourvocab:has_tag "easy listening",
         "instrumental",
         "jazz",
@@ -858,6 +982,8 @@
 <http://musicbrainz.org/recording/0c2adc0f-b554-4b7c-a33f-68b7d1dc782a#_> a mo:Track ;
     ourvocab:has_listener_count "91877" ;
     ourvocab:has_playcount "401850" ;
+    ourvocab:has_releasedate "    14 Jul 2009, 00:00",
+        "14 Jul 2009, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -869,6 +995,8 @@
 <http://musicbrainz.org/recording/0c368f38-14ef-4ccf-b1a3-72ec3910c100#_> a mo:Track ;
     ourvocab:has_listener_count "66332" ;
     ourvocab:has_playcount "158072" ;
+    ourvocab:has_releasedate "    14 Aug 2006, 00:00",
+        "14 Aug 2006, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "jazz piano",
@@ -880,6 +1008,8 @@
 <http://musicbrainz.org/recording/0c7b21ec-baa7-4989-9cc1-12afcdf85ca3#_> a mo:Track ;
     ourvocab:has_listener_count "11578" ;
     ourvocab:has_playcount "22922" ;
+    ourvocab:has_releasedate "    13 Mar 2006, 00:00",
+        "13 Mar 2006, 00:00" ;
     ourvocab:has_tag "great jazz - miles davis",
         "instrumental",
         "jazz",
@@ -891,6 +1021,8 @@
 <http://musicbrainz.org/recording/0c91f104-beb1-4c1d-823e-cd46f236b31d#_> a mo:Track ;
     ourvocab:has_listener_count "39929" ;
     ourvocab:has_playcount "93905" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -902,6 +1034,8 @@
 <http://musicbrainz.org/recording/0d0039cd-4ce3-416c-8a4b-24eab03047a6#_> a mo:Track ;
     ourvocab:has_listener_count "35122" ;
     ourvocab:has_playcount "71429" ;
+    ourvocab:has_releasedate "    20 Mar 1987, 00:00",
+        "20 Mar 1987, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "milk is getting warm",
@@ -913,6 +1047,8 @@
 <http://musicbrainz.org/recording/0d68ab29-ba86-4fd0-9973-6ac3be3dc1d8#_> a mo:Track ;
     ourvocab:has_listener_count "136302" ;
     ourvocab:has_playcount "445252" ;
+    ourvocab:has_releasedate "    5 Nov 2001, 00:00",
+        "5 Nov 2001, 00:00" ;
     ourvocab:has_tag "jazz",
         "male vocalists",
         "pop",
@@ -924,6 +1060,8 @@
 <http://musicbrainz.org/recording/0d6d0fed-d7a0-4e73-bcaa-d45abb926ed6#_> a mo:Track ;
     ourvocab:has_listener_count "14690" ;
     ourvocab:has_playcount "45342" ;
+    ourvocab:has_releasedate "    20 May 2003, 00:00",
+        "20 May 2003, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "jazz fusion",
@@ -935,6 +1073,8 @@
 <http://musicbrainz.org/recording/0d8973d7-d96d-4757-824d-da84325c2855#_> a mo:Track ;
     ourvocab:has_listener_count "35939" ;
     ourvocab:has_playcount "105927" ;
+    ourvocab:has_releasedate "    10 Apr 2013, 00:00",
+        "10 Apr 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "fonky jazz",
         "jazz",
@@ -946,6 +1086,8 @@
 <http://musicbrainz.org/recording/0d915261-b2c2-41d7-8a32-ea42477b483e#_> a mo:Track ;
     ourvocab:has_listener_count "30470" ;
     ourvocab:has_playcount "95984" ;
+    ourvocab:has_releasedate "    15 Mar 1999, 00:00",
+        "15 Mar 1999, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "drjazzmrfunkmusic",
         "jazz",
@@ -967,6 +1109,8 @@
 <http://musicbrainz.org/recording/0de8130e-4762-4970-a999-3b6b744e41ea#_> a mo:Track ;
     ourvocab:has_listener_count "63833" ;
     ourvocab:has_playcount "149208" ;
+    ourvocab:has_releasedate "    14 Aug 2006, 00:00",
+        "14 Aug 2006, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "jazz piano",
@@ -978,6 +1122,8 @@
 <http://musicbrainz.org/recording/0e50fd45-a2af-4f99-a04d-74e09c9b26a8#_> a mo:Track ;
     ourvocab:has_listener_count "102220" ;
     ourvocab:has_playcount "352987" ;
+    ourvocab:has_releasedate "    23 Nov 2004, 00:00",
+        "23 Nov 2004, 00:00" ;
     ourvocab:has_tag "jamie cullum",
         "jazz",
         "jazz vocal",
@@ -1000,6 +1146,8 @@
 <http://musicbrainz.org/recording/0f2afa2a-17d3-4962-965e-fbcfff62049f#_> a mo:Track ;
     ourvocab:has_listener_count "66399" ;
     ourvocab:has_playcount "231818" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "jazz",
         "mellow",
         "piano",
@@ -1022,6 +1170,8 @@
 <http://musicbrainz.org/recording/0f854a8a-001e-4671-bd13-eae8fd348f21#_> a mo:Track ;
     ourvocab:has_listener_count "64022" ;
     ourvocab:has_playcount "228453" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "jamie cullum",
         "jazz",
@@ -1055,6 +1205,8 @@
 <http://musicbrainz.org/recording/107713f7-1176-4f47-b42b-acc21bc5a4f2#_> a mo:Track ;
     ourvocab:has_listener_count "23026" ;
     ourvocab:has_playcount "55215" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "female vocal",
         "jazz",
         "jazz women vocalists",
@@ -1066,6 +1218,8 @@
 <http://musicbrainz.org/recording/10e2cad5-3375-4fd4-87e7-9dcd73070e03#_> a mo:Track ;
     ourvocab:has_listener_count "73561" ;
     ourvocab:has_playcount "286468" ;
+    ourvocab:has_releasedate "    6 Dec 2011, 00:00",
+        "6 Dec 2011, 00:00" ;
     ourvocab:has_tag "2011",
         "amy winehouse",
         "female vocalists",
@@ -1077,6 +1231,8 @@
 <http://musicbrainz.org/recording/10f461e7-ddc4-4ce4-b015-d130b006ab22#_> a mo:Track ;
     ourvocab:has_listener_count "49082" ;
     ourvocab:has_playcount "120184" ;
+    ourvocab:has_releasedate "    30 Nov 2012, 00:00",
+        "30 Nov 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "jazz piano",
@@ -1088,6 +1244,8 @@
 <http://musicbrainz.org/recording/116c28f7-6b00-47a8-9c73-5760273952d6#_> a mo:Track ;
     ourvocab:has_listener_count "81448" ;
     ourvocab:has_playcount "293455" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "jamie cullum",
         "jazz",
         "piano",
@@ -1099,6 +1257,8 @@
 <http://musicbrainz.org/recording/11aaaa00-bb97-4554-8a72-505c577acc7f#_> a mo:Track ;
     ourvocab:has_listener_count "36053" ;
     ourvocab:has_playcount "107073" ;
+    ourvocab:has_releasedate "    22 Nov 2004, 00:00",
+        "22 Nov 2004, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalists",
         "jazz",
@@ -1110,6 +1270,8 @@
 <http://musicbrainz.org/recording/11f2110c-847a-4147-9f1b-dc111f8b086e#_> a mo:Track ;
     ourvocab:has_listener_count "105287" ;
     ourvocab:has_playcount "254916" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -1132,6 +1294,8 @@
 <http://musicbrainz.org/recording/121a577d-7c32-48b4-a85e-ce6f166a5fd1#_> a mo:Track ;
     ourvocab:has_listener_count "85479" ;
     ourvocab:has_playcount "188899" ;
+    ourvocab:has_releasedate "    4 May 2010, 00:00",
+        "4 May 2010, 00:00" ;
     ourvocab:has_tag "bebop",
         "charlie parker",
         "instrumental",
@@ -1143,6 +1307,8 @@
 <http://musicbrainz.org/recording/124d66df-2440-4b43-934f-4144a5417c39#_> a mo:Track ;
     ourvocab:has_listener_count "23267" ;
     ourvocab:has_playcount "77501" ;
+    ourvocab:has_releasedate "    30 Mar 2009, 00:00",
+        "30 Mar 2009, 00:00" ;
     ourvocab:has_tag "ballad",
         "diana krall",
         "female vocal",
@@ -1154,6 +1320,8 @@
 <http://musicbrainz.org/recording/1258bbb5-9540-4548-b01f-2ce7c58c2137#_> a mo:Track ;
     ourvocab:has_listener_count "69106" ;
     ourvocab:has_playcount "267007" ;
+    ourvocab:has_releasedate "    18 Apr 2004, 00:00",
+        "18 Apr 2004, 00:00" ;
     ourvocab:has_tag "chillout",
         "jazz",
         "ninja tune",
@@ -1165,6 +1333,8 @@
 <http://musicbrainz.org/recording/136ff6ba-a33d-4e3d-a909-558b23a96656#_> a mo:Track ;
     ourvocab:has_listener_count "15033" ;
     ourvocab:has_playcount "42107" ;
+    ourvocab:has_releasedate "    30 Nov 2001, 00:00",
+        "30 Nov 2001, 00:00" ;
     ourvocab:has_tag "instrumental",
         "instrumental jazz tag",
         "jazz",
@@ -1176,6 +1346,8 @@
 <http://musicbrainz.org/recording/13b8efee-2acf-446b-82f7-4b8333d3a588#_> a mo:Track ;
     ourvocab:has_listener_count "28344" ;
     ourvocab:has_playcount "100287" ;
+    ourvocab:has_releasedate "    20 Jul 2011, 00:00",
+        "20 Jul 2011, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "fusion",
         "jazz",
@@ -1187,6 +1359,8 @@
 <http://musicbrainz.org/recording/13d12fcb-2ed2-41c7-b2e9-69f09d760118#_> a mo:Track ;
     ourvocab:has_listener_count "48130" ;
     ourvocab:has_playcount "155988" ;
+    ourvocab:has_releasedate "    30 Nov 2002, 00:00",
+        "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "nina simone",
@@ -1198,6 +1372,8 @@
 <http://musicbrainz.org/recording/13f22b26-2055-4882-9622-a21d863065c4#_> a mo:Track ;
     ourvocab:has_listener_count "60562" ;
     ourvocab:has_playcount "356579" ;
+    ourvocab:has_releasedate "    30 Nov 2009, 00:00",
+        "30 Nov 2009, 00:00" ;
     ourvocab:has_tag "chanson",
         "female vocalists",
         "french",
@@ -1220,6 +1396,8 @@
 <http://musicbrainz.org/recording/140d8055-978f-4df9-a4ad-9b337554f1c4#_> a mo:Track ;
     ourvocab:has_listener_count "54663" ;
     ourvocab:has_playcount "156288" ;
+    ourvocab:has_releasedate "    15 Sep 1999, 00:00",
+        "15 Sep 1999, 00:00" ;
     ourvocab:has_tag "downtempo",
         "electronic",
         "instrumental",
@@ -1231,6 +1409,8 @@
 <http://musicbrainz.org/recording/140f57a6-c652-4479-b6e3-0127f0651bbe#_> a mo:Track ;
     ourvocab:has_listener_count "170399" ;
     ourvocab:has_playcount "698794" ;
+    ourvocab:has_releasedate "    5 Feb 2010, 00:00",
+        "5 Feb 2010, 00:00" ;
     ourvocab:has_tag "country",
         "female vocalists",
         "jazz",
@@ -1242,6 +1422,8 @@
 <http://musicbrainz.org/recording/144f32b5-24aa-44a6-ba96-b6371d7ddf04#_> a mo:Track ;
     ourvocab:has_listener_count "20802" ;
     ourvocab:has_playcount "42365" ;
+    ourvocab:has_releasedate "    11 May 1988, 00:00",
+        "11 May 1988, 00:00" ;
     ourvocab:has_tag "chillout",
         "jazz",
         "lee morgan",
@@ -1264,6 +1446,8 @@
 <http://musicbrainz.org/recording/14a4598e-cde0-484f-ad15-eccab128ca54#_> a mo:Track ;
     ourvocab:has_listener_count "59561" ;
     ourvocab:has_playcount "224238" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "bossa nova",
         "brazilian",
         "chillout",
@@ -1297,6 +1481,8 @@
 <http://musicbrainz.org/recording/15b08327-e53d-42b1-a28e-14bb3d1d8d62#_> a mo:Track ;
     ourvocab:has_listener_count "39088" ;
     ourvocab:has_playcount "73268" ;
+    ourvocab:has_releasedate "    5 Feb 2013, 00:00",
+        "5 Feb 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "sax",
@@ -1308,6 +1494,8 @@
 <http://musicbrainz.org/recording/15de39d6-a596-4afd-bcec-268eac3cf131#_> a mo:Track ;
     ourvocab:has_listener_count "29642" ;
     ourvocab:has_playcount "95703" ;
+    ourvocab:has_releasedate "    30 Mar 2009, 00:00",
+        "30 Mar 2009, 00:00" ;
     ourvocab:has_tag "bossa nova",
         "chillout",
         "diana krall",
@@ -1319,6 +1507,8 @@
 <http://musicbrainz.org/recording/16e5645f-386d-44a8-a7a4-4f6b69687246#_> a mo:Track ;
     ourvocab:has_listener_count "44415" ;
     ourvocab:has_playcount "119567" ;
+    ourvocab:has_releasedate "    24 Jul 2001, 00:00",
+        "24 Jul 2001, 00:00" ;
     ourvocab:has_tag "avant-garde",
         "bebop",
         "jazz",
@@ -1330,6 +1520,8 @@
 <http://musicbrainz.org/recording/1735360f-8e1b-43d2-ae98-57ef3486a881#_> a mo:Track ;
     ourvocab:has_listener_count "132362" ;
     ourvocab:has_playcount "432075" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "cover",
         "jazz",
         "michael buble",
@@ -1352,6 +1544,8 @@
 <http://musicbrainz.org/recording/17b2c6fd-8c00-4e2b-bb4c-c8b597a8899c#_> a mo:Track ;
     ourvocab:has_listener_count "65881" ;
     ourvocab:has_playcount "158271" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -1363,6 +1557,8 @@
 <http://musicbrainz.org/recording/17b35859-cfd0-4857-9dfe-232bc458d800#_> a mo:Track ;
     ourvocab:has_listener_count "85564" ;
     ourvocab:has_playcount "265206" ;
+    ourvocab:has_releasedate "    11 Oct 2004, 00:00",
+        "11 Oct 2004, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -1374,6 +1570,8 @@
 <http://musicbrainz.org/recording/17db39f9-6b5a-4571-9356-faec55d41f33#_> a mo:Track ;
     ourvocab:has_listener_count "35741" ;
     ourvocab:has_playcount "85437" ;
+    ourvocab:has_releasedate "    31 Mar 1998, 00:00",
+        "31 Mar 1998, 00:00" ;
     ourvocab:has_tag "ella",
         "female vocalists",
         "jazz",
@@ -1385,6 +1583,8 @@
 <http://musicbrainz.org/recording/1868da0e-e886-44f5-b4a0-12fd38069d17#_> a mo:Track ;
     ourvocab:has_listener_count "49350" ;
     ourvocab:has_playcount "179989" ;
+    ourvocab:has_releasedate "    10 Mar 2013, 00:00",
+        "10 Mar 2013, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "fip",
@@ -1396,6 +1596,8 @@
 <http://musicbrainz.org/recording/189c800d-0ba1-49bd-b2b9-e285d9070af4#_> a mo:Track ;
     ourvocab:has_listener_count "16440" ;
     ourvocab:has_playcount "47514" ;
+    ourvocab:has_releasedate "    21 Jan 2013, 00:00",
+        "21 Jan 2013, 00:00" ;
     ourvocab:has_tag "fip",
         "jazz",
         "jazz ballads",
@@ -1407,6 +1609,8 @@
 <http://musicbrainz.org/recording/18ab3368-400f-43c1-a1ec-c2d732f34eed#_> a mo:Track ;
     ourvocab:has_listener_count "32269" ;
     ourvocab:has_playcount "100905" ;
+    ourvocab:has_releasedate "    7 Jul 2009, 00:00",
+        "7 Jul 2009, 00:00" ;
     ourvocab:has_tag "female vocalist and bass-player",
         "female vocalists",
         "jazz",
@@ -1418,6 +1622,8 @@
 <http://musicbrainz.org/recording/18ede02f-d223-48b3-aceb-ac8ec8266cbb#_> a mo:Track ;
     ourvocab:has_listener_count "64412" ;
     ourvocab:has_playcount "206762" ;
+    ourvocab:has_releasedate "    26 Aug 2006, 00:00",
+        "26 Aug 2006, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -1440,6 +1646,8 @@
 <http://musicbrainz.org/recording/1a01bc0c-9319-4da4-91d6-b926de6641fa#_> a mo:Track ;
     ourvocab:has_listener_count "33970" ;
     ourvocab:has_playcount "101748" ;
+    ourvocab:has_releasedate "    17 Oct 1990, 00:00",
+        "17 Oct 1990, 00:00" ;
     ourvocab:has_tag "70s",
         "guitar jazz",
         "jazz",
@@ -1451,6 +1659,8 @@
 <http://musicbrainz.org/recording/1a044c43-282f-4c15-a374-4ac9ca3353d6#_> a mo:Track ;
     ourvocab:has_listener_count "41742" ;
     ourvocab:has_playcount "118819" ;
+    ourvocab:has_releasedate "    7 Mar 1996, 00:00",
+        "7 Mar 1996, 00:00" ;
     ourvocab:has_tag "django reinhardt",
         "guitar",
         "instrumental",
@@ -1484,6 +1694,8 @@
 <http://musicbrainz.org/recording/1afdd0a3-d19a-4d8f-b115-2df43d7c7d41#_> a mo:Track ;
     ourvocab:has_listener_count "49710" ;
     ourvocab:has_playcount "155918" ;
+    ourvocab:has_releasedate "    15 Mar 1999, 00:00",
+        "15 Mar 1999, 00:00" ;
     ourvocab:has_tag "instrumental",
         "jazz",
         "miles davis",
@@ -1495,6 +1707,8 @@
 <http://musicbrainz.org/recording/1b214d12-d48d-47dd-9162-9010cb58ab10#_> a mo:Track ;
     ourvocab:has_listener_count "16048" ;
     ourvocab:has_playcount "44895" ;
+    ourvocab:has_releasedate "    8 Mar 2013, 00:00",
+        "8 Mar 2013, 00:00" ;
     ourvocab:has_tag "bill evans",
         "cool jazz",
         "jazz",
@@ -1506,6 +1720,8 @@
 <http://musicbrainz.org/recording/1b689b45-2459-4f05-8947-19bc4237878b#_> a mo:Track ;
     ourvocab:has_listener_count "89947" ;
     ourvocab:has_playcount "385921" ;
+    ourvocab:has_releasedate "    30 Nov 1986, 00:00",
+        "30 Nov 1986, 00:00" ;
     ourvocab:has_tag "chanson",
         "italian",
         "jazz",
@@ -1517,6 +1733,8 @@
 <http://musicbrainz.org/recording/1b71b921-58c3-4b31-ac09-5c9efdbc8b08#_> a mo:Track ;
     ourvocab:has_listener_count "18885" ;
     ourvocab:has_playcount "53954" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "swing",
@@ -1528,6 +1746,8 @@
 <http://musicbrainz.org/recording/1b77f7e3-4922-48dc-9d31-aeb53a5c62c4#_> a mo:Track ;
     ourvocab:has_listener_count "21013" ;
     ourvocab:has_playcount "52327" ;
+    ourvocab:has_releasedate "    30 Nov 1965, 00:00",
+        "30 Nov 1965, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "dave brubeck",
         "instrumental",
@@ -1539,6 +1759,8 @@
 <http://musicbrainz.org/recording/1b9ad53a-c8de-40e7-881d-2bc141880dc2#_> a mo:Track ;
     ourvocab:has_listener_count "65996" ;
     ourvocab:has_playcount "190322" ;
+    ourvocab:has_releasedate "    9 Mar 2005, 00:00",
+        "9 Mar 2005, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalists",
         "jazz",
@@ -1550,6 +1772,8 @@
 <http://musicbrainz.org/recording/1bc975d9-aca5-489f-b3d3-ca57f99f13d2#_> a mo:Track ;
     ourvocab:has_listener_count "92302" ;
     ourvocab:has_playcount "404761" ;
+    ourvocab:has_releasedate "    13 May 2008, 00:00",
+        "13 May 2008, 00:00" ;
     ourvocab:has_tag "bossa nova",
         "easy listening",
         "jazz",
@@ -1561,6 +1785,8 @@
 <http://musicbrainz.org/recording/1c59b117-0bb9-449a-9955-faa31f88d661#_> a mo:Track ;
     ourvocab:has_listener_count "40858" ;
     ourvocab:has_playcount "124677" ;
+    ourvocab:has_releasedate "    22 Jan 1999, 00:00",
+        "22 Jan 1999, 00:00" ;
     ourvocab:has_tag "female vocal",
         "jazz",
         "nina simone",
@@ -1572,6 +1798,8 @@
 <http://musicbrainz.org/recording/1e6a39cc-5476-452a-a0b7-8b036c220153#_> a mo:Track ;
     ourvocab:has_listener_count "25584" ;
     ourvocab:has_playcount "70611" ;
+    ourvocab:has_releasedate "    13 Mar 2006, 00:00",
+        "13 Mar 2006, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "miles davis",
@@ -1583,6 +1811,8 @@
 <http://musicbrainz.org/recording/1e8099c2-083a-43f4-8573-8ee5a9ff61a1#_> a mo:Track ;
     ourvocab:has_listener_count "23068" ;
     ourvocab:has_playcount "62072" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal",
@@ -1594,6 +1824,8 @@
 <http://musicbrainz.org/recording/1f15dd0e-438c-4ea3-b454-d6b4be5c2e90#_> a mo:Track ;
     ourvocab:has_listener_count "11592" ;
     ourvocab:has_playcount "41615" ;
+    ourvocab:has_releasedate "    30 Nov 1990, 00:00",
+        "30 Nov 1990, 00:00" ;
     ourvocab:has_tag "instrumental",
         "jazz",
         "jazz greatest",
@@ -1605,6 +1837,8 @@
 <http://musicbrainz.org/recording/1fa315ef-3717-434a-b53c-e20cf963d17d#_> a mo:Track ;
     ourvocab:has_listener_count "121832" ;
     ourvocab:has_playcount "411197" ;
+    ourvocab:has_releasedate "    26 Mar 1991, 00:00",
+        "26 Mar 1991, 00:00" ;
     ourvocab:has_tag "big band",
         "easy listening",
         "frank sinatra",
@@ -1616,6 +1850,8 @@
 <http://musicbrainz.org/recording/1fb90aeb-01c1-441b-988e-ad69e35358a4#_> a mo:Track ;
     ourvocab:has_listener_count "43710" ;
     ourvocab:has_playcount "130779" ;
+    ourvocab:has_releasedate "    30 Nov 1994, 00:00",
+        "30 Nov 1994, 00:00" ;
     ourvocab:has_tag "blues",
         "gospel",
         "jazz",
@@ -1638,6 +1874,8 @@
 <http://musicbrainz.org/recording/2002994c-d448-5521-b7cd-919f54ac5338#_> a mo:Track ;
     ourvocab:has_listener_count "27976" ;
     ourvocab:has_playcount "71166" ;
+    ourvocab:has_releasedate "    12 Jul 2013, 00:00",
+        "12 Jul 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "charliebirdparker",
         "jazz",
@@ -1649,6 +1887,8 @@
 <http://musicbrainz.org/recording/2017ab80-9e31-4fd4-91d2-43ed2112c8fd#_> a mo:Track ;
     ourvocab:has_listener_count "133954" ;
     ourvocab:has_playcount "605185" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -1660,6 +1900,8 @@
 <http://musicbrainz.org/recording/203cc163-db59-4a0e-9a21-717ae9f710b9#_> a mo:Track ;
     ourvocab:has_listener_count "116166" ;
     ourvocab:has_playcount "350061" ;
+    ourvocab:has_releasedate "    11 Oct 2004, 00:00",
+        "11 Oct 2004, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -1671,6 +1913,8 @@
 <http://musicbrainz.org/recording/2048d4a7-1e8c-5c5a-9e86-0a28852e5312#_> a mo:Track ;
     ourvocab:has_listener_count "48414" ;
     ourvocab:has_playcount "120265" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "blues",
         "jazz",
         "louis armstrong",
@@ -1682,6 +1926,8 @@
 <http://musicbrainz.org/recording/20531ceb-a5e4-4890-88b3-a430e9296004#_> a mo:Track ;
     ourvocab:has_listener_count "51792" ;
     ourvocab:has_playcount "212232" ;
+    ourvocab:has_releasedate "    9 Nov 2009, 00:00",
+        "9 Nov 2009, 00:00" ;
     ourvocab:has_tag "00s",
         "james blunt",
         "jazz",
@@ -1693,6 +1939,8 @@
 <http://musicbrainz.org/recording/206de8d4-b101-4d6b-a393-21b3de93e1fe#_> a mo:Track ;
     ourvocab:has_listener_count "29668" ;
     ourvocab:has_playcount "90632" ;
+    ourvocab:has_releasedate "    21 Aug 2006, 00:00",
+        "21 Aug 2006, 00:00" ;
     ourvocab:has_tag "chet baker",
         "cool jazz",
         "jazz",
@@ -1715,6 +1963,8 @@
 <http://musicbrainz.org/recording/20e5bb9b-7236-47b1-a1da-37919451ad89#_> a mo:Track ;
     ourvocab:has_listener_count "83156" ;
     ourvocab:has_playcount "333598" ;
+    ourvocab:has_releasedate "    17 Nov 2009, 00:00",
+        "17 Nov 2009, 00:00" ;
     ourvocab:has_tag "acoustic",
         "alternative",
         "jazz",
@@ -1737,6 +1987,8 @@
 <http://musicbrainz.org/recording/21b06466-19bd-4089-808e-5bb762dab782#_> a mo:Track ;
     ourvocab:has_listener_count "338274" ;
     ourvocab:has_playcount "1481182" ;
+    ourvocab:has_releasedate "    2 Mar 2009, 00:00",
+        "2 Mar 2009, 00:00" ;
     ourvocab:has_tag "alternative",
         "electronic",
         "female vocalists",
@@ -1748,6 +2000,8 @@
 <http://musicbrainz.org/recording/230cebf5-1bd4-4014-b9c4-7fcc3bd5e321#_> a mo:Track ;
     ourvocab:has_listener_count "79008" ;
     ourvocab:has_playcount "335139" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "easy listening",
         "jazz",
@@ -1759,6 +2013,8 @@
 <http://musicbrainz.org/recording/230d0661-b537-4d70-9cc3-f583c2e54dd5#_> a mo:Track ;
     ourvocab:has_listener_count "21107" ;
     ourvocab:has_playcount "60073" ;
+    ourvocab:has_releasedate "    26 Jul 2010, 00:00",
+        "26 Jul 2010, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "drjazzmrfunkmusic",
         "jazz",
@@ -1792,6 +2048,8 @@
 <http://musicbrainz.org/recording/256b21cc-8343-4a24-bcf7-b9cbdada506b#_> a mo:Track ;
     ourvocab:has_listener_count "43980" ;
     ourvocab:has_playcount "109637" ;
+    ourvocab:has_releasedate "    3 Dec 2012, 00:00",
+        "3 Dec 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "jazz piano",
@@ -1803,6 +2061,8 @@
 <http://musicbrainz.org/recording/25c5d54f-8839-4396-a9b7-e2047022f12c#_> a mo:Track ;
     ourvocab:has_listener_count "95376" ;
     ourvocab:has_playcount "327716" ;
+    ourvocab:has_releasedate "    15 Sep 1999, 00:00",
+        "15 Sep 1999, 00:00" ;
     ourvocab:has_tag "chillout",
         "electronic",
         "jazz",
@@ -1814,6 +2074,8 @@
 <http://musicbrainz.org/recording/25dfc80b-1389-4244-9458-44968c66c822#_> a mo:Track ;
     ourvocab:has_listener_count "51746" ;
     ourvocab:has_playcount "166260" ;
+    ourvocab:has_releasedate "    15 Feb 2008, 00:00",
+        "15 Feb 2008, 00:00" ;
     ourvocab:has_tag "female",
         "jazz",
         "jazz vocal",
@@ -1825,6 +2087,8 @@
 <http://musicbrainz.org/recording/25e4dc4a-cc06-4d18-9b5b-f3ec64cbb991#_> a mo:Track ;
     ourvocab:has_listener_count "143432" ;
     ourvocab:has_playcount "759947" ;
+    ourvocab:has_releasedate "    20 Nov 2007, 00:00",
+        "20 Nov 2007, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "british",
         "female vocalists",
@@ -1836,6 +2100,8 @@
 <http://musicbrainz.org/recording/263d511f-a443-4aec-b3b3-8fd1e044e6b8#_> a mo:Track ;
     ourvocab:has_listener_count "85313" ;
     ourvocab:has_playcount "258745" ;
+    ourvocab:has_releasedate "    11 Oct 2004, 00:00",
+        "11 Oct 2004, 00:00" ;
     ourvocab:has_tag "beautiful",
         "female vocalists",
         "jazz",
@@ -1858,6 +2124,8 @@
 <http://musicbrainz.org/recording/26d80c86-bae3-41eb-b1ab-06d0a6085b2a#_> a mo:Track ;
     ourvocab:has_listener_count "44568" ;
     ourvocab:has_playcount "123469" ;
+    ourvocab:has_releasedate "    1 Jan 2005, 00:00",
+        "1 Jan 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -1880,6 +2148,8 @@
 <http://musicbrainz.org/recording/276cba9d-4377-40e8-94b9-61819cd2b0aa#_> a mo:Track ;
     ourvocab:has_listener_count "23429" ;
     ourvocab:has_playcount "58743" ;
+    ourvocab:has_releasedate "    26 Jul 2010, 00:00",
+        "26 Jul 2010, 00:00" ;
     ourvocab:has_tag "awesome",
         "drjazzmrfunkmusic",
         "jazz",
@@ -1891,6 +2161,8 @@
 <http://musicbrainz.org/recording/27d1f09f-4cc7-40b7-8873-11875c70ce1f#_> a mo:Track ;
     ourvocab:has_listener_count "37459" ;
     ourvocab:has_playcount "93248" ;
+    ourvocab:has_releasedate "    31 Mar 1998, 00:00",
+        "31 Mar 1998, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "jazz",
         "oldies",
@@ -1902,6 +2174,8 @@
 <http://musicbrainz.org/recording/280559a3-5b88-4de5-923e-25830d295d38#_> a mo:Track ;
     ourvocab:has_listener_count "54995" ;
     ourvocab:has_playcount "242621" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "easy listening",
         "jazz",
@@ -1913,6 +2187,8 @@
 <http://musicbrainz.org/recording/289243fe-b32c-480f-b64c-d9af8e7b2c03#_> a mo:Track ;
     ourvocab:has_listener_count "37824" ;
     ourvocab:has_playcount "97613" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "classic",
         "geographical songs",
         "jazz",
@@ -1946,6 +2222,8 @@
 <http://musicbrainz.org/recording/29af3e37-e11d-4795-a1f4-b75d11d24df0#_> a mo:Track ;
     ourvocab:has_listener_count "103806" ;
     ourvocab:has_playcount "427176" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -1979,6 +2257,8 @@
 <http://musicbrainz.org/recording/2ae70952-a77d-49fd-9d03-01c8a42b29e6#_> a mo:Track ;
     ourvocab:has_listener_count "26316" ;
     ourvocab:has_playcount "67717" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "jazz",
         "jazz instrumental",
@@ -2000,6 +2280,8 @@
 <http://musicbrainz.org/recording/2b3cea25-9329-4e31-9581-b9a32f0fa563#_> a mo:Track ;
     ourvocab:has_listener_count "55070" ;
     ourvocab:has_playcount "160565" ;
+    ourvocab:has_releasedate "    30 Nov 2002, 00:00",
+        "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "nina simone",
@@ -2022,6 +2304,8 @@
 <http://musicbrainz.org/recording/2c0e821c-2738-4dc3-b4ed-ab34a25799e5#_> a mo:Track ;
     ourvocab:has_listener_count "74384" ;
     ourvocab:has_playcount "385796" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "love songs",
@@ -2043,6 +2327,8 @@
 <http://musicbrainz.org/recording/2cc6550b-b89b-4c43-99f3-78c531e7af36#_> a mo:Track ;
     ourvocab:has_listener_count "60025" ;
     ourvocab:has_playcount "254969" ;
+    ourvocab:has_releasedate "    9 May 2007, 00:00",
+        "9 May 2007, 00:00" ;
     ourvocab:has_tag "chillout",
         "dreamy",
         "electronic",
@@ -2054,6 +2340,8 @@
 <http://musicbrainz.org/recording/2cef87bb-d45c-444e-9c49-c407a681c6c6#_> a mo:Track ;
     ourvocab:has_listener_count "48828" ;
     ourvocab:has_playcount "155673" ;
+    ourvocab:has_releasedate "    30 Mar 2009, 00:00",
+        "30 Mar 2009, 00:00" ;
     ourvocab:has_tag "bossa nova",
         "diana krall",
         "female vocalists",
@@ -2065,6 +2353,8 @@
 <http://musicbrainz.org/recording/2d00d653-1656-4622-8075-557488e5a7a5#_> a mo:Track ;
     ourvocab:has_listener_count "52374" ;
     ourvocab:has_playcount "149677" ;
+    ourvocab:has_releasedate "    26 Aug 2006, 00:00",
+        "26 Aug 2006, 00:00" ;
     ourvocab:has_tag "female vocalist",
         "female vocalists",
         "jazz",
@@ -2076,6 +2366,8 @@
 <http://musicbrainz.org/recording/2d419b8b-88b2-4611-a8de-8cbef7f88d9d#_> a mo:Track ;
     ourvocab:has_listener_count "102796" ;
     ourvocab:has_playcount "426959" ;
+    ourvocab:has_releasedate "    6 Sep 2011, 00:00",
+        "6 Sep 2011, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "female vocalists",
         "jazz",
@@ -2098,6 +2390,8 @@
 <http://musicbrainz.org/recording/2d8b7765-9a04-4b6a-a172-35f31d3514b9#_> a mo:Track ;
     ourvocab:has_listener_count "42545" ;
     ourvocab:has_playcount "121243" ;
+    ourvocab:has_releasedate "    6 Mar 2006, 00:00",
+        "6 Mar 2006, 00:00" ;
     ourvocab:has_tag "jamie cullum",
         "jazz",
         "jazz vocals",
@@ -2109,6 +2403,8 @@
 <http://musicbrainz.org/recording/2d98ab09-08e2-4444-90fc-4c34640f2f0b#_> a mo:Track ;
     ourvocab:has_listener_count "30333" ;
     ourvocab:has_playcount "74854" ;
+    ourvocab:has_releasedate "    11 Sep 2006, 00:00",
+        "11 Sep 2006, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "jazz piano",
@@ -2120,6 +2416,8 @@
 <http://musicbrainz.org/recording/2ddb29df-6f11-4ee6-bff0-353f03ac5ea5#_> a mo:Track ;
     ourvocab:has_listener_count "16053" ;
     ourvocab:has_playcount "36142" ;
+    ourvocab:has_releasedate "    6 Jul 2000, 00:00",
+        "6 Jul 2000, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -2131,6 +2429,8 @@
 <http://musicbrainz.org/recording/2dddfe77-df6c-49ad-b0a7-61164ddf7823#_> a mo:Track ;
     ourvocab:has_listener_count "7555" ;
     ourvocab:has_playcount "24258" ;
+    ourvocab:has_releasedate "    1 Apr 2012, 00:00",
+        "1 Apr 2012, 00:00" ;
     ourvocab:has_tag "breasts and vagina",
         "i would explore that hole",
         "i would like to spend an afternoon rubbing her breasts with warm mineral oil",
@@ -2142,6 +2442,8 @@
 <http://musicbrainz.org/recording/2def1d59-00dd-4095-81f5-8bceefd83a91#_> a mo:Track ;
     ourvocab:has_listener_count "30489" ;
     ourvocab:has_playcount "80555" ;
+    ourvocab:has_releasedate "    13 Mar 2006, 00:00",
+        "13 Mar 2006, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "instrumental",
         "jazz",
@@ -2153,6 +2455,8 @@
 <http://musicbrainz.org/recording/2dffb6bf-c567-41bf-aedc-290f0dc5bd8b#_> a mo:Track ;
     ourvocab:has_listener_count "59949" ;
     ourvocab:has_playcount "137556" ;
+    ourvocab:has_releasedate "    10 Mar 2013, 00:00",
+        "10 Mar 2013, 00:00" ;
     ourvocab:has_tag "40s",
         "bebop",
         "charlie parker",
@@ -2164,6 +2468,8 @@
 <http://musicbrainz.org/recording/2e00468c-4f03-4805-a211-bf4a5c975f74#_> a mo:Track ;
     ourvocab:has_listener_count "41275" ;
     ourvocab:has_playcount "126238" ;
+    ourvocab:has_releasedate "    22 Nov 2004, 00:00",
+        "22 Nov 2004, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal",
@@ -2175,6 +2481,8 @@
 <http://musicbrainz.org/recording/2e724b8a-eef7-49d1-9235-e0a78eb308db#_> a mo:Track ;
     ourvocab:has_listener_count "38483" ;
     ourvocab:has_playcount "92752" ;
+    ourvocab:has_releasedate "    30 Nov 1972, 00:00",
+        "30 Nov 1972, 00:00" ;
     ourvocab:has_tag "bebop",
         "drjazzmrfunkmusic",
         "jazz",
@@ -2186,6 +2494,8 @@
 <http://musicbrainz.org/recording/2ef30f3a-201d-4dcd-a838-518d014a0a4f#_> a mo:Track ;
     ourvocab:has_listener_count "49034" ;
     ourvocab:has_playcount "208076" ;
+    ourvocab:has_releasedate "    15 May 2007, 00:00",
+        "15 May 2007, 00:00" ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "easy listening",
         "jazz",
@@ -2197,6 +2507,8 @@
 <http://musicbrainz.org/recording/2f10878f-e7ab-4c66-8c79-a9016083ad2f#_> a mo:Track ;
     ourvocab:has_listener_count "20236" ;
     ourvocab:has_playcount "68017" ;
+    ourvocab:has_releasedate "    30 Mar 2009, 00:00",
+        "30 Mar 2009, 00:00" ;
     ourvocab:has_tag "diana krall",
         "easy listening",
         "female vocal",
@@ -2219,6 +2531,8 @@
 <http://musicbrainz.org/recording/2fdb2ca6-7772-4036-8fcb-4b708f9c5065#_> a mo:Track ;
     ourvocab:has_listener_count "45171" ;
     ourvocab:has_playcount "220069" ;
+    ourvocab:has_releasedate "    2 Jun 2011, 00:00",
+        "2 Jun 2011, 00:00" ;
     ourvocab:has_tag "caro emerald",
         "female vocalists",
         "jazz",
@@ -2230,6 +2544,8 @@
 <http://musicbrainz.org/recording/302db541-154c-473f-8f88-f70d3f63fe06#_> a mo:Track ;
     ourvocab:has_listener_count "96426" ;
     ourvocab:has_playcount "387773" ;
+    ourvocab:has_releasedate "    8 Oct 2007, 00:00",
+        "8 Oct 2007, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "male vocalists",
@@ -2241,6 +2557,8 @@
 <http://musicbrainz.org/recording/3032c74e-2f58-4b5f-92ad-5e313c0adb6a#_> a mo:Track ;
     ourvocab:has_listener_count "26262" ;
     ourvocab:has_playcount "84856" ;
+    ourvocab:has_releasedate "    22 Jan 2001, 00:00",
+        "22 Jan 2001, 00:00" ;
     ourvocab:has_tag "7 of 10 stars",
         "chill",
         "fip",
@@ -2252,6 +2570,8 @@
 <http://musicbrainz.org/recording/309f78ce-2180-4c68-97ed-ea395589c583#_> a mo:Track ;
     ourvocab:has_listener_count "68292" ;
     ourvocab:has_playcount "247417" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jamie cullum",
         "jazz",
@@ -2263,6 +2583,8 @@
 <http://musicbrainz.org/recording/30c6daf0-bf24-4ce9-a563-d68d28ed0d56#_> a mo:Track ;
     ourvocab:has_listener_count "30870" ;
     ourvocab:has_playcount "101672" ;
+    ourvocab:has_releasedate "    30 Mar 2009, 00:00",
+        "30 Mar 2009, 00:00" ;
     ourvocab:has_tag "diana krall",
         "easy listening",
         "jazz",
@@ -2274,6 +2596,8 @@
 <http://musicbrainz.org/recording/31841549-b0a8-4a2f-abb3-3407b7766bf4#_> a mo:Track ;
     ourvocab:has_listener_count "169680" ;
     ourvocab:has_playcount "958982" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -2296,6 +2620,8 @@
 <http://musicbrainz.org/recording/32d28b70-a41b-4f01-8296-053135daf384#_> a mo:Track ;
     ourvocab:has_listener_count "48048" ;
     ourvocab:has_playcount "143086" ;
+    ourvocab:has_releasedate "    26 Aug 2006, 00:00",
+        "26 Aug 2006, 00:00" ;
     ourvocab:has_tag "angel voice",
         "female vocalists",
         "jazz",
@@ -2307,6 +2633,8 @@
 <http://musicbrainz.org/recording/330fbb1f-3e07-43ea-8941-65c46ca93523#_> a mo:Track ;
     ourvocab:has_listener_count "33936" ;
     ourvocab:has_playcount "91610" ;
+    ourvocab:has_releasedate "    30 Nov 1971, 00:00",
+        "30 Nov 1971, 00:00" ;
     ourvocab:has_tag "experimental jazz",
         "fusion",
         "jazz",
@@ -2318,6 +2646,8 @@
 <http://musicbrainz.org/recording/3357e742-2c48-4bbc-880d-7490b965719e#_> a mo:Track ;
     ourvocab:has_listener_count "70915" ;
     ourvocab:has_playcount "275125" ;
+    ourvocab:has_releasedate "    8 Oct 2007, 00:00",
+        "8 Oct 2007, 00:00" ;
     ourvocab:has_tag "big band",
         "gospel",
         "jazz",
@@ -2340,6 +2670,8 @@
 <http://musicbrainz.org/recording/341755c0-9ff7-431e-840c-9f42ff49678e#_> a mo:Track ;
     ourvocab:has_listener_count "91710" ;
     ourvocab:has_playcount "370623" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "jamie cullum",
         "jazz",
         "piano",
@@ -2351,6 +2683,8 @@
 <http://musicbrainz.org/recording/351d39a3-6023-43ef-b412-75218517dd8a#_> a mo:Track ;
     ourvocab:has_listener_count "66853" ;
     ourvocab:has_playcount "197722" ;
+    ourvocab:has_releasedate "    22 Nov 2004, 00:00",
+        "22 Nov 2004, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalists",
         "jazz",
@@ -2384,6 +2718,8 @@
 <http://musicbrainz.org/recording/36b49bbe-7d66-47a7-93b1-c51a34aafa09#_> a mo:Track ;
     ourvocab:has_listener_count "26863" ;
     ourvocab:has_playcount "85450" ;
+    ourvocab:has_releasedate "    30 Nov 1995, 00:00",
+        "30 Nov 1995, 00:00" ;
     ourvocab:has_tag "fusion",
         "jazz",
         "jazz fusion",
@@ -2395,6 +2731,8 @@
 <http://musicbrainz.org/recording/37012f5b-74bc-4cca-b6c8-044518eb21b6#_> a mo:Track ;
     ourvocab:has_listener_count "40004" ;
     ourvocab:has_playcount "197713" ;
+    ourvocab:has_releasedate "    2 Jun 2011, 00:00",
+        "2 Jun 2011, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal",
@@ -2406,6 +2744,8 @@
 <http://musicbrainz.org/recording/377c6f94-85f0-479f-af77-2b15d718ec43#_> a mo:Track ;
     ourvocab:has_listener_count "22587" ;
     ourvocab:has_playcount "66134" ;
+    ourvocab:has_releasedate "    20 Aug 2013, 00:00",
+        "20 Aug 2013, 00:00" ;
     ourvocab:has_tag "avant-garde",
         "fip",
         "jazz",
@@ -2417,6 +2757,8 @@
 <http://musicbrainz.org/recording/379c1f8d-92b7-46d7-8a2d-3a33e3942327#_> a mo:Track ;
     ourvocab:has_listener_count "48915" ;
     ourvocab:has_playcount "139189" ;
+    ourvocab:has_releasedate "    26 May 1998, 00:00",
+        "26 May 1998, 00:00" ;
     ourvocab:has_tag "crooners",
         "frank sinatra",
         "jazz",
@@ -2428,6 +2770,8 @@
 <http://musicbrainz.org/recording/37feacc1-04f1-454a-8cc9-eefdc8ab1568#_> a mo:Track ;
     ourvocab:has_listener_count "44744" ;
     ourvocab:has_playcount "132475" ;
+    ourvocab:has_releasedate "    21 Dec 2012, 00:00",
+        "21 Dec 2012, 00:00" ;
     ourvocab:has_tag "guitar",
         "hard bop",
         "jazz",
@@ -2439,6 +2783,8 @@
 <http://musicbrainz.org/recording/3815855f-3af5-4a41-86f1-9d1fc3a4345c#_> a mo:Track ;
     ourvocab:has_listener_count "66951" ;
     ourvocab:has_playcount "269285" ;
+    ourvocab:has_releasedate "    17 Nov 2009, 00:00",
+        "17 Nov 2009, 00:00" ;
     ourvocab:has_tag "alternative",
         "chillout",
         "female vocalists",
@@ -2450,6 +2796,8 @@
 <http://musicbrainz.org/recording/389c771c-3c7c-4052-9840-7a5d1961159f#_> a mo:Track ;
     ourvocab:has_listener_count "28345" ;
     ourvocab:has_playcount "77173" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "instrumental jazz tag",
         "jazz",
@@ -2472,6 +2820,8 @@
 <http://musicbrainz.org/recording/3a07668a-a8e8-4e98-a700-d8b449f2dccc#_> a mo:Track ;
     ourvocab:has_listener_count "15981" ;
     ourvocab:has_playcount "48339" ;
+    ourvocab:has_releasedate "    28 Apr 2007, 00:00",
+        "28 Apr 2007, 00:00" ;
     ourvocab:has_tag "contrabas",
         "female vocalists",
         "jazz",
@@ -2483,6 +2833,8 @@
 <http://musicbrainz.org/recording/3a4d2498-46f8-4582-96ab-ba72318087bf#_> a mo:Track ;
     ourvocab:has_listener_count "55901" ;
     ourvocab:has_playcount "291253" ;
+    ourvocab:has_releasedate "    30 Nov 2009, 00:00",
+        "30 Nov 2009, 00:00" ;
     ourvocab:has_tag "chanson",
         "french",
         "jazz",
@@ -2494,6 +2846,8 @@
 <http://musicbrainz.org/recording/3a7752d6-45e1-407f-adb7-3f3ddc39f3ac#_> a mo:Track ;
     ourvocab:has_listener_count "101281" ;
     ourvocab:has_playcount "240014" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal",
@@ -2527,6 +2881,8 @@
 <http://musicbrainz.org/recording/3b40a2a7-3d0c-4a23-b775-1ed41eefa32e#_> a mo:Track ;
     ourvocab:has_listener_count "34462" ;
     ourvocab:has_playcount "95718" ;
+    ourvocab:has_releasedate "    1 May 2012, 00:00",
+        "1 May 2012, 00:00" ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "jazz",
@@ -2538,6 +2894,8 @@
 <http://musicbrainz.org/recording/3b5aae42-f4db-4586-ac46-b635396b6d22#_> a mo:Track ;
     ourvocab:has_listener_count "66297" ;
     ourvocab:has_playcount "241505" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "british",
         "chill",
         "jamie cullum",
@@ -2549,6 +2907,8 @@
 <http://musicbrainz.org/recording/3b805ba9-f571-4669-886e-cf0d8d528eeb#_> a mo:Track ;
     ourvocab:has_listener_count "69592" ;
     ourvocab:has_playcount "263412" ;
+    ourvocab:has_releasedate "    8 Oct 2007, 00:00",
+        "8 Oct 2007, 00:00" ;
     ourvocab:has_tag "crooner",
         "dream",
         "easy listening",
@@ -2560,6 +2920,8 @@
 <http://musicbrainz.org/recording/3bd3b99c-73ec-492d-9b77-73c80a5e3cba#_> a mo:Track ;
     ourvocab:has_listener_count "128503" ;
     ourvocab:has_playcount "466164" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "love",
@@ -2571,6 +2933,8 @@
 <http://musicbrainz.org/recording/3c0827fd-d7a4-4005-80a5-6df9487e6b7a#_> a mo:Track ;
     ourvocab:has_listener_count "33614" ;
     ourvocab:has_playcount "100986" ;
+    ourvocab:has_releasedate "    15 Mar 1999, 00:00",
+        "15 Mar 1999, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "mellow jazz",
@@ -2582,6 +2946,8 @@
 <http://musicbrainz.org/recording/3c3d88f9-903e-4fd3-b45b-c0bc7c5f98c9#_> a mo:Track ;
     ourvocab:has_listener_count "31418" ;
     ourvocab:has_playcount "79174" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "instrumental",
         "jazz",
@@ -2615,6 +2981,8 @@
 <http://musicbrainz.org/recording/3d5414be-52cc-4fbe-ab48-2e20caa6b8a8#_> a mo:Track ;
     ourvocab:has_listener_count "47130" ;
     ourvocab:has_playcount "129630" ;
+    ourvocab:has_releasedate "    6 Mar 2006, 00:00",
+        "6 Mar 2006, 00:00" ;
     ourvocab:has_tag "chill",
         "jazz",
         "jazz vocals",
@@ -2626,6 +2994,8 @@
 <http://musicbrainz.org/recording/3d68e275-9879-4b89-af6e-dcad9aad1c97#_> a mo:Track ;
     ourvocab:has_listener_count "26971" ;
     ourvocab:has_playcount "67320" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "fusion",
         "jazz",
         "lara-loved",
@@ -2637,6 +3007,8 @@
 <http://musicbrainz.org/recording/3d7e0bbb-cbe2-4264-b78a-999a83abd9c7#_> a mo:Track ;
     ourvocab:has_listener_count "42944" ;
     ourvocab:has_playcount "129455" ;
+    ourvocab:has_releasedate "    6 Mar 2009, 00:00",
+        "6 Mar 2009, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -2659,6 +3031,8 @@
 <http://musicbrainz.org/recording/3e6c7dfe-3c6f-4af4-89b1-d0cd2d5167c3#_> a mo:Track ;
     ourvocab:has_listener_count "30253" ;
     ourvocab:has_playcount "94906" ;
+    ourvocab:has_releasedate "    17 Jan 1994, 00:00",
+        "17 Jan 1994, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "easy",
         "easy listening",
@@ -2670,6 +3044,8 @@
 <http://musicbrainz.org/recording/3e92bcb4-01ac-407a-888c-15eb4cd4edb3#_> a mo:Track ;
     ourvocab:has_listener_count "46532" ;
     ourvocab:has_playcount "125843" ;
+    ourvocab:has_releasedate "    6 Jul 2000, 00:00",
+        "6 Jul 2000, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -2681,6 +3057,8 @@
 <http://musicbrainz.org/recording/4013468b-90f0-4c5a-af82-e96f8005d926#_> a mo:Track ;
     ourvocab:has_listener_count "67428" ;
     ourvocab:has_playcount "160599" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "jazz",
         "nat king cole",
         "oldies",
@@ -2692,6 +3070,8 @@
 <http://musicbrainz.org/recording/419af51d-003e-48e1-880d-e863760decf4#_> a mo:Track ;
     ourvocab:has_listener_count "37167" ;
     ourvocab:has_playcount "112389" ;
+    ourvocab:has_releasedate "    16 Nov 2012, 00:00",
+        "16 Nov 2012, 00:00" ;
     ourvocab:has_tag "amayzes loved",
         "jazz",
         "miles davis",
@@ -2703,6 +3083,8 @@
 <http://musicbrainz.org/recording/41a9e04f-1589-4cd4-b94a-bc7c7c3edf8b#_> a mo:Track ;
     ourvocab:has_listener_count "44493" ;
     ourvocab:has_playcount "136050" ;
+    ourvocab:has_releasedate "    22 Nov 2004, 00:00",
+        "22 Nov 2004, 00:00" ;
     ourvocab:has_tag "blues",
         "diana krall",
         "female vocalists",
@@ -2725,6 +3107,8 @@
 <http://musicbrainz.org/recording/431b9d89-4163-48c2-b121-dbbf29fc5920#_> a mo:Track ;
     ourvocab:has_listener_count "21535" ;
     ourvocab:has_playcount "46875" ;
+    ourvocab:has_releasedate "    17 Aug 1996, 00:00",
+        "17 Aug 1996, 00:00" ;
     ourvocab:has_tag "bluenotejazz",
         "chill-out",
         "drjazzmrfunkmusic",
@@ -2736,6 +3120,8 @@
 <http://musicbrainz.org/recording/43c00dbd-6ab6-448d-8f1b-1adb16af306f#_> a mo:Track ;
     ourvocab:has_listener_count "46417" ;
     ourvocab:has_playcount "130242" ;
+    ourvocab:has_releasedate "    6 Mar 2006, 00:00",
+        "6 Mar 2006, 00:00" ;
     ourvocab:has_tag "jazz",
         "jazz vocal",
         "male vocalists",
@@ -2747,6 +3133,8 @@
 <http://musicbrainz.org/recording/43c88cf4-7077-4c3d-a204-ddb144fc6cb5#_> a mo:Track ;
     ourvocab:has_listener_count "43712" ;
     ourvocab:has_playcount "119645" ;
+    ourvocab:has_releasedate "    16 Nov 2012, 00:00",
+        "16 Nov 2012, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "instrumental",
         "jazz",
@@ -2758,6 +3146,8 @@
 <http://musicbrainz.org/recording/44064f73-3c9f-4880-bac3-7ff8f988c4d0#_> a mo:Track ;
     ourvocab:has_listener_count "30673" ;
     ourvocab:has_playcount "73341" ;
+    ourvocab:has_releasedate "    30 Nov 1965, 00:00",
+        "30 Nov 1965, 00:00" ;
     ourvocab:has_tag "bossa nova",
         "instrumental",
         "jazz",
@@ -2769,6 +3159,8 @@
 <http://musicbrainz.org/recording/4523bff9-9eb3-4594-a2a0-2fc145d46105#_> a mo:Track ;
     ourvocab:has_listener_count "15717" ;
     ourvocab:has_playcount "43992" ;
+    ourvocab:has_releasedate "    21 Aug 2006, 00:00",
+        "21 Aug 2006, 00:00" ;
     ourvocab:has_tag "chet baker",
         "jazz",
         "jazz vocalist tag",
@@ -2780,6 +3172,8 @@
 <http://musicbrainz.org/recording/45671147-ffea-4638-8308-d6c1810d82b4#_> a mo:Track ;
     ourvocab:has_listener_count "20485" ;
     ourvocab:has_playcount "56024" ;
+    ourvocab:has_releasedate "    26 Jul 2010, 00:00",
+        "26 Jul 2010, 00:00" ;
     ourvocab:has_tag "arranger",
         "chill",
         "drjazzmrfunkmusic",
@@ -2802,6 +3196,8 @@
 <http://musicbrainz.org/recording/46340f71-94d8-497f-9958-da896b4add0d#_> a mo:Track ;
     ourvocab:has_listener_count "43667" ;
     ourvocab:has_playcount "124234" ;
+    ourvocab:has_releasedate "    14 May 2012, 00:00",
+        "14 May 2012, 00:00" ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "female vocalists",
         "jazz",
@@ -2813,6 +3209,8 @@
 <http://musicbrainz.org/recording/46392a7d-bbac-43be-ab08-3811afec1151#_> a mo:Track ;
     ourvocab:has_listener_count "61110" ;
     ourvocab:has_playcount "189931" ;
+    ourvocab:has_releasedate "    17 Oct 1990, 00:00",
+        "17 Oct 1990, 00:00" ;
     ourvocab:has_tag "70s",
         "instrumental",
         "jazz",
@@ -2846,6 +3244,8 @@
 <http://musicbrainz.org/recording/478a425f-10b9-4af9-8755-a333d4988af8#_> a mo:Track ;
     ourvocab:has_listener_count "37324" ;
     ourvocab:has_playcount "95364" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "blues",
         "classic jazz",
         "jazz",
@@ -2879,6 +3279,8 @@
 <http://musicbrainz.org/recording/48b94120-16e7-4b94-89d2-9d7df5a2654b#_> a mo:Track ;
     ourvocab:has_listener_count "33135" ;
     ourvocab:has_playcount "79470" ;
+    ourvocab:has_releasedate "    8 Mar 2012, 00:00",
+        "8 Mar 2012, 00:00" ;
     ourvocab:has_tag "classic jazz",
         "hard bop",
         "jazz",
@@ -2890,6 +3292,8 @@
 <http://musicbrainz.org/recording/493ff224-d99e-427a-8bbd-780439bd99f2#_> a mo:Track ;
     ourvocab:has_listener_count "69671" ;
     ourvocab:has_playcount "242387" ;
+    ourvocab:has_releasedate "    15 Feb 2008, 00:00",
+        "15 Feb 2008, 00:00" ;
     ourvocab:has_tag "acoustic",
         "female vocalists",
         "jazz",
@@ -2901,6 +3305,8 @@
 <http://musicbrainz.org/recording/49968eab-9dd9-4ebc-8309-63b4aba84a1a#_> a mo:Track ;
     ourvocab:has_listener_count "73379" ;
     ourvocab:has_playcount "262871" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "british",
         "jamie cullum",
         "jazz",
@@ -2912,6 +3318,8 @@
 <http://musicbrainz.org/recording/4a36cd91-3b33-41e5-97a1-4e86b0e42f01#_> a mo:Track ;
     ourvocab:has_listener_count "35087" ;
     ourvocab:has_playcount "113815" ;
+    ourvocab:has_releasedate "    11 Sep 2006, 00:00",
+        "11 Sep 2006, 00:00" ;
     ourvocab:has_tag "jazz",
         "jazz piano",
         "jazz trio",
@@ -2923,6 +3331,8 @@
 <http://musicbrainz.org/recording/4aff27ec-1f99-4564-97dc-3a8e374b58a1#_> a mo:Track ;
     ourvocab:has_listener_count "48614" ;
     ourvocab:has_playcount "160187" ;
+    ourvocab:has_releasedate "    15 Oct 2002, 00:00",
+        "15 Oct 2002, 00:00" ;
     ourvocab:has_tag "diana krall",
         "female vocalists",
         "jazz",
@@ -2934,6 +3344,8 @@
 <http://musicbrainz.org/recording/4bfc5e29-9be0-4162-95a5-47e866b1e846#_> a mo:Track ;
     ourvocab:has_listener_count "15717" ;
     ourvocab:has_playcount "46568" ;
+    ourvocab:has_releasedate "    20 May 2003, 00:00",
+        "20 May 2003, 00:00" ;
     ourvocab:has_tag "bill evans",
         "jazz",
         "jazz piano",
@@ -2945,6 +3357,8 @@
 <http://musicbrainz.org/recording/4ca59038-d4b7-495e-9616-238d7d8d6e46#_> a mo:Track ;
     ourvocab:has_listener_count "52007" ;
     ourvocab:has_playcount "250486" ;
+    ourvocab:has_releasedate "    1 Jan 2008, 00:00",
+        "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "my blueberry nights",
@@ -2956,6 +3370,8 @@
 <http://musicbrainz.org/recording/4d54f510-5ef5-4a76-a715-d433fb3a871b#_> a mo:Track ;
     ourvocab:has_listener_count "51415" ;
     ourvocab:has_playcount "129035" ;
+    ourvocab:has_releasedate "    24 May 2011, 00:00",
+        "24 May 2011, 00:00" ;
     ourvocab:has_tag "coleman hawkins",
         "cool jazz",
         "jazz",
@@ -2967,6 +3383,8 @@
 <http://musicbrainz.org/recording/4d8645f1-dc32-4b11-af65-b2c13cb6fcce#_> a mo:Track ;
     ourvocab:has_listener_count "58692" ;
     ourvocab:has_playcount "211712" ;
+    ourvocab:has_releasedate "    15 Feb 2008, 00:00",
+        "15 Feb 2008, 00:00" ;
     ourvocab:has_tag "bluesy",
         "female vocalists",
         "jazz",
@@ -2989,6 +3407,8 @@
 <http://musicbrainz.org/recording/4f31dd32-9feb-4ec5-b44e-1e92b193a51c#_> a mo:Track ;
     ourvocab:has_listener_count "77610" ;
     ourvocab:has_playcount "269515" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "chill",
         "cover",
         "jamie cullum",
@@ -3000,6 +3420,8 @@
 <http://musicbrainz.org/recording/4f5cd2cf-42a8-4509-82bc-39d721f557d8#_> a mo:Track ;
     ourvocab:has_listener_count "18449" ;
     ourvocab:has_playcount "46882" ;
+    ourvocab:has_releasedate "    27 Sep 2012, 00:00",
+        "27 Sep 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "cool jazz",
         "instrumental jazz tag",
@@ -3022,6 +3444,8 @@
 <http://musicbrainz.org/recording/4ffecca0-69cc-4224-aaa3-9e1f8c796990#_> a mo:Track ;
     ourvocab:has_listener_count "91356" ;
     ourvocab:has_playcount "511361" ;
+    ourvocab:has_releasedate "    13 Dec 2005, 00:00",
+        "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "40s",
         "fallout",
         "fallout 3",
@@ -3033,6 +3457,8 @@
 <http://musicbrainz.org/recording/506a0637-5a1c-4bcf-b2be-75fc546f2dd0#_> a mo:Track ;
     ourvocab:has_listener_count "118717" ;
     ourvocab:has_playcount "566131" ;
+    ourvocab:has_releasedate "    20 Nov 2007, 00:00",
+        "20 Nov 2007, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "british",
         "female vocalists",
@@ -3055,6 +3481,8 @@
 <http://musicbrainz.org/recording/50d22ec5-52e3-47a2-92a7-d9393c311016#_> a mo:Track ;
     ourvocab:has_listener_count "83535" ;
     ourvocab:has_playcount "203678" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "funk",
         "fusion",
         "jazz",
@@ -3066,6 +3494,8 @@
 <http://musicbrainz.org/recording/50df7cac-44e3-4730-93d0-facf7a9b49af#_> a mo:Track ;
     ourvocab:has_listener_count "38927" ;
     ourvocab:has_playcount "146619" ;
+    ourvocab:has_releasedate "    20 Jul 2004, 00:00",
+        "20 Jul 2004, 00:00" ;
     ourvocab:has_tag "contemporary jazz",
         "jazz",
         "jazz piano",
@@ -3077,6 +3507,8 @@
 <http://musicbrainz.org/recording/5130f881-9d08-48bd-89a1-b2d049e7a0ac#_> a mo:Track ;
     ourvocab:has_listener_count "23045" ;
     ourvocab:has_playcount "75679" ;
+    ourvocab:has_releasedate "    17 Jun 1997, 00:00",
+        "17 Jun 1997, 00:00" ;
     ourvocab:has_tag "amayzes loved",
         "avant-garde",
         "bass",
@@ -3088,6 +3520,8 @@
 <http://musicbrainz.org/recording/5332d675-4d50-41d5-9448-8dae93aba6ec#_> a mo:Track ;
     ourvocab:has_listener_count "28980" ;
     ourvocab:has_playcount "83429" ;
+    ourvocab:has_releasedate "    13 Dec 2005, 00:00",
+        "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3099,6 +3533,8 @@
 <http://musicbrainz.org/recording/5619230d-b68b-4829-9abe-e150531be8da#_> a mo:Track ;
     ourvocab:has_listener_count "54124" ;
     ourvocab:has_playcount "129973" ;
+    ourvocab:has_releasedate "    19 Mar 1991, 00:00",
+        "19 Mar 1991, 00:00" ;
     ourvocab:has_tag "bebop",
         "charlie parker",
         "jazz",
@@ -3120,6 +3556,8 @@
 <http://musicbrainz.org/recording/58b3074f-d23c-4e3f-896d-37f9742cb2dc#_> a mo:Track ;
     ourvocab:has_listener_count "53034" ;
     ourvocab:has_playcount "298767" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "acid jazz",
         "chillout",
         "dance",
@@ -3142,6 +3580,8 @@
 <http://musicbrainz.org/recording/59675386-1088-4c57-b8a7-a5e912d1b9a6#_> a mo:Track ;
     ourvocab:has_listener_count "13261" ;
     ourvocab:has_playcount "63743" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "3 stars",
         "folk",
         "jazz",
@@ -3153,6 +3593,8 @@
 <http://musicbrainz.org/recording/5a12307b-5252-4a8b-9321-7e586485021a#_> a mo:Track ;
     ourvocab:has_listener_count "42006" ;
     ourvocab:has_playcount "127287" ;
+    ourvocab:has_releasedate "    1 Aug 2012, 00:00",
+        "1 Aug 2012, 00:00" ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "instrumental",
         "jazz",
@@ -3164,6 +3606,8 @@
 <http://musicbrainz.org/recording/5aae2b0d-64e1-46a7-8649-fd3ca7b57914#_> a mo:Track ;
     ourvocab:has_listener_count "24060" ;
     ourvocab:has_playcount "51930" ;
+    ourvocab:has_releasedate "    17 Aug 1996, 00:00",
+        "17 Aug 1996, 00:00" ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "herbie hancock",
         "j4zz13",
@@ -3186,6 +3630,8 @@
 <http://musicbrainz.org/recording/5b5ace34-cbad-4ee0-9644-58cf254d41f9#_> a mo:Track ;
     ourvocab:has_listener_count "137514" ;
     ourvocab:has_playcount "671520" ;
+    ourvocab:has_releasedate "    1 Aug 2007, 00:00",
+        "1 Aug 2007, 00:00" ;
     ourvocab:has_tag "chillout",
         "downtempo",
         "electronic",
@@ -3197,6 +3643,8 @@
 <http://musicbrainz.org/recording/5b5c27a0-15f5-5315-b01d-acc82cedf7ec#_> a mo:Track ;
     ourvocab:has_listener_count "44660" ;
     ourvocab:has_playcount "110574" ;
+    ourvocab:has_releasedate "    12 Jul 2013, 00:00",
+        "12 Jul 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "charlie parker",
         "jazz",
@@ -3219,6 +3667,8 @@
 <http://musicbrainz.org/recording/5c1afe41-09e1-4d38-89eb-4935da026dff#_> a mo:Track ;
     ourvocab:has_listener_count "100330" ;
     ourvocab:has_playcount "378435" ;
+    ourvocab:has_releasedate "    20 Nov 2007, 00:00",
+        "20 Nov 2007, 00:00" ;
     ourvocab:has_tag "amy winehouse",
         "female vocalists",
         "jazz",
@@ -3230,6 +3680,8 @@
 <http://musicbrainz.org/recording/5d81050a-20ae-4182-b28e-893cb5ba92fa#_> a mo:Track ;
     ourvocab:has_listener_count "17956" ;
     ourvocab:has_playcount "85974" ;
+    ourvocab:has_releasedate "    17 Sep 2011, 00:00",
+        "17 Sep 2011, 00:00" ;
     ourvocab:has_tag "fip",
         "free jazz",
         "hip-hop",
@@ -3252,6 +3704,8 @@
 <http://musicbrainz.org/recording/5ebb71b1-1485-41f7-b13a-c4c719940c66#_> a mo:Track ;
     ourvocab:has_listener_count "16467" ;
     ourvocab:has_playcount "49283" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "bogart the jogart",
         "equinonvox",
         "fip",
@@ -3263,6 +3717,8 @@
 <http://musicbrainz.org/recording/5ebc10e2-3311-4f9d-ab95-85197740746d#_> a mo:Track ;
     ourvocab:has_listener_count "73452" ;
     ourvocab:has_playcount "276453" ;
+    ourvocab:has_releasedate "    26 Sep 2005, 00:00",
+        "26 Sep 2005, 00:00" ;
     ourvocab:has_tag "british",
         "cover",
         "jazz",
@@ -3274,6 +3730,8 @@
 <http://musicbrainz.org/recording/60a0fa01-c49e-439d-9b8e-31d55c0125cf#_> a mo:Track ;
     ourvocab:has_listener_count "61759" ;
     ourvocab:has_playcount "179697" ;
+    ourvocab:has_releasedate "    1 Aug 2011, 00:00",
+        "1 Aug 2011, 00:00" ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "female vocalists",
@@ -3285,6 +3743,8 @@
 <http://musicbrainz.org/recording/6176b8a8-86f8-48db-9c18-828ad6037d8f#_> a mo:Track ;
     ourvocab:has_listener_count "51261" ;
     ourvocab:has_playcount "150462" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "avant-garde",
         "avant-garde jazz",
         "free jazz",
@@ -3296,6 +3756,8 @@
 <http://musicbrainz.org/recording/622b58a8-b89a-4f74-8db7-de5838001415#_> a mo:Track ;
     ourvocab:has_listener_count "70403" ;
     ourvocab:has_playcount "167792" ;
+    ourvocab:has_releasedate "    2 May 2011, 00:00",
+        "2 May 2011, 00:00" ;
     ourvocab:has_tag "ella and louis",
         "ella fitzgerald",
         "ella fitzgerald  louis armstrong",
@@ -3306,6 +3768,8 @@
 <http://musicbrainz.org/recording/6244f257-49f5-4127-86ea-d98d16ae9202#_> a mo:Track ;
     ourvocab:has_listener_count "55898" ;
     ourvocab:has_playcount "269283" ;
+    ourvocab:has_releasedate "    30 Jun 2000, 00:00",
+        "30 Jun 2000, 00:00" ;
     ourvocab:has_tag "40s",
         "fallout",
         "fallout 3",
@@ -3328,6 +3792,8 @@
 <http://musicbrainz.org/recording/636e544a-f2ad-53b3-9aff-9b86b4c22105#_> a mo:Track ;
     ourvocab:has_listener_count "60253" ;
     ourvocab:has_playcount "139551" ;
+    ourvocab:has_releasedate "    24 May 2013, 00:00",
+        "24 May 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "bop",
         "instrumental",
@@ -3339,6 +3805,8 @@
 <http://musicbrainz.org/recording/63d6c2fa-98be-4210-9861-5045085245c3#_> a mo:Track ;
     ourvocab:has_listener_count "70609" ;
     ourvocab:has_playcount "172181" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "funk",
         "jazz",
         "jazz funk",
@@ -3350,6 +3818,8 @@
 <http://musicbrainz.org/recording/64561a65-00c5-486c-aa9c-23f09910a464#_> a mo:Track ;
     ourvocab:has_listener_count "50030" ;
     ourvocab:has_playcount "121721" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "oldies",
@@ -3372,6 +3842,8 @@
 <http://musicbrainz.org/recording/64ed327b-30bb-42e7-a068-7715de7edc27#_> a mo:Track ;
     ourvocab:has_listener_count "77645" ;
     ourvocab:has_playcount "335182" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3383,6 +3855,8 @@
 <http://musicbrainz.org/recording/656d73c0-536b-4313-b4ef-d8664d06ab52#_> a mo:Track ;
     ourvocab:has_listener_count "77219" ;
     ourvocab:has_playcount "259147" ;
+    ourvocab:has_releasedate "    3 Jun 2003, 00:00",
+        "3 Jun 2003, 00:00" ;
     ourvocab:has_tag "chillout",
         "downtempo",
         "electronic",
@@ -3394,6 +3868,8 @@
 <http://musicbrainz.org/recording/667da294-c6a7-4b77-bfb4-a2a307c605c1#_> a mo:Track ;
     ourvocab:has_listener_count "67845" ;
     ourvocab:has_playcount "203324" ;
+    ourvocab:has_releasedate "    30 Nov 2000, 00:00",
+        "30 Nov 2000, 00:00" ;
     ourvocab:has_tag "christmas",
         "christmas - pop",
         "female vocalists",
@@ -3405,6 +3881,8 @@
 <http://musicbrainz.org/recording/673066d4-4044-4cd5-89a0-52965f1ebacf#_> a mo:Track ;
     ourvocab:has_listener_count "23586" ;
     ourvocab:has_playcount "55501" ;
+    ourvocab:has_releasedate "    8 Feb 2005, 00:00",
+        "8 Feb 2005, 00:00" ;
     ourvocab:has_tag "herbie hancock",
         "jazz",
         "jazz piano",
@@ -3416,6 +3894,8 @@
 <http://musicbrainz.org/recording/67b5bd41-9434-465d-bc94-122462f7176c#_> a mo:Track ;
     ourvocab:has_listener_count "53096" ;
     ourvocab:has_playcount "234352" ;
+    ourvocab:has_releasedate "    9 Nov 2009, 00:00",
+        "9 Nov 2009, 00:00" ;
     ourvocab:has_tag "jazz",
         "love",
         "mellow",
@@ -3427,6 +3907,8 @@
 <http://musicbrainz.org/recording/686e08c2-fec1-4a49-acbd-9482c90f83ce#_> a mo:Track ;
     ourvocab:has_listener_count "43507" ;
     ourvocab:has_playcount "127372" ;
+    ourvocab:has_releasedate "    24 Jul 2001, 00:00",
+        "24 Jul 2001, 00:00" ;
     ourvocab:has_tag "avant-garde",
         "coltrane",
         "hard bop",
@@ -3438,6 +3920,8 @@
 <http://musicbrainz.org/recording/68da07f9-27e2-4a30-80dd-fcdb1e3a4ce4#_> a mo:Track ;
     ourvocab:has_listener_count "117404" ;
     ourvocab:has_playcount "376250" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "male vocalists",
@@ -3449,6 +3933,8 @@
 <http://musicbrainz.org/recording/68e97690-1127-4591-9c01-a1e227a40b46#_> a mo:Track ;
     ourvocab:has_listener_count "118404" ;
     ourvocab:has_playcount "508178" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3460,6 +3946,8 @@
 <http://musicbrainz.org/recording/68f78e15-3d73-4772-b96f-336e812fb30c#_> a mo:Track ;
     ourvocab:has_listener_count "70430" ;
     ourvocab:has_playcount "320746" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "easy listening",
         "happy",
@@ -3471,6 +3959,8 @@
 <http://musicbrainz.org/recording/69977488-90aa-4ad0-b2b2-e8f6bd75d588#_> a mo:Track ;
     ourvocab:has_listener_count "24047" ;
     ourvocab:has_playcount "65899" ;
+    ourvocab:has_releasedate "    20 Mar 1990, 00:00",
+        "20 Mar 1990, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "fip",
         "jazz",
@@ -3482,6 +3972,8 @@
 <http://musicbrainz.org/recording/699b1500-9435-4d38-9e78-6d93c232716a#_> a mo:Track ;
     ourvocab:has_listener_count "153725" ;
     ourvocab:has_playcount "718679" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3493,6 +3985,8 @@
 <http://musicbrainz.org/recording/6a85f16e-4284-4391-8ee9-339476d6e8d0#_> a mo:Track ;
     ourvocab:has_listener_count "25122" ;
     ourvocab:has_playcount "64166" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "instrumental",
         "jazz",
         "late evening mood",
@@ -3504,6 +3998,8 @@
 <http://musicbrainz.org/recording/6b3bf38d-077a-4675-9463-686f0f79b900#_> a mo:Track ;
     ourvocab:has_listener_count "18503" ;
     ourvocab:has_playcount "64645" ;
+    ourvocab:has_releasedate "    8 Mar 2011, 00:00",
+        "8 Mar 2011, 00:00" ;
     ourvocab:has_tag "driving",
         "jazz",
         "mellow",
@@ -3514,6 +4010,8 @@
 <http://musicbrainz.org/recording/6b990d1a-62b1-49ba-9b31-dddb968a43e7#_> a mo:Track ;
     ourvocab:has_listener_count "29625" ;
     ourvocab:has_playcount "75759" ;
+    ourvocab:has_releasedate "    30 Nov 1995, 00:00",
+        "30 Nov 1995, 00:00" ;
     ourvocab:has_tag "77davez-all-tracks",
         "gypsy jazz",
         "instrumental",
@@ -3525,6 +4023,8 @@
 <http://musicbrainz.org/recording/6babb628-7d8d-4379-816c-c2130e577f10#_> a mo:Track ;
     ourvocab:has_listener_count "63091" ;
     ourvocab:has_playcount "154900" ;
+    ourvocab:has_releasedate "    12 Jul 2013, 00:00",
+        "12 Jul 2013, 00:00" ;
     ourvocab:has_tag "blues",
         "instrumental",
         "jazz",
@@ -3558,6 +4058,8 @@
 <http://musicbrainz.org/recording/6e26d1df-5699-4e1d-89a2-d0965fec900b#_> a mo:Track ;
     ourvocab:has_listener_count "34066" ;
     ourvocab:has_playcount "84426" ;
+    ourvocab:has_releasedate "    30 Nov 1965, 00:00",
+        "30 Nov 1965, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "dave brubeck",
         "jazz",
@@ -3569,6 +4071,8 @@
 <http://musicbrainz.org/recording/6eca59a1-30dd-4435-8915-75a4714f1f43#_> a mo:Track ;
     ourvocab:has_listener_count "61636" ;
     ourvocab:has_playcount "323719" ;
+    ourvocab:has_releasedate "    29 Aug 2011, 00:00",
+        "29 Aug 2011, 00:00" ;
     ourvocab:has_tag "indie",
         "its good to be bad",
         "jazz",
@@ -3591,6 +4095,8 @@
 <http://musicbrainz.org/recording/7067a4d3-11b3-49e6-b010-5a23c50ecd85#_> a mo:Track ;
     ourvocab:has_listener_count "83178" ;
     ourvocab:has_playcount "336280" ;
+    ourvocab:has_releasedate "    15 Jun 2009, 00:00",
+        "15 Jun 2009, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "male vocalists",
@@ -3602,6 +4108,8 @@
 <http://musicbrainz.org/recording/70d35b64-0a3e-46c7-9cb1-fefec230b462#_> a mo:Track ;
     ourvocab:has_listener_count "26732" ;
     ourvocab:has_playcount "64190" ;
+    ourvocab:has_releasedate "    30 Nov 1965, 00:00",
+        "30 Nov 1965, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "dave brubeck",
         "jazz",
@@ -3624,6 +4132,8 @@
 <http://musicbrainz.org/recording/70e597a9-5d2b-45df-9859-1159902fe879#_> a mo:Track ;
     ourvocab:has_listener_count "126493" ;
     ourvocab:has_playcount "476106" ;
+    ourvocab:has_releasedate "    30 Nov 1993, 00:00",
+        "30 Nov 1993, 00:00" ;
     ourvocab:has_tag "easy listening",
         "female vocalists",
         "jazz",
@@ -3635,6 +4145,8 @@
 <http://musicbrainz.org/recording/71ca06e9-cbdd-41d1-93d3-5d4dab0ca47a#_> a mo:Track ;
     ourvocab:has_listener_count "105892" ;
     ourvocab:has_playcount "324741" ;
+    ourvocab:has_releasedate "    11 Oct 2004, 00:00",
+        "11 Oct 2004, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3646,6 +4158,8 @@
 <http://musicbrainz.org/recording/71e6c19d-0baf-4607-bfe8-d78212abd558#_> a mo:Track ;
     ourvocab:has_listener_count "51098" ;
     ourvocab:has_playcount "122693" ;
+    ourvocab:has_releasedate "    10 Mar 2010, 00:00",
+        "10 Mar 2010, 00:00" ;
     ourvocab:has_tag "art blakey",
         "bebop",
         "hard bop",
@@ -3657,6 +4171,8 @@
 <http://musicbrainz.org/recording/72b21a7b-fa73-46bd-8a83-d06714f40979#_> a mo:Track ;
     ourvocab:has_listener_count "64342" ;
     ourvocab:has_playcount "292448" ;
+    ourvocab:has_releasedate "    9 Nov 2009, 00:00",
+        "9 Nov 2009, 00:00" ;
     ourvocab:has_tag "00s",
         "jazz",
         "piano",
@@ -3668,6 +4184,8 @@
 <http://musicbrainz.org/recording/72c9d688-db52-420a-af65-6058c48bf1c6#_> a mo:Track ;
     ourvocab:has_listener_count "33163" ;
     ourvocab:has_playcount "199401" ;
+    ourvocab:has_releasedate "    9 Mar 2004, 00:00",
+        "9 Mar 2004, 00:00" ;
     ourvocab:has_tag "ambient",
         "dark jazz",
         "doom jazz",
@@ -3679,6 +4197,8 @@
 <http://musicbrainz.org/recording/72dd578c-d1f3-4db7-a125-881a64fb96ec#_> a mo:Track ;
     ourvocab:has_listener_count "20573" ;
     ourvocab:has_playcount "64453" ;
+    ourvocab:has_releasedate "    8 Apr 2013, 00:00",
+        "8 Apr 2013, 00:00" ;
     ourvocab:has_tag "amayzes loved",
         "cool",
         "jazz",
@@ -3690,6 +4210,8 @@
 <http://musicbrainz.org/recording/73f82429-93e4-4e9a-92aa-fdb6401ca248#_> a mo:Track ;
     ourvocab:has_listener_count "60616" ;
     ourvocab:has_playcount "342920" ;
+    ourvocab:has_releasedate "    30 Nov 2009, 00:00",
+        "30 Nov 2009, 00:00" ;
     ourvocab:has_tag "chanson",
         "französisch",
         "french",
@@ -3701,6 +4223,8 @@
 <http://musicbrainz.org/recording/74c6b70d-e3f2-4acf-b5a5-dd3e15363808#_> a mo:Track ;
     ourvocab:has_listener_count "23363" ;
     ourvocab:has_playcount "60233" ;
+    ourvocab:has_releasedate "    1 Aug 2012, 00:00",
+        "1 Aug 2012, 00:00" ;
     ourvocab:has_tag "bebopgdchill",
         "cool jazz",
         "jazz",
@@ -3712,6 +4236,8 @@
 <http://musicbrainz.org/recording/74f8956d-595b-46a7-9b28-87b996498d85#_> a mo:Track ;
     ourvocab:has_listener_count "101927" ;
     ourvocab:has_playcount "470820" ;
+    ourvocab:has_releasedate "    14 Jul 2009, 00:00",
+        "14 Jul 2009, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3734,6 +4260,8 @@
 <http://musicbrainz.org/recording/7607dee7-c692-4e3f-adb7-88cf3452af1c#_> a mo:Track ;
     ourvocab:has_listener_count "55726" ;
     ourvocab:has_playcount "190291" ;
+    ourvocab:has_releasedate "    30 Jun 2009, 00:00",
+        "30 Jun 2009, 00:00" ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "female vocalists",
@@ -3745,6 +4273,8 @@
 <http://musicbrainz.org/recording/763effdb-5d5a-46bb-a7ec-8c18ec066a48#_> a mo:Track ;
     ourvocab:has_listener_count "56864" ;
     ourvocab:has_playcount "174388" ;
+    ourvocab:has_releasedate "    4 Jan 2012, 00:00",
+        "4 Jan 2012, 00:00" ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "female vocalists",
@@ -3756,6 +4286,8 @@
 <http://musicbrainz.org/recording/767991da-c8a9-4c83-9249-be3e2e1ebead#_> a mo:Track ;
     ourvocab:has_listener_count "49693" ;
     ourvocab:has_playcount "133047" ;
+    ourvocab:has_releasedate "    13 Dec 2005, 00:00",
+        "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "female vocalists",
@@ -3767,6 +4299,8 @@
 <http://musicbrainz.org/recording/76f1533c-5477-4288-93c1-6699868269b7#_> a mo:Track ;
     ourvocab:has_listener_count "27672" ;
     ourvocab:has_playcount "65677" ;
+    ourvocab:has_releasedate "    13 Mar 2006, 00:00",
+        "13 Mar 2006, 00:00" ;
     ourvocab:has_tag "jazz",
         "jazz standard",
         "miles davis",
@@ -3800,6 +4334,8 @@
 <http://musicbrainz.org/recording/7864e5c7-b37f-45fb-a8f5-af97d07b613c#_> a mo:Track ;
     ourvocab:has_listener_count "41041" ;
     ourvocab:has_playcount "104380" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "bebop",
         "jazz",
         "saxophone",
@@ -3811,6 +4347,8 @@
 <http://musicbrainz.org/recording/79b72cd9-49a9-4cdb-b96b-c7bff937366d#_> a mo:Track ;
     ourvocab:has_listener_count "76016" ;
     ourvocab:has_playcount "272116" ;
+    ourvocab:has_releasedate "    4 May 2006, 00:00",
+        "4 May 2006, 00:00" ;
     ourvocab:has_tag "chillout",
         "jazz",
         "latin",
@@ -3822,6 +4360,8 @@
 <http://musicbrainz.org/recording/79dd6d76-5798-431a-a66e-d286f3ae94a1#_> a mo:Track ;
     ourvocab:has_listener_count "79244" ;
     ourvocab:has_playcount "342200" ;
+    ourvocab:has_releasedate "    5 May 2009, 00:00",
+        "5 May 2009, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -3833,6 +4373,8 @@
 <http://musicbrainz.org/recording/7a7db42e-43be-5646-97d1-043ca5b403a4#_> a mo:Track ;
     ourvocab:has_listener_count "20627" ;
     ourvocab:has_playcount "72727" ;
+    ourvocab:has_releasedate "    19 Aug 2002, 00:00",
+        "19 Aug 2002, 00:00" ;
     ourvocab:has_tag "60s",
         "fusion",
         "jazz",
@@ -3844,6 +4386,8 @@
 <http://musicbrainz.org/recording/7a80a420-0aea-4a24-be21-973283a59ebe#_> a mo:Track ;
     ourvocab:has_listener_count "40687" ;
     ourvocab:has_playcount "143960" ;
+    ourvocab:has_releasedate "    11 Feb 2003, 00:00",
+        "11 Feb 2003, 00:00" ;
     ourvocab:has_tag "aphex twin",
         "cover",
         "instrumental",
@@ -3866,6 +4410,8 @@
 <http://musicbrainz.org/recording/7ad79d84-7467-4055-9d49-dafd77bcdf84#_> a mo:Track ;
     ourvocab:has_listener_count "82879" ;
     ourvocab:has_playcount "341313" ;
+    ourvocab:has_releasedate "    1 Dec 2007, 00:00",
+        "1 Dec 2007, 00:00" ;
     ourvocab:has_tag "cover",
         "easy listening",
         "jazz",
@@ -3877,6 +4423,8 @@
 <http://musicbrainz.org/recording/7b1a320b-a0cd-4452-8d1f-441032455920#_> a mo:Track ;
     ourvocab:has_listener_count "56095" ;
     ourvocab:has_playcount "153693" ;
+    ourvocab:has_releasedate "    14 Mar 2006, 00:00",
+        "14 Mar 2006, 00:00" ;
     ourvocab:has_tag "bill evans",
         "jazz",
         "jazz piano",
@@ -3888,6 +4436,8 @@
 <http://musicbrainz.org/recording/7bf50034-5d0b-4c44-a7eb-87b6929edabd#_> a mo:Track ;
     ourvocab:has_listener_count "38592" ;
     ourvocab:has_playcount "116983" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -3899,6 +4449,8 @@
 <http://musicbrainz.org/recording/7d0f7e70-331d-4756-ae57-49ae2e7aae9d#_> a mo:Track ;
     ourvocab:has_listener_count "26139" ;
     ourvocab:has_playcount "164410" ;
+    ourvocab:has_releasedate "    30 Jan 2007, 00:00",
+        "30 Jan 2007, 00:00" ;
     ourvocab:has_tag "chillout",
         "jazz",
         "snowboard",
@@ -3910,6 +4462,8 @@
 <http://musicbrainz.org/recording/7d14dfcd-42a1-42d0-9fe6-d35795a2ffc9#_> a mo:Track ;
     ourvocab:has_listener_count "43581" ;
     ourvocab:has_playcount "155761" ;
+    ourvocab:has_releasedate "    30 Nov 2000, 00:00",
+        "30 Nov 2000, 00:00" ;
     ourvocab:has_tag "big band",
         "easy listening",
         "jazz",
@@ -3921,6 +4475,8 @@
 <http://musicbrainz.org/recording/7d3ee3fa-7804-5bb0-b499-584f8084f779#_> a mo:Track ;
     ourvocab:has_listener_count "63593" ;
     ourvocab:has_playcount "161026" ;
+    ourvocab:has_releasedate "    1 Jan 1999, 00:00",
+        "1 Jan 1999, 00:00" ;
     ourvocab:has_tag "jazz",
         "louis armstrong",
         "oldies",
@@ -3932,6 +4488,8 @@
 <http://musicbrainz.org/recording/7dfb8bd1-966c-4cf6-8aa1-f9ae3c2a959c#_> a mo:Track ;
     ourvocab:has_listener_count "11655" ;
     ourvocab:has_playcount "31229" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "africa",
         "double-ender 5",
         "drjazzmrfunkmusic",
@@ -3943,6 +4501,8 @@
 <http://musicbrainz.org/recording/7e4cee80-8787-4292-a303-32aa9ce9ba81#_> a mo:Track ;
     ourvocab:has_listener_count "74358" ;
     ourvocab:has_playcount "329825" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "cover",
         "easy listening",
@@ -3965,6 +4525,8 @@
 <http://musicbrainz.org/recording/7f47d898-a39c-48db-996b-2fb659f95e8b#_> a mo:Track ;
     ourvocab:has_listener_count "33037" ;
     ourvocab:has_playcount "80548" ;
+    ourvocab:has_releasedate "    30 Nov 2012, 00:00",
+        "30 Nov 2012, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "fip",
         "jazz",
@@ -3976,6 +4538,8 @@
 <http://musicbrainz.org/recording/8071537c-1df5-466c-8678-90c8bbf5b0c4#_> a mo:Track ;
     ourvocab:has_listener_count "43130" ;
     ourvocab:has_playcount "102437" ;
+    ourvocab:has_releasedate "    25 Apr 1994, 00:00",
+        "25 Apr 1994, 00:00" ;
     ourvocab:has_tag "jazz",
         "new orleans",
         "saxophone",
@@ -3998,6 +4562,8 @@
 <http://musicbrainz.org/recording/80f54af8-2486-4496-a916-6b5afeac1b7d#_> a mo:Track ;
     ourvocab:has_listener_count "31589" ;
     ourvocab:has_playcount "84687" ;
+    ourvocab:has_releasedate "    3 Dec 2012, 00:00",
+        "3 Dec 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "greatest jazz",
         "jazz",
@@ -4009,6 +4575,8 @@
 <http://musicbrainz.org/recording/81284c3e-3211-41dd-9c54-9d44dda0bece#_> a mo:Track ;
     ourvocab:has_listener_count "57446" ;
     ourvocab:has_playcount "207703" ;
+    ourvocab:has_releasedate "    1 Dec 2007, 00:00",
+        "1 Dec 2007, 00:00" ;
     ourvocab:has_tag "crooner",
         "easy listening",
         "jazz",
@@ -4020,6 +4588,8 @@
 <http://musicbrainz.org/recording/81479b34-e255-462e-8631-de39b9e8788b#_> a mo:Track ;
     ourvocab:has_listener_count "54549" ;
     ourvocab:has_playcount "121249" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "blues",
         "ella fitzgerald",
         "female vocalists",
@@ -4053,6 +4623,8 @@
 <http://musicbrainz.org/recording/818354c8-5135-4886-a7d1-a9464380eba2#_> a mo:Track ;
     ourvocab:has_listener_count "110927" ;
     ourvocab:has_playcount "323548" ;
+    ourvocab:has_releasedate "    11 Oct 2004, 00:00",
+        "11 Oct 2004, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -4064,6 +4636,8 @@
 <http://musicbrainz.org/recording/81f782b2-f665-4cac-a1c7-0483790ebb8f#_> a mo:Track ;
     ourvocab:has_listener_count "75410" ;
     ourvocab:has_playcount "203060" ;
+    ourvocab:has_releasedate "    23 Feb 1999, 00:00",
+        "23 Feb 1999, 00:00" ;
     ourvocab:has_tag "blues",
         "ella fitzgerald",
         "female vocalists",
@@ -4075,6 +4649,8 @@
 <http://musicbrainz.org/recording/8221ded0-22bb-42fc-9f5a-ae155a42d442#_> a mo:Track ;
     ourvocab:has_listener_count "39663" ;
     ourvocab:has_playcount "103453" ;
+    ourvocab:has_releasedate "    7 Mar 1996, 00:00",
+        "7 Mar 1996, 00:00" ;
     ourvocab:has_tag "django",
         "django reinhardt",
         "instrumental",
@@ -4086,6 +4662,8 @@
 <http://musicbrainz.org/recording/8314ef49-a260-480b-9bec-d8d39ac2a346#_> a mo:Track ;
     ourvocab:has_listener_count "25688" ;
     ourvocab:has_playcount "63553" ;
+    ourvocab:has_releasedate "    11 Sep 2006, 00:00",
+        "11 Sep 2006, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "jazz piano",
@@ -4107,6 +4685,8 @@
 <http://musicbrainz.org/recording/843ce3b2-efcd-4c79-afa2-91c1956eb107#_> a mo:Track ;
     ourvocab:has_listener_count "48722" ;
     ourvocab:has_playcount "133018" ;
+    ourvocab:has_releasedate "    30 Nov 1995, 00:00",
+        "30 Nov 1995, 00:00" ;
     ourvocab:has_tag "guitar",
         "instrumental",
         "jazz",
@@ -4118,6 +4698,8 @@
 <http://musicbrainz.org/recording/8549d223-e972-4de2-a8a2-0a0a93095a50#_> a mo:Track ;
     ourvocab:has_listener_count "98060" ;
     ourvocab:has_playcount "326906" ;
+    ourvocab:has_releasedate "    26 Mar 1991, 00:00",
+        "26 Mar 1991, 00:00" ;
     ourvocab:has_tag "big band",
         "frank sinatra",
         "jazz",
@@ -4129,6 +4711,8 @@
 <http://musicbrainz.org/recording/8619639b-e6f5-4d35-87fa-6b9faba78629#_> a mo:Track ;
     ourvocab:has_listener_count "607496" ;
     ourvocab:has_playcount "2818510" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "blues",
         "jazz",
         "louis armstrong",
@@ -4173,6 +4757,8 @@
 <http://musicbrainz.org/recording/86ef3369-8eaa-4a75-97b8-44cac395dff5#_> a mo:Track ;
     ourvocab:has_listener_count "94194" ;
     ourvocab:has_playcount "212281" ;
+    ourvocab:has_releasedate "    31 Mar 1998, 00:00",
+        "31 Mar 1998, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal",
@@ -4184,6 +4770,8 @@
 <http://musicbrainz.org/recording/89213ef5-a97f-4f2b-a06a-7427c625492d#_> a mo:Track ;
     ourvocab:has_listener_count "34107" ;
     ourvocab:has_playcount "139864" ;
+    ourvocab:has_releasedate "    15 Mar 2006, 00:00",
+        "15 Mar 2006, 00:00" ;
     ourvocab:has_tag "ambient jazz",
         "dark ambient",
         "experimental",
@@ -4195,6 +4783,8 @@
 <http://musicbrainz.org/recording/89a2b38a-7b85-4669-95ed-e90ca7497b35#_> a mo:Track ;
     ourvocab:has_listener_count "40955" ;
     ourvocab:has_playcount "239695" ;
+    ourvocab:has_releasedate "    25 Feb 2000, 00:00",
+        "25 Feb 2000, 00:00" ;
     ourvocab:has_tag "ambient",
         "dark jazz",
         "doom jazz",
@@ -4206,6 +4796,8 @@
 <http://musicbrainz.org/recording/89a79dea-636c-4518-8987-917a77a4ea8c#_> a mo:Track ;
     ourvocab:has_listener_count "16512" ;
     ourvocab:has_playcount "47023" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "brownie mc ghee",
         "brubeck",
         "cool jazz",
@@ -4239,6 +4831,8 @@
 <http://musicbrainz.org/recording/8a1b5f46-fb2b-4192-bd9b-6712d9e6fc67#_> a mo:Track ;
     ourvocab:has_listener_count "34647" ;
     ourvocab:has_playcount "101649" ;
+    ourvocab:has_releasedate "    26 Aug 2006, 00:00",
+        "26 Aug 2006, 00:00" ;
     ourvocab:has_tag "chillout",
         "cover",
         "female vocalists",
@@ -4250,6 +4844,8 @@
 <http://musicbrainz.org/recording/8d805035-50e6-420b-aabf-1d7982f1ea00#_> a mo:Track ;
     ourvocab:has_listener_count "56538" ;
     ourvocab:has_playcount "229978" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "easy listening",
         "jazz",
@@ -4261,6 +4857,8 @@
 <http://musicbrainz.org/recording/8dd9b23e-47c4-496d-bec4-d8ec85c4b2d7#_> a mo:Track ;
     ourvocab:has_listener_count "33199" ;
     ourvocab:has_playcount "162949" ;
+    ourvocab:has_releasedate "    2 Jun 2011, 00:00",
+        "2 Jun 2011, 00:00" ;
     ourvocab:has_tag "caro emerald",
         "female vocalists",
         "jazz",
@@ -4294,6 +4892,8 @@
 <http://musicbrainz.org/recording/8e4db0e7-b8ac-4897-ae8e-dd0445c83a30#_> a mo:Track ;
     ourvocab:has_listener_count "62106" ;
     ourvocab:has_playcount "142050" ;
+    ourvocab:has_releasedate "    31 Mar 1998, 00:00",
+        "31 Mar 1998, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -4305,6 +4905,8 @@
 <http://musicbrainz.org/recording/8efe6bb1-9993-4662-a1b6-d4f35f000042#_> a mo:Track ;
     ourvocab:has_listener_count "19519" ;
     ourvocab:has_playcount "68702" ;
+    ourvocab:has_releasedate "    30 Nov 2000, 00:00",
+        "30 Nov 2000, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "fusion",
         "jazz",
@@ -4316,6 +4918,8 @@
 <http://musicbrainz.org/recording/8f03bbb1-2319-45ef-92a5-dd29e1d467fc#_> a mo:Track ;
     ourvocab:has_listener_count "80709" ;
     ourvocab:has_playcount "395723" ;
+    ourvocab:has_releasedate "    18 Jan 1994, 00:00",
+        "18 Jan 1994, 00:00" ;
     ourvocab:has_tag "alternative",
         "alternative rock",
         "indie",
@@ -4338,6 +4942,8 @@
 <http://musicbrainz.org/recording/8f2dbf47-d5a6-42fd-8a91-8015b43cdaba#_> a mo:Track ;
     ourvocab:has_listener_count "30025" ;
     ourvocab:has_playcount "57342" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalist",
         "jazz",
@@ -4349,6 +4955,8 @@
 <http://musicbrainz.org/recording/8fefcacc-5c7c-4fff-887d-3ffcbd0eadf2#_> a mo:Track ;
     ourvocab:has_listener_count "40427" ;
     ourvocab:has_playcount "185795" ;
+    ourvocab:has_releasedate "    9 Nov 2009, 00:00",
+        "9 Nov 2009, 00:00" ;
     ourvocab:has_tag "chillout",
         "cover",
         "jazz",
@@ -4360,6 +4968,8 @@
 <http://musicbrainz.org/recording/901f948b-0db5-4226-aadd-0a77875c3576#_> a mo:Track ;
     ourvocab:has_listener_count "24754" ;
     ourvocab:has_playcount "71315" ;
+    ourvocab:has_releasedate "    25 Jul 2008, 00:00",
+        "25 Jul 2008, 00:00" ;
     ourvocab:has_tag "bebop",
         "groovy",
         "jazz",
@@ -4371,6 +4981,8 @@
 <http://musicbrainz.org/recording/9074961a-e50f-4492-81a9-892a983ac5ce#_> a mo:Track ;
     ourvocab:has_listener_count "31745" ;
     ourvocab:has_playcount "200496" ;
+    ourvocab:has_releasedate "    9 Mar 2004, 00:00",
+        "9 Mar 2004, 00:00" ;
     ourvocab:has_tag "ambient jazz",
         "dark jazz",
         "doom jazz",
@@ -4382,6 +4994,8 @@
 <http://musicbrainz.org/recording/918efff5-e515-4000-bc07-a95c701c1a4e#_> a mo:Track ;
     ourvocab:has_listener_count "129536" ;
     ourvocab:has_playcount "365794" ;
+    ourvocab:has_releasedate "    8 Nov 1999, 00:00",
+        "8 Nov 1999, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "love",
@@ -4425,6 +5039,8 @@
 <http://musicbrainz.org/recording/929d6519-0100-49f5-8d28-05f7aa4754b0#_> a mo:Track ;
     ourvocab:has_listener_count "52684" ;
     ourvocab:has_playcount "129943" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "blues",
         "classic jazz",
         "jazz",
@@ -4436,6 +5052,8 @@
 <http://musicbrainz.org/recording/937bcb8a-4d0d-40c8-9c6b-2ff378269baf#_> a mo:Track ;
     ourvocab:has_listener_count "117731" ;
     ourvocab:has_playcount "435918" ;
+    ourvocab:has_releasedate "    13 May 2002, 00:00",
+        "13 May 2002, 00:00" ;
     ourvocab:has_tag "acid jazz",
         "chillout",
         "downtempo",
@@ -4447,6 +5065,8 @@
 <http://musicbrainz.org/recording/93b4763b-9c56-464c-a43a-5506b4504fc4#_> a mo:Track ;
     ourvocab:has_listener_count "41417" ;
     ourvocab:has_playcount "124002" ;
+    ourvocab:has_releasedate "    13 Dec 2005, 00:00",
+        "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "77davez-all-tracks",
         "blues",
         "female vocalists",
@@ -4458,6 +5078,8 @@
 <http://musicbrainz.org/recording/93c7cb0b-36a0-4b7f-a73c-72bfc442fcde#_> a mo:Track ;
     ourvocab:has_listener_count "43298" ;
     ourvocab:has_playcount "97501" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -4469,6 +5091,8 @@
 <http://musicbrainz.org/recording/93cd30a3-5aa2-4ad1-a09d-bf55f805679a#_> a mo:Track ;
     ourvocab:has_listener_count "28468" ;
     ourvocab:has_playcount "88196" ;
+    ourvocab:has_releasedate "    26 May 1998, 00:00",
+        "26 May 1998, 00:00" ;
     ourvocab:has_tag "frank sinatra",
         "jazz",
         "jazz vocal",
@@ -4491,6 +5115,8 @@
 <http://musicbrainz.org/recording/95e546cf-860c-4c37-8e79-488aca8bc0d6#_> a mo:Track ;
     ourvocab:has_listener_count "20088" ;
     ourvocab:has_playcount "54943" ;
+    ourvocab:has_releasedate "    29 Jul 2012, 00:00",
+        "29 Jul 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "cool",
         "jazz",
@@ -4513,6 +5139,8 @@
 <http://musicbrainz.org/recording/977d4a11-ed96-4697-9e58-b2e9a148ba80#_> a mo:Track ;
     ourvocab:has_listener_count "28104" ;
     ourvocab:has_playcount "116197" ;
+    ourvocab:has_releasedate "    30 Jan 2011, 00:00",
+        "30 Jan 2011, 00:00" ;
     ourvocab:has_tag "instrumental",
         "jazz",
         "nu jazz",
@@ -4524,6 +5152,8 @@
 <http://musicbrainz.org/recording/978503bc-a34c-4806-b90e-3c1fa3d82dbb#_> a mo:Track ;
     ourvocab:has_listener_count "50405" ;
     ourvocab:has_playcount "114604" ;
+    ourvocab:has_releasedate "    30 Nov 2012, 00:00",
+        "30 Nov 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "instrumental",
         "jazz",
@@ -4546,6 +5176,8 @@
 <http://musicbrainz.org/recording/98093a19-845a-4d34-84e5-a79ade53d053#_> a mo:Track ;
     ourvocab:has_listener_count "90338" ;
     ourvocab:has_playcount "404813" ;
+    ourvocab:has_releasedate "    8 Oct 2007, 00:00",
+        "8 Oct 2007, 00:00" ;
     ourvocab:has_tag "big band",
         "easy listening",
         "jazz",
@@ -4557,6 +5189,8 @@
 <http://musicbrainz.org/recording/983e0a11-3373-4dd7-953a-39f16ea32a7b#_> a mo:Track ;
     ourvocab:has_listener_count "20517" ;
     ourvocab:has_playcount "62490" ;
+    ourvocab:has_releasedate "    8 Apr 2013, 00:00",
+        "8 Apr 2013, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "drjazzmrfunkmusic",
         "instrumental",
@@ -4568,6 +5202,8 @@
 <http://musicbrainz.org/recording/987f0b0d-c6cf-4f72-b1cf-35edbd92b656#_> a mo:Track ;
     ourvocab:has_listener_count "82985" ;
     ourvocab:has_playcount "185255" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -4579,6 +5215,8 @@
 <http://musicbrainz.org/recording/9942d09a-1a2d-4108-a7c1-1bd05a368ddf#_> a mo:Track ;
     ourvocab:has_listener_count "15771" ;
     ourvocab:has_playcount "30707" ;
+    ourvocab:has_releasedate "    20 Mar 1987, 00:00",
+        "20 Mar 1987, 00:00" ;
     ourvocab:has_tag "bebop",
         "drjazzmrfunkmusic",
         "fip",
@@ -4601,6 +5239,8 @@
 <http://musicbrainz.org/recording/9d030a81-2c2a-4362-8df8-cc042c5ffbaa#_> a mo:Track ;
     ourvocab:has_listener_count "74475" ;
     ourvocab:has_playcount "282015" ;
+    ourvocab:has_releasedate "    6 Mar 2006, 00:00",
+        "6 Mar 2006, 00:00" ;
     ourvocab:has_tag "cover",
         "jamie cullum",
         "jazz",
@@ -4612,6 +5252,8 @@
 <http://musicbrainz.org/recording/9d5aa4a5-6b85-4083-ba98-4b2996d1b5d1#_> a mo:Track ;
     ourvocab:has_listener_count "55221" ;
     ourvocab:has_playcount "198896" ;
+    ourvocab:has_releasedate "    19 Mar 1996, 00:00",
+        "19 Mar 1996, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "miles davis",
@@ -4623,6 +5265,8 @@
 <http://musicbrainz.org/recording/9dd75e54-62c7-4526-b1df-3b2abf10e19c#_> a mo:Track ;
     ourvocab:has_listener_count "90951" ;
     ourvocab:has_playcount "261798" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "billie holiday",
         "blues",
         "female vocalists",
@@ -4645,6 +5289,8 @@
 <http://musicbrainz.org/recording/9e1c91e8-03ed-439b-a343-b53244ad60cf#_> a mo:Track ;
     ourvocab:has_listener_count "31345" ;
     ourvocab:has_playcount "105537" ;
+    ourvocab:has_releasedate "    7 Jul 2009, 00:00",
+        "7 Jul 2009, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "jazz vocal tag",
@@ -4667,6 +5313,8 @@
 <http://musicbrainz.org/recording/9e8f1d07-b049-4e68-86d4-7652ea80ac64#_> a mo:Track ;
     ourvocab:has_listener_count "29977" ;
     ourvocab:has_playcount "97816" ;
+    ourvocab:has_releasedate "    7 Jul 2009, 00:00",
+        "7 Jul 2009, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "gimme sum friends",
         "gimme sum friends03",
@@ -4678,6 +5326,8 @@
 <http://musicbrainz.org/recording/9ec59d6b-de0a-42b6-98bc-797b4ea2ec17#_> a mo:Track ;
     ourvocab:has_listener_count "60984" ;
     ourvocab:has_playcount "169286" ;
+    ourvocab:has_releasedate "    30 Jun 2006, 00:00",
+        "30 Jun 2006, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "lounge",
@@ -4689,6 +5339,8 @@
 <http://musicbrainz.org/recording/9f674f32-fe48-485a-ac00-01facf314452#_> a mo:Track ;
     ourvocab:has_listener_count "47499" ;
     ourvocab:has_playcount "128619" ;
+    ourvocab:has_releasedate "    16 Nov 2012, 00:00",
+        "16 Nov 2012, 00:00" ;
     ourvocab:has_tag "amayzes loved",
         "instrumental",
         "jazz",
@@ -4700,6 +5352,8 @@
 <http://musicbrainz.org/recording/a169a8ec-cd1d-4763-8511-e027dbbd1a67#_> a mo:Track ;
     ourvocab:has_listener_count "140718" ;
     ourvocab:has_playcount "442824" ;
+    ourvocab:has_releasedate "    26 Mar 1991, 00:00",
+        "26 Mar 1991, 00:00" ;
     ourvocab:has_tag "easy listening",
         "frank sinatra",
         "jazz",
@@ -4711,6 +5365,8 @@
 <http://musicbrainz.org/recording/a1b8672c-1925-450e-82f0-0c1fbca634c6#_> a mo:Track ;
     ourvocab:has_listener_count "120612" ;
     ourvocab:has_playcount "399188" ;
+    ourvocab:has_releasedate "    15 Nov 2005, 00:00",
+        "15 Nov 2005, 00:00" ;
     ourvocab:has_tag "cover",
         "easy listening",
         "jazz",
@@ -4733,6 +5389,8 @@
 <http://musicbrainz.org/recording/a2c8d404-1ecd-400d-83cb-579990aa66f9#_> a mo:Track ;
     ourvocab:has_listener_count "50069" ;
     ourvocab:has_playcount "123174" ;
+    ourvocab:has_releasedate "    24 Jun 2008, 00:00",
+        "24 Jun 2008, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "jazzysmalejazz",
@@ -4744,6 +5402,8 @@
 <http://musicbrainz.org/recording/a44ff1ca-ba53-5619-b9e6-f0dc099ff8ce#_> a mo:Track ;
     ourvocab:has_listener_count "39948" ;
     ourvocab:has_playcount "93065" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "ella fitzgerald",
         "female vocalists",
         "jazz",
@@ -4755,6 +5415,8 @@
 <http://musicbrainz.org/recording/a4967456-3eea-4bbd-97e7-98a73e35f3a4#_> a mo:Track ;
     ourvocab:has_listener_count "115966" ;
     ourvocab:has_playcount "515693" ;
+    ourvocab:has_releasedate "    9 Nov 2007, 00:00",
+        "9 Nov 2007, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "melancholy",
@@ -4777,6 +5439,8 @@
 <http://musicbrainz.org/recording/a6ca0147-1604-4d6e-ab1a-90807b2d5b80#_> a mo:Track ;
     ourvocab:has_listener_count "38418" ;
     ourvocab:has_playcount "161909" ;
+    ourvocab:has_releasedate "    15 Mar 2006, 00:00",
+        "15 Mar 2006, 00:00" ;
     ourvocab:has_tag "ambient",
         "contemporary jazz",
         "dark jazz",
@@ -4788,6 +5452,8 @@
 <http://musicbrainz.org/recording/a71abe3c-d2d3-4f83-aaab-89069d9b7a06#_> a mo:Track ;
     ourvocab:has_listener_count "90424" ;
     ourvocab:has_playcount "460653" ;
+    ourvocab:has_releasedate "    14 Aug 2006, 00:00",
+        "14 Aug 2006, 00:00" ;
     ourvocab:has_tag "blues",
         "christina aguilera",
         "jazz",
@@ -4799,6 +5465,8 @@
 <http://musicbrainz.org/recording/a9d6e974-e012-51a7-9caf-bd275e464937#_> a mo:Track ;
     ourvocab:has_listener_count "42872" ;
     ourvocab:has_playcount "101514" ;
+    ourvocab:has_releasedate "    12 Jul 2013, 00:00",
+        "12 Jul 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "charlie parker",
         "charliebirdparker",
@@ -4821,6 +5489,8 @@
 <http://musicbrainz.org/recording/aa657a05-8ac9-40ac-844b-a99676c4bd1d#_> a mo:Track ;
     ourvocab:has_listener_count "193083" ;
     ourvocab:has_playcount "880263" ;
+    ourvocab:has_releasedate "    14 Jul 2009, 00:00",
+        "14 Jul 2009, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -4832,6 +5502,8 @@
 <http://musicbrainz.org/recording/ab37de35-7237-4396-9e71-6addfe27c679#_> a mo:Track ;
     ourvocab:has_listener_count "50127" ;
     ourvocab:has_playcount "128725" ;
+    ourvocab:has_releasedate "    30 Nov 2012, 00:00",
+        "30 Nov 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "fonky jazz",
         "jazz",
@@ -4843,6 +5515,8 @@
 <http://musicbrainz.org/recording/ae68a281-68f9-46ae-b009-dda6b89492fb#_> a mo:Track ;
     ourvocab:has_listener_count "76545" ;
     ourvocab:has_playcount "241547" ;
+    ourvocab:has_releasedate "    16 Apr 1995, 00:00",
+        "16 Apr 1995, 00:00" ;
     ourvocab:has_tag "crooners",
         "easy listening",
         "jazz",
@@ -4865,6 +5539,8 @@
 <http://musicbrainz.org/recording/af7b3ac0-8ce2-43f2-808a-be9484a5d477#_> a mo:Track ;
     ourvocab:has_listener_count "34207" ;
     ourvocab:has_playcount "76999" ;
+    ourvocab:has_releasedate "    10 Mar 2010, 00:00",
+        "10 Mar 2010, 00:00" ;
     ourvocab:has_tag "art blakey  the jazz messengers",
         "bebop",
         "drums",
@@ -4887,6 +5563,8 @@
 <http://musicbrainz.org/recording/b1e88e46-0c48-4177-82f1-1d16f0b016c6#_> a mo:Track ;
     ourvocab:has_listener_count "88076" ;
     ourvocab:has_playcount "395291" ;
+    ourvocab:has_releasedate "    17 Nov 2009, 00:00",
+        "17 Nov 2009, 00:00" ;
     ourvocab:has_tag "adult contemporary",
         "alternative",
         "female vocalists",
@@ -4898,6 +5576,8 @@
 <http://musicbrainz.org/recording/b2a65134-13ad-5b7e-9d82-7ad3c34009ca#_> a mo:Track ;
     ourvocab:has_listener_count "258511" ;
     ourvocab:has_playcount "1790292" ;
+    ourvocab:has_releasedate "    19 Oct 2009, 00:00",
+        "19 Oct 2009, 00:00" ;
     ourvocab:has_tag "canadian",
         "easy listening",
         "jazz",
@@ -4920,6 +5600,8 @@
 <http://musicbrainz.org/recording/b47a8992-c2ba-4a4a-a6ee-0c04e0c727ec#_> a mo:Track ;
     ourvocab:has_listener_count "87717" ;
     ourvocab:has_playcount "316507" ;
+    ourvocab:has_releasedate "    1 Dec 2007, 00:00",
+        "1 Dec 2007, 00:00" ;
     ourvocab:has_tag "big band",
         "jazz",
         "michael buble",
@@ -4942,6 +5624,8 @@
 <http://musicbrainz.org/recording/b59b9d18-104f-4f1d-8389-bcab52ec1328#_> a mo:Track ;
     ourvocab:has_listener_count "20174" ;
     ourvocab:has_playcount "61785" ;
+    ourvocab:has_releasedate "    3 Mar 2012, 00:00",
+        "3 Mar 2012, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "jazz piano",
@@ -4953,6 +5637,8 @@
 <http://musicbrainz.org/recording/b5e038db-7b70-4477-b214-723cbe895cd3#_> a mo:Track ;
     ourvocab:has_listener_count "45097" ;
     ourvocab:has_playcount "120165" ;
+    ourvocab:has_releasedate "    24 Jun 2008, 00:00",
+        "24 Jun 2008, 00:00" ;
     ourvocab:has_tag "american",
         "jazz",
         "love",
@@ -4975,6 +5661,8 @@
 <http://musicbrainz.org/recording/b8760e25-ce10-4247-a99a-b6090a97431d#_> a mo:Track ;
     ourvocab:has_listener_count "47808" ;
     ourvocab:has_playcount "347031" ;
+    ourvocab:has_releasedate "    21 Aug 2003, 00:00",
+        "21 Aug 2003, 00:00" ;
     ourvocab:has_tag "chillout",
         "hip-hop",
         "instrumental",
@@ -4986,6 +5674,8 @@
 <http://musicbrainz.org/recording/b8fd94f8-e3be-4b69-8962-4dbe0f14f0db#_> a mo:Track ;
     ourvocab:has_listener_count "93190" ;
     ourvocab:has_playcount "257758" ;
+    ourvocab:has_releasedate "    24 Dec 2012, 00:00",
+        "24 Dec 2012, 00:00" ;
     ourvocab:has_tag "blues",
         "etta james",
         "female vocalists",
@@ -4997,6 +5687,8 @@
 <http://musicbrainz.org/recording/b907709e-1f1c-4a77-b4ef-cf015093d372#_> a mo:Track ;
     ourvocab:has_listener_count "26140" ;
     ourvocab:has_playcount "66766" ;
+    ourvocab:has_releasedate "    3 Dec 2012, 00:00",
+        "3 Dec 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "hard bop",
         "jazz",
@@ -5008,6 +5700,8 @@
 <http://musicbrainz.org/recording/b9935938-9a99-4d31-aa23-7d1dff0ddf75#_> a mo:Track ;
     ourvocab:has_listener_count "27143" ;
     ourvocab:has_playcount "80368" ;
+    ourvocab:has_releasedate "    8 Feb 1990, 00:00",
+        "8 Feb 1990, 00:00" ;
     ourvocab:has_tag "avant-garde",
         "experimental",
         "jazz",
@@ -5030,6 +5724,8 @@
 <http://musicbrainz.org/recording/badcbcea-ed4f-5b46-849c-cd309a86d69f#_> a mo:Track ;
     ourvocab:has_listener_count "45921" ;
     ourvocab:has_playcount "108690" ;
+    ourvocab:has_releasedate "    10 Mar 2013, 00:00",
+        "10 Mar 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "charlie parker",
         "cool jazz",
@@ -5041,6 +5737,8 @@
 <http://musicbrainz.org/recording/bb49af4c-cc8d-40b1-9737-d408ef62db58#_> a mo:Track ;
     ourvocab:has_listener_count "64295" ;
     ourvocab:has_playcount "230368" ;
+    ourvocab:has_releasedate "    30 Nov 2004, 00:00",
+        "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "jazz",
         "jazzysmalejazz",
         "michael buble",
@@ -5052,6 +5750,8 @@
 <http://musicbrainz.org/recording/bb8f499f-f38f-4393-961a-e839fb7452ed#_> a mo:Track ;
     ourvocab:has_listener_count "92127" ;
     ourvocab:has_playcount "296766" ;
+    ourvocab:has_releasedate "    24 Dec 2012, 00:00",
+        "24 Dec 2012, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -5074,6 +5774,8 @@
 <http://musicbrainz.org/recording/bc320c4c-e4f3-49cf-8f23-43f26ad840fe#_> a mo:Track ;
     ourvocab:has_listener_count "25644" ;
     ourvocab:has_playcount "69553" ;
+    ourvocab:has_releasedate "    16 Nov 2012, 00:00",
+        "16 Nov 2012, 00:00" ;
     ourvocab:has_tag "60s",
         "instrumental jazz tag",
         "jazz",
@@ -5085,6 +5787,8 @@
 <http://musicbrainz.org/recording/bcc321d6-9bd0-4d5e-9bf7-8c9c22b842f4#_> a mo:Track ;
     ourvocab:has_listener_count "32295" ;
     ourvocab:has_playcount "84768" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalist",
         "jazz",
@@ -5096,6 +5800,8 @@
 <http://musicbrainz.org/recording/bccfd509-e484-445f-89e3-128e0b34f89d#_> a mo:Track ;
     ourvocab:has_listener_count "23721" ;
     ourvocab:has_playcount "62020" ;
+    ourvocab:has_releasedate "    19 Sep 2011, 00:00",
+        "19 Sep 2011, 00:00" ;
     ourvocab:has_tag "easy listening",
         "guitar",
         "instrumental",
@@ -5107,6 +5813,8 @@
 <http://musicbrainz.org/recording/bfe646c7-2758-4e87-a66b-ec100e31a572#_> a mo:Track ;
     ourvocab:has_listener_count "22074" ;
     ourvocab:has_playcount "53228" ;
+    ourvocab:has_releasedate "    21 Mar 2006, 00:00",
+        "21 Mar 2006, 00:00" ;
     ourvocab:has_tag "instrumental jazz tag",
         "jazz",
         "john coltrane",
@@ -5118,6 +5826,8 @@
 <http://musicbrainz.org/recording/c0192593-cf4b-48cc-875c-7a1ba0aca438#_> a mo:Track ;
     ourvocab:has_listener_count "165742" ;
     ourvocab:has_playcount "481659" ;
+    ourvocab:has_releasedate "    16 Apr 2002, 00:00",
+        "16 Apr 2002, 00:00" ;
     ourvocab:has_tag "50s",
         "easy listening",
         "jazz",
@@ -5129,6 +5839,8 @@
 <http://musicbrainz.org/recording/c01d7a36-b814-4fe6-a223-0f818045e8dd#_> a mo:Track ;
     ourvocab:has_listener_count "160679" ;
     ourvocab:has_playcount "627465" ;
+    ourvocab:has_releasedate "    22 Jan 1999, 00:00",
+        "22 Jan 1999, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -5140,6 +5852,8 @@
 <http://musicbrainz.org/recording/c0347e04-128e-4c32-a045-afcc956ef3e0#_> a mo:Track ;
     ourvocab:has_listener_count "65191" ;
     ourvocab:has_playcount "216813" ;
+    ourvocab:has_releasedate "    18 Apr 2004, 00:00",
+        "18 Apr 2004, 00:00" ;
     ourvocab:has_tag "chillout",
         "jazz",
         "ninja tune",
@@ -5151,6 +5865,8 @@
 <http://musicbrainz.org/recording/c0350977-7184-4b88-a4bb-5ba1afa3024c#_> a mo:Track ;
     ourvocab:has_listener_count "47965" ;
     ourvocab:has_playcount "221256" ;
+    ourvocab:has_releasedate "    26 May 1998, 00:00",
+        "26 May 1998, 00:00" ;
     ourvocab:has_tag "easy listening",
         "frank sinatra",
         "jazz",
@@ -5162,6 +5878,8 @@
 <http://musicbrainz.org/recording/c185d774-abfc-41be-99d9-d2f47cf84631#_> a mo:Track ;
     ourvocab:has_listener_count "49145" ;
     ourvocab:has_playcount "114920" ;
+    ourvocab:has_releasedate "    2 May 2011, 00:00",
+        "2 May 2011, 00:00" ;
     ourvocab:has_tag "ella",
         "female vocalists",
         "fip",
@@ -5172,6 +5890,8 @@
 <http://musicbrainz.org/recording/c3881bac-fbd7-4533-a970-cce52a4cfd4c#_> a mo:Track ;
     ourvocab:has_listener_count "15996" ;
     ourvocab:has_playcount "46506" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "classic jazz",
         "cool jazz",
         "favorite",
@@ -5183,6 +5903,8 @@
 <http://musicbrainz.org/recording/c3df4b6b-f9ad-4f37-bac9-52c1ed5ffe9e#_> a mo:Track ;
     ourvocab:has_listener_count "28738" ;
     ourvocab:has_playcount "73488" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "drjazzmrfunkmusic",
         "fip",
         "instrumental jazz tag",
@@ -5194,6 +5916,8 @@
 <http://musicbrainz.org/recording/c425903c-d0c8-4cb4-8479-2ba6fcd0df88#_> a mo:Track ;
     ourvocab:has_listener_count "123796" ;
     ourvocab:has_playcount "513811" ;
+    ourvocab:has_releasedate "    4 May 2006, 00:00",
+        "4 May 2006, 00:00" ;
     ourvocab:has_tag "chillout",
         "female vocalists",
         "french",
@@ -5205,6 +5929,8 @@
 <http://musicbrainz.org/recording/c427dfc2-3caa-5a60-bfe4-ed7f243a4b9a#_> a mo:Track ;
     ourvocab:has_listener_count "12733" ;
     ourvocab:has_playcount "22001" ;
+    ourvocab:has_releasedate "    24 Oct 2005, 00:00",
+        "24 Oct 2005, 00:00" ;
     ourvocab:has_tag "jazz",
         "john coltrane",
         "pure jazz",
@@ -5216,6 +5942,8 @@
 <http://musicbrainz.org/recording/c4db14d9-ba10-49d8-8223-83f5d8a25cca#_> a mo:Track ;
     ourvocab:has_listener_count "29194" ;
     ourvocab:has_playcount "57021" ;
+    ourvocab:has_releasedate "    22 Mar 1994, 00:00",
+        "22 Mar 1994, 00:00" ;
     ourvocab:has_tag "bebop",
         "bossa nova",
         "instrumental",
@@ -5227,6 +5955,8 @@
 <http://musicbrainz.org/recording/c4f5af23-64f0-46fd-bf2e-f3cd47903883#_> a mo:Track ;
     ourvocab:has_listener_count "65158" ;
     ourvocab:has_playcount "175452" ;
+    ourvocab:has_releasedate "    1 Aug 2011, 00:00",
+        "1 Aug 2011, 00:00" ;
     ourvocab:has_tag "billie holiday",
         "female vocalists",
         "jazz",
@@ -5249,6 +5979,8 @@
 <http://musicbrainz.org/recording/c6d93478-79f2-4b7e-9a29-f11f05abfff9#_> a mo:Track ;
     ourvocab:has_listener_count "29603" ;
     ourvocab:has_playcount "99605" ;
+    ourvocab:has_releasedate "    30 Nov 1979, 00:00",
+        "30 Nov 1979, 00:00" ;
     ourvocab:has_tag "jazz",
         "love songs",
         "saxophone",
@@ -5282,6 +6014,8 @@
 <http://musicbrainz.org/recording/c9301069-5d12-456d-94a8-7d8a2d090b2e#_> a mo:Track ;
     ourvocab:has_listener_count "22269" ;
     ourvocab:has_playcount "57814" ;
+    ourvocab:has_releasedate "    8 Mar 2013, 00:00",
+        "8 Mar 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "cool jazz",
         "jazz",
@@ -5293,6 +6027,8 @@
 <http://musicbrainz.org/recording/c969e877-d903-43f7-b359-bee59937516d#_> a mo:Track ;
     ourvocab:has_listener_count "84797" ;
     ourvocab:has_playcount "295399" ;
+    ourvocab:has_releasedate "    15 Feb 2008, 00:00",
+        "15 Feb 2008, 00:00" ;
     ourvocab:has_tag "blues",
         "chillout",
         "female vocalists",
@@ -5304,6 +6040,8 @@
 <http://musicbrainz.org/recording/c996dd3b-f319-4b83-b58c-2d3ff7225459#_> a mo:Track ;
     ourvocab:has_listener_count "95300" ;
     ourvocab:has_playcount "304072" ;
+    ourvocab:has_releasedate "    12 Oct 1990, 00:00",
+        "12 Oct 1990, 00:00" ;
     ourvocab:has_tag "blues",
         "experimental",
         "jazz",
@@ -5315,6 +6053,8 @@
 <http://musicbrainz.org/recording/c9cb641f-881e-4387-a854-d1c177998c4f#_> a mo:Track ;
     ourvocab:has_listener_count "31959" ;
     ourvocab:has_playcount "65949" ;
+    ourvocab:has_releasedate "    26 Jun 2012, 00:00",
+        "26 Jun 2012, 00:00" ;
     ourvocab:has_tag "bebop",
         "cool",
         "cool jazz",
@@ -5326,6 +6066,8 @@
 <http://musicbrainz.org/recording/ca6e88c4-87e2-4b85-b8fd-1df982f20ec6#_> a mo:Track ;
     ourvocab:has_listener_count "18280" ;
     ourvocab:has_playcount "57966" ;
+    ourvocab:has_releasedate "    8 Apr 2013, 00:00",
+        "8 Apr 2013, 00:00" ;
     ourvocab:has_tag "bebop",
         "dark rainy city for jazz horn",
         "jazz",
@@ -5337,6 +6079,8 @@
 <http://musicbrainz.org/recording/cbe32161-3a05-4070-8e5c-757c4f58d78d#_> a mo:Track ;
     ourvocab:has_listener_count "25070" ;
     ourvocab:has_playcount "66288" ;
+    ourvocab:has_releasedate "    28 Apr 2007, 00:00",
+        "28 Apr 2007, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "piano",
@@ -5359,6 +6103,8 @@
 <http://musicbrainz.org/recording/cc4e9a89-310b-49ee-9707-dd358f682e11#_> a mo:Track ;
     ourvocab:has_listener_count "43781" ;
     ourvocab:has_playcount "123355" ;
+    ourvocab:has_releasedate "    31 Mar 2003, 00:00",
+        "31 Mar 2003, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -5381,6 +6127,8 @@
 <http://musicbrainz.org/recording/cd8c0832-39d4-4af5-a4c3-e3c3048ea7a3#_> a mo:Track ;
     ourvocab:has_listener_count "15597" ;
     ourvocab:has_playcount "56201" ;
+    ourvocab:has_releasedate "    6 Feb 2003, 00:00",
+        "6 Feb 2003, 00:00" ;
     ourvocab:has_tag "jazz",
         "sommar",
         "svenskt",
@@ -5392,6 +6140,8 @@
 <http://musicbrainz.org/recording/cdb85fe5-4ae0-4465-a454-05354e2f1495#_> a mo:Track ;
     ourvocab:has_listener_count "27867" ;
     ourvocab:has_playcount "69766" ;
+    ourvocab:has_releasedate "    11 Jun 2013, 00:00",
+        "11 Jun 2013, 00:00" ;
     ourvocab:has_tag "blue note",
         "drjazzmrfunkmusic",
         "jazz",
@@ -5403,6 +6153,8 @@
 <http://musicbrainz.org/recording/cef1f7a6-47a8-4d62-a2ab-6f26d2a1f83e#_> a mo:Track ;
     ourvocab:has_listener_count "34716" ;
     ourvocab:has_playcount "94620" ;
+    ourvocab:has_releasedate "    30 Nov 1995, 00:00",
+        "30 Nov 1995, 00:00" ;
     ourvocab:has_tag "77davez-all-tracks",
         "guitar",
         "instrumental",
@@ -5414,6 +6166,8 @@
 <http://musicbrainz.org/recording/cfa9b9b2-7579-4b37-9695-fca93f6c7785#_> a mo:Track ;
     ourvocab:has_listener_count "28054" ;
     ourvocab:has_playcount "101029" ;
+    ourvocab:has_releasedate "    20 Jul 2004, 00:00",
+        "20 Jul 2004, 00:00" ;
     ourvocab:has_tag "gimme sum bass",
         "jazz",
         "jazz piano",
@@ -5447,6 +6201,8 @@
 <http://musicbrainz.org/recording/d205270e-f1a3-4cb4-98c3-b53802485c32#_> a mo:Track ;
     ourvocab:has_listener_count "28376" ;
     ourvocab:has_playcount "65376" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "classic jazz",
         "jazz",
         "jazz oldies",
@@ -5469,6 +6225,8 @@
 <http://musicbrainz.org/recording/d396ca48-aefa-414f-8e08-f9284e85e86d#_> a mo:Track ;
     ourvocab:has_listener_count "18329" ;
     ourvocab:has_playcount "48319" ;
+    ourvocab:has_releasedate "    1 Aug 2011, 00:00",
+        "1 Aug 2011, 00:00" ;
     ourvocab:has_tag "6 of 10 stars",
         "77davez-all-tracks",
         "billie holiday",
@@ -5480,6 +6238,8 @@
 <http://musicbrainz.org/recording/d4288c9c-93c5-4525-8638-464360ded8c9#_> a mo:Track ;
     ourvocab:has_listener_count "41708" ;
     ourvocab:has_playcount "103886" ;
+    ourvocab:has_releasedate "    23 Mar 1999, 00:00",
+        "23 Mar 1999, 00:00" ;
     ourvocab:has_tag "avant-garde",
         "bass clarinet",
         "free jazz",
@@ -5502,6 +6262,8 @@
 <http://musicbrainz.org/recording/d5a68dd9-149e-4143-a947-8ce9100bd79b#_> a mo:Track ;
     ourvocab:has_listener_count "91173" ;
     ourvocab:has_playcount "428038" ;
+    ourvocab:has_releasedate "    23 Nov 2004, 00:00",
+        "23 Nov 2004, 00:00" ;
     ourvocab:has_tag "british",
         "cover",
         "jazz",
@@ -5513,6 +6275,8 @@
 <http://musicbrainz.org/recording/d5c64105-df4c-47cf-823f-d1448b7163ee#_> a mo:Track ;
     ourvocab:has_listener_count "46726" ;
     ourvocab:has_playcount "126757" ;
+    ourvocab:has_releasedate "    1 Aug 2011, 00:00",
+        "1 Aug 2011, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "jazz vocal",
@@ -5535,6 +6299,8 @@
 <http://musicbrainz.org/recording/d6dbb7bd-ffd7-4160-ba0b-ce83b700e15e#_> a mo:Track ;
     ourvocab:has_listener_count "134704" ;
     ourvocab:has_playcount "551675" ;
+    ourvocab:has_releasedate "    12 Oct 2005, 00:00",
+        "12 Oct 2005, 00:00" ;
     ourvocab:has_tag "blues",
         "female vocalists",
         "jazz",
@@ -5557,6 +6323,8 @@
 <http://musicbrainz.org/recording/d76b50fd-2180-4162-8f56-bc72f498be8d#_> a mo:Track ;
     ourvocab:has_listener_count "109838" ;
     ourvocab:has_playcount "340764" ;
+    ourvocab:has_releasedate "    3 Jun 2003, 00:00",
+        "3 Jun 2003, 00:00" ;
     ourvocab:has_tag "chillout",
         "electronic",
         "jazz",
@@ -5579,6 +6347,8 @@
 <http://musicbrainz.org/recording/db26790d-b071-4d63-abb0-84004561e058#_> a mo:Track ;
     ourvocab:has_listener_count "82535" ;
     ourvocab:has_playcount "359918" ;
+    ourvocab:has_releasedate "    8 Oct 2007, 00:00",
+        "8 Oct 2007, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "male vocalists",
@@ -5590,6 +6360,8 @@
 <http://musicbrainz.org/recording/dcaaf8f3-fa61-402b-98a7-5fd57aa2a7fa#_> a mo:Track ;
     ourvocab:has_listener_count "59699" ;
     ourvocab:has_playcount "215357" ;
+    ourvocab:has_releasedate "    15 Feb 2008, 00:00",
+        "15 Feb 2008, 00:00" ;
     ourvocab:has_tag "chill",
         "female jazz vocalist",
         "female vocalists",
@@ -5612,6 +6384,8 @@
 <http://musicbrainz.org/recording/de9e6546-15d9-4862-a856-ea4087be8ade#_> a mo:Track ;
     ourvocab:has_listener_count "49804" ;
     ourvocab:has_playcount "211578" ;
+    ourvocab:has_releasedate "    31 May 2005, 00:00",
+        "31 May 2005, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "jazz",
         "lisa ekdahl",
@@ -5623,6 +6397,8 @@
 <http://musicbrainz.org/recording/deb1d5d0-f593-413a-b9fc-737b3b817d36#_> a mo:Track ;
     ourvocab:has_listener_count "57429" ;
     ourvocab:has_playcount "186158" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "bill evans",
         "jazz",
         "jazz piano",
@@ -5634,6 +6410,8 @@
 <http://musicbrainz.org/recording/ded75363-0304-4e21-bb7a-89abd2c74056#_> a mo:Track ;
     ourvocab:has_listener_count "59527" ;
     ourvocab:has_playcount "328802" ;
+    ourvocab:has_releasedate "    30 Nov 2009, 00:00",
+        "30 Nov 2009, 00:00" ;
     ourvocab:has_tag "chanson",
         "french",
         "jazz",
@@ -5645,6 +6423,8 @@
 <http://musicbrainz.org/recording/e010c326-a170-4720-ae20-4802f3194e82#_> a mo:Track ;
     ourvocab:has_listener_count "96262" ;
     ourvocab:has_playcount "285315" ;
+    ourvocab:has_releasedate "    3 Jun 2003, 00:00",
+        "3 Jun 2003, 00:00" ;
     ourvocab:has_tag "chillout",
         "downtempo",
         "electronic",
@@ -5656,6 +6436,8 @@
 <http://musicbrainz.org/recording/e2692aa5-2ab7-4845-a102-e3e6b8ede58d#_> a mo:Track ;
     ourvocab:has_listener_count "45076" ;
     ourvocab:has_playcount "230129" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "acoustic",
         "blues",
         "easy listening",
@@ -5667,6 +6449,8 @@
 <http://musicbrainz.org/recording/e2f38019-8989-4942-b3a2-65ea3ed63ba8#_> a mo:Track ;
     ourvocab:has_listener_count "128450" ;
     ourvocab:has_playcount "424173" ;
+    ourvocab:has_releasedate "    9 Jul 2002, 00:00",
+        "9 Jul 2002, 00:00" ;
     ourvocab:has_tag "acid jazz",
         "chillout",
         "jazz",
@@ -5678,6 +6462,8 @@
 <http://musicbrainz.org/recording/e3ebe9db-62a2-4dad-ab73-e2b6bf983fb7#_> a mo:Track ;
     ourvocab:has_listener_count "20687" ;
     ourvocab:has_playcount "81030" ;
+    ourvocab:has_releasedate "    30 Jan 2011, 00:00",
+        "30 Jan 2011, 00:00" ;
     ourvocab:has_tag "downtempo",
         "eremuse - manometallica zkx",
         "hang",
@@ -5689,6 +6475,8 @@
 <http://musicbrainz.org/recording/e6b5ce19-dde6-4a5d-a91a-5f8ae196ee34#_> a mo:Track ;
     ourvocab:has_listener_count "227233" ;
     ourvocab:has_playcount "943375" ;
+    ourvocab:has_releasedate "    22 Jul 2013, 00:00",
+        "22 Jul 2013, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "instrumental",
         "jazz",
@@ -5700,6 +6488,8 @@
 <http://musicbrainz.org/recording/e750509a-7bb8-461f-a63b-b3804224f163#_> a mo:Track ;
     ourvocab:has_listener_count "19399" ;
     ourvocab:has_playcount "55360" ;
+    ourvocab:has_releasedate "    1 Aug 2011, 00:00",
+        "1 Aug 2011, 00:00" ;
     ourvocab:has_tag "billy holiday",
         "blues",
         "jazz",
@@ -5711,6 +6501,8 @@
 <http://musicbrainz.org/recording/e7d2f18c-fee4-4b37-aa0e-3e898383e0ed#_> a mo:Track ;
     ourvocab:has_listener_count "87335" ;
     ourvocab:has_playcount "290979" ;
+    ourvocab:has_releasedate "    16 Apr 1995, 00:00",
+        "16 Apr 1995, 00:00" ;
     ourvocab:has_tag "easy listening",
         "frank sinatra",
         "jazz",
@@ -5722,6 +6514,8 @@
 <http://musicbrainz.org/recording/e8feb9a9-0342-4a33-82ff-c3b816758cc8#_> a mo:Track ;
     ourvocab:has_listener_count "38966" ;
     ourvocab:has_playcount "225551" ;
+    ourvocab:has_releasedate "    25 Feb 2000, 00:00",
+        "25 Feb 2000, 00:00" ;
     ourvocab:has_tag "ambient",
         "dark ambient",
         "dark jazz",
@@ -5744,6 +6538,8 @@
 <http://musicbrainz.org/recording/ea792278-d206-45a3-94c7-30d5dcddc567#_> a mo:Track ;
     ourvocab:has_listener_count "38489" ;
     ourvocab:has_playcount "93632" ;
+    ourvocab:has_releasedate "    22 Feb 2006, 00:00",
+        "22 Feb 2006, 00:00" ;
     ourvocab:has_tag "faves",
         "good stuff",
         "jazz",
@@ -5755,6 +6551,8 @@
 <http://musicbrainz.org/recording/ead4b605-2792-4c67-bcd6-7c5a016ccee5#_> a mo:Track ;
     ourvocab:has_listener_count "39261" ;
     ourvocab:has_playcount "120188" ;
+    ourvocab:has_releasedate "    3 Sep 2007, 00:00",
+        "3 Sep 2007, 00:00" ;
     ourvocab:has_tag "chanson francaise",
         "female vocalists",
         "french",
@@ -5766,6 +6564,8 @@
 <http://musicbrainz.org/recording/ed1c94af-5d97-4978-a5c1-33977776ef39#_> a mo:Track ;
     ourvocab:has_listener_count "30222" ;
     ourvocab:has_playcount "75621" ;
+    ourvocab:has_releasedate "    30 Nov 1965, 00:00",
+        "30 Nov 1965, 00:00" ;
     ourvocab:has_tag "blues",
         "jazz",
         "piano",
@@ -5777,6 +6577,8 @@
 <http://musicbrainz.org/recording/eda3bdc7-0c61-47b6-b13d-ffaa0401621d#_> a mo:Track ;
     ourvocab:has_listener_count "44066" ;
     ourvocab:has_playcount "110799" ;
+    ourvocab:has_releasedate "    5 Nov 1993, 00:00",
+        "5 Nov 1993, 00:00" ;
     ourvocab:has_tag "50s",
         "blues",
         "descending chromatic bass",
@@ -5788,6 +6590,8 @@
 <http://musicbrainz.org/recording/edf9be3b-e6bd-4a0f-b7fe-477f3cd59132#_> a mo:Track ;
     ourvocab:has_listener_count "42303" ;
     ourvocab:has_playcount "117784" ;
+    ourvocab:has_releasedate "    14 Mar 2006, 00:00",
+        "14 Mar 2006, 00:00" ;
     ourvocab:has_tag "instrumental",
         "jazz",
         "jazz piano",
@@ -5799,6 +6603,8 @@
 <http://musicbrainz.org/recording/ee9efc36-bb04-4bd6-9a2a-2766f19ecd82#_> a mo:Track ;
     ourvocab:has_listener_count "70650" ;
     ourvocab:has_playcount "184433" ;
+    ourvocab:has_releasedate "    8 Nov 1999, 00:00",
+        "8 Nov 1999, 00:00" ;
     ourvocab:has_tag "easy listening",
         "jazz",
         "love",
@@ -5810,6 +6616,8 @@
 <http://musicbrainz.org/recording/ef41748c-5067-5e4b-8ee4-5d37b3153a8e#_> a mo:Track ;
     ourvocab:has_listener_count "27167" ;
     ourvocab:has_playcount "83389" ;
+    ourvocab:has_releasedate "    21 Feb 2006, 00:00",
+        "21 Feb 2006, 00:00" ;
     ourvocab:has_tag "blues",
         "cover",
         "jazz",
@@ -5821,6 +6629,8 @@
 <http://musicbrainz.org/recording/f008e95e-a541-4c3d-930f-d57d5e300e7f#_> a mo:Track ;
     ourvocab:has_listener_count "24028" ;
     ourvocab:has_playcount "58633" ;
+    ourvocab:has_releasedate "    30 Nov 1990, 00:00",
+        "30 Nov 1990, 00:00" ;
     ourvocab:has_tag "clarinet",
         "jazz",
         "jazzy",
@@ -5843,6 +6653,8 @@
 <http://musicbrainz.org/recording/f110f42f-778b-4487-9631-0b8519e96928#_> a mo:Track ;
     ourvocab:has_listener_count "70327" ;
     ourvocab:has_playcount "206928" ;
+    ourvocab:has_releasedate "    22 Jan 1999, 00:00",
+        "22 Jan 1999, 00:00" ;
     ourvocab:has_tag "60s",
         "jazz",
         "nina simone",
@@ -5854,6 +6666,8 @@
 <http://musicbrainz.org/recording/f1785321-c017-4d12-ae59-d850357d5172#_> a mo:Track ;
     ourvocab:has_listener_count "25502" ;
     ourvocab:has_playcount "66599" ;
+    ourvocab:has_releasedate "    27 Sep 2012, 00:00",
+        "27 Sep 2012, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "instrumental",
         "instrumental jazz tag",
@@ -5876,6 +6690,8 @@
 <http://musicbrainz.org/recording/f3349d6d-de10-47a5-b90a-de529394959e#_> a mo:Track ;
     ourvocab:has_listener_count "79778" ;
     ourvocab:has_playcount "389230" ;
+    ourvocab:has_releasedate "    1 Jan 2010, 00:00",
+        "1 Jan 2010, 00:00" ;
     ourvocab:has_tag "acid jazz",
         "chillout",
         "jazz",
@@ -5887,6 +6703,8 @@
 <http://musicbrainz.org/recording/f350e0d0-7c09-45d8-add2-04e3ceff2485#_> a mo:Track ;
     ourvocab:has_listener_count "30831" ;
     ourvocab:has_playcount "88651" ;
+    ourvocab:has_releasedate "    23 Jul 1997, 00:00",
+        "23 Jul 1997, 00:00" ;
     ourvocab:has_tag "bebop",
         "free jazz",
         "jazz",
@@ -5920,6 +6738,8 @@
 <http://musicbrainz.org/recording/f781ee5a-bb3b-4cd4-907c-9cc4270da9d3#_> a mo:Track ;
     ourvocab:has_listener_count "84445" ;
     ourvocab:has_playcount "285934" ;
+    ourvocab:has_releasedate "    25 Oct 1990, 00:00",
+        "25 Oct 1990, 00:00" ;
     ourvocab:has_tag "disco",
         "funk",
         "jazz",
@@ -5931,6 +6751,8 @@
 <http://musicbrainz.org/recording/f79ab99e-9e14-4579-b831-5af302f19d0b#_> a mo:Track ;
     ourvocab:has_listener_count "44906" ;
     ourvocab:has_playcount "111841" ;
+    ourvocab:has_releasedate "    5 May 2008, 00:00",
+        "5 May 2008, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "jazz",
         "jazz pianist",
@@ -5942,6 +6764,8 @@
 <http://musicbrainz.org/recording/f95e99c6-c95f-4704-8837-3fd280a767b2#_> a mo:Track ;
     ourvocab:has_listener_count "61966" ;
     ourvocab:has_playcount "161053" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "blues",
         "jazz",
         "louis armstrong",
@@ -5953,6 +6777,8 @@
 <http://musicbrainz.org/recording/fa0982f9-c1d0-4c1f-aba0-843b2a14f2d2#_> a mo:Track ;
     ourvocab:has_listener_count "49181" ;
     ourvocab:has_playcount "121559" ;
+    ourvocab:has_releasedate "    7 Mar 1996, 00:00",
+        "7 Mar 1996, 00:00" ;
     ourvocab:has_tag "django reinhardt",
         "guitar",
         "instrumental",
@@ -5964,6 +6790,8 @@
 <http://musicbrainz.org/recording/fa3d729e-30e7-4588-b26f-95e9eefe0edc#_> a mo:Track ;
     ourvocab:has_listener_count "76753" ;
     ourvocab:has_playcount "340533" ;
+    ourvocab:has_releasedate "    17 Nov 2009, 00:00",
+        "17 Nov 2009, 00:00" ;
     ourvocab:has_tag "alternative",
         "blues",
         "female vocalists",
@@ -5975,6 +6803,8 @@
 <http://musicbrainz.org/recording/fa5191a1-2926-400b-bfd2-d0180d51cf89#_> a mo:Track ;
     ourvocab:has_listener_count "144793" ;
     ourvocab:has_playcount "492461" ;
+    ourvocab:has_releasedate "    18 Sep 2001, 00:00",
+        "18 Sep 2001, 00:00" ;
     ourvocab:has_tag "acid jazz",
         "chillout",
         "electronic",
@@ -5986,6 +6816,8 @@
 <http://musicbrainz.org/recording/fb4362b4-1c85-4f03-a2eb-7147d1b93869#_> a mo:Track ;
     ourvocab:has_listener_count "32303" ;
     ourvocab:has_playcount "171603" ;
+    ourvocab:has_releasedate "    25 Feb 2000, 00:00",
+        "25 Feb 2000, 00:00" ;
     ourvocab:has_tag "ambient",
         "doom jazz",
         "jazz",
@@ -5997,6 +6829,8 @@
 <http://musicbrainz.org/recording/fb8ac235-2cd2-45c9-8ef7-3f7e396eeee1#_> a mo:Track ;
     ourvocab:has_listener_count "43920" ;
     ourvocab:has_playcount "272472" ;
+    ourvocab:has_releasedate "    25 Feb 2000, 00:00",
+        "25 Feb 2000, 00:00" ;
     ourvocab:has_tag "ambient",
         "ambient jazz",
         "doom jazz",
@@ -6019,6 +6853,8 @@
 <http://musicbrainz.org/recording/fd110660-53e9-4c76-b3fc-68905e711729#_> a mo:Track ;
     ourvocab:has_listener_count "53581" ;
     ourvocab:has_playcount "192862" ;
+    ourvocab:has_releasedate "    15 Feb 2008, 00:00",
+        "15 Feb 2008, 00:00" ;
     ourvocab:has_tag "cool jazz",
         "female vocalists",
         "jazz",
@@ -6041,6 +6877,8 @@
 <http://musicbrainz.org/recording/fe65ef3d-9065-4742-bb37-723c673c3406#_> a mo:Track ;
     ourvocab:has_listener_count "70028" ;
     ourvocab:has_playcount "187919" ;
+    ourvocab:has_releasedate "",
+        "    " ;
     ourvocab:has_tag "dinah washington",
         "female vocalists",
         "jazz",

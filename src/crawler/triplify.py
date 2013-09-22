@@ -74,7 +74,6 @@ class Store:
 
         #now the location data!
         if 'hometown' not in artistData.keys():
-            self.save()
             return
 
         if "http" in artistData['hometown']['value']:
@@ -89,7 +88,7 @@ class Store:
         else:
             self.graph.add((artisturi, dbpediaowl.hometown, Literal(artistData['hometown']['value'])))
 
-    def _matchAlbum(trackInfo, albumFiles):
+    def _matchAlbum(self, trackInfo, albumFiles):
         """
         A function to return the correct match of an album given a track.
         Deprecated for most cases where the match is done using mbids.
@@ -107,7 +106,7 @@ class Store:
             if albumName == albumInfo['name'] and artistName == albumInfo['artist']:
                 return af
 
-    def addAlbum(trackMBID, albumInfo):
+    def addAlbum(self, trackMBID, albumInfo):
         """
         A function to add album data into triple store. At the moment, only the releasedate is taken
         from the album data. More to be added soon.
@@ -121,7 +120,7 @@ class Store:
             return
 
         trackuri = URIRef('http://musicbrainz.org/recording/%s#_' % trackMBID)
-        self.graph.add((trackuri, OurVocab.has_releasedate, Literal(albumInfo['releasedate'].encode('utf-8'))))
+        self.graph.add((trackuri, OurVocab.has_releasedate, Literal(albumInfo['releasedate'].strip().encode('utf-8'))))
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
@@ -163,18 +162,19 @@ if __name__ == "__main__":
 
         #album triples
         albumInfo = None
-        if 'album' in trackInfo.keys():
-            if 'mbid' not in trackInfo['album'].keys() or trackInfo['album']['mbid'] == '':
+        if 'album' in trackInfo['track'].keys():
+            if 'mbid' not in trackInfo['track']['album'].keys() or trackInfo['track']['album']['mbid'] == '':
                 try:
-                    mbid = str(uuid5(NAMESPACE_URL, trackInfo['album']['url'].encode('utf-8')))
-                    albumInfo = json.load(file(dataFolder + '/' + tag + '/albumInfo/' + mbid + '.json'))
+                    albumMBID = str(uuid5(NAMESPACE_URL, trackInfo['track']['album']['url'].encode('utf-8')))
+                    if exists(dataFolder + '/' + tag + '/albumInfo/' + albumMBID + '.json'):
+                        albumInfo = json.load(file(dataFolder + '/' + tag + '/albumInfo/' + albumMBID + '.json'))
                 except:
-                    af = self._matchAlbum(trackInfo['track'], albumFiles)
-                    if af == None:
-                        albumInfo = None
-                    albumInfo = json.load(file(af))
+                    af = s._matchAlbum(trackInfo['track'], albumFiles)
+                    if af:
+                        albumInfo = json.load(file(af))
             else:
-                albumInfo = json.load(file(dataFolder + '/' + tag + '/albumInfo/' + mbid + '.json'))
+                if exists(dataFolder + '/' + tag + '/albumInfo/' + trackInfo['track']['album']['mbid'] + '.json'):
+                    albumInfo = json.load(file(dataFolder + '/' + tag + '/albumInfo/' + trackInfo['track']['album']['mbid'] + '.json'))
         if albumInfo:
             s.addAlbum(trackMBID=mbid, albumInfo=albumInfo)
 

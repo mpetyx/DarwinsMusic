@@ -26,6 +26,7 @@
 <http://musicbrainz.org/recording/00d6aff9-bb55-4176-916e-9f4c17c1750c#_> a mo:Track ;
     ourvocab:has_listener_count "48" ;
     ourvocab:has_playcount "141" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Many Faces" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -59,6 +60,7 @@
 <http://musicbrainz.org/recording/0178ecfa-a8f4-46c0-a50d-f1662a473779#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "6" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     dc:title "Sarasa Samadana" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -232,6 +234,7 @@
 <http://musicbrainz.org/recording/07f75444-5832-468e-b317-876bc290ff03#_> a mo:Track ;
     ourvocab:has_listener_count "3" ;
     ourvocab:has_playcount "4" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Kshinamai Tiruga" ;
     mo:performer <http://musicbrainz.org/artist/b7907914-d801-4bc9-81b5-39f28b606186#_> .
 
@@ -283,6 +286,7 @@
 <http://musicbrainz.org/recording/08ff2a61-0235-4f83-b24a-9e471e018b42#_> a mo:Track ;
     ourvocab:has_listener_count "339" ;
     ourvocab:has_playcount "581" ;
+    ourvocab:has_releasedate "13 Sep 2006, 00:00" ;
     ourvocab:has_tag "carnatic",
         "christmas",
         "gospel",
@@ -300,6 +304,7 @@
 <http://musicbrainz.org/recording/09811208-4268-47f1-b8d8-196681ad381a#_> a mo:Track ;
     ourvocab:has_listener_count "85" ;
     ourvocab:has_playcount "110" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "carnatic",
         "vocal" ;
     dc:title "Kadakadani" ;
@@ -325,6 +330,7 @@
 <http://musicbrainz.org/recording/09ff223f-788a-40ed-b135-13c7b07aefe5#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "6" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     dc:title "Vallabha Nayakasya" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -495,6 +501,7 @@
 <http://musicbrainz.org/recording/1162c597-c119-471c-921a-91f975808207#_> a mo:Track ;
     ourvocab:has_listener_count "45" ;
     ourvocab:has_playcount "117" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Bhajan" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -518,6 +525,7 @@
 <http://musicbrainz.org/recording/1312e316-cecc-414c-8962-cc4175a310cc#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "7" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     dc:title "Niraimadhi" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -598,6 +606,7 @@
 <http://musicbrainz.org/recording/1568c0a7-3112-4563-a591-557d4b1af0a3#_> a mo:Track ;
     ourvocab:has_listener_count "53" ;
     ourvocab:has_playcount "82" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     dc:title "Govinda Leena Mol" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -697,6 +706,7 @@
 <http://musicbrainz.org/recording/17e9a924-96c9-4538-8541-44ff22f96ef6#_> a mo:Track ;
     ourvocab:has_listener_count "44" ;
     ourvocab:has_playcount "122" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Fisherman" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -792,6 +802,7 @@
 <http://musicbrainz.org/recording/1c51d29b-f7f7-4c48-bec1-f70e2e0bb219#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "2" ;
+    ourvocab:has_releasedate "1 Jan 2011, 00:00" ;
     dc:title "Mangalam" ;
     mo:performer <http://musicbrainz.org/artist/b7907914-d801-4bc9-81b5-39f28b606186#_> .
 
@@ -854,6 +865,7 @@
 <http://musicbrainz.org/recording/1e0dbeac-f189-49f3-9134-3b5b658363f8#_> a mo:Track ;
     ourvocab:has_listener_count "124" ;
     ourvocab:has_playcount "182" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "absfav",
         "east india",
         "india",
@@ -910,6 +922,7 @@
 <http://musicbrainz.org/recording/1f97eafa-aa10-48d1-8739-3f5aed90a650#_> a mo:Track ;
     ourvocab:has_listener_count "3" ;
     ourvocab:has_playcount "8" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     dc:title "Samaja Vara Gamana" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -943,6 +956,7 @@
 <http://musicbrainz.org/recording/20495c54-6938-42a2-8fe7-e4405f3adc8e#_> a mo:Track ;
     ourvocab:has_listener_count "1452" ;
     ourvocab:has_playcount "2578" ;
+    ourvocab:has_releasedate "9 Apr 2012, 00:00" ;
     ourvocab:has_tag "carnatic",
         "indian",
         "indian classical",
@@ -964,6 +978,7 @@
 <http://musicbrainz.org/recording/209ab6d8-a3d2-5504-8836-e46288caa1f2#_> a mo:Track ;
     ourvocab:has_listener_count "15" ;
     ourvocab:has_playcount "16" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Brocheva" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
@@ -1013,6 +1028,7 @@
 <http://musicbrainz.org/recording/21abcf17-da21-42de-aad7-5b8fb04b496f#_> a mo:Track ;
     ourvocab:has_listener_count "63" ;
     ourvocab:has_playcount "150" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Morsing Trio (Jaw Harps)" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -1113,6 +1129,7 @@
 <http://musicbrainz.org/recording/23ec71de-3b6b-41e1-9daa-13d7c153c779#_> a mo:Track ;
     ourvocab:has_listener_count "223" ;
     ourvocab:has_playcount "499" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "finese",
         "good performance",
         "konnakol",
@@ -1130,6 +1147,7 @@
 <http://musicbrainz.org/recording/2455d058-84ff-561a-9dc6-4552a996ab27#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "3" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Maranam Agattra" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
@@ -1217,6 +1235,7 @@
 <http://musicbrainz.org/recording/267b4fa9-9c30-48d6-817b-578d74ef1d94#_> a mo:Track ;
     ourvocab:has_listener_count "38" ;
     ourvocab:has_playcount "115" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Raga Sudha" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -1289,6 +1308,7 @@
 <http://musicbrainz.org/recording/28f16130-8321-4438-8f11-4db23de65bdf#_> a mo:Track ;
     ourvocab:has_listener_count "1480" ;
     ourvocab:has_playcount "2843" ;
+    ourvocab:has_releasedate "30 Sep 2008, 00:00" ;
     ourvocab:has_tag "folk",
         "fusion",
         "indian",
@@ -1311,12 +1331,14 @@
 <http://musicbrainz.org/recording/29dd0e11-44a6-5716-a935-45929938a6b1#_> a mo:Track ;
     ourvocab:has_listener_count "7" ;
     ourvocab:has_playcount "8" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Ragan (violin)" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
 <http://musicbrainz.org/recording/2a107963-055c-5c9c-b261-3cd06eb55373#_> a mo:Track ;
     ourvocab:has_listener_count "36" ;
     ourvocab:has_playcount "59" ;
+    ourvocab:has_releasedate "2 Dec 2003, 00:00" ;
     dc:title "Sada Saranga- Ranjani- Adi- Yoga Narasimham" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -1502,6 +1524,7 @@
 <http://musicbrainz.org/recording/30952c89-3c85-539e-aa0b-589dc43e6317#_> a mo:Track ;
     ourvocab:has_listener_count "13" ;
     ourvocab:has_playcount "14" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Balagopala" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -1548,6 +1571,7 @@
 <http://musicbrainz.org/recording/32a3f226-fd64-4779-9b4e-2d480a1643fb#_> a mo:Track ;
     ourvocab:has_listener_count "65" ;
     ourvocab:has_playcount "206" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "asian",
         "dhol",
         "world" ;
@@ -1779,12 +1803,14 @@
 <http://musicbrainz.org/recording/3ba665ca-dd8e-4db1-aaf1-6fc355cfe6d7#_> a mo:Track ;
     ourvocab:has_listener_count "40" ;
     ourvocab:has_playcount "113" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Salvation" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
 <http://musicbrainz.org/recording/3bbb82de-4c8a-4e4c-b049-31f16f766473#_> a mo:Track ;
     ourvocab:has_listener_count "97" ;
     ourvocab:has_playcount "265" ;
+    ourvocab:has_releasedate "30 Nov 1996, 00:00" ;
     ourvocab:has_tag "carnatic",
         "drums",
         "percussion",
@@ -1843,6 +1869,7 @@
 <http://musicbrainz.org/recording/3f7b1565-46bb-4f08-ae9e-df9ea98c891c#_> a mo:Track ;
     ourvocab:has_listener_count "278" ;
     ourvocab:has_playcount "459" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "aruna sairam",
         "carnatic",
         "india",
@@ -1868,6 +1895,7 @@
 <http://musicbrainz.org/recording/402f49e2-5957-4b24-9229-0c94b0c4c07d#_> a mo:Track ;
     ourvocab:has_listener_count "98" ;
     ourvocab:has_playcount "259" ;
+    ourvocab:has_releasedate "12 Mar 2002, 00:00" ;
     dc:title "Raga Kirvani: Râgamâlikâ: Vasanta-Priyâ, Khadyota-Kânnti" ;
     mo:performer <http://musicbrainz.org/artist/747b15b3-81c6-43a5-881e-82cd16d9f5f3#_> .
 
@@ -1879,12 +1907,14 @@
 <http://musicbrainz.org/recording/40cf5ee1-f600-5ff1-9b5b-c5795e2bf97a#_> a mo:Track ;
     ourvocab:has_listener_count "19" ;
     ourvocab:has_playcount "31" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Kandanai Ninaithaal" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
 <http://musicbrainz.org/recording/40d1a48c-3dbb-41a5-b57e-63953664dec4#_> a mo:Track ;
     ourvocab:has_listener_count "1851" ;
     ourvocab:has_playcount "3784" ;
+    ourvocab:has_releasedate "9 Apr 2012, 00:00" ;
     ourvocab:has_tag "carnatic",
         "india",
         "indian",
@@ -1913,6 +1943,7 @@
 <http://musicbrainz.org/recording/428956a0-066b-4d47-bcc3-44360824a28c#_> a mo:Track ;
     ourvocab:has_listener_count "56" ;
     ourvocab:has_playcount "157" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Ghatam Quartet (Clay Pots)" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -1957,6 +1988,7 @@
 <http://musicbrainz.org/recording/44860f99-6262-43bc-b6b3-a238b5cfced3#_> a mo:Track ;
     ourvocab:has_listener_count "3" ;
     ourvocab:has_playcount "3" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Ghatam Quartet" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -2030,6 +2062,7 @@
 <http://musicbrainz.org/recording/47b1d659-6309-4fe1-95a3-72635020379f#_> a mo:Track ;
     ourvocab:has_listener_count "85" ;
     ourvocab:has_playcount "294" ;
+    ourvocab:has_releasedate "12 Mar 2002, 00:00" ;
     dc:title "Raga Kirvani: Pallavî" ;
     mo:performer <http://musicbrainz.org/artist/747b15b3-81c6-43a5-881e-82cd16d9f5f3#_> .
 
@@ -2197,6 +2230,7 @@
 <http://musicbrainz.org/recording/4d893eb3-ca8b-4a13-9189-fa0684b20e07#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "3" ;
+    ourvocab:has_releasedate "1 Jan 2000, 00:00" ;
     dc:title "Tiruppugazh" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -2328,6 +2362,7 @@
 <http://musicbrainz.org/recording/50ad9256-0a27-48d1-8cbe-56a68cf9b1ce#_> a mo:Track ;
     ourvocab:has_listener_count "1499" ;
     ourvocab:has_playcount "2584" ;
+    ourvocab:has_releasedate "9 Apr 2012, 00:00" ;
     ourvocab:has_tag "carnatic",
         "indian classical",
         "maryaadakadaya",
@@ -2345,6 +2380,7 @@
 <http://musicbrainz.org/recording/51034dd0-2f14-4297-899e-e60ce9105bbd#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "4" ;
+    ourvocab:has_releasedate "1 Jan 2000, 00:00" ;
     dc:title "Kaliyuga Varadan" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -2499,6 +2535,7 @@
 <http://musicbrainz.org/recording/54f8c893-ad41-4910-8b84-a0c27fc14bc8#_> a mo:Track ;
     ourvocab:has_listener_count "706" ;
     ourvocab:has_playcount "1447" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "carnatic",
         "classical",
         "fip",
@@ -2617,6 +2654,7 @@
 <http://musicbrainz.org/recording/5a1d8758-08f5-5b6a-9961-6fc6eb008cd7#_> a mo:Track ;
     ourvocab:has_listener_count "313" ;
     ourvocab:has_playcount "597" ;
+    ourvocab:has_releasedate "6 Aug 2010, 00:00" ;
     ourvocab:has_tag "carnatic",
         "hindustani",
         "india",
@@ -2706,6 +2744,7 @@
 <http://musicbrainz.org/recording/5d00dc95-7e66-5e3c-a75f-19daab42834f#_> a mo:Track ;
     ourvocab:has_listener_count "8" ;
     ourvocab:has_playcount "9" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Edayya Gati" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -2990,6 +3029,7 @@
 <http://musicbrainz.org/recording/66d10e91-b61c-5b07-9b27-3c565dbdd4cd#_> a mo:Track ;
     ourvocab:has_listener_count "12" ;
     ourvocab:has_playcount "12" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Evarini" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -3001,6 +3041,7 @@
 <http://musicbrainz.org/recording/670079e1-eae6-49fe-b0bc-bf0e71abe331#_> a mo:Track ;
     ourvocab:has_listener_count "999" ;
     ourvocab:has_playcount "1771" ;
+    ourvocab:has_releasedate "9 Apr 2012, 00:00" ;
     ourvocab:has_tag "carnatic",
         "folk de raiz",
         "indian",
@@ -3031,6 +3072,7 @@
 <http://musicbrainz.org/recording/6888b2e3-a385-4a3c-9697-ab035c129601#_> a mo:Track ;
     ourvocab:has_listener_count "5193" ;
     ourvocab:has_playcount "13656" ;
+    ourvocab:has_releasedate "9 Apr 2012, 00:00" ;
     ourvocab:has_tag "india",
         "indian",
         "indian classical",
@@ -3098,6 +3140,7 @@
 <http://musicbrainz.org/recording/6bf64db2-0c75-5790-9774-59c4f4337a40#_> a mo:Track ;
     ourvocab:has_listener_count "5" ;
     ourvocab:has_playcount "14" ;
+    ourvocab:has_releasedate "30 Nov 2003, 00:00" ;
     dc:title "Vena" ;
     mo:performer <http://musicbrainz.org/artist/3a657118-15e7-4b7c-b100-e98f32087558#_> .
 
@@ -3156,6 +3199,7 @@
 <http://musicbrainz.org/recording/6dc82c0d-a940-43b8-9720-900431d42b16#_> a mo:Track ;
     ourvocab:has_listener_count "4967" ;
     ourvocab:has_playcount "12166" ;
+    ourvocab:has_releasedate "6 Oct 2009, 00:00" ;
     ourvocab:has_tag "a",
         "capo",
         "carnatic",
@@ -3179,6 +3223,7 @@
 <http://musicbrainz.org/recording/6f32dc2b-e108-4aa8-937d-2f47a930c1c5#_> a mo:Track ;
     ourvocab:has_listener_count "44" ;
     ourvocab:has_playcount "155" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     dc:title "Pachai Maamalai" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -3234,6 +3279,7 @@
 <http://musicbrainz.org/recording/72bedc49-1235-403f-a01f-eed990b0a6de#_> a mo:Track ;
     ourvocab:has_listener_count "297" ;
     ourvocab:has_playcount "724" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "carnatic",
         "india",
         "indian classical" ;
@@ -3243,6 +3289,7 @@
 <http://musicbrainz.org/recording/72dbf43c-3d9a-4c4e-bca3-a2d6f8ec958b#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "7" ;
+    ourvocab:has_releasedate "1 Jan 2000, 00:00" ;
     dc:title "Bhogindra Shayinam" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -3411,6 +3458,7 @@
 <http://musicbrainz.org/recording/78f152f6-106b-5ea7-9ffa-d8d599ae08cf#_> a mo:Track ;
     ourvocab:has_listener_count "14" ;
     ourvocab:has_playcount "19" ;
+    ourvocab:has_releasedate "2 Dec 2003, 00:00" ;
     dc:title "Janani Ninnuvina- Reetigowla- Misra Chapu- Subbara" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -3542,6 +3590,7 @@
 <http://musicbrainz.org/recording/7f5e3577-be2f-5703-bd19-7aa5e127ce00#_> a mo:Track ;
     ourvocab:has_listener_count "93" ;
     ourvocab:has_playcount "121" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Durga Devi" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
@@ -3584,6 +3633,7 @@
 <http://musicbrainz.org/recording/82a1609d-d76f-5925-ba03-8d6b64420cf0#_> a mo:Track ;
     ourvocab:has_listener_count "305" ;
     ourvocab:has_playcount "418" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     ourvocab:has_tag "carnatic",
         "classical",
         "folk",
@@ -3627,6 +3677,7 @@
 <http://musicbrainz.org/recording/836f07db-1028-5131-8c05-3b3b25b5869f#_> a mo:Track ;
     ourvocab:has_listener_count "7" ;
     ourvocab:has_playcount "18" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Bhakthajana Vatsale" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -3643,12 +3694,14 @@
 <http://musicbrainz.org/recording/842cbcab-742d-568f-839e-7f23f85be85e#_> a mo:Track ;
     ourvocab:has_listener_count "10" ;
     ourvocab:has_playcount "10" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Satileni Guruguha" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
 <http://musicbrainz.org/recording/84914924-ae10-53a9-b50c-d8c520b2529b#_> a mo:Track ;
     ourvocab:has_listener_count "206" ;
     ourvocab:has_playcount "301" ;
+    ourvocab:has_releasedate "29 Jun 2004, 00:00" ;
     ourvocab:has_tag "aruna 01",
         "carnatic",
         "indian",
@@ -3767,6 +3820,7 @@
 <http://musicbrainz.org/recording/87f501cd-caee-42e2-b0b6-80d42ef87c4f#_> a mo:Track ;
     ourvocab:has_listener_count "12" ;
     ourvocab:has_playcount "16" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Ranga Baro" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -3918,6 +3972,7 @@
 <http://musicbrainz.org/recording/8d874e5f-ac7f-4627-bdbd-63c675e7ffbd#_> a mo:Track ;
     ourvocab:has_listener_count "26" ;
     ourvocab:has_playcount "50" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     dc:title "Pirava Varam Tarum" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -4253,6 +4308,7 @@
 <http://musicbrainz.org/recording/988e63e8-574b-5048-95f4-9c9138941933#_> a mo:Track ;
     ourvocab:has_listener_count "15" ;
     ourvocab:has_playcount "21" ;
+    ourvocab:has_releasedate "2 Dec 2003, 00:00" ;
     dc:title "Abhang (Savale Sundara)- Ekam- Tukaram" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -4323,6 +4379,7 @@
 <http://musicbrainz.org/recording/9a6a77be-8a73-42d4-801d-123a8ca5d37e#_> a mo:Track ;
     ourvocab:has_listener_count "1305" ;
     ourvocab:has_playcount "2258" ;
+    ourvocab:has_releasedate "9 Apr 2012, 00:00" ;
     ourvocab:has_tag "carnatic",
         "classical",
         "indian",
@@ -4339,6 +4396,7 @@
 <http://musicbrainz.org/recording/9a9c864e-8a6c-478d-9c86-12f3ea980703#_> a mo:Track ;
     ourvocab:has_listener_count "177" ;
     ourvocab:has_playcount "292" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "carnatic",
         "vocal" ;
     dc:title "Om Sakti Om" ;
@@ -4370,6 +4428,7 @@
 <http://musicbrainz.org/recording/9bfd8b24-5a60-4106-9323-d3693937f52b#_> a mo:Track ;
     ourvocab:has_listener_count "3760" ;
     ourvocab:has_playcount "7299" ;
+    ourvocab:has_releasedate "3 Apr 2007, 00:00" ;
     ourvocab:has_tag "carnatic",
         "indian",
         "instrumental",
@@ -4464,6 +4523,7 @@
 <http://musicbrainz.org/recording/9f26389e-a656-487c-9064-c4db160508f8#_> a mo:Track ;
     ourvocab:has_listener_count "4" ;
     ourvocab:has_playcount "6" ;
+    ourvocab:has_releasedate "1 Jan 2000, 00:00" ;
     dc:title "So Billu" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -4582,6 +4642,7 @@
 <http://musicbrainz.org/recording/a47c481c-65f4-4d8a-a093-8db4ffc4014f#_> a mo:Track ;
     ourvocab:has_listener_count "20" ;
     ourvocab:has_playcount "51" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Konnakkol (Percussion language)" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -4641,6 +4702,7 @@
 <http://musicbrainz.org/recording/a58af389-e0b9-4e87-be4b-fa7e271df57f#_> a mo:Track ;
     ourvocab:has_listener_count "49" ;
     ourvocab:has_playcount "151" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Forgotten Past" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -4695,6 +4757,7 @@
 <http://musicbrainz.org/recording/a948fc00-cebf-423b-a183-d3aed1a58f3a#_> a mo:Track ;
     ourvocab:has_listener_count "12" ;
     ourvocab:has_playcount "34" ;
+    ourvocab:has_releasedate "" ;
     dc:title "Kanjira Trio (Frame drums)" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -4836,6 +4899,7 @@
 <http://musicbrainz.org/recording/abd90615-37a8-5dd2-9ad4-0c1cb470e713#_> a mo:Track ;
     ourvocab:has_listener_count "8" ;
     ourvocab:has_playcount "9" ;
+    ourvocab:has_releasedate "2 Dec 2003, 00:00" ;
     dc:title "Karanam Kettu- Poorvikalyani- Adi- Suddhananda Bha" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -4876,6 +4940,7 @@
 <http://musicbrainz.org/recording/add7e8a3-225b-58ac-a529-897a873ff6d9#_> a mo:Track ;
     ourvocab:has_listener_count "18" ;
     ourvocab:has_playcount "23" ;
+    ourvocab:has_releasedate "2 Dec 2003, 00:00" ;
     dc:title "Kai Vidamattan- Valaji- Adi- Kallal Ramanathan" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -4967,6 +5032,7 @@
 <http://musicbrainz.org/recording/b183e752-a2f4-5464-b320-aceff0f5e989#_> a mo:Track ;
     ourvocab:has_listener_count "6" ;
     ourvocab:has_playcount "7" ;
+    ourvocab:has_releasedate "2 Dec 2003, 00:00" ;
     dc:title "Sabda Brahmamayee- Slokam- Adi Sankara" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -5429,6 +5495,7 @@
 <http://musicbrainz.org/recording/c5976719-6376-4522-b62e-1cad0136aebc#_> a mo:Track ;
     ourvocab:has_listener_count "143" ;
     ourvocab:has_playcount "391" ;
+    ourvocab:has_releasedate "12 Mar 2002, 00:00" ;
     dc:title "Raga Kirvani: Râgam" ;
     mo:performer <http://musicbrainz.org/artist/747b15b3-81c6-43a5-881e-82cd16d9f5f3#_> .
 
@@ -5569,6 +5636,7 @@
 <http://musicbrainz.org/recording/c9c72509-c70a-5dc1-8d1b-a483653bed4d#_> a mo:Track ;
     ourvocab:has_listener_count "21" ;
     ourvocab:has_playcount "22" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Nekkuruggi" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
@@ -5689,6 +5757,7 @@
 <http://musicbrainz.org/recording/cf06c70d-733c-42bc-8ab9-81a81d22c02f#_> a mo:Track ;
     ourvocab:has_listener_count "1516" ;
     ourvocab:has_playcount "3357" ;
+    ourvocab:has_releasedate "30 Sep 2008, 00:00" ;
     ourvocab:has_tag "carnatic",
         "india",
         "music",
@@ -5716,6 +5785,7 @@
 <http://musicbrainz.org/recording/cfd5518d-545d-4cb2-a4c2-924d77c9f501#_> a mo:Track ;
     ourvocab:has_listener_count "30" ;
     ourvocab:has_playcount "88" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "carnatic",
         "indian classical",
         "kriti" ;
@@ -5725,6 +5795,7 @@
 <http://musicbrainz.org/recording/d0056e21-b5d0-5b4b-84c4-31a5495cf289#_> a mo:Track ;
     ourvocab:has_listener_count "4" ;
     ourvocab:has_playcount "4" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Malai Varum Velai (Viruttam)" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -5743,6 +5814,7 @@
 <http://musicbrainz.org/recording/d0525b96-ae69-57c9-be4d-f1bfe5b4e82c#_> a mo:Track ;
     ourvocab:has_listener_count "27" ;
     ourvocab:has_playcount "34" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Ragan (vocal)" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
@@ -5789,6 +5861,7 @@
 <http://musicbrainz.org/recording/d1c4bc4b-fe7c-41f2-a524-47697956d10b#_> a mo:Track ;
     ourvocab:has_listener_count "35" ;
     ourvocab:has_playcount "98" ;
+    ourvocab:has_releasedate "" ;
     dc:title "River Yamuna" ;
     mo:performer <http://musicbrainz.org/artist/23120aad-4687-4352-9f5a-1af812bcac17#_> .
 
@@ -5842,6 +5915,7 @@
 <http://musicbrainz.org/recording/d748bf14-7615-4039-b351-8d97d801cec2#_> a mo:Track ;
     ourvocab:has_listener_count "3" ;
     ourvocab:has_playcount "3" ;
+    ourvocab:has_releasedate "1 Jan 2011, 00:00" ;
     dc:title "Dwaitamu Sukhama" ;
     mo:performer <http://musicbrainz.org/artist/b7907914-d801-4bc9-81b5-39f28b606186#_> .
 
@@ -6100,6 +6174,7 @@
 <http://musicbrainz.org/recording/e0c5c6fa-9933-5ea6-871e-04d920f8832b#_> a mo:Track ;
     ourvocab:has_listener_count "105" ;
     ourvocab:has_playcount "148" ;
+    ourvocab:has_releasedate "29 Jun 2004, 00:00" ;
     ourvocab:has_tag "carnatic",
         "vocal" ;
     dc:title "Kalinga Nartana TillAna" ;
@@ -6202,6 +6277,7 @@
 <http://musicbrainz.org/recording/e6f6a071-a125-5a10-b850-c33ee3058343#_> a mo:Track ;
     ourvocab:has_listener_count "8" ;
     ourvocab:has_playcount "18" ;
+    ourvocab:has_releasedate "30 Nov 2003, 00:00" ;
     dc:title "Song For Raja 2" ;
     mo:performer <http://musicbrainz.org/artist/3a657118-15e7-4b7c-b100-e98f32087558#_> .
 
@@ -6276,6 +6352,7 @@
 <http://musicbrainz.org/recording/e9b8f3ca-1cf6-579a-ad06-f852a2f132d3#_> a mo:Track ;
     ourvocab:has_listener_count "699" ;
     ourvocab:has_playcount "1537" ;
+    ourvocab:has_releasedate "19 Jun 2007, 00:00" ;
     ourvocab:has_tag "carnatic",
         "indian",
         "indian classical",
@@ -6436,6 +6513,7 @@
 <http://musicbrainz.org/recording/efdf3faa-71aa-47f9-a007-7519539e7ec2#_> a mo:Track ;
     ourvocab:has_listener_count "195" ;
     ourvocab:has_playcount "465" ;
+    ourvocab:has_releasedate "12 Mar 2002, 00:00" ;
     dc:title "Raga Kirvani: Tânam" ;
     mo:performer <http://musicbrainz.org/artist/747b15b3-81c6-43a5-881e-82cd16d9f5f3#_> .
 
@@ -6521,6 +6599,7 @@
 <http://musicbrainz.org/recording/f20fad62-7517-54c6-bd90-a2333766d27b#_> a mo:Track ;
     ourvocab:has_listener_count "22" ;
     ourvocab:has_playcount "62" ;
+    ourvocab:has_releasedate "12 Mar 2002, 00:00" ;
     dc:title "Raga Mohanam: Âlâpana" ;
     mo:performer <http://musicbrainz.org/artist/747b15b3-81c6-43a5-881e-82cd16d9f5f3#_> .
 
@@ -6554,6 +6633,7 @@
 <http://musicbrainz.org/recording/f3203e9a-e36c-5f6c-80e4-a94baff23c6c#_> a mo:Track ;
     ourvocab:has_listener_count "13" ;
     ourvocab:has_playcount "13" ;
+    ourvocab:has_releasedate "20 Jun 2000, 00:00" ;
     dc:title "Paadavendume" ;
     mo:performer <http://musicbrainz.org/artist/a37c2232-158f-4002-b4fb-1823600e7b2a#_> .
 
@@ -6565,6 +6645,7 @@
 <http://musicbrainz.org/recording/f367bcc9-07ab-480a-a5ae-0880446295de#_> a mo:Track ;
     ourvocab:has_listener_count "3" ;
     ourvocab:has_playcount "10" ;
+    ourvocab:has_releasedate "1 Jan 2000, 00:00" ;
     dc:title "Oh Jagadamba" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -6581,6 +6662,7 @@
 <http://musicbrainz.org/recording/f3ac7d1d-bc25-5a8e-ae70-217ddf06c2d3#_> a mo:Track ;
     ourvocab:has_listener_count "12" ;
     ourvocab:has_playcount "13" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     dc:title "Shivanai Ninaindavar" ;
     mo:performer <http://musicbrainz.org/artist/b8c06293-b66b-42cc-95df-13006f2137fe#_> .
 
@@ -6647,6 +6729,7 @@
 <http://musicbrainz.org/recording/f75531b7-e552-40c8-983a-f8ce0b92c900#_> a mo:Track ;
     ourvocab:has_listener_count "1975" ;
     ourvocab:has_playcount "3854" ;
+    ourvocab:has_releasedate "18 Sep 2007, 00:00" ;
     ourvocab:has_tag "balmorhea",
         "bollywood",
         "carnatic",
@@ -6669,6 +6752,7 @@
 <http://musicbrainz.org/recording/f810a8db-41b3-5152-a095-b700d07ac3d8#_> a mo:Track ;
     ourvocab:has_listener_count "211" ;
     ourvocab:has_playcount "447" ;
+    ourvocab:has_releasedate "16 Mar 2007, 00:00" ;
     ourvocab:has_tag "aruna sairam",
         "carnatic",
         "carnatic vocal",
@@ -6709,6 +6793,7 @@
 <http://musicbrainz.org/recording/fa499e6d-caa1-4ed4-b553-bfe640129e19#_> a mo:Track ;
     ourvocab:has_listener_count "9" ;
     ourvocab:has_playcount "16" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     dc:title "Marivere" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -6726,6 +6811,7 @@
 <http://musicbrainz.org/recording/fb0996a8-bb19-46e8-9cc3-2732108fc717#_> a mo:Track ;
     ourvocab:has_listener_count "2" ;
     ourvocab:has_playcount "2" ;
+    ourvocab:has_releasedate "1 Jan 2000, 00:00" ;
     dc:title "Ramabhirama" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 
@@ -6754,6 +6840,7 @@
 <http://musicbrainz.org/recording/fce494df-b99a-4a9e-88e3-381dbe009d95#_> a mo:Track ;
     ourvocab:has_listener_count "3" ;
     ourvocab:has_playcount "13" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     dc:title "Lavanya Rama" ;
     mo:performer <http://musicbrainz.org/artist/6a93d328-59e5-4161-824b-a350530db8f2#_> .
 

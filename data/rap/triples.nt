@@ -13,6 +13,7 @@
 <http://musicbrainz.org/recording/0027e823-bd42-41a2-8349-7155f78cf415#_> a mo:Track ;
     ourvocab:has_listener_count "134245" ;
     ourvocab:has_playcount "472828" ;
+    ourvocab:has_releasedate "18 Dec 2001, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -24,6 +25,7 @@
 <http://musicbrainz.org/recording/003508b0-8387-4591-8ee6-90764bbd9560#_> a mo:Track ;
     ourvocab:has_listener_count "124773" ;
     ourvocab:has_playcount "593393" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "00s",
         "hip hop",
         "hip-hop",
@@ -99,6 +101,7 @@
 <http://musicbrainz.org/recording/01817ed9-22b7-4ebc-bdf4-42f6ef578169#_> a mo:Track ;
     ourvocab:has_listener_count "233612" ;
     ourvocab:has_playcount "604895" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -110,6 +113,7 @@
 <http://musicbrainz.org/recording/019276f6-2134-4011-b1f8-36ff8a153c8f#_> a mo:Track ;
     ourvocab:has_listener_count "205007" ;
     ourvocab:has_playcount "662380" ;
+    ourvocab:has_releasedate "24 Nov 1997, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "pop",
@@ -121,6 +125,7 @@
 <http://musicbrainz.org/recording/01d78bcd-83c1-4254-8e14-7a098edf11ec#_> a mo:Track ;
     ourvocab:has_listener_count "535553" ;
     ourvocab:has_playcount "2741787" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -132,6 +137,7 @@
 <http://musicbrainz.org/recording/01d82066-4634-4e6d-9c63-40a4d77cc4a8#_> a mo:Track ;
     ourvocab:has_listener_count "432620" ;
     ourvocab:has_playcount "1812857" ;
+    ourvocab:has_releasedate "22 May 2000, 00:00" ;
     ourvocab:has_tag "dido",
         "eminem",
         "hip hop",
@@ -143,6 +149,7 @@
 <http://musicbrainz.org/recording/020b9192-fc12-4fee-8c84-d4957f72d637#_> a mo:Track ;
     ourvocab:has_listener_count "288445" ;
     ourvocab:has_playcount "821410" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "80s",
         "gangsta rap",
         "hip hop",
@@ -154,6 +161,7 @@
 <http://musicbrainz.org/recording/021f2753-5eea-45bb-a39e-39c32deddb94#_> a mo:Track ;
     ourvocab:has_listener_count "118166" ;
     ourvocab:has_playcount "502419" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -165,6 +173,7 @@
 <http://musicbrainz.org/recording/022932c3-96fb-4e6f-9825-4dff6f80ab21#_> a mo:Track ;
     ourvocab:has_listener_count "80843" ;
     ourvocab:has_playcount "328645" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -176,6 +185,7 @@
 <http://musicbrainz.org/recording/027a4bca-b6d8-4b8f-b4c3-7574503578a3#_> a mo:Track ;
     ourvocab:has_listener_count "57960" ;
     ourvocab:has_playcount "196408" ;
+    ourvocab:has_releasedate "1 Jul 1996, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nas",
@@ -229,6 +239,7 @@
 <http://musicbrainz.org/recording/02f66c9b-34ba-4ef1-8d0f-fc0b33d7dd6c#_> a mo:Track ;
     ourvocab:has_listener_count "186638" ;
     ourvocab:has_playcount "722816" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "dj premier",
         "hip hop",
         "hip-hop",
@@ -262,6 +273,7 @@
 <http://musicbrainz.org/recording/0354c8d4-4f17-423c-9b31-3dd9b6f5e26f#_> a mo:Track ;
     ourvocab:has_listener_count "168554" ;
     ourvocab:has_playcount "674460" ;
+    ourvocab:has_releasedate "30 Nov 2000, 00:00" ;
     ourvocab:has_tag "drugs",
         "eminem",
         "hip hop",
@@ -284,6 +296,7 @@
 <http://musicbrainz.org/recording/03691e94-16b8-4e5c-b27f-6f3497b37cf2#_> a mo:Track ;
     ourvocab:has_listener_count "107603" ;
     ourvocab:has_playcount "272813" ;
+    ourvocab:has_releasedate "22 Oct 1996, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "rap",
@@ -295,6 +308,7 @@
 <http://musicbrainz.org/recording/03783a48-68a8-4187-afc4-cccced14cf0f#_> a mo:Track ;
     ourvocab:has_listener_count "181076" ;
     ourvocab:has_playcount "699361" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "beastie boys",
         "hip hop",
@@ -327,6 +341,7 @@
 <http://musicbrainz.org/recording/039a3915-b4ed-44c8-b980-adab76b2d5bb#_> a mo:Track ;
     ourvocab:has_listener_count "256876" ;
     ourvocab:has_playcount "1290194" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "cinderella man",
         "eminem",
         "hip hop",
@@ -360,6 +375,7 @@
 <http://musicbrainz.org/recording/03f11f23-28d2-4bc5-a739-57c6a424dbec#_> a mo:Track ;
     ourvocab:has_listener_count "116310" ;
     ourvocab:has_playcount "329053" ;
+    ourvocab:has_releasedate "2 May 1995, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -371,6 +387,7 @@
 <http://musicbrainz.org/recording/0449f927-e0dc-4407-b36c-273eebbb5e19#_> a mo:Track ;
     ourvocab:has_listener_count "86262" ;
     ourvocab:has_playcount "587701" ;
+    ourvocab:has_releasedate "14 Nov 2005, 00:00" ;
     ourvocab:has_tag "happy birthday",
         "hip hop",
         "hip-hop",
@@ -382,6 +399,7 @@
 <http://musicbrainz.org/recording/04a409e0-2402-499e-b482-ee709051ca38#_> a mo:Track ;
     ourvocab:has_listener_count "89014" ;
     ourvocab:has_playcount "275196" ;
+    ourvocab:has_releasedate "10 May 2004, 00:00" ;
     ourvocab:has_tag "g-unit",
         "hip hop",
         "hip-hop",
@@ -393,6 +411,7 @@
 <http://musicbrainz.org/recording/04daa0be-9603-495c-8526-f98ae7916c1c#_> a mo:Track ;
     ourvocab:has_listener_count "56193" ;
     ourvocab:has_playcount "217459" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "90s",
         "hip hop",
@@ -404,6 +423,7 @@
 <http://musicbrainz.org/recording/04e56906-d439-4c9a-8cf5-fce369e140c2#_> a mo:Track ;
     ourvocab:has_listener_count "21397" ;
     ourvocab:has_playcount "112127" ;
+    ourvocab:has_releasedate "31 Jan 2003, 00:00" ;
     ourvocab:has_tag "90s",
         "brasil",
         "brazilian",
@@ -426,6 +446,7 @@
 <http://musicbrainz.org/recording/0565e96d-aca2-4369-8362-d6b145d27ea9#_> a mo:Track ;
     ourvocab:has_listener_count "192336" ;
     ourvocab:has_playcount "892893" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -459,6 +480,7 @@
 <http://musicbrainz.org/recording/05b26290-47ad-44eb-a817-f66e00a3b26b#_> a mo:Track ;
     ourvocab:has_listener_count "313713" ;
     ourvocab:has_playcount "959047" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "d12",
         "eminem",
         "hip-hop",
@@ -470,6 +492,7 @@
 <http://musicbrainz.org/recording/062b0936-8d09-435f-8b40-d365b71548da#_> a mo:Track ;
     ourvocab:has_listener_count "94646" ;
     ourvocab:has_playcount "328727" ;
+    ourvocab:has_releasedate "28 Dec 1999, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -502,6 +525,7 @@
 <http://musicbrainz.org/recording/069480e9-bb87-4c97-b2b7-616a5a85103d#_> a mo:Track ;
     ourvocab:has_listener_count "52446" ;
     ourvocab:has_playcount "209318" ;
+    ourvocab:has_releasedate "23 Dec 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "mfnw",
@@ -512,6 +536,7 @@
 <http://musicbrainz.org/recording/069f1417-5ac8-4bca-8b54-e697c05d1109#_> a mo:Track ;
     ourvocab:has_listener_count "68374" ;
     ourvocab:has_playcount "243961" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -556,6 +581,7 @@
 <http://musicbrainz.org/recording/078c6b81-8e6c-4403-accf-c634b742143c#_> a mo:Track ;
     ourvocab:has_listener_count "197305" ;
     ourvocab:has_playcount "1135512" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -578,6 +604,7 @@
 <http://musicbrainz.org/recording/082cb7b7-e0f2-43e0-ac41-95a05bc6698d#_> a mo:Track ;
     ourvocab:has_listener_count "48799" ;
     ourvocab:has_playcount "242171" ;
+    ourvocab:has_releasedate "23 Apr 2012, 00:00" ;
     ourvocab:has_tag "experimental",
         "experimental hip-hop",
         "hip-hop",
@@ -589,6 +616,7 @@
 <http://musicbrainz.org/recording/089b0434-b6f8-4b61-add0-50f30af26203#_> a mo:Track ;
     ourvocab:has_listener_count "253285" ;
     ourvocab:has_playcount "1659034" ;
+    ourvocab:has_releasedate "1 Jul 2006, 00:00" ;
     ourvocab:has_tag "alternative",
         "fort minor",
         "hip hop",
@@ -600,6 +628,7 @@
 <http://musicbrainz.org/recording/08c20aee-be64-4512-9900-28ccb72f8505#_> a mo:Track ;
     ourvocab:has_listener_count "147073" ;
     ourvocab:has_playcount "429593" ;
+    ourvocab:has_releasedate "30 Nov 2001, 00:00" ;
     ourvocab:has_tag "dmx",
         "hip hop",
         "hip-hop",
@@ -611,6 +640,7 @@
 <http://musicbrainz.org/recording/08e2d687-0f9d-489d-a2e0-aca40c48ebfd#_> a mo:Track ;
     ourvocab:has_listener_count "308787" ;
     ourvocab:has_playcount "1460300" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -633,6 +663,7 @@
 <http://musicbrainz.org/recording/0928c39f-6936-530e-8fa1-e87b97761c03#_> a mo:Track ;
     ourvocab:has_listener_count "224199" ;
     ourvocab:has_playcount "966162" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -654,6 +685,7 @@
 <http://musicbrainz.org/recording/09cf38ac-af8e-5fc0-b970-8cd4f2e9c9fa#_> a mo:Track ;
     ourvocab:has_listener_count "65749" ;
     ourvocab:has_playcount "280838" ;
+    ourvocab:has_releasedate "22 Oct 2012, 00:00" ;
     ourvocab:has_tag "2012",
         "hip hop tag",
         "hip-hop",
@@ -676,6 +708,7 @@
 <http://musicbrainz.org/recording/0a4dcb45-e93d-47ef-bb94-8a19816999bc#_> a mo:Track ;
     ourvocab:has_listener_count "36936" ;
     ourvocab:has_playcount "113039" ;
+    ourvocab:has_releasedate "25 Aug 2010, 00:00" ;
     ourvocab:has_tag "90s",
         "classic",
         "hip hop",
@@ -687,6 +720,7 @@
 <http://musicbrainz.org/recording/0a50f673-03e1-4e3f-a2ea-c1ea7815a807#_> a mo:Track ;
     ourvocab:has_listener_count "139827" ;
     ourvocab:has_playcount "432045" ;
+    ourvocab:has_releasedate "1 Jan 1987, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -698,6 +732,7 @@
 <http://musicbrainz.org/recording/0a70d95a-ee89-4852-a717-c0e05e24494f#_> a mo:Track ;
     ourvocab:has_listener_count "73778" ;
     ourvocab:has_playcount "137345" ;
+    ourvocab:has_releasedate "4 Dec 2006, 00:00" ;
     ourvocab:has_tag "cashis",
         "everything is shady",
         "gangsta rap",
@@ -709,6 +744,7 @@
 <http://musicbrainz.org/recording/0a8999ef-f734-447e-afb0-dd7a82ebdd00#_> a mo:Track ;
     ourvocab:has_listener_count "266371" ;
     ourvocab:has_playcount "1809960" ;
+    ourvocab:has_releasedate "1 Jan 2003, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -720,6 +756,7 @@
 <http://musicbrainz.org/recording/0a8c3f0a-b94f-4624-ba73-096afc593f4c#_> a mo:Track ;
     ourvocab:has_listener_count "28459" ;
     ourvocab:has_playcount "162720" ;
+    ourvocab:has_releasedate "4 Feb 2011, 00:00" ;
     ourvocab:has_tag "british",
         "hip-hop",
         "indie rap",
@@ -742,6 +779,7 @@
 <http://musicbrainz.org/recording/0b135eaa-19f6-4e12-869e-231484174e27#_> a mo:Track ;
     ourvocab:has_listener_count "64893" ;
     ourvocab:has_playcount "265713" ;
+    ourvocab:has_releasedate "15 Apr 2003, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta rap",
         "hip hop",
@@ -753,6 +791,7 @@
 <http://musicbrainz.org/recording/0b7a867c-75b1-406f-b6d8-c909f154b1d4#_> a mo:Track ;
     ourvocab:has_listener_count "76800" ;
     ourvocab:has_playcount "241067" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "headnodic beats",
         "hip hop",
@@ -764,6 +803,7 @@
 <http://musicbrainz.org/recording/0b911c4d-5b31-49bc-988e-4df0c8c1d710#_> a mo:Track ;
     ourvocab:has_listener_count "37248" ;
     ourvocab:has_playcount "128019" ;
+    ourvocab:has_releasedate "1 Sep 2010, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "office space",
@@ -775,6 +815,7 @@
 <http://musicbrainz.org/recording/0b9dd796-f436-419e-a893-43d883f20359#_> a mo:Track ;
     ourvocab:has_listener_count "100988" ;
     ourvocab:has_playcount "261751" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -786,6 +827,7 @@
 <http://musicbrainz.org/recording/0badf060-cace-4ddb-ad8e-031037e686c2#_> a mo:Track ;
     ourvocab:has_listener_count "205930" ;
     ourvocab:has_playcount "592871" ;
+    ourvocab:has_releasedate "15 Feb 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -797,6 +839,7 @@
 <http://musicbrainz.org/recording/0bb7fa00-5607-4406-831c-b1a36decce58#_> a mo:Track ;
     ourvocab:has_listener_count "252941" ;
     ourvocab:has_playcount "1625728" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "feelings",
         "hip hop",
@@ -819,6 +862,7 @@
 <http://musicbrainz.org/recording/0bc46f62-6a56-437e-9543-df6ee02ca130#_> a mo:Track ;
     ourvocab:has_listener_count "114992" ;
     ourvocab:has_playcount "523635" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "2009",
         "eminem",
         "hip hop",
@@ -830,6 +874,7 @@
 <http://musicbrainz.org/recording/0bc9a2bc-8375-4ab9-8da8-6b1dc095e5db#_> a mo:Track ;
     ourvocab:has_listener_count "176609" ;
     ourvocab:has_playcount "569333" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "east coast rap",
         "hip hop",
@@ -841,6 +886,7 @@
 <http://musicbrainz.org/recording/0c4b3c2b-d6ee-4029-8041-89a626130723#_> a mo:Track ;
     ourvocab:has_listener_count "47918" ;
     ourvocab:has_playcount "202235" ;
+    ourvocab:has_releasedate "12 Apr 2012, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "hiphop",
         "mac miller",
@@ -874,6 +920,7 @@
 <http://musicbrainz.org/recording/0c86b813-1b27-4936-a374-a00f329ba020#_> a mo:Track ;
     ourvocab:has_listener_count "121371" ;
     ourvocab:has_playcount "435565" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -885,6 +932,7 @@
 <http://musicbrainz.org/recording/0cd968ae-574c-42e6-907f-9af2861f12db#_> a mo:Track ;
     ourvocab:has_listener_count "47566" ;
     ourvocab:has_playcount "144826" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "90s",
         "cypress hill",
         "hip hop",
@@ -896,6 +944,7 @@
 <http://musicbrainz.org/recording/0d2877b8-b199-4647-a9bd-9df85b4ac184#_> a mo:Track ;
     ourvocab:has_listener_count "224587" ;
     ourvocab:has_playcount "926188" ;
+    ourvocab:has_releasedate "30 Nov 1990, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -918,6 +967,7 @@
 <http://musicbrainz.org/recording/0d7ee990-76e9-406e-9a58-3e3d6c2f91dd#_> a mo:Track ;
     ourvocab:has_listener_count "110174" ;
     ourvocab:has_playcount "515134" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "funny",
         "hip hop",
@@ -951,6 +1001,7 @@
 <http://musicbrainz.org/recording/0e370d57-40fe-4074-a30c-5b3bd967ad9f#_> a mo:Track ;
     ourvocab:has_listener_count "48889" ;
     ourvocab:has_playcount "415709" ;
+    ourvocab:has_releasedate "3 Mar 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "ofwgkta",
         "psycho shit",
@@ -983,6 +1034,7 @@
 <http://musicbrainz.org/recording/0ed0c46a-78f4-4e12-8f32-4bac3b34e311#_> a mo:Track ;
     ourvocab:has_listener_count "367303" ;
     ourvocab:has_playcount "1349285" ;
+    ourvocab:has_releasedate "15 Sep 2009, 00:00" ;
     ourvocab:has_tag "chill",
         "hip hop",
         "hip-hop",
@@ -1038,6 +1090,7 @@
 <http://musicbrainz.org/recording/0fa5fe65-08b6-4d09-86a9-af545cce5dd7#_> a mo:Track ;
     ourvocab:has_listener_count "66130" ;
     ourvocab:has_playcount "177177" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "house of pain",
@@ -1049,6 +1102,7 @@
 <http://musicbrainz.org/recording/0fbceb72-5149-43e2-ad22-751847cf8f1f#_> a mo:Track ;
     ourvocab:has_listener_count "87721" ;
     ourvocab:has_playcount "453012" ;
+    ourvocab:has_releasedate "23 Sep 2003, 00:00" ;
     ourvocab:has_tag "bubba sparxxx",
         "hip hop",
         "hip-hop",
@@ -1060,6 +1114,7 @@
 <http://musicbrainz.org/recording/10043a91-8e84-4da7-90d8-48dd46986f84#_> a mo:Track ;
     ourvocab:has_listener_count "66456" ;
     ourvocab:has_playcount "194364" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "big l",
         "hip hop",
         "hip-hop",
@@ -1071,6 +1126,7 @@
 <http://musicbrainz.org/recording/10379eff-98f9-4d43-9d5c-ae6f045069de#_> a mo:Track ;
     ourvocab:has_listener_count "371291" ;
     ourvocab:has_playcount "1447001" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nas",
@@ -1103,6 +1159,7 @@
 <http://musicbrainz.org/recording/108a2e80-b270-51cc-afec-4ce8a230ac13#_> a mo:Track ;
     ourvocab:has_listener_count "295595" ;
     ourvocab:has_playcount "2512765" ;
+    ourvocab:has_releasedate "16 Aug 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "letterman",
@@ -1113,6 +1170,7 @@
 <http://musicbrainz.org/recording/108c61ea-c7e0-4990-86ef-725f7c4cc016#_> a mo:Track ;
     ourvocab:has_listener_count "63973" ;
     ourvocab:has_playcount "190282" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "aitch",
         "aitchrap",
         "aitchsonic",
@@ -1124,6 +1182,7 @@
 <http://musicbrainz.org/recording/10b9f87d-30df-4a18-a6d7-9dce0a2fa449#_> a mo:Track ;
     ourvocab:has_listener_count "186623" ;
     ourvocab:has_playcount "548798" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "method man",
@@ -1135,6 +1194,7 @@
 <http://musicbrainz.org/recording/10c19f77-2ceb-45a6-8ab6-b4d30454b479#_> a mo:Track ;
     ourvocab:has_listener_count "79998" ;
     ourvocab:has_playcount "229457" ;
+    ourvocab:has_releasedate "5 Oct 2010, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -1146,6 +1206,7 @@
 <http://musicbrainz.org/recording/10f01e5e-11f2-53ba-8448-a53c145c3eb2#_> a mo:Track ;
     ourvocab:has_listener_count "252027" ;
     ourvocab:has_playcount "669530" ;
+    ourvocab:has_releasedate "10 Jan 2012, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "ja rule",
         "love",
@@ -1157,6 +1218,7 @@
 <http://musicbrainz.org/recording/112aa4f1-c66f-4507-a03c-9036923c5213#_> a mo:Track ;
     ourvocab:has_listener_count "217510" ;
     ourvocab:has_playcount "589185" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -1179,6 +1241,7 @@
 <http://musicbrainz.org/recording/117d3835-4be8-44ad-931c-0a90e6a898a4#_> a mo:Track ;
     ourvocab:has_listener_count "48423" ;
     ourvocab:has_playcount "120792" ;
+    ourvocab:has_releasedate "2 May 1995, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -1200,6 +1263,7 @@
 <http://musicbrainz.org/recording/11a4ce0f-1372-4a18-adc3-3cbd92b7a10b#_> a mo:Track ;
     ourvocab:has_listener_count "86479" ;
     ourvocab:has_playcount "338891" ;
+    ourvocab:has_releasedate "1 Jan 2003, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta rap",
         "hip-hop",
@@ -1211,6 +1275,7 @@
 <http://musicbrainz.org/recording/12031d3e-d1af-491d-81a1-bb1b7b7f891f#_> a mo:Track ;
     ourvocab:has_listener_count "57650" ;
     ourvocab:has_playcount "253976" ;
+    ourvocab:has_releasedate "2 Jun 2009, 00:00" ;
     ourvocab:has_tag "funk",
         "hip hop",
         "hip-hop",
@@ -1222,6 +1287,7 @@
 <http://musicbrainz.org/recording/126f140b-5392-44f1-ba84-e3a963d0e132#_> a mo:Track ;
     ourvocab:has_listener_count "187518" ;
     ourvocab:has_playcount "611053" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "gangsta rap",
         "hip-hop",
@@ -1233,6 +1299,7 @@
 <http://musicbrainz.org/recording/1271f40c-5586-45e4-aa96-f06bd5ea7f04#_> a mo:Track ;
     ourvocab:has_listener_count "29947" ;
     ourvocab:has_playcount "260733" ;
+    ourvocab:has_releasedate "30 Nov 1999, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "polish",
@@ -1244,6 +1311,7 @@
 <http://musicbrainz.org/recording/12882390-16ed-4015-933d-50a9e4704820#_> a mo:Track ;
     ourvocab:has_listener_count "529568" ;
     ourvocab:has_playcount "2619405" ;
+    ourvocab:has_releasedate "8 Nov 2005, 00:00" ;
     ourvocab:has_tag "90s",
         "alternative",
         "hip hop",
@@ -1255,6 +1323,7 @@
 <http://musicbrainz.org/recording/12e63bfd-ce50-495d-9a43-eb976a66259a#_> a mo:Track ;
     ourvocab:has_listener_count "194729" ;
     ourvocab:has_playcount "671368" ;
+    ourvocab:has_releasedate "1 Jul 1996, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nas",
@@ -1277,6 +1346,7 @@
 <http://musicbrainz.org/recording/13090fd0-40ca-4864-9345-2d3e65ee8c96#_> a mo:Track ;
     ourvocab:has_listener_count "45498" ;
     ourvocab:has_playcount "395894" ;
+    ourvocab:has_releasedate "17 Apr 2009, 00:00" ;
     ourvocab:has_tag "hardcore",
         "hollywood undead",
         "rap",
@@ -1298,6 +1368,7 @@
 <http://musicbrainz.org/recording/132154d7-1f3e-4ff7-86ab-06e863c6c049#_> a mo:Track ;
     ourvocab:has_listener_count "240745" ;
     ourvocab:has_playcount "1046159" ;
+    ourvocab:has_releasedate "25 Oct 2006, 00:00" ;
     ourvocab:has_tag "90s",
         "a tribe called quest",
         "hip hop",
@@ -1330,6 +1401,7 @@
 <http://musicbrainz.org/recording/136c6183-7bbb-465a-9409-68ca8c75d4f5#_> a mo:Track ;
     ourvocab:has_listener_count "456341" ;
     ourvocab:has_playcount "1772735" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "eminem",
         "hip hop",
@@ -1351,6 +1423,7 @@
 <http://musicbrainz.org/recording/13c5516b-99ab-4770-9019-e64965e6243a#_> a mo:Track ;
     ourvocab:has_listener_count "36120" ;
     ourvocab:has_playcount "421019" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "paktofonika",
         "polish",
@@ -1362,6 +1435,7 @@
 <http://musicbrainz.org/recording/13d3fee9-164c-49b8-82f0-cf209f4c5ac2#_> a mo:Track ;
     ourvocab:has_listener_count "366295" ;
     ourvocab:has_playcount "1486105" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -1373,6 +1447,7 @@
 <http://musicbrainz.org/recording/140dd671-fddf-4e7e-a89d-2a9c96d400d6#_> a mo:Track ;
     ourvocab:has_listener_count "100073" ;
     ourvocab:has_playcount "306664" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "legalize it",
@@ -1384,6 +1459,7 @@
 <http://musicbrainz.org/recording/141c084c-b287-5174-ac74-bda199c8baab#_> a mo:Track ;
     ourvocab:has_listener_count "28707" ;
     ourvocab:has_playcount "108324" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "2009",
         "eminem",
         "hip hop",
@@ -1395,6 +1471,7 @@
 <http://musicbrainz.org/recording/141cef21-b5fc-4686-9381-d005e833b09f#_> a mo:Track ;
     ourvocab:has_listener_count "41309" ;
     ourvocab:has_playcount "136821" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "biggie",
         "hip hop",
         "hip-hop",
@@ -1406,6 +1483,7 @@
 <http://musicbrainz.org/recording/141f0569-63f5-4080-a812-d8eedba82e10#_> a mo:Track ;
     ourvocab:has_listener_count "29895" ;
     ourvocab:has_playcount "213106" ;
+    ourvocab:has_releasedate "27 Sep 2011, 00:00" ;
     ourvocab:has_tag "female vocalists",
         "hip-hop",
         "pussy",
@@ -1427,6 +1505,7 @@
 <http://musicbrainz.org/recording/146c62d1-8c11-425a-9599-4480a601a594#_> a mo:Track ;
     ourvocab:has_listener_count "79361" ;
     ourvocab:has_playcount "410451" ;
+    ourvocab:has_releasedate "19 Sep 2006, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jedi mind tricks",
@@ -1438,6 +1517,7 @@
 <http://musicbrainz.org/recording/1488bf2b-e822-4931-892f-9392f63f4de0#_> a mo:Track ;
     ourvocab:has_listener_count "97974" ;
     ourvocab:has_playcount "278294" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "90s",
         "cypress hill",
         "hip hop",
@@ -1459,6 +1539,7 @@
 <http://musicbrainz.org/recording/14d8165a-d2a0-59b9-90e5-4d4d8042e67f#_> a mo:Track ;
     ourvocab:has_listener_count "27459" ;
     ourvocab:has_playcount "118843" ;
+    ourvocab:has_releasedate "1 Apr 2013, 00:00" ;
     ourvocab:has_tag "10s",
         "alternative hip-hop",
         "hip-hop",
@@ -1470,6 +1551,7 @@
 <http://musicbrainz.org/recording/14e8790c-b290-48c2-b8d3-11c92ebd7eb9#_> a mo:Track ;
     ourvocab:has_listener_count "102434" ;
     ourvocab:has_playcount "304734" ;
+    ourvocab:has_releasedate "15 Dec 2003, 00:00" ;
     ourvocab:has_tag "american",
         "eminem",
         "hip-hop",
@@ -1481,6 +1563,7 @@
 <http://musicbrainz.org/recording/157532b4-d226-4e5d-8e22-3a801c0dd8c9#_> a mo:Track ;
     ourvocab:has_listener_count "72615" ;
     ourvocab:has_playcount "426276" ;
+    ourvocab:has_releasedate "24 Sep 2013, 00:00" ;
     ourvocab:has_tag "2013",
         "best of 2013",
         "drake",
@@ -1492,6 +1575,7 @@
 <http://musicbrainz.org/recording/15bfea8e-8fd4-4d74-9543-923ab299143b#_> a mo:Track ;
     ourvocab:has_listener_count "277061" ;
     ourvocab:has_playcount "1008176" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -1503,6 +1587,7 @@
 <http://musicbrainz.org/recording/164f92d3-736d-45f0-85f1-cb2bcc0baf40#_> a mo:Track ;
     ourvocab:has_listener_count "61423" ;
     ourvocab:has_playcount "213718" ;
+    ourvocab:has_releasedate "16 Jun 1998, 00:00" ;
     ourvocab:has_tag "chill",
         "chillout",
         "hip-hop",
@@ -1525,6 +1610,7 @@
 <http://musicbrainz.org/recording/16a44833-22af-47ed-b638-99718dd7ed04#_> a mo:Track ;
     ourvocab:has_listener_count "31867" ;
     ourvocab:has_playcount "195221" ;
+    ourvocab:has_releasedate "19 Aug 2008, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "rap",
@@ -1547,6 +1633,7 @@
 <http://musicbrainz.org/recording/16d1dc19-8e7d-49da-afc5-840b1a39a710#_> a mo:Track ;
     ourvocab:has_listener_count "198753" ;
     ourvocab:has_playcount "883107" ;
+    ourvocab:has_releasedate "15 Feb 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "90s",
         "hip-hop",
@@ -1579,6 +1666,7 @@
 <http://musicbrainz.org/recording/170c31cd-6219-4da7-b87a-48d3223fce6f#_> a mo:Track ;
     ourvocab:has_listener_count "216592" ;
     ourvocab:has_playcount "1075206" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -1612,6 +1700,7 @@
 <http://musicbrainz.org/recording/1749c124-8047-4c0c-83c3-2db6101ee7a3#_> a mo:Track ;
     ourvocab:has_listener_count "26456" ;
     ourvocab:has_playcount "100626" ;
+    ourvocab:has_releasedate "30 Nov 1999, 00:00" ;
     ourvocab:has_tag "90s",
         "detroit",
         "hip hop",
@@ -1655,6 +1744,7 @@
 <http://musicbrainz.org/recording/17c69f77-5856-5a43-b981-a16d9b3c7ddd#_> a mo:Track ;
     ourvocab:has_listener_count "21415" ;
     ourvocab:has_playcount "69341" ;
+    ourvocab:has_releasedate "24 May 1999, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "old school",
         "rap",
@@ -1677,6 +1767,7 @@
 <http://musicbrainz.org/recording/18095d23-76b8-45c3-a311-5c246ca05992#_> a mo:Track ;
     ourvocab:has_listener_count "82840" ;
     ourvocab:has_playcount "470513" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "misogynistic",
         "ofwgkta",
@@ -1699,6 +1790,7 @@
 <http://musicbrainz.org/recording/1834339f-de44-4ec6-a0f5-d314d73394af#_> a mo:Track ;
     ourvocab:has_listener_count "63046" ;
     ourvocab:has_playcount "224555" ;
+    ourvocab:has_releasedate "9 Sep 1996, 00:00" ;
     ourvocab:has_tag "classic",
         "hip-hop",
         "loved",
@@ -1710,6 +1802,7 @@
 <http://musicbrainz.org/recording/1849fb91-c6ac-4944-91e5-903ab5cc94a9#_> a mo:Track ;
     ourvocab:has_listener_count "402851" ;
     ourvocab:has_playcount "1644848" ;
+    ourvocab:has_releasedate "15 Sep 2009, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "hipster rap",
@@ -1721,6 +1814,7 @@
 <http://musicbrainz.org/recording/185e3489-353a-4e4d-af3e-c38c27bf4945#_> a mo:Track ;
     ourvocab:has_listener_count "183947" ;
     ourvocab:has_playcount "654946" ;
+    ourvocab:has_releasedate "6 Jul 2000, 00:00" ;
     ourvocab:has_tag "dj premier",
         "east coast rap",
         "hip hop",
@@ -1732,6 +1826,7 @@
 <http://musicbrainz.org/recording/19191110-c233-420d-a19c-552a88544ec6#_> a mo:Track ;
     ourvocab:has_listener_count "82551" ;
     ourvocab:has_playcount "233324" ;
+    ourvocab:has_releasedate "5 Oct 2010, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -1743,6 +1838,7 @@
 <http://musicbrainz.org/recording/193c7bf8-2c3a-4648-a6b1-9c36e21d15cb#_> a mo:Track ;
     ourvocab:has_listener_count "141387" ;
     ourvocab:has_playcount "459203" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -1754,6 +1850,7 @@
 <http://musicbrainz.org/recording/19d9f0b0-a402-5280-8da9-073050f03a90#_> a mo:Track ;
     ourvocab:has_listener_count "28088" ;
     ourvocab:has_playcount "92887" ;
+    ourvocab:has_releasedate "30 Nov 1999, 00:00" ;
     ourvocab:has_tag "back that azz up",
         "gangsta rap",
         "hip-hop",
@@ -1765,6 +1862,7 @@
 <http://musicbrainz.org/recording/1a17c979-1a19-48df-8471-f657331cfc08#_> a mo:Track ;
     ourvocab:has_listener_count "82856" ;
     ourvocab:has_playcount "244010" ;
+    ourvocab:has_releasedate "22 May 2001, 00:00" ;
     ourvocab:has_tag "gangsta",
         "gangsta rap",
         "hip-hop",
@@ -1776,6 +1874,7 @@
 <http://musicbrainz.org/recording/1a2299bc-1f33-4e3a-94ea-f08a88564c6a#_> a mo:Track ;
     ourvocab:has_listener_count "49721" ;
     ourvocab:has_playcount "342581" ;
+    ourvocab:has_releasedate "16 Jan 2009, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "justin timberlake",
@@ -1787,6 +1886,7 @@
 <http://musicbrainz.org/recording/1a25f437-c494-4991-8dab-98e71e3ecf05#_> a mo:Track ;
     ourvocab:has_listener_count "166934" ;
     ourvocab:has_playcount "573243" ;
+    ourvocab:has_releasedate "27 Mar 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "mims",
@@ -1798,6 +1898,7 @@
 <http://musicbrainz.org/recording/1a3f05b5-ef2c-4657-b4fb-0fcc9446cc49#_> a mo:Track ;
     ourvocab:has_listener_count "102831" ;
     ourvocab:has_playcount "342595" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "dirty south",
         "hip-hop",
         "rap",
@@ -1809,6 +1910,7 @@
 <http://musicbrainz.org/recording/1a770bf2-ff90-4c6d-b29d-7e07bab7ba27#_> a mo:Track ;
     ourvocab:has_listener_count "159918" ;
     ourvocab:has_playcount "888527" ;
+    ourvocab:has_releasedate "4 Mar 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye",
@@ -1820,6 +1922,7 @@
 <http://musicbrainz.org/recording/1a77c62c-da36-43cc-8121-fb101872382f#_> a mo:Track ;
     ourvocab:has_listener_count "590073" ;
     ourvocab:has_playcount "2802396" ;
+    ourvocab:has_releasedate "15 Sep 2009, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kid cudi",
@@ -1831,6 +1934,7 @@
 <http://musicbrainz.org/recording/1a7adef2-0d63-46c3-a25c-0fe71e274600#_> a mo:Track ;
     ourvocab:has_listener_count "80294" ;
     ourvocab:has_playcount "355913" ;
+    ourvocab:has_releasedate "1 Oct 1996, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -1842,6 +1946,7 @@
 <http://musicbrainz.org/recording/1a7e679a-260f-491f-b7f0-cf881af833c2#_> a mo:Track ;
     ourvocab:has_listener_count "89486" ;
     ourvocab:has_playcount "371051" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "dark",
         "hip hop",
         "hip-hop",
@@ -1874,6 +1979,7 @@
 <http://musicbrainz.org/recording/1accc98f-9c32-40c0-8368-d72f5c0c1b64#_> a mo:Track ;
     ourvocab:has_listener_count "249959" ;
     ourvocab:has_playcount "977570" ;
+    ourvocab:has_releasedate "6 Aug 2007, 00:00" ;
     ourvocab:has_tag "because i got high",
         "comedy",
         "hip hop",
@@ -1885,6 +1991,7 @@
 <http://musicbrainz.org/recording/1ae9fe3d-65d1-4091-a8bb-a953aabc08a7#_> a mo:Track ;
     ourvocab:has_listener_count "199430" ;
     ourvocab:has_playcount "626897" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -1896,6 +2003,7 @@
 <http://musicbrainz.org/recording/1b141d88-bef0-420e-9a07-1bce796df256#_> a mo:Track ;
     ourvocab:has_listener_count "42037" ;
     ourvocab:has_playcount "137048" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -1907,6 +2015,7 @@
 <http://musicbrainz.org/recording/1b1709b8-6d31-47ba-8b7b-36415f672b52#_> a mo:Track ;
     ourvocab:has_listener_count "40674" ;
     ourvocab:has_playcount "238073" ;
+    ourvocab:has_releasedate "1 Jan 2005, 00:00" ;
     ourvocab:has_tag "50 cent",
         "g-unit",
         "hip hop",
@@ -1918,6 +2027,7 @@
 <http://musicbrainz.org/recording/1b3376ac-0b5e-4518-bb0b-28402be96865#_> a mo:Track ;
     ourvocab:has_listener_count "102040" ;
     ourvocab:has_playcount "253843" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "dark",
         "hip hop",
         "hip-hop",
@@ -1929,6 +2039,7 @@
 <http://musicbrainz.org/recording/1b502447-b371-42a9-b189-9e4ee730d666#_> a mo:Track ;
     ourvocab:has_listener_count "203805" ;
     ourvocab:has_playcount "584977" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "rap",
         "the game",
@@ -1940,6 +2051,7 @@
 <http://musicbrainz.org/recording/1b944cb2-63e5-4d6b-9e2e-d797de7f0ee2#_> a mo:Track ;
     ourvocab:has_listener_count "68408" ;
     ourvocab:has_playcount "194668" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "east coast",
         "hip hop",
@@ -1962,6 +2074,7 @@
 <http://musicbrainz.org/recording/1bd2e326-3159-4fdd-a6d8-921d303d0bed#_> a mo:Track ;
     ourvocab:has_listener_count "253541" ;
     ourvocab:has_playcount "1106400" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -1984,6 +2097,7 @@
 <http://musicbrainz.org/recording/1c126bc7-0c0f-4f51-9241-a0f7badd1b50#_> a mo:Track ;
     ourvocab:has_listener_count "219723" ;
     ourvocab:has_playcount "904854" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "alternative",
         "hip hop",
@@ -1995,6 +2109,7 @@
 <http://musicbrainz.org/recording/1c5168e2-fd17-4cf9-ac78-726fb3cb0a63#_> a mo:Track ;
     ourvocab:has_listener_count "35086" ;
     ourvocab:has_playcount "119887" ;
+    ourvocab:has_releasedate "16 Nov 2004, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip-hop",
         "need for speed",
@@ -2028,6 +2143,7 @@
 <http://musicbrainz.org/recording/1c9f0049-b33f-41d7-95fd-f67618f396be#_> a mo:Track ;
     ourvocab:has_listener_count "61465" ;
     ourvocab:has_playcount "232809" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "biggie",
         "hip hop",
         "hip-hop",
@@ -2039,6 +2155,7 @@
 <http://musicbrainz.org/recording/1d2c21cb-324c-4f5a-82ed-62c12c1478c7#_> a mo:Track ;
     ourvocab:has_listener_count "67146" ;
     ourvocab:has_playcount "364981" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "fabolous",
         "hip hop",
         "hip-hop",
@@ -2050,6 +2167,7 @@
 <http://musicbrainz.org/recording/1d37ce6a-3ca5-427b-9aef-c9e2daf7bb4a#_> a mo:Track ;
     ourvocab:has_listener_count "31904" ;
     ourvocab:has_playcount "94172" ;
+    ourvocab:has_releasedate "1 Jul 1996, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -2061,6 +2179,7 @@
 <http://musicbrainz.org/recording/1d4d3e2d-80ee-4512-8d60-5d3e34bf4e6b#_> a mo:Track ;
     ourvocab:has_listener_count "229905" ;
     ourvocab:has_playcount "926942" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -2072,6 +2191,7 @@
 <http://musicbrainz.org/recording/1d6a78f8-10c6-40b5-8f12-72888508c397#_> a mo:Track ;
     ourvocab:has_listener_count "225356" ;
     ourvocab:has_playcount "1073880" ;
+    ourvocab:has_releasedate "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -2083,6 +2203,7 @@
 <http://musicbrainz.org/recording/1d771135-dcaa-4d34-98ad-e97e4d960c2f#_> a mo:Track ;
     ourvocab:has_listener_count "48612" ;
     ourvocab:has_playcount "604280" ;
+    ourvocab:has_releasedate "1 Jan 2009, 00:00" ;
     ourvocab:has_tag "alternative rock",
         "hip-hop",
         "noize mc",
@@ -2094,6 +2215,7 @@
 <http://musicbrainz.org/recording/1db9e845-26b8-494f-a6ce-d78cc16d32bd#_> a mo:Track ;
     ourvocab:has_listener_count "101278" ;
     ourvocab:has_playcount "323826" ;
+    ourvocab:has_releasedate "26 Jan 2010, 00:00" ;
     ourvocab:has_tag "dmx",
         "gangsta rap",
         "hip-hop",
@@ -2126,6 +2248,7 @@
 <http://musicbrainz.org/recording/1df9ecef-2699-4133-adb7-9032cdc727c9#_> a mo:Track ;
     ourvocab:has_listener_count "238748" ;
     ourvocab:has_playcount "975656" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -2137,6 +2260,7 @@
 <http://musicbrainz.org/recording/1dfe7c63-7366-43f9-9242-c142466c083c#_> a mo:Track ;
     ourvocab:has_listener_count "109976" ;
     ourvocab:has_playcount "336754" ;
+    ourvocab:has_releasedate "11 Mar 2003, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "ice cube",
@@ -2159,6 +2283,7 @@
 <http://musicbrainz.org/recording/1e661df3-73a4-4047-aa2b-e266337d6ce7#_> a mo:Track ;
     ourvocab:has_listener_count "109391" ;
     ourvocab:has_playcount "392608" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -2181,6 +2306,7 @@
 <http://musicbrainz.org/recording/1e6b46e2-05ac-4fdc-b5eb-9a4d6766a0b7#_> a mo:Track ;
     ourvocab:has_listener_count "204820" ;
     ourvocab:has_playcount "863683" ;
+    ourvocab:has_releasedate "10 Feb 2004, 00:00" ;
     ourvocab:has_tag "hilarious",
         "hip hop",
         "hip-hop",
@@ -2203,6 +2329,7 @@
 <http://musicbrainz.org/recording/1eeb19f8-eaeb-46c1-8d9d-08b88faba459#_> a mo:Track ;
     ourvocab:has_listener_count "58217" ;
     ourvocab:has_playcount "186937" ;
+    ourvocab:has_releasedate "18 Dec 2001, 00:00" ;
     ourvocab:has_tag "classic",
         "hip hop",
         "hip-hop",
@@ -2214,6 +2341,7 @@
 <http://musicbrainz.org/recording/1f3c8f5b-952d-4ebe-972a-0e6e3a39dd80#_> a mo:Track ;
     ourvocab:has_listener_count "276117" ;
     ourvocab:has_playcount "851423" ;
+    ourvocab:has_releasedate "8 Nov 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jay-z",
@@ -2246,6 +2374,7 @@
 <http://musicbrainz.org/recording/200d68cc-d0f2-4970-8e7f-3facdcb34e11#_> a mo:Track ;
     ourvocab:has_listener_count "19606" ;
     ourvocab:has_playcount "426277" ;
+    ourvocab:has_releasedate "15 Jan 2010, 00:00" ;
     ourvocab:has_tag "classic",
         "great",
         "hip-hop",
@@ -2257,6 +2386,7 @@
 <http://musicbrainz.org/recording/205f4835-8f96-487f-8922-30e4d219bc93#_> a mo:Track ;
     ourvocab:has_listener_count "38551" ;
     ourvocab:has_playcount "228703" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "classic",
         "eminem",
         "hip hop",
@@ -2268,6 +2398,7 @@
 <http://musicbrainz.org/recording/20a22d26-46b9-5887-97a7-6914a0e299d6#_> a mo:Track ;
     ourvocab:has_listener_count "156887" ;
     ourvocab:has_playcount "751203" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -2279,6 +2410,7 @@
 <http://musicbrainz.org/recording/2132a1e4-7efc-419b-bde3-11e2c234572b#_> a mo:Track ;
     ourvocab:has_listener_count "127526" ;
     ourvocab:has_playcount "389804" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "old school",
@@ -2322,6 +2454,7 @@
 <http://musicbrainz.org/recording/22720f7c-4ba1-4041-8e36-e6348d9c0976#_> a mo:Track ;
     ourvocab:has_listener_count "185159" ;
     ourvocab:has_playcount "856616" ;
+    ourvocab:has_releasedate "18 May 2004, 00:00" ;
     ourvocab:has_tag "british",
         "hip hop",
         "hip-hop",
@@ -2333,6 +2466,7 @@
 <http://musicbrainz.org/recording/2281938c-37a2-428f-ad07-d6274246555d#_> a mo:Track ;
     ourvocab:has_listener_count "132672" ;
     ourvocab:has_playcount "718499" ;
+    ourvocab:has_releasedate "9 Oct 2012, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "macklemore",
@@ -2343,6 +2477,7 @@
 <http://musicbrainz.org/recording/23287900-c609-4a98-b3fd-1b37b52d26df#_> a mo:Track ;
     ourvocab:has_listener_count "117054" ;
     ourvocab:has_playcount "341089" ;
+    ourvocab:has_releasedate "1 Jan 1994, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -2376,6 +2511,7 @@
 <http://musicbrainz.org/recording/2397c012-2f6f-434a-88f8-2add0ba77ebb#_> a mo:Track ;
     ourvocab:has_listener_count "133623" ;
     ourvocab:has_playcount "425208" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -2398,6 +2534,7 @@
 <http://musicbrainz.org/recording/23af649b-9da0-4842-bc60-fd78fe1957aa#_> a mo:Track ;
     ourvocab:has_listener_count "35651" ;
     ourvocab:has_playcount "249343" ;
+    ourvocab:has_releasedate "27 Sep 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "iggy",
         "iggy azalea",
@@ -2409,6 +2546,7 @@
 <http://musicbrainz.org/recording/23ea1c55-bf50-58f3-9a80-bc650496c3ac#_> a mo:Track ;
     ourvocab:has_listener_count "44595" ;
     ourvocab:has_playcount "204794" ;
+    ourvocab:has_releasedate "1 Apr 2013, 00:00" ;
     ourvocab:has_tag "alternative hip-hop",
         "hip-hop",
         "rap",
@@ -2420,6 +2558,7 @@
 <http://musicbrainz.org/recording/2460d368-bdac-409d-8467-c428074f5479#_> a mo:Track ;
     ourvocab:has_listener_count "180333" ;
     ourvocab:has_playcount "790486" ;
+    ourvocab:has_releasedate "10 Feb 2004, 00:00" ;
     ourvocab:has_tag "beautiful",
         "hip hop",
         "hip-hop",
@@ -2452,6 +2591,7 @@
 <http://musicbrainz.org/recording/24dd137f-fc4f-41d0-87c5-25b596096189#_> a mo:Track ;
     ourvocab:has_listener_count "43077" ;
     ourvocab:has_playcount "190817" ;
+    ourvocab:has_releasedate "30 Sep 2008, 00:00" ;
     ourvocab:has_tag "dirty south",
         "gangsta rap",
         "hip hop",
@@ -2463,6 +2603,7 @@
 <http://musicbrainz.org/recording/25699e9d-3ff5-4c6a-99fb-e53eb46aaf9e#_> a mo:Track ;
     ourvocab:has_listener_count "69685" ;
     ourvocab:has_playcount "167517" ;
+    ourvocab:has_releasedate "19 Oct 2010, 00:00" ;
     ourvocab:has_tag "00s",
         "hip hop",
         "hip-hop",
@@ -2484,6 +2625,7 @@
 <http://musicbrainz.org/recording/2600b0de-40bc-4a06-9bee-53012f0f6b3a#_> a mo:Track ;
     ourvocab:has_listener_count "37643" ;
     ourvocab:has_playcount "295223" ;
+    ourvocab:has_releasedate "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "alternative hip-hop",
         "hip-hop",
         "rap",
@@ -2495,6 +2637,7 @@
 <http://musicbrainz.org/recording/2627ba29-4a33-49a5-b48f-c1a495e08685#_> a mo:Track ;
     ourvocab:has_listener_count "69153" ;
     ourvocab:has_playcount "256556" ;
+    ourvocab:has_releasedate "1 Jan 2005, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta rap",
         "hip hop",
@@ -2517,6 +2660,7 @@
 <http://musicbrainz.org/recording/263aac00-b591-4816-9714-1a9479b0bc7c#_> a mo:Track ;
     ourvocab:has_listener_count "119434" ;
     ourvocab:has_playcount "339887" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -2572,6 +2716,7 @@
 <http://musicbrainz.org/recording/273a5c3e-0943-4673-bb74-153bb4c574ed#_> a mo:Track ;
     ourvocab:has_listener_count "331326" ;
     ourvocab:has_playcount "2213267" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "awesome",
         "eminem",
         "hip hop",
@@ -2583,6 +2728,7 @@
 <http://musicbrainz.org/recording/27d4507c-947c-425f-8e60-7b16dbf80953#_> a mo:Track ;
     ourvocab:has_listener_count "200256" ;
     ourvocab:has_playcount "566958" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "east coast rap",
         "hip hop",
@@ -2594,6 +2740,7 @@
 <http://musicbrainz.org/recording/27e529bd-f156-4105-b53d-2d83bb34b386#_> a mo:Track ;
     ourvocab:has_listener_count "237639" ;
     ourvocab:has_playcount "884406" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -2616,6 +2763,7 @@
 <http://musicbrainz.org/recording/285e3895-438f-43bb-b578-e63adb8e1e55#_> a mo:Track ;
     ourvocab:has_listener_count "88025" ;
     ourvocab:has_playcount "371757" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -2627,6 +2775,7 @@
 <http://musicbrainz.org/recording/2868d658-4f5e-4f05-b098-eeff4e39ce64#_> a mo:Track ;
     ourvocab:has_listener_count "107379" ;
     ourvocab:has_playcount "278499" ;
+    ourvocab:has_releasedate "20 Jan 2006, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "juelz santana",
@@ -2638,6 +2787,7 @@
 <http://musicbrainz.org/recording/28c313ef-bc5d-447a-911e-be382a04413e#_> a mo:Track ;
     ourvocab:has_listener_count "254548" ;
     ourvocab:has_playcount "853494" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "90s",
         "classic",
         "hip hop",
@@ -2649,6 +2799,7 @@
 <http://musicbrainz.org/recording/28c40eda-e40f-4c43-8e03-4e2b7ad33072#_> a mo:Track ;
     ourvocab:has_listener_count "63360" ;
     ourvocab:has_playcount "171893" ;
+    ourvocab:has_releasedate "24 Sep 2002, 00:00" ;
     ourvocab:has_tag "hip hop tag",
         "horrorcore",
         "rap",
@@ -2671,6 +2822,7 @@
 <http://musicbrainz.org/recording/29975fe0-da52-4d4f-85bb-921eac0be54a#_> a mo:Track ;
     ourvocab:has_listener_count "140170" ;
     ourvocab:has_playcount "1036327" ;
+    ourvocab:has_releasedate "12 Sep 2011, 00:00" ;
     ourvocab:has_tag "2011",
         "british",
         "folk",
@@ -2682,6 +2834,7 @@
 <http://musicbrainz.org/recording/299ee2fa-6d92-42e7-9080-64c0dd3085c7#_> a mo:Track ;
     ourvocab:has_listener_count "274188" ;
     ourvocab:has_playcount "1285568" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "00s",
         "hip hop",
         "hip-hop",
@@ -2693,6 +2846,7 @@
 <http://musicbrainz.org/recording/29b3f55f-cbea-4375-94a6-a9eeedea5552#_> a mo:Track ;
     ourvocab:has_listener_count "249428" ;
     ourvocab:has_playcount "1081002" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "00s",
         "hip hop",
         "hip-hop",
@@ -2715,6 +2869,7 @@
 <http://musicbrainz.org/recording/29e08afb-1cce-4d6d-9f20-d51a303c8b48#_> a mo:Track ;
     ourvocab:has_listener_count "286381" ;
     ourvocab:has_playcount "1050959" ;
+    ourvocab:has_releasedate "31 Oct 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "outkast",
@@ -2726,6 +2881,7 @@
 <http://musicbrainz.org/recording/29ecce7b-585b-4f79-8760-acb89dd7516f#_> a mo:Track ;
     ourvocab:has_listener_count "69803" ;
     ourvocab:has_playcount "298818" ;
+    ourvocab:has_releasedate "16 Jul 2007, 00:00" ;
     ourvocab:has_tag "awesome drum jam",
         "funky",
         "hip-hop",
@@ -2737,6 +2893,7 @@
 <http://musicbrainz.org/recording/2a0621a5-563f-4095-9e97-c2195ed2ebf5#_> a mo:Track ;
     ourvocab:has_listener_count "87431" ;
     ourvocab:has_playcount "275215" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "b-boys",
         "beastie boys",
         "hip hop",
@@ -2748,6 +2905,7 @@
 <http://musicbrainz.org/recording/2a344410-e9e8-411e-b37c-274a85fd5c63#_> a mo:Track ;
     ourvocab:has_listener_count "336386" ;
     ourvocab:has_playcount "1308043" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "classic",
         "hip hop",
         "hip-hop",
@@ -2759,6 +2917,7 @@
 <http://musicbrainz.org/recording/2a5f7cb0-5884-4e90-9894-809b43960ffb#_> a mo:Track ;
     ourvocab:has_listener_count "232338" ;
     ourvocab:has_playcount "1010022" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -2770,6 +2929,7 @@
 <http://musicbrainz.org/recording/2a72e997-af42-49f1-b83a-4775f23437a8#_> a mo:Track ;
     ourvocab:has_listener_count "66896" ;
     ourvocab:has_playcount "242167" ;
+    ourvocab:has_releasedate "9 Sep 1996, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "hiphop",
@@ -2781,6 +2941,7 @@
 <http://musicbrainz.org/recording/2a988f92-d468-4c0b-83b4-378314ffe8b6#_> a mo:Track ;
     ourvocab:has_listener_count "337107" ;
     ourvocab:has_playcount "1728329" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -2814,6 +2975,7 @@
 <http://musicbrainz.org/recording/2b67f58b-b173-451b-b7be-8d194a6bb272#_> a mo:Track ;
     ourvocab:has_listener_count "55104" ;
     ourvocab:has_playcount "223072" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "angry",
         "dark",
         "hip hop",
@@ -2825,6 +2987,7 @@
 <http://musicbrainz.org/recording/2b79e19c-5261-4069-8bec-2c1e2fff2924#_> a mo:Track ;
     ourvocab:has_listener_count "141491" ;
     ourvocab:has_playcount "576236" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "depressive",
         "eminem",
         "hip hop",
@@ -2836,6 +2999,7 @@
 <http://musicbrainz.org/recording/2b8235e2-0cab-5891-b4be-2ed7a362cca9#_> a mo:Track ;
     ourvocab:has_listener_count "381558" ;
     ourvocab:has_playcount "2635049" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "chris martin",
         "hip hop",
         "hip-hop",
@@ -2847,6 +3011,7 @@
 <http://musicbrainz.org/recording/2b96d8ce-c7f8-4c4e-bb52-b291d251f098#_> a mo:Track ;
     ourvocab:has_listener_count "123510" ;
     ourvocab:has_playcount "409652" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "flute",
         "hip hop",
@@ -2869,6 +3034,7 @@
 <http://musicbrainz.org/recording/2bd1213d-2e46-44f2-9627-b74af2e51b1b#_> a mo:Track ;
     ourvocab:has_listener_count "47845" ;
     ourvocab:has_playcount "259554" ;
+    ourvocab:has_releasedate "30 Nov 2001, 00:00" ;
     ourvocab:has_tag "dmx",
         "gangsta rap",
         "hip hop",
@@ -2890,6 +3056,7 @@
 <http://musicbrainz.org/recording/2c3f3bcd-704f-4573-8e55-fc17f908b294#_> a mo:Track ;
     ourvocab:has_listener_count "130137" ;
     ourvocab:has_playcount "450616" ;
+    ourvocab:has_releasedate "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -2900,6 +3067,7 @@
 <http://musicbrainz.org/recording/2c697f9c-ae59-4d19-a381-6f221e04f301#_> a mo:Track ;
     ourvocab:has_listener_count "82490" ;
     ourvocab:has_playcount "193286" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -2911,6 +3079,7 @@
 <http://musicbrainz.org/recording/2c7d33d2-9a59-4a5e-97b9-51c156af0487#_> a mo:Track ;
     ourvocab:has_listener_count "20376" ;
     ourvocab:has_playcount "123944" ;
+    ourvocab:has_releasedate "12 Jul 2012, 00:00" ;
     ourvocab:has_tag "alternative hip-hop",
         "dirty rap",
         "hip-hop",
@@ -2943,6 +3112,7 @@
 <http://musicbrainz.org/recording/2d5f28b3-5201-4f30-8fe6-f40b115898b4#_> a mo:Track ;
     ourvocab:has_listener_count "39192" ;
     ourvocab:has_playcount "129165" ;
+    ourvocab:has_releasedate "6 Mar 2009, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta rap",
         "hip-hop",
@@ -2954,6 +3124,7 @@
 <http://musicbrainz.org/recording/2d933e7e-190d-493a-8d67-0798f6b1139c#_> a mo:Track ;
     ourvocab:has_listener_count "284082" ;
     ourvocab:has_playcount "1046793" ;
+    ourvocab:has_releasedate "8 Nov 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jay-z",
@@ -2996,6 +3167,7 @@
 <http://musicbrainz.org/recording/2dd8559b-5af1-446e-b8fb-33a8a0398513#_> a mo:Track ;
     ourvocab:has_listener_count "193925" ;
     ourvocab:has_playcount "729605" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -3007,6 +3179,7 @@
 <http://musicbrainz.org/recording/2df92254-3b0f-5832-88e1-985051e89b47#_> a mo:Track ;
     ourvocab:has_listener_count "147435" ;
     ourvocab:has_playcount "621827" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "eminems recovery",
         "hip hop",
@@ -3029,6 +3202,7 @@
 <http://musicbrainz.org/recording/2ed2b01e-1221-4165-b2c8-178c70fe2ae0#_> a mo:Track ;
     ourvocab:has_listener_count "77105" ;
     ourvocab:has_playcount "373367" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "ofwgkta",
@@ -3040,6 +3214,7 @@
 <http://musicbrainz.org/recording/2f2cbd8e-baf2-4f3e-b3b5-30edd02f9ad0#_> a mo:Track ;
     ourvocab:has_listener_count "145883" ;
     ourvocab:has_playcount "378201" ;
+    ourvocab:has_releasedate "28 Jun 2011, 00:00" ;
     ourvocab:has_tag "detroit rap",
         "hip-hop",
         "midwest rap",
@@ -3062,6 +3237,7 @@
 <http://musicbrainz.org/recording/2f91de98-e516-4d81-93dc-645fc6145630#_> a mo:Track ;
     ourvocab:has_listener_count "121596" ;
     ourvocab:has_playcount "472294" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -3073,6 +3249,7 @@
 <http://musicbrainz.org/recording/2fcb18f1-8cc4-454d-998d-f416649870bf#_> a mo:Track ;
     ourvocab:has_listener_count "182943" ;
     ourvocab:has_playcount "638440" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "east coast",
         "hip hop",
         "hip-hop",
@@ -3084,6 +3261,7 @@
 <http://musicbrainz.org/recording/2fe4819e-abf9-4842-a985-711d1c29a935#_> a mo:Track ;
     ourvocab:has_listener_count "96088" ;
     ourvocab:has_playcount "422679" ;
+    ourvocab:has_releasedate "12 Nov 2001, 00:00" ;
     ourvocab:has_tag "d12",
         "eminem",
         "fight music",
@@ -3117,6 +3295,7 @@
 <http://musicbrainz.org/recording/30b2a987-47a6-4337-8bea-98853131d371#_> a mo:Track ;
     ourvocab:has_listener_count "150202" ;
     ourvocab:has_playcount "514665" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "eminem",
         "hip hop",
@@ -3128,6 +3307,7 @@
 <http://musicbrainz.org/recording/312cb022-4af8-4278-a08d-987d2ba1eb95#_> a mo:Track ;
     ourvocab:has_listener_count "83185" ;
     ourvocab:has_playcount "246949" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -3150,6 +3330,7 @@
 <http://musicbrainz.org/recording/31579a07-2aa5-50a8-b8db-dce18046d83e#_> a mo:Track ;
     ourvocab:has_listener_count "56965" ;
     ourvocab:has_playcount "343036" ;
+    ourvocab:has_releasedate "1 Apr 2013, 00:00" ;
     ourvocab:has_tag "2013",
         "alternative hip-hop",
         "golf wang",
@@ -3161,6 +3342,7 @@
 <http://musicbrainz.org/recording/31b8817f-d5d5-4a6a-aaf2-4cb506ad5374#_> a mo:Track ;
     ourvocab:has_listener_count "351802" ;
     ourvocab:has_playcount "1658301" ;
+    ourvocab:has_releasedate "21 Dec 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -3172,6 +3354,7 @@
 <http://musicbrainz.org/recording/31c5a677-3795-4522-9099-de1f2dd51d51#_> a mo:Track ;
     ourvocab:has_listener_count "418464" ;
     ourvocab:has_playcount "1590465" ;
+    ourvocab:has_releasedate "12 Feb 1990, 00:00" ;
     ourvocab:has_tag "90s",
         "dance",
         "hip-hop",
@@ -3183,6 +3366,7 @@
 <http://musicbrainz.org/recording/31e37fcf-16c5-4177-96ee-2331ea551bdc#_> a mo:Track ;
     ourvocab:has_listener_count "36825" ;
     ourvocab:has_playcount "165147" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "cool",
         "eminem",
         "hip hop",
@@ -3194,6 +3378,7 @@
 <http://musicbrainz.org/recording/31fc9450-f794-4d29-aea7-adfd9681448c#_> a mo:Track ;
     ourvocab:has_listener_count "149210" ;
     ourvocab:has_playcount "583459" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "90s",
         "big l",
         "hip hop",
@@ -3236,6 +3421,7 @@
 <http://musicbrainz.org/recording/327b119c-6203-42c2-873d-da569a6d5594#_> a mo:Track ;
     ourvocab:has_listener_count "47722" ;
     ourvocab:has_playcount "243531" ;
+    ourvocab:has_releasedate "30 Sep 2008, 00:00" ;
     ourvocab:has_tag "2008",
         "gangsta",
         "hip hop",
@@ -3268,6 +3454,7 @@
 <http://musicbrainz.org/recording/345b85f9-28f3-491b-b4af-1bb6fa528320#_> a mo:Track ;
     ourvocab:has_listener_count "78176" ;
     ourvocab:has_playcount "330940" ;
+    ourvocab:has_releasedate "18 Sep 2001, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -3290,6 +3477,7 @@
 <http://musicbrainz.org/recording/34956a4d-4675-413e-9278-3e9ff89ec1e8#_> a mo:Track ;
     ourvocab:has_listener_count "147801" ;
     ourvocab:has_playcount "822617" ;
+    ourvocab:has_releasedate "31 Jul 2012, 00:00" ;
     ourvocab:has_tag "drank",
         "faded",
         "hip-hop",
@@ -3301,6 +3489,7 @@
 <http://musicbrainz.org/recording/34aa2178-ef1e-4601-a2af-47085347d681#_> a mo:Track ;
     ourvocab:has_listener_count "646930" ;
     ourvocab:has_playcount "2630117" ;
+    ourvocab:has_releasedate "31 Oct 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "outkast",
@@ -3312,6 +3501,7 @@
 <http://musicbrainz.org/recording/34abc8d8-c152-4893-8780-6f1cd68a11e6#_> a mo:Track ;
     ourvocab:has_listener_count "30792" ;
     ourvocab:has_playcount "110022" ;
+    ourvocab:has_releasedate "29 Jun 1999, 00:00" ;
     ourvocab:has_tag "lil troy",
         "pop",
         "rap",
@@ -3323,6 +3513,7 @@
 <http://musicbrainz.org/recording/34b6c8f6-c97a-498b-8fef-402333fa0321#_> a mo:Track ;
     ourvocab:has_listener_count "39258" ;
     ourvocab:has_playcount "222025" ;
+    ourvocab:has_releasedate "15 Aug 2011, 00:00" ;
     ourvocab:has_tag "alternative hip-hop",
         "alternative rap",
         "hip hop",
@@ -3345,6 +3536,7 @@
 <http://musicbrainz.org/recording/34fec1d6-dd89-46a4-922a-b34255e1d9d8#_> a mo:Track ;
     ourvocab:has_listener_count "187049" ;
     ourvocab:has_playcount "739215" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "favorites",
         "hip hop",
@@ -3356,6 +3548,7 @@
 <http://musicbrainz.org/recording/352f5864-4fd6-4e63-8057-99ace3d8087a#_> a mo:Track ;
     ourvocab:has_listener_count "71594" ;
     ourvocab:has_playcount "258092" ;
+    ourvocab:has_releasedate "9 Sep 1996, 00:00" ;
     ourvocab:has_tag "chillout",
         "hip hop",
         "hip-hop",
@@ -3367,6 +3560,7 @@
 <http://musicbrainz.org/recording/3569411e-6393-4474-8ed7-c7f08dfec8a8#_> a mo:Track ;
     ourvocab:has_listener_count "135182" ;
     ourvocab:has_playcount "692020" ;
+    ourvocab:has_releasedate "4 Sep 2010, 00:00" ;
     ourvocab:has_tag "2010",
         "hip hop",
         "hip-hop",
@@ -3378,6 +3572,7 @@
 <http://musicbrainz.org/recording/3594139b-0c5d-40c0-8900-7fbb053756ce#_> a mo:Track ;
     ourvocab:has_listener_count "179569" ;
     ourvocab:has_playcount "1209783" ;
+    ourvocab:has_releasedate "2 Sep 2008, 00:00" ;
     ourvocab:has_tag "emo",
         "hollywood undead",
         "rap",
@@ -3389,6 +3584,7 @@
 <http://musicbrainz.org/recording/35cd7342-74d2-4fe5-8e03-88edfa1cb1e1#_> a mo:Track ;
     ourvocab:has_listener_count "228462" ;
     ourvocab:has_playcount "680713" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -3400,6 +3596,7 @@
 <http://musicbrainz.org/recording/35f70497-eb6a-4b29-8558-2c71f3fdf303#_> a mo:Track ;
     ourvocab:has_listener_count "11204" ;
     ourvocab:has_playcount "39366" ;
+    ourvocab:has_releasedate "5 Aug 2002, 00:00" ;
     ourvocab:has_tag "easy listening",
         "hip-hop",
         "paradox",
@@ -3411,6 +3608,7 @@
 <http://musicbrainz.org/recording/36051d01-a1a4-5186-90e6-4f9ac665a991#_> a mo:Track ;
     ourvocab:has_listener_count "54774" ;
     ourvocab:has_playcount "157285" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -3422,6 +3620,7 @@
 <http://musicbrainz.org/recording/36683fd2-0817-425f-af95-a4e7e0e553f0#_> a mo:Track ;
     ourvocab:has_listener_count "91378" ;
     ourvocab:has_playcount "263886" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "rap",
@@ -3433,6 +3632,7 @@
 <http://musicbrainz.org/recording/3681e10c-2e36-43bc-b974-64de5051694f#_> a mo:Track ;
     ourvocab:has_listener_count "64217" ;
     ourvocab:has_playcount "283541" ;
+    ourvocab:has_releasedate "22 May 2001, 00:00" ;
     ourvocab:has_tag "g-funk",
         "gangsta rap",
         "hip hop",
@@ -3444,6 +3644,7 @@
 <http://musicbrainz.org/recording/36891d5a-7542-518a-a0d3-52a8e99ede45#_> a mo:Track ;
     ourvocab:has_listener_count "45862" ;
     ourvocab:has_playcount "384076" ;
+    ourvocab:has_releasedate "16 Jan 2008, 00:00" ;
     ourvocab:has_tag "2008",
         "hip hop",
         "hip-hop",
@@ -3466,6 +3667,7 @@
 <http://musicbrainz.org/recording/36bbd8bd-1cfd-454d-b1b3-bc3b558f9ef6#_> a mo:Track ;
     ourvocab:has_listener_count "84536" ;
     ourvocab:has_playcount "209579" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "method man",
@@ -3488,6 +3690,7 @@
 <http://musicbrainz.org/recording/374c06dc-3ae9-4ad1-9e73-79b2a962f49a#_> a mo:Track ;
     ourvocab:has_listener_count "42271" ;
     ourvocab:has_playcount "153411" ;
+    ourvocab:has_releasedate "18 Sep 2001, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -3499,6 +3702,7 @@
 <http://musicbrainz.org/recording/377302ec-4126-40a2-a8bd-8f8d722131f8#_> a mo:Track ;
     ourvocab:has_listener_count "98379" ;
     ourvocab:has_playcount "507142" ;
+    ourvocab:has_releasedate "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -3521,6 +3725,7 @@
 <http://musicbrainz.org/recording/3785941b-c3ce-404d-8c6c-21631d31af6b#_> a mo:Track ;
     ourvocab:has_listener_count "81165" ;
     ourvocab:has_playcount "250663" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "alternative",
         "hip hop",
         "hip-hop",
@@ -3532,6 +3737,7 @@
 <http://musicbrainz.org/recording/37b22188-d06a-442b-8f16-9ba35c15c2db#_> a mo:Track ;
     ourvocab:has_listener_count "111117" ;
     ourvocab:has_playcount "261266" ;
+    ourvocab:has_releasedate "24 Aug 2010, 00:00" ;
     ourvocab:has_tag "dmx",
         "gangsta rap",
         "hip hop",
@@ -3543,6 +3749,7 @@
 <http://musicbrainz.org/recording/37c396fd-115d-43f0-b1ba-3bc7f3b2104b#_> a mo:Track ;
     ourvocab:has_listener_count "130115" ;
     ourvocab:has_playcount "761635" ;
+    ourvocab:has_releasedate "14 Jun 2011, 00:00" ;
     ourvocab:has_tag "catchy as fuck",
         "hip hop",
         "hip-hop",
@@ -3554,6 +3761,7 @@
 <http://musicbrainz.org/recording/37e4f20a-5550-457f-a064-199c07e79c78#_> a mo:Track ;
     ourvocab:has_listener_count "135660" ;
     ourvocab:has_playcount "552256" ;
+    ourvocab:has_releasedate "20 Jun 2001, 00:00" ;
     ourvocab:has_tag "2011",
         "hip hop",
         "hip-hop",
@@ -3565,6 +3773,7 @@
 <http://musicbrainz.org/recording/38703611-502e-490c-a6b5-1cbebf9e9dc2#_> a mo:Track ;
     ourvocab:has_listener_count "116579" ;
     ourvocab:has_playcount "418541" ;
+    ourvocab:has_releasedate "27 Jul 2010, 00:00" ;
     ourvocab:has_tag "blaze to this one",
         "hip hop",
         "rap",
@@ -3587,6 +3796,7 @@
 <http://musicbrainz.org/recording/3879ae06-8d03-492e-997a-e7026664b6c0#_> a mo:Track ;
     ourvocab:has_listener_count "63235" ;
     ourvocab:has_playcount "283649" ;
+    ourvocab:has_releasedate "1 Jan 2007, 00:00" ;
     ourvocab:has_tag "50 cent",
         "g-unit",
         "gangsta rap",
@@ -3598,6 +3808,7 @@
 <http://musicbrainz.org/recording/3881123c-64e6-48a3-9368-56d61022dcdf#_> a mo:Track ;
     ourvocab:has_listener_count "133251" ;
     ourvocab:has_playcount "608933" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -3609,6 +3820,7 @@
 <http://musicbrainz.org/recording/38cb5c9f-df41-4239-afdc-82dd37395d61#_> a mo:Track ;
     ourvocab:has_listener_count "379562" ;
     ourvocab:has_playcount "1810734" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "00s",
         "eminem",
         "hip hop",
@@ -3620,6 +3832,7 @@
 <http://musicbrainz.org/recording/398cddb2-2809-4b95-bd40-fa8360a5a763#_> a mo:Track ;
     ourvocab:has_listener_count "49724" ;
     ourvocab:has_playcount "226079" ;
+    ourvocab:has_releasedate "18 Sep 2001, 00:00" ;
     ourvocab:has_tag "definitive jux",
         "hip hop",
         "hip-hop",
@@ -3631,6 +3844,7 @@
 <http://musicbrainz.org/recording/3a061422-a8ca-4267-b5bf-8c77d4fa910e#_> a mo:Track ;
     ourvocab:has_listener_count "45464" ;
     ourvocab:has_playcount "287208" ;
+    ourvocab:has_releasedate "15 Sep 2008, 00:00" ;
     ourvocab:has_tag "2008",
         "british",
         "hip hop",
@@ -3664,6 +3878,7 @@
 <http://musicbrainz.org/recording/3a58f0e0-fc53-495b-bb83-54d1170ef103#_> a mo:Track ;
     ourvocab:has_listener_count "127917" ;
     ourvocab:has_playcount "398065" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -3685,6 +3900,7 @@
 <http://musicbrainz.org/recording/3aad2131-023e-48d7-9539-7c1b6c2b30e4#_> a mo:Track ;
     ourvocab:has_listener_count "86199" ;
     ourvocab:has_playcount "188023" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "old school",
@@ -3718,6 +3934,7 @@
 <http://musicbrainz.org/recording/3b7608c9-5f14-407f-9744-c642aaf8a75e#_> a mo:Track ;
     ourvocab:has_listener_count "90975" ;
     ourvocab:has_playcount "296420" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "gangsta rap",
         "hip hop",
@@ -3740,6 +3957,7 @@
 <http://musicbrainz.org/recording/3bf9e9a9-a088-4145-9f23-565a15d76b16#_> a mo:Track ;
     ourvocab:has_listener_count "280304" ;
     ourvocab:has_playcount "1611372" ;
+    ourvocab:has_releasedate "11 Oct 2010, 00:00" ;
     ourvocab:has_tag "chiddy bang",
         "electronic",
         "hip hop",
@@ -3751,6 +3969,7 @@
 <http://musicbrainz.org/recording/3c367b51-adc7-4f0b-ab51-b7987375ab2f#_> a mo:Track ;
     ourvocab:has_listener_count "70540" ;
     ourvocab:has_playcount "202780" ;
+    ourvocab:has_releasedate "25 Jan 2000, 00:00" ;
     ourvocab:has_tag "ghostface",
         "hip hop",
         "hip-hop",
@@ -3762,6 +3981,7 @@
 <http://musicbrainz.org/recording/3c89c38f-74d6-4488-9208-b8e841a0651a#_> a mo:Track ;
     ourvocab:has_listener_count "604092" ;
     ourvocab:has_playcount "2361445" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "classic",
         "hip hop",
@@ -3773,6 +3993,7 @@
 <http://musicbrainz.org/recording/3ca77877-7222-429c-aea7-6c30c7c8ed9e#_> a mo:Track ;
     ourvocab:has_listener_count "33150" ;
     ourvocab:has_playcount "101982" ;
+    ourvocab:has_releasedate "16 Nov 1999, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "pop",
@@ -3795,6 +4016,7 @@
 <http://musicbrainz.org/recording/3d543e43-2adc-445d-aee2-49a50e726fef#_> a mo:Track ;
     ourvocab:has_listener_count "63365" ;
     ourvocab:has_playcount "162836" ;
+    ourvocab:has_releasedate "2 May 1995, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "old school",
@@ -3828,6 +4050,7 @@
 <http://musicbrainz.org/recording/3dc945d7-9553-485e-a113-de4bbaf9c040#_> a mo:Track ;
     ourvocab:has_listener_count "270174" ;
     ourvocab:has_playcount "1255755" ;
+    ourvocab:has_releasedate "25 Oct 2006, 00:00" ;
     ourvocab:has_tag "90s",
         "chill",
         "hip hop",
@@ -3860,6 +4083,7 @@
 <http://musicbrainz.org/recording/3e574af4-2c79-4346-a39d-1ef21041238e#_> a mo:Track ;
     ourvocab:has_listener_count "71638" ;
     ourvocab:has_playcount "260049" ;
+    ourvocab:has_releasedate "2 Jul 2011, 00:00" ;
     ourvocab:has_tag "download",
         "good rap",
         "hip-hop",
@@ -3871,6 +4095,7 @@
 <http://musicbrainz.org/recording/3e5864a2-049d-5fac-bc8f-2a64dcda2421#_> a mo:Track ;
     ourvocab:has_listener_count "555598" ;
     ourvocab:has_playcount "2630845" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "00s",
         "eminem",
         "hip hop",
@@ -3882,6 +4107,7 @@
 <http://musicbrainz.org/recording/3f0becd5-c548-4c62-8ac1-33bb7db05a2b#_> a mo:Track ;
     ourvocab:has_listener_count "137372" ;
     ourvocab:has_playcount "390558" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "gangsta rap",
         "hip-hop",
@@ -3893,6 +4119,7 @@
 <http://musicbrainz.org/recording/3f1249fb-36d9-4457-8469-f9f14cc02665#_> a mo:Track ;
     ourvocab:has_listener_count "57241" ;
     ourvocab:has_playcount "183068" ;
+    ourvocab:has_releasedate "29 Sep 1997, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "epmd",
         "hip hop",
@@ -3904,6 +4131,7 @@
 <http://musicbrainz.org/recording/3f89d048-ff26-4fd0-83d6-1be76e42383e#_> a mo:Track ;
     ourvocab:has_listener_count "69499" ;
     ourvocab:has_playcount "291721" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -3926,6 +4154,7 @@
 <http://musicbrainz.org/recording/3ffa79b6-8ae1-4bc2-b15b-c8e2a0517969#_> a mo:Track ;
     ourvocab:has_listener_count "89552" ;
     ourvocab:has_playcount "534530" ;
+    ourvocab:has_releasedate "31 May 2010, 00:00" ;
     ourvocab:has_tag "bob",
         "bobby ray",
         "hip hop",
@@ -3948,6 +4177,7 @@
 <http://musicbrainz.org/recording/40f78abd-8e00-497a-a52d-8c4c9e55b0cb#_> a mo:Track ;
     ourvocab:has_listener_count "60142" ;
     ourvocab:has_playcount "389941" ;
+    ourvocab:has_releasedate "24 Feb 2010, 00:00" ;
     ourvocab:has_tag "diss",
         "hard shit",
         "hip hop",
@@ -3959,6 +4189,7 @@
 <http://musicbrainz.org/recording/414b540f-0b89-5b98-8503-54c5bf3b5182#_> a mo:Track ;
     ourvocab:has_listener_count "48212" ;
     ourvocab:has_playcount "199316" ;
+    ourvocab:has_releasedate "1 Apr 2013, 00:00" ;
     ourvocab:has_tag "best of 2013",
         "hip-hop",
         "i am the cowboy on my own trip",
@@ -3970,6 +4201,7 @@
 <http://musicbrainz.org/recording/41604f06-5482-4d3f-b012-75e6145fa519#_> a mo:Track ;
     ourvocab:has_listener_count "168915" ;
     ourvocab:has_playcount "671323" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -3981,6 +4213,7 @@
 <http://musicbrainz.org/recording/41a3d1a8-8cbc-4e5f-ad6a-a90a86a03f33#_> a mo:Track ;
     ourvocab:has_listener_count "95993" ;
     ourvocab:has_playcount "278003" ;
+    ourvocab:has_releasedate "15 Apr 2003, 00:00" ;
     ourvocab:has_tag "50 cent",
         "east coast rap",
         "hip hop",
@@ -4003,6 +4236,7 @@
 <http://musicbrainz.org/recording/41fd51dc-e555-4453-9fbd-1e2cbf559eae#_> a mo:Track ;
     ourvocab:has_listener_count "173952" ;
     ourvocab:has_playcount "544629" ;
+    ourvocab:has_releasedate "2 May 1995, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -4014,6 +4248,7 @@
 <http://musicbrainz.org/recording/421b374a-9347-4c61-bbf3-b748e930ddd1#_> a mo:Track ;
     ourvocab:has_listener_count "50507" ;
     ourvocab:has_playcount "797301" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "paktofonika",
         "polish",
@@ -4025,6 +4260,7 @@
 <http://musicbrainz.org/recording/42485a39-9615-45c6-8919-51ea1482e2f9#_> a mo:Track ;
     ourvocab:has_listener_count "1096638" ;
     ourvocab:has_playcount "6525055" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "dance",
         "hip hop",
         "hip-hop",
@@ -4036,6 +4272,7 @@
 <http://musicbrainz.org/recording/427ee9b2-1e5d-4ccb-91d6-bbd3badac80a#_> a mo:Track ;
     ourvocab:has_listener_count "53757" ;
     ourvocab:has_playcount "288264" ;
+    ourvocab:has_releasedate "15 Dec 2003, 00:00" ;
     ourvocab:has_tag "american",
         "eminem",
         "hip-hop",
@@ -4047,6 +4284,7 @@
 <http://musicbrainz.org/recording/42fd64d1-ce8a-4d3e-8af2-ce646f05a678#_> a mo:Track ;
     ourvocab:has_listener_count "217396" ;
     ourvocab:has_playcount "649310" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "biggie",
         "hip hop",
@@ -4058,6 +4296,7 @@
 <http://musicbrainz.org/recording/43c70aae-544a-4c31-8592-54bc9b6a3e48#_> a mo:Track ;
     ourvocab:has_listener_count "40648" ;
     ourvocab:has_playcount "389068" ;
+    ourvocab:has_releasedate "24 Aug 2007, 00:00" ;
     ourvocab:has_tag "german rap",
         "hip hop",
         "hip-hop",
@@ -4102,6 +4341,7 @@
 <http://musicbrainz.org/recording/44493ea6-685f-4d50-ae3e-c6b13e266d75#_> a mo:Track ;
     ourvocab:has_listener_count "26020" ;
     ourvocab:has_playcount "225705" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hh",
         "hip hop",
         "hip-hop",
@@ -4123,6 +4363,7 @@
 <http://musicbrainz.org/recording/44bc9f9f-5081-5ae2-9d7e-bb00ef99f240#_> a mo:Track ;
     ourvocab:has_listener_count "732524" ;
     ourvocab:has_playcount "4366235" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -4155,6 +4396,7 @@
 <http://musicbrainz.org/recording/45496808-3291-4077-b480-403335a21190#_> a mo:Track ;
     ourvocab:has_listener_count "115766" ;
     ourvocab:has_playcount "406783" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "dr dre",
         "eminem",
         "hip hop",
@@ -4166,6 +4408,7 @@
 <http://musicbrainz.org/recording/456fc2c0-df4c-4ebf-bf24-63a831a3f67c#_> a mo:Track ;
     ourvocab:has_listener_count "277241" ;
     ourvocab:has_playcount "1300446" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "hip hop",
         "hip-hop",
@@ -4177,6 +4420,7 @@
 <http://musicbrainz.org/recording/4593dde2-6142-58bc-a727-89a01e64d589#_> a mo:Track ;
     ourvocab:has_listener_count "78314" ;
     ourvocab:has_playcount "300808" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -4199,6 +4443,7 @@
 <http://musicbrainz.org/recording/465be99f-4a83-530c-8518-b9e3f16eb6af#_> a mo:Track ;
     ourvocab:has_listener_count "34849" ;
     ourvocab:has_playcount "171738" ;
+    ourvocab:has_releasedate "4 Feb 2003, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta rap",
         "hip hop",
@@ -4243,6 +4488,7 @@
 <http://musicbrainz.org/recording/46d55845-cd5f-4177-8bdb-bec2be4948db#_> a mo:Track ;
     ourvocab:has_listener_count "58728" ;
     ourvocab:has_playcount "175616" ;
+    ourvocab:has_releasedate "4 Feb 1999, 00:00" ;
     ourvocab:has_tag "dmx",
         "east coast rap",
         "hip hop",
@@ -4265,6 +4511,7 @@
 <http://musicbrainz.org/recording/474cf56b-3d2d-4302-803b-f5fffb0ec4f4#_> a mo:Track ;
     ourvocab:has_listener_count "131049" ;
     ourvocab:has_playcount "550948" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "hip-hop",
         "rap",
@@ -4276,6 +4523,7 @@
 <http://musicbrainz.org/recording/474d5bd6-f268-554a-aa67-74fe7c184e19#_> a mo:Track ;
     ourvocab:has_listener_count "28290" ;
     ourvocab:has_playcount "93292" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hiphop",
@@ -4287,6 +4535,7 @@
 <http://musicbrainz.org/recording/47789204-a33f-4fea-b56e-b3b9c4d3bcba#_> a mo:Track ;
     ourvocab:has_listener_count "115065" ;
     ourvocab:has_playcount "406771" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "eminem",
         "hip hop",
@@ -4298,6 +4547,7 @@
 <http://musicbrainz.org/recording/47d13484-9eed-4460-babd-bca3a19fcd77#_> a mo:Track ;
     ourvocab:has_listener_count "33033" ;
     ourvocab:has_playcount "276640" ;
+    ourvocab:has_releasedate "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "rap",
         "rapcore",
@@ -4309,6 +4559,7 @@
 <http://musicbrainz.org/recording/47ed8b76-82c4-413b-bb6f-51decb789cf7#_> a mo:Track ;
     ourvocab:has_listener_count "208197" ;
     ourvocab:has_playcount "960270" ;
+    ourvocab:has_releasedate "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "fort minor",
         "hip hop",
         "hip-hop",
@@ -4320,6 +4571,7 @@
 <http://musicbrainz.org/recording/47f4409b-2a27-5e42-9d7f-e6147596e144#_> a mo:Track ;
     ourvocab:has_listener_count "44105" ;
     ourvocab:has_playcount "110892" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -4331,6 +4583,7 @@
 <http://musicbrainz.org/recording/480be00a-a6f7-49b5-a43d-66231fcb44df#_> a mo:Track ;
     ourvocab:has_listener_count "55376" ;
     ourvocab:has_playcount "127501" ;
+    ourvocab:has_releasedate "24 Aug 1999, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "prodigy",
@@ -4342,6 +4595,7 @@
 <http://musicbrainz.org/recording/4856e940-d6c2-4528-bfe6-ea5a572cfe90#_> a mo:Track ;
     ourvocab:has_listener_count "57337" ;
     ourvocab:has_playcount "193983" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "alternative",
         "gangsta rap",
         "hip hop",
@@ -4353,6 +4607,7 @@
 <http://musicbrainz.org/recording/488bc1dc-fe6d-4cf9-ace9-af49ed2e90cc#_> a mo:Track ;
     ourvocab:has_listener_count "161818" ;
     ourvocab:has_playcount "483972" ;
+    ourvocab:has_releasedate "11 Feb 2005, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -4385,6 +4640,7 @@
 <http://musicbrainz.org/recording/48ea72ff-5a9c-49c4-9c33-c36933cceb3c#_> a mo:Track ;
     ourvocab:has_listener_count "195925" ;
     ourvocab:has_playcount "1038318" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "2010",
         "eminem",
         "hip hop",
@@ -4396,6 +4652,7 @@
 <http://musicbrainz.org/recording/48f12218-e606-4cda-b47a-faae48526464#_> a mo:Track ;
     ourvocab:has_listener_count "87746" ;
     ourvocab:has_playcount "331660" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "hip hop",
         "hip-hop",
@@ -4407,6 +4664,7 @@
 <http://musicbrainz.org/recording/4913a03e-c3eb-4f65-b377-5718f11a4d42#_> a mo:Track ;
     ourvocab:has_listener_count "51575" ;
     ourvocab:has_playcount "172857" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -4429,6 +4687,7 @@
 <http://musicbrainz.org/recording/497bf94f-a728-40d6-aed7-de4cea9a7d46#_> a mo:Track ;
     ourvocab:has_listener_count "93237" ;
     ourvocab:has_playcount "288882" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "hip hop",
         "hip-hop",
@@ -4440,6 +4699,7 @@
 <http://musicbrainz.org/recording/49bd67ab-dbae-4e59-8142-396d177d392c#_> a mo:Track ;
     ourvocab:has_listener_count "321725" ;
     ourvocab:has_playcount "1577161" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -4451,6 +4711,7 @@
 <http://musicbrainz.org/recording/49ea9a3d-7186-4f17-94ae-6e54324b71a2#_> a mo:Track ;
     ourvocab:has_listener_count "114828" ;
     ourvocab:has_playcount "917652" ;
+    ourvocab:has_releasedate "1 Jun 2005, 00:00" ;
     ourvocab:has_tag "flipsyde",
         "hip-hop",
         "rap",
@@ -4462,6 +4723,7 @@
 <http://musicbrainz.org/recording/49f17365-6add-4c95-ab09-c0a34062a400#_> a mo:Track ;
     ourvocab:has_listener_count "349238" ;
     ourvocab:has_playcount "1169517" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -4484,6 +4746,7 @@
 <http://musicbrainz.org/recording/4a30ae4d-b810-4ce3-9969-4809569a0cb4#_> a mo:Track ;
     ourvocab:has_listener_count "45496" ;
     ourvocab:has_playcount "221638" ;
+    ourvocab:has_releasedate "23 Apr 2012, 00:00" ;
     ourvocab:has_tag "experimental",
         "experimental hip-hop",
         "hip-hop",
@@ -4495,6 +4758,7 @@
 <http://musicbrainz.org/recording/4a780664-b6b3-4f58-9a34-91a1c60d017a#_> a mo:Track ;
     ourvocab:has_listener_count "47170" ;
     ourvocab:has_playcount "273853" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "aitch",
         "aitchrap",
         "eminem",
@@ -4506,6 +4770,7 @@
 <http://musicbrainz.org/recording/4a99a8b5-39c8-42eb-a408-4d1113340cb4#_> a mo:Track ;
     ourvocab:has_listener_count "60273" ;
     ourvocab:has_playcount "192781" ;
+    ourvocab:has_releasedate "13 Aug 1991, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "hip hop",
         "hip-hop",
@@ -4517,6 +4782,7 @@
 <http://musicbrainz.org/recording/4b41b5d4-58fa-4e69-bdba-c6a8ad81c409#_> a mo:Track ;
     ourvocab:has_listener_count "35493" ;
     ourvocab:has_playcount "397178" ;
+    ourvocab:has_releasedate "1 Jan 2009, 00:00" ;
     ourvocab:has_tag "hip hop",
         "rap",
         "rapcore",
@@ -4550,6 +4816,7 @@
 <http://musicbrainz.org/recording/4be07ff2-e47d-4222-aabf-b0354f26a48e#_> a mo:Track ;
     ourvocab:has_listener_count "56099" ;
     ourvocab:has_playcount "272216" ;
+    ourvocab:has_releasedate "12 Jan 2007, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip-hop",
         "rap",
@@ -4561,6 +4828,7 @@
 <http://musicbrainz.org/recording/4c052920-70f2-48dc-8576-393b6fa2bc96#_> a mo:Track ;
     ourvocab:has_listener_count "126046" ;
     ourvocab:has_playcount "330422" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "gangsta",
         "hip hop",
         "hip-hop",
@@ -4582,6 +4850,7 @@
 <http://musicbrainz.org/recording/4c83b8c9-d18a-584f-b2c9-a5d13a8d5826#_> a mo:Track ;
     ourvocab:has_listener_count "26320" ;
     ourvocab:has_playcount "322887" ;
+    ourvocab:has_releasedate "1 Mar 2011, 00:00" ;
     ourvocab:has_tag "dr.dre",
         "hip-hop",
         "kocham",
@@ -4593,6 +4862,7 @@
 <http://musicbrainz.org/recording/4cba18e1-41aa-42a2-863c-123058975f8e#_> a mo:Track ;
     ourvocab:has_listener_count "373372" ;
     ourvocab:has_playcount "1852564" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "alternative",
         "hip hop",
         "hip-hop",
@@ -4647,6 +4917,7 @@
 <http://musicbrainz.org/recording/4d8735a1-ad4f-4936-89a9-6a81ad7fa9cc#_> a mo:Track ;
     ourvocab:has_listener_count "23219" ;
     ourvocab:has_playcount "144618" ;
+    ourvocab:has_releasedate "14 Nov 2010, 00:00" ;
     ourvocab:has_tag "detroit",
         "hip hop",
         "hip-hop",
@@ -4680,6 +4951,7 @@
 <http://musicbrainz.org/recording/4f5bbf95-2bef-5ea2-a8df-963417c48510#_> a mo:Track ;
     ourvocab:has_listener_count "66919" ;
     ourvocab:has_playcount "170393" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "method man",
         "rap",
@@ -4701,6 +4973,7 @@
 <http://musicbrainz.org/recording/50478227-aa7d-4729-aea2-8aed0fa5714f#_> a mo:Track ;
     ourvocab:has_listener_count "268951" ;
     ourvocab:has_playcount "1107407" ;
+    ourvocab:has_releasedate "15 Sep 2009, 00:00" ;
     ourvocab:has_tag "happy",
         "hip-hop",
         "kid cudi",
@@ -4723,6 +4996,7 @@
 <http://musicbrainz.org/recording/506cb3e3-7dc7-4534-b0bc-2adc4a464b34#_> a mo:Track ;
     ourvocab:has_listener_count "105087" ;
     ourvocab:has_playcount "414241" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "hip hop",
         "hip-hop",
@@ -4744,6 +5018,7 @@
 <http://musicbrainz.org/recording/5113d6f9-7cfa-4b0e-be01-e8661c2f4194#_> a mo:Track ;
     ourvocab:has_listener_count "14712" ;
     ourvocab:has_playcount "144729" ;
+    ourvocab:has_releasedate "19 Feb 2013, 00:00" ;
     ourvocab:has_tag "brazilian",
         "hip-hop",
         "rap",
@@ -4755,6 +5030,7 @@
 <http://musicbrainz.org/recording/512c3e66-3a39-40aa-a4e5-d4c5dabab5e4#_> a mo:Track ;
     ourvocab:has_listener_count "129292" ;
     ourvocab:has_playcount "380816" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "beats",
         "east coast rap",
         "hip hop",
@@ -4766,6 +5042,7 @@
 <http://musicbrainz.org/recording/519ff1ef-a9a7-44f8-8ec4-3cb846a77e73#_> a mo:Track ;
     ourvocab:has_listener_count "208180" ;
     ourvocab:has_playcount "745633" ;
+    ourvocab:has_releasedate "27 Nov 2001, 00:00" ;
     ourvocab:has_tag "busta rhymes",
         "gangsta rap",
         "hip hop",
@@ -4777,6 +5054,7 @@
 <http://musicbrainz.org/recording/51e66067-e65f-4cdc-9fc8-3d2824d0b911#_> a mo:Track ;
     ourvocab:has_listener_count "277425" ;
     ourvocab:has_playcount "503924" ;
+    ourvocab:has_releasedate "5 Sep 2006, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nice",
@@ -4788,6 +5066,7 @@
 <http://musicbrainz.org/recording/51fcc054-ffe1-519a-ae22-e074093aca46#_> a mo:Track ;
     ourvocab:has_listener_count "206938" ;
     ourvocab:has_playcount "1013266" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -4799,6 +5078,7 @@
 <http://musicbrainz.org/recording/5222ae5b-750e-4bfe-bb1a-675b13883c2f#_> a mo:Track ;
     ourvocab:has_listener_count "137788" ;
     ourvocab:has_playcount "329802" ;
+    ourvocab:has_releasedate "24 Aug 2010, 00:00" ;
     ourvocab:has_tag "dmx",
         "gangsta rap",
         "hip hop",
@@ -4821,6 +5101,7 @@
 <http://musicbrainz.org/recording/5297c6c2-1795-48d4-a6bb-de256f2ce5a8#_> a mo:Track ;
     ourvocab:has_listener_count "4486" ;
     ourvocab:has_playcount "65868" ;
+    ourvocab:has_releasedate "3 Sep 2011, 00:00" ;
     ourvocab:has_tag "alternative",
         "grime",
         "rap",
@@ -4832,6 +5113,7 @@
 <http://musicbrainz.org/recording/52fbac33-a0b6-4138-a320-a0ab5f56b425#_> a mo:Track ;
     ourvocab:has_listener_count "67334" ;
     ourvocab:has_playcount "256979" ;
+    ourvocab:has_releasedate "11 Mar 2008, 00:00" ;
     ourvocab:has_tag "country",
         "hip hop",
         "hip-hop",
@@ -4854,6 +5136,7 @@
 <http://musicbrainz.org/recording/53276a27-ea11-4f91-91be-6975bf64d00b#_> a mo:Track ;
     ourvocab:has_listener_count "132224" ;
     ourvocab:has_playcount "493502" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "beastie boys",
         "hip hop",
         "hip-hop",
@@ -4909,6 +5192,7 @@
 <http://musicbrainz.org/recording/542ab8e9-038e-4252-a584-a07bea15f10a#_> a mo:Track ;
     ourvocab:has_listener_count "51124" ;
     ourvocab:has_playcount "722019" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "paktofonika",
         "polish",
@@ -4920,6 +5204,7 @@
 <http://musicbrainz.org/recording/5430f170-25f4-4a58-8a47-06516ba34068#_> a mo:Track ;
     ourvocab:has_listener_count "213140" ;
     ourvocab:has_playcount "639238" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -4931,6 +5216,7 @@
 <http://musicbrainz.org/recording/54494123-9670-4b2d-83ad-85c46c8f5200#_> a mo:Track ;
     ourvocab:has_listener_count "137258" ;
     ourvocab:has_playcount "726585" ;
+    ourvocab:has_releasedate "22 Oct 2012, 00:00" ;
     ourvocab:has_tag "aftermath",
         "bitch dont kill my vibe",
         "hip-hop",
@@ -4942,6 +5228,7 @@
 <http://musicbrainz.org/recording/54b578af-cbb1-41db-92f3-4855f632522d#_> a mo:Track ;
     ourvocab:has_listener_count "87755" ;
     ourvocab:has_playcount "224926" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "crunk",
         "dirty south",
         "hip hop",
@@ -4974,6 +5261,7 @@
 <http://musicbrainz.org/recording/54d9038c-c856-4a1a-9a70-19184b4b05b3#_> a mo:Track ;
     ourvocab:has_listener_count "287410" ;
     ourvocab:has_playcount "1006383" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -4985,6 +5273,7 @@
 <http://musicbrainz.org/recording/551a855d-5b6c-4c58-95ce-87ba393331b2#_> a mo:Track ;
     ourvocab:has_listener_count "61269" ;
     ourvocab:has_playcount "223777" ;
+    ourvocab:has_releasedate "3 Sep 1991, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -5007,6 +5296,7 @@
 <http://musicbrainz.org/recording/55c654ef-63f7-400a-a7d1-d6c610b080a4#_> a mo:Track ;
     ourvocab:has_listener_count "49243" ;
     ourvocab:has_playcount "240346" ;
+    ourvocab:has_releasedate "24 Feb 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "ofwgkta",
@@ -5018,6 +5308,7 @@
 <http://musicbrainz.org/recording/55dde500-3a34-4817-8507-7003c9b8a30e#_> a mo:Track ;
     ourvocab:has_listener_count "79930" ;
     ourvocab:has_playcount "196006" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "clipse",
         "hip-hop",
         "neptunes",
@@ -5029,6 +5320,7 @@
 <http://musicbrainz.org/recording/55e65093-c1b0-4db9-a89a-093d9f50853d#_> a mo:Track ;
     ourvocab:has_listener_count "43829" ;
     ourvocab:has_playcount "184723" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "90s",
         "hip-hop",
@@ -5040,6 +5332,7 @@
 <http://musicbrainz.org/recording/55ed272d-5b19-4fd6-80c4-d9c6bfaf74a0#_> a mo:Track ;
     ourvocab:has_listener_count "74740" ;
     ourvocab:has_playcount "233302" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "00s",
         "american",
         "hip hop",
@@ -5062,6 +5355,7 @@
 <http://musicbrainz.org/recording/56bc036a-306d-40e4-9dc4-ee63886906de#_> a mo:Track ;
     ourvocab:has_listener_count "114358" ;
     ourvocab:has_playcount "514139" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -5083,6 +5377,7 @@
 <http://musicbrainz.org/recording/56e67453-5169-4ef0-9c98-433120b58075#_> a mo:Track ;
     ourvocab:has_listener_count "38901" ;
     ourvocab:has_playcount "114897" ;
+    ourvocab:has_releasedate "1 Jan 2003, 00:00" ;
     ourvocab:has_tag "gangsta",
         "gangsta rap",
         "hip-hop",
@@ -5116,6 +5411,7 @@
 <http://musicbrainz.org/recording/57e3ec3e-4edf-4eeb-86c4-44a5e8bb7dde#_> a mo:Track ;
     ourvocab:has_listener_count "112603" ;
     ourvocab:has_playcount "323911" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "east coast rap",
         "hip-hop",
@@ -5127,6 +5423,7 @@
 <http://musicbrainz.org/recording/583997b9-ea41-5f60-8638-776abf9b3859#_> a mo:Track ;
     ourvocab:has_listener_count "101292" ;
     ourvocab:has_playcount "493607" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "epic",
         "hip hop",
@@ -5138,6 +5435,7 @@
 <http://musicbrainz.org/recording/5984693b-7ef1-4895-bb48-e75413dbc224#_> a mo:Track ;
     ourvocab:has_listener_count "63147" ;
     ourvocab:has_playcount "397151" ;
+    ourvocab:has_releasedate "23 Aug 2011, 00:00" ;
     ourvocab:has_tag "best of 2011",
         "hip hop",
         "hip-hop",
@@ -5158,6 +5456,7 @@
 <http://musicbrainz.org/recording/599d7b7e-0113-4f0d-b97b-823dcece4d8a#_> a mo:Track ;
     ourvocab:has_listener_count "34300" ;
     ourvocab:has_playcount "83612" ;
+    ourvocab:has_releasedate "5 Oct 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "political",
@@ -5180,6 +5479,7 @@
 <http://musicbrainz.org/recording/59da7042-f2bf-4b31-ad8e-cee59eef4020#_> a mo:Track ;
     ourvocab:has_listener_count "402802" ;
     ourvocab:has_playcount "1584230" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -5191,6 +5491,7 @@
 <http://musicbrainz.org/recording/5a0f780d-b43b-4a56-9cf6-64a99fff533f#_> a mo:Track ;
     ourvocab:has_listener_count "74495" ;
     ourvocab:has_playcount "264316" ;
+    ourvocab:has_releasedate "17 Oct 2007, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "notorious big",
@@ -5202,6 +5503,7 @@
 <http://musicbrainz.org/recording/5a49f2e9-236b-413a-85e5-963086d4decb#_> a mo:Track ;
     ourvocab:has_listener_count "128560" ;
     ourvocab:has_playcount "389355" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -5213,6 +5515,7 @@
 <http://musicbrainz.org/recording/5a6cddd7-417b-4280-a148-27ba050c56bb#_> a mo:Track ;
     ourvocab:has_listener_count "183595" ;
     ourvocab:has_playcount "750299" ;
+    ourvocab:has_releasedate "1 Mar 2012, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "new york",
@@ -5224,6 +5527,7 @@
 <http://musicbrainz.org/recording/5ab05043-4fc5-4dff-8ecc-8bfdc5cb14b1#_> a mo:Track ;
     ourvocab:has_listener_count "263828" ;
     ourvocab:has_playcount "1120498" ;
+    ourvocab:has_releasedate "12 Mar 1990, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -5235,6 +5539,7 @@
 <http://musicbrainz.org/recording/5af21301-67d8-4522-ad55-9475eee40f68#_> a mo:Track ;
     ourvocab:has_listener_count "100543" ;
     ourvocab:has_playcount "320578" ;
+    ourvocab:has_releasedate "22 Oct 2002, 00:00" ;
     ourvocab:has_tag "alternative",
         "hip-hop",
         "neptunes",
@@ -5257,6 +5562,7 @@
 <http://musicbrainz.org/recording/5b6690c1-d0e1-439e-adb8-04cb89ffbb93#_> a mo:Track ;
     ourvocab:has_listener_count "84352" ;
     ourvocab:has_playcount "285722" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -5268,6 +5574,7 @@
 <http://musicbrainz.org/recording/5b98e13e-d2de-4959-a464-977f80b1c76a#_> a mo:Track ;
     ourvocab:has_listener_count "635297" ;
     ourvocab:has_playcount "1810932" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -5279,6 +5586,7 @@
 <http://musicbrainz.org/recording/5ba3480e-2b13-4db9-9bba-a5ec21d335db#_> a mo:Track ;
     ourvocab:has_listener_count "214225" ;
     ourvocab:has_playcount "885102" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "00s",
         "eminem",
         "hip hop",
@@ -5301,6 +5609,7 @@
 <http://musicbrainz.org/recording/5bc2c4dd-01d6-489b-95d2-3ad484e2751f#_> a mo:Track ;
     ourvocab:has_listener_count "73063" ;
     ourvocab:has_playcount "168236" ;
+    ourvocab:has_releasedate "24 Aug 1999, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip-hop",
         "mobb deep",
@@ -5312,6 +5621,7 @@
 <http://musicbrainz.org/recording/5c04069b-c284-4e84-b972-7309920cc1ac#_> a mo:Track ;
     ourvocab:has_listener_count "202219" ;
     ourvocab:has_playcount "740595" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "beastie boys",
         "hip hop",
@@ -5356,6 +5666,7 @@
 <http://musicbrainz.org/recording/5d0b3414-43e6-56ca-9e17-beb4da9e6bfb#_> a mo:Track ;
     ourvocab:has_listener_count "139054" ;
     ourvocab:has_playcount "631275" ;
+    ourvocab:has_releasedate "3 Apr 2012, 00:00" ;
     ourvocab:has_tag "8:hiphop",
         "club shit",
         "favorites",
@@ -5388,6 +5699,7 @@
 <http://musicbrainz.org/recording/5d85d416-4e55-4aed-b57c-17c77b27c211#_> a mo:Track ;
     ourvocab:has_listener_count "91851" ;
     ourvocab:has_playcount "258843" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "90s",
         "hip-hop",
@@ -5420,6 +5732,7 @@
 <http://musicbrainz.org/recording/5f7b2893-dd37-454d-a3ce-27f434dbfef4#_> a mo:Track ;
     ourvocab:has_listener_count "40189" ;
     ourvocab:has_playcount "492506" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "paktofonika",
@@ -5442,6 +5755,7 @@
 <http://musicbrainz.org/recording/5fa97709-82dd-4343-a652-561419f10325#_> a mo:Track ;
     ourvocab:has_listener_count "156895" ;
     ourvocab:has_playcount "773174" ;
+    ourvocab:has_releasedate "16 Nov 2011, 00:00" ;
     ourvocab:has_tag "blaze to this one",
         "hip-hop",
         "new york",
@@ -5453,6 +5767,7 @@
 <http://musicbrainz.org/recording/5fb18e9d-fb24-4d96-8410-032d3fc89568#_> a mo:Track ;
     ourvocab:has_listener_count "148128" ;
     ourvocab:has_playcount "728005" ;
+    ourvocab:has_releasedate "2 Jul 2011, 00:00" ;
     ourvocab:has_tag "good rap",
         "hip-hop",
         "rap",
@@ -5475,6 +5790,7 @@
 <http://musicbrainz.org/recording/60acd2ae-5905-4a00-9233-4fd9fdc49d8b#_> a mo:Track ;
     ourvocab:has_listener_count "93308" ;
     ourvocab:has_playcount "244134" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "american",
         "eminem",
         "hip hop",
@@ -5497,6 +5813,7 @@
 <http://musicbrainz.org/recording/615d9e15-7385-5648-8094-e0531a863cfa#_> a mo:Track ;
     ourvocab:has_listener_count "81489" ;
     ourvocab:has_playcount "184750" ;
+    ourvocab:has_releasedate "28 Apr 1998, 00:00" ;
     ourvocab:has_tag "big pun",
         "great rap",
         "hip hop",
@@ -5541,6 +5858,7 @@
 <http://musicbrainz.org/recording/63c0d4ce-2a5d-440e-9f7b-261641768c75#_> a mo:Track ;
     ourvocab:has_listener_count "209269" ;
     ourvocab:has_playcount "917741" ;
+    ourvocab:has_releasedate "1 Mar 2011, 00:00" ;
     ourvocab:has_tag "2011",
         "hip hop",
         "hip-hop",
@@ -5552,6 +5870,7 @@
 <http://musicbrainz.org/recording/63d6900c-6d0e-417d-988f-a1880da59565#_> a mo:Track ;
     ourvocab:has_listener_count "86493" ;
     ourvocab:has_playcount "235637" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "new york",
@@ -5574,6 +5893,7 @@
 <http://musicbrainz.org/recording/641db42c-eea2-4d36-b033-b5247ffeac21#_> a mo:Track ;
     ourvocab:has_listener_count "491307" ;
     ourvocab:has_playcount "1628687" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -5585,6 +5905,7 @@
 <http://musicbrainz.org/recording/64634a9b-7e74-5384-af52-833270ec3ed8#_> a mo:Track ;
     ourvocab:has_listener_count "83689" ;
     ourvocab:has_playcount "418694" ;
+    ourvocab:has_releasedate "22 Oct 2012, 00:00" ;
     ourvocab:has_tag "2012",
         "blaze to this one",
         "hip hop tag",
@@ -5596,6 +5917,7 @@
 <http://musicbrainz.org/recording/64b25c2b-005b-463f-87ad-d20d78ba1d83#_> a mo:Track ;
     ourvocab:has_listener_count "220834" ;
     ourvocab:has_playcount "723992" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "gangsta rap",
         "hip hop",
@@ -5607,6 +5929,7 @@
 <http://musicbrainz.org/recording/64d5bdec-1162-47a2-aa07-c55138b22ea5#_> a mo:Track ;
     ourvocab:has_listener_count "188448" ;
     ourvocab:has_playcount "566602" ;
+    ourvocab:has_releasedate "5 Oct 2010, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -5618,6 +5941,7 @@
 <http://musicbrainz.org/recording/6565a738-bb67-4d45-9155-14449964f5d0#_> a mo:Track ;
     ourvocab:has_listener_count "74988" ;
     ourvocab:has_playcount "324080" ;
+    ourvocab:has_releasedate "20 May 1997, 00:00" ;
     ourvocab:has_tag "gza",
         "hip hop",
         "hip-hop",
@@ -5640,6 +5964,7 @@
 <http://musicbrainz.org/recording/65857dcc-f5ef-4d65-bee1-2147b193b6b7#_> a mo:Track ;
     ourvocab:has_listener_count "116349" ;
     ourvocab:has_playcount "233457" ;
+    ourvocab:has_releasedate "20 Jul 2010, 00:00" ;
     ourvocab:has_tag "gangsta",
         "hip-hop",
         "rap",
@@ -5684,6 +6009,7 @@
 <http://musicbrainz.org/recording/65e01d3c-4344-47b6-b6f8-cda5c9758ea8#_> a mo:Track ;
     ourvocab:has_listener_count "67287" ;
     ourvocab:has_playcount "298036" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -5695,6 +6021,7 @@
 <http://musicbrainz.org/recording/66520e33-6eb0-4af9-abab-6a12a41ed5ee#_> a mo:Track ;
     ourvocab:has_listener_count "82036" ;
     ourvocab:has_playcount "260884" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "00s",
         "beastie boys",
         "hip hop",
@@ -5706,6 +6033,7 @@
 <http://musicbrainz.org/recording/66ff0005-ae33-4498-8e2b-db0457ec6214#_> a mo:Track ;
     ourvocab:has_listener_count "26160" ;
     ourvocab:has_playcount "68090" ;
+    ourvocab:has_releasedate "4 Oct 2005, 00:00" ;
     ourvocab:has_tag "electronica",
         "hip hop",
         "hip-hop",
@@ -5728,6 +6056,7 @@
 <http://musicbrainz.org/recording/67e750cf-032e-46b3-8217-7b99629057b4#_> a mo:Track ;
     ourvocab:has_listener_count "148515" ;
     ourvocab:has_playcount "354262" ;
+    ourvocab:has_releasedate "3 Dec 2001, 00:00" ;
     ourvocab:has_tag "g-funk",
         "hip-hop",
         "ice cube",
@@ -5772,6 +6101,7 @@
 <http://musicbrainz.org/recording/6912fce6-d9d8-4395-b9f9-979509584a9c#_> a mo:Track ;
     ourvocab:has_listener_count "145053" ;
     ourvocab:has_playcount "504468" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "beastie boys",
         "hip hop",
@@ -5804,6 +6134,7 @@
 <http://musicbrainz.org/recording/6aa5a737-b78b-42bf-9f93-f860bfe7a777#_> a mo:Track ;
     ourvocab:has_listener_count "19913" ;
     ourvocab:has_playcount "198856" ;
+    ourvocab:has_releasedate "25 Jun 2012, 00:00" ;
     ourvocab:has_tag "brazilian",
         "fip",
         "funkhaus europa matinee",
@@ -5815,6 +6146,7 @@
 <http://musicbrainz.org/recording/6ac06c78-d909-4b07-918d-26bfc68ac0c7#_> a mo:Track ;
     ourvocab:has_listener_count "74249" ;
     ourvocab:has_playcount "327134" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "biggie",
         "dj premier",
         "east coast",
@@ -5826,6 +6158,7 @@
 <http://musicbrainz.org/recording/6b2f197f-401e-4870-9811-8ca2ad5aceb3#_> a mo:Track ;
     ourvocab:has_listener_count "163577" ;
     ourvocab:has_playcount "549564" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "alternative",
         "hip hop",
@@ -5870,6 +6203,7 @@
 <http://musicbrainz.org/recording/6cdebd7a-54cc-45fb-80f7-ee1cb98d6edf#_> a mo:Track ;
     ourvocab:has_listener_count "24224" ;
     ourvocab:has_playcount "194983" ;
+    ourvocab:has_releasedate "1 Nov 2002, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "rap",
         "russian",
@@ -5881,6 +6215,7 @@
 <http://musicbrainz.org/recording/6e4d5d0e-399c-4837-b987-3463b71762da#_> a mo:Track ;
     ourvocab:has_listener_count "83212" ;
     ourvocab:has_playcount "400661" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "kill people burn shit fuck school",
         "ofwgkta",
@@ -5903,6 +6238,7 @@
 <http://musicbrainz.org/recording/6f9ba152-ec5d-48d5-89b4-6330b076d624#_> a mo:Track ;
     ourvocab:has_listener_count "29256" ;
     ourvocab:has_playcount "124446" ;
+    ourvocab:has_releasedate "31 Aug 1999, 00:00" ;
     ourvocab:has_tag "american",
         "hip hop",
         "hip-hop",
@@ -5968,6 +6304,7 @@
 <http://musicbrainz.org/recording/717a37a9-e349-4e7e-b72c-8d32c34e1133#_> a mo:Track ;
     ourvocab:has_listener_count "309937" ;
     ourvocab:has_playcount "1504055" ;
+    ourvocab:has_releasedate "4 Oct 2010, 00:00" ;
     ourvocab:has_tag "2010",
         "drum and bass",
         "grime",
@@ -5979,6 +6316,7 @@
 <http://musicbrainz.org/recording/72299e9d-61e2-42d4-b9b1-75ab1517b11e#_> a mo:Track ;
     ourvocab:has_listener_count "73086" ;
     ourvocab:has_playcount "209211" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "beastie boys",
         "hip hop",
         "hip-hop",
@@ -5990,6 +6328,7 @@
 <http://musicbrainz.org/recording/72daef03-0e3d-4b41-a538-87542e98ef94#_> a mo:Track ;
     ourvocab:has_listener_count "72697" ;
     ourvocab:has_playcount "335403" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "best of 2011",
         "hip hop",
         "ofwgkta",
@@ -6012,6 +6351,7 @@
 <http://musicbrainz.org/recording/7301aa86-7a33-444a-8b28-9618a011b467#_> a mo:Track ;
     ourvocab:has_listener_count "526992" ;
     ourvocab:has_playcount "1740340" ;
+    ourvocab:has_releasedate "16 Jun 2010, 00:00" ;
     ourvocab:has_tag "drake",
         "hip-hop",
         "rap",
@@ -6045,6 +6385,7 @@
 <http://musicbrainz.org/recording/738389f8-8ed9-463c-9022-5ff0d656c556#_> a mo:Track ;
     ourvocab:has_listener_count "32715" ;
     ourvocab:has_playcount "197537" ;
+    ourvocab:has_releasedate "14 Nov 2010, 00:00" ;
     ourvocab:has_tag "dr dre",
         "eminem",
         "hip-hop",
@@ -6056,6 +6397,7 @@
 <http://musicbrainz.org/recording/745d71cf-051b-4ef9-a828-2458b06af698#_> a mo:Track ;
     ourvocab:has_listener_count "104833" ;
     ourvocab:has_playcount "451119" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "2009",
         "eminem",
         "hip-hop",
@@ -6067,6 +6409,7 @@
 <http://musicbrainz.org/recording/74988d21-e823-537d-9e8a-f77af88b32e1#_> a mo:Track ;
     ourvocab:has_listener_count "109475" ;
     ourvocab:has_playcount "432040" ;
+    ourvocab:has_releasedate "22 Oct 2012, 00:00" ;
     ourvocab:has_tag "aftermath",
         "compton",
         "go drunk eosin cabs",
@@ -6078,6 +6421,7 @@
 <http://musicbrainz.org/recording/74a16800-b8b0-4973-9aba-f043d537a096#_> a mo:Track ;
     ourvocab:has_listener_count "133921" ;
     ourvocab:has_playcount "530719" ;
+    ourvocab:has_releasedate "5 Mar 2012, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -6089,6 +6433,7 @@
 <http://musicbrainz.org/recording/74cbb616-a624-44fb-9b6a-29569ec04952#_> a mo:Track ;
     ourvocab:has_listener_count "223913" ;
     ourvocab:has_playcount "942507" ;
+    ourvocab:has_releasedate "18 Jul 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rack city",
@@ -6100,6 +6445,7 @@
 <http://musicbrainz.org/recording/74cd5ccc-af0d-4de1-8a5f-450b084c76c0#_> a mo:Track ;
     ourvocab:has_listener_count "43908" ;
     ourvocab:has_playcount "204032" ;
+    ourvocab:has_releasedate "23 Apr 2012, 00:00" ;
     ourvocab:has_tag "experimental",
         "experimental hip-hop",
         "hip-hop",
@@ -6122,6 +6468,7 @@
 <http://musicbrainz.org/recording/757aae3a-b75f-5744-9a14-4752e0df1534#_> a mo:Track ;
     ourvocab:has_listener_count "33793" ;
     ourvocab:has_playcount "93193" ;
+    ourvocab:has_releasedate "1 Jan 2009, 00:00" ;
     ourvocab:has_tag "10 of 10 stars",
         "80s",
         "hip-hop",
@@ -6142,6 +6489,7 @@
 <http://musicbrainz.org/recording/760c0a9a-954f-49a6-ab57-52ccdbbaad59#_> a mo:Track ;
     ourvocab:has_listener_count "103082" ;
     ourvocab:has_playcount "354583" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "eminem",
         "hip hop",
@@ -6153,6 +6501,7 @@
 <http://musicbrainz.org/recording/7612da05-a835-4cff-807b-bf0c573957e0#_> a mo:Track ;
     ourvocab:has_listener_count "68987" ;
     ourvocab:has_playcount "296956" ;
+    ourvocab:has_releasedate "27 Apr 1998, 00:00" ;
     ourvocab:has_tag "fip",
         "hip hop",
         "hip-hop",
@@ -6175,6 +6524,7 @@
 <http://musicbrainz.org/recording/767ba86e-435a-513f-ab56-d4c87c04e2cd#_> a mo:Track ;
     ourvocab:has_listener_count "126629" ;
     ourvocab:has_playcount "791241" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -6208,6 +6558,7 @@
 <http://musicbrainz.org/recording/76f4e034-9e24-4c10-b3fa-a748b249a86b#_> a mo:Track ;
     ourvocab:has_listener_count "101666" ;
     ourvocab:has_playcount "354220" ;
+    ourvocab:has_releasedate "18 May 2004, 00:00" ;
     ourvocab:has_tag "british",
         "grime",
         "hip-hop",
@@ -6229,6 +6580,7 @@
 <http://musicbrainz.org/recording/776392c8-f34f-4aec-b316-d8f22aefa272#_> a mo:Track ;
     ourvocab:has_listener_count "348967" ;
     ourvocab:has_playcount "811795" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -6240,6 +6592,7 @@
 <http://musicbrainz.org/recording/789cd1f3-1e29-4b87-aec7-dac7501ca488#_> a mo:Track ;
     ourvocab:has_listener_count "227469" ;
     ourvocab:has_playcount "816870" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nas",
@@ -6251,6 +6604,7 @@
 <http://musicbrainz.org/recording/78b7b496-0918-4b42-90d3-80c0935130e9#_> a mo:Track ;
     ourvocab:has_listener_count "83998" ;
     ourvocab:has_playcount "259972" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "hip hop",
         "hip-hop",
@@ -6262,6 +6616,7 @@
 <http://musicbrainz.org/recording/78bb8565-586f-401f-b999-092406e31e23#_> a mo:Track ;
     ourvocab:has_listener_count "179024" ;
     ourvocab:has_playcount "836464" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -6273,6 +6628,7 @@
 <http://musicbrainz.org/recording/78bebf84-2ae8-4fd6-86db-9a7bbe730dfd#_> a mo:Track ;
     ourvocab:has_listener_count "139142" ;
     ourvocab:has_playcount "839594" ;
+    ourvocab:has_releasedate "27 Apr 2012, 00:00" ;
     ourvocab:has_tag "2012",
         "hip-hop",
         "pop",
@@ -6295,6 +6651,7 @@
 <http://musicbrainz.org/recording/78c78c0c-4c3f-455e-88a0-ca5556ab46d3#_> a mo:Track ;
     ourvocab:has_listener_count "301515" ;
     ourvocab:has_playcount "971655" ;
+    ourvocab:has_releasedate "21 Apr 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -6306,6 +6663,7 @@
 <http://musicbrainz.org/recording/78ce9619-30a4-43f0-80a4-25b63124c3c1#_> a mo:Track ;
     ourvocab:has_listener_count "58716" ;
     ourvocab:has_playcount "617996" ;
+    ourvocab:has_releasedate "3 Mar 2010, 00:00" ;
     ourvocab:has_tag "free earl",
         "hip hop",
         "ofwgkta",
@@ -6317,6 +6675,7 @@
 <http://musicbrainz.org/recording/78ee1859-cb54-4b24-b952-749b1f01aee4#_> a mo:Track ;
     ourvocab:has_listener_count "140698" ;
     ourvocab:has_playcount "523056" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "beastie boys",
         "hip hop",
         "hip-hop",
@@ -6328,6 +6687,7 @@
 <http://musicbrainz.org/recording/78f72192-6b0b-4f4d-8e59-029bb494804d#_> a mo:Track ;
     ourvocab:has_listener_count "72949" ;
     ourvocab:has_playcount "418019" ;
+    ourvocab:has_releasedate "30 Sep 2008, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip hop",
         "hip-hop",
@@ -6339,6 +6699,7 @@
 <http://musicbrainz.org/recording/79319869-d5b7-475a-9aea-6e56b2a42c49#_> a mo:Track ;
     ourvocab:has_listener_count "217452" ;
     ourvocab:has_playcount "1074221" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "funky",
         "hip hop",
         "hip-hop",
@@ -6350,6 +6711,7 @@
 <http://musicbrainz.org/recording/79bd1b37-9654-4461-a3bf-4bb49d264a95#_> a mo:Track ;
     ourvocab:has_listener_count "83411" ;
     ourvocab:has_playcount "225924" ;
+    ourvocab:has_releasedate "23 Oct 2001, 00:00" ;
     ourvocab:has_tag "dmx",
         "gangsta rap",
         "hip hop",
@@ -6361,6 +6723,7 @@
 <http://musicbrainz.org/recording/7a39cabb-d425-483b-b01f-b451f0cca15e#_> a mo:Track ;
     ourvocab:has_listener_count "114256" ;
     ourvocab:has_playcount "370934" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "drugs",
         "eminem",
         "hip hop",
@@ -6383,6 +6746,7 @@
 <http://musicbrainz.org/recording/7a78458e-bde6-4cb7-976e-010f9a7f561e#_> a mo:Track ;
     ourvocab:has_listener_count "75052" ;
     ourvocab:has_playcount "659454" ;
+    ourvocab:has_releasedate "23 Aug 2011, 00:00" ;
     ourvocab:has_tag "10s",
         "best of 2011",
         "fuck two-minute songs",
@@ -6393,6 +6757,7 @@
 <http://musicbrainz.org/recording/7a7fd165-946c-483f-9490-354b6854559c#_> a mo:Track ;
     ourvocab:has_listener_count "39516" ;
     ourvocab:has_playcount "147126" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "dmx",
         "east coast rap",
         "gangsta rap",
@@ -6448,6 +6813,7 @@
 <http://musicbrainz.org/recording/7ce984fe-c3fc-4079-9dc8-6230e0c4d950#_> a mo:Track ;
     ourvocab:has_listener_count "244788" ;
     ourvocab:has_playcount "966669" ;
+    ourvocab:has_releasedate "1 Jan 1987, 00:00" ;
     ourvocab:has_tag "80s",
         "alternative",
         "hip hop",
@@ -6501,6 +6867,7 @@
 <http://musicbrainz.org/recording/7e7719b3-9b69-4867-ab50-d5d1cce8b34d#_> a mo:Track ;
     ourvocab:has_listener_count "290834" ;
     ourvocab:has_playcount "969061" ;
+    ourvocab:has_releasedate "31 Oct 2000, 00:00" ;
     ourvocab:has_tag "funk",
         "hip hop",
         "hip-hop",
@@ -6523,6 +6890,7 @@
 <http://musicbrainz.org/recording/7f561560-2f14-4f48-afe3-73a33109e1f6#_> a mo:Track ;
     ourvocab:has_listener_count "191329" ;
     ourvocab:has_playcount "755153" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "eminem",
         "gangsta rap",
         "hip hop",
@@ -6534,6 +6902,7 @@
 <http://musicbrainz.org/recording/7f740e3c-0bc2-4134-874d-d3b43a7f021b#_> a mo:Track ;
     ourvocab:has_listener_count "140259" ;
     ourvocab:has_playcount "236104" ;
+    ourvocab:has_releasedate "10 Nov 2009, 00:00" ;
     ourvocab:has_tag "electlitchdubhop explicit",
         "hip-hop",
         "needleontherecord",
@@ -6545,6 +6914,7 @@
 <http://musicbrainz.org/recording/7f7715a7-8741-4209-a25c-fd210b5eeda0#_> a mo:Track ;
     ourvocab:has_listener_count "290711" ;
     ourvocab:has_playcount "1115778" ;
+    ourvocab:has_releasedate "8 Nov 2005, 00:00" ;
     ourvocab:has_tag "80s",
         "cimx-fm",
         "hip hop",
@@ -6566,6 +6936,7 @@
 <http://musicbrainz.org/recording/7fc02df3-0678-4eda-ad23-b2276e1dcd43#_> a mo:Track ;
     ourvocab:has_listener_count "78717" ;
     ourvocab:has_playcount "439462" ;
+    ourvocab:has_releasedate "23 Apr 2012, 00:00" ;
     ourvocab:has_tag "2012",
         "experimental",
         "experimental hip-hop",
@@ -6588,6 +6959,7 @@
 <http://musicbrainz.org/recording/803537f3-41c9-48c9-becd-01a5904f23c4#_> a mo:Track ;
     ourvocab:has_listener_count "155570" ;
     ourvocab:has_playcount "428765" ;
+    ourvocab:has_releasedate "26 Jan 2010, 00:00" ;
     ourvocab:has_tag "dmx",
         "gangsta rap",
         "hip hop",
@@ -6599,6 +6971,7 @@
 <http://musicbrainz.org/recording/8073f6c9-3647-4661-b4de-45160c526692#_> a mo:Track ;
     ourvocab:has_listener_count "83476" ;
     ourvocab:has_playcount "213511" ;
+    ourvocab:has_releasedate "11 Feb 2005, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -6620,6 +6993,7 @@
 <http://musicbrainz.org/recording/810cf6e7-05a1-4256-bfac-4bc4b07579d3#_> a mo:Track ;
     ourvocab:has_listener_count "97841" ;
     ourvocab:has_playcount "285458" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "alternative",
         "hip hop",
@@ -6631,6 +7005,7 @@
 <http://musicbrainz.org/recording/812e1c38-a6bc-4c32-b570-5d7e00cb88dc#_> a mo:Track ;
     ourvocab:has_listener_count "263324" ;
     ourvocab:has_playcount "979200" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nas",
@@ -6642,6 +7017,7 @@
 <http://musicbrainz.org/recording/81881319-6198-44b6-b4d4-a047c1795051#_> a mo:Track ;
     ourvocab:has_listener_count "51910" ;
     ourvocab:has_playcount "259766" ;
+    ourvocab:has_releasedate "30 Sep 2008, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip hop",
         "pop rap",
@@ -6697,6 +7073,7 @@
 <http://musicbrainz.org/recording/827b396a-62e0-4326-85b2-413aba50dd70#_> a mo:Track ;
     ourvocab:has_listener_count "51789" ;
     ourvocab:has_playcount "242260" ;
+    ourvocab:has_releasedate "26 Jan 2009, 00:00" ;
     ourvocab:has_tag "great samples",
         "hip-hop",
         "hiphop",
@@ -6719,6 +7096,7 @@
 <http://musicbrainz.org/recording/82fbb9c6-b9e5-4ce2-9ea7-7705123ed507#_> a mo:Track ;
     ourvocab:has_listener_count "102130" ;
     ourvocab:has_playcount "313589" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -6730,6 +7108,7 @@
 <http://musicbrainz.org/recording/831464ba-dbde-4d98-9e1a-0dd21a6a0e66#_> a mo:Track ;
     ourvocab:has_listener_count "31884" ;
     ourvocab:has_playcount "101138" ;
+    ourvocab:has_releasedate "1 Jan 2001, 00:00" ;
     ourvocab:has_tag "90s",
         "dance",
         "hip-hop",
@@ -6741,6 +7120,7 @@
 <http://musicbrainz.org/recording/8318c7f5-4be0-4605-9f3d-51f8c246519e#_> a mo:Track ;
     ourvocab:has_listener_count "87873" ;
     ourvocab:has_playcount "899298" ;
+    ourvocab:has_releasedate "1 Jan 2008, 00:00" ;
     ourvocab:has_tag "chill",
         "hip hop",
         "hip-hop",
@@ -6752,6 +7132,7 @@
 <http://musicbrainz.org/recording/83e42112-7f6b-5370-a03e-2e0ce394b600#_> a mo:Track ;
     ourvocab:has_listener_count "64953" ;
     ourvocab:has_playcount "174650" ;
+    ourvocab:has_releasedate "7 Jan 2003, 00:00" ;
     ourvocab:has_tag "eazy e",
         "gangsta rap",
         "hip-hop",
@@ -6773,6 +7154,7 @@
 <http://musicbrainz.org/recording/843f2638-e504-45ed-8448-61e64150ccd8#_> a mo:Track ;
     ourvocab:has_listener_count "85004" ;
     ourvocab:has_playcount "270150" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "big l",
         "da real old skool hip hop",
         "hip hop",
@@ -6784,6 +7166,7 @@
 <http://musicbrainz.org/recording/849824db-604b-4abb-83be-00abbf283177#_> a mo:Track ;
     ourvocab:has_listener_count "49621" ;
     ourvocab:has_playcount "151153" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "just blaze",
         "rap",
@@ -6806,6 +7189,7 @@
 <http://musicbrainz.org/recording/856bf65c-7411-41c8-b1af-6a2c995c00b7#_> a mo:Track ;
     ourvocab:has_listener_count "180533" ;
     ourvocab:has_playcount "1546264" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "dark",
         "hip hop",
         "hip-hop",
@@ -6817,6 +7201,7 @@
 <http://musicbrainz.org/recording/85d0d408-db44-4364-ba08-3e495b2e4b15#_> a mo:Track ;
     ourvocab:has_listener_count "172139" ;
     ourvocab:has_playcount "488764" ;
+    ourvocab:has_releasedate "31 Oct 2000, 00:00" ;
     ourvocab:has_tag "atl",
         "hip hop",
         "hip-hop",
@@ -6828,6 +7213,7 @@
 <http://musicbrainz.org/recording/863f36f4-652f-419a-9a3c-85951dd7e9cd#_> a mo:Track ;
     ourvocab:has_listener_count "71645" ;
     ourvocab:has_playcount "290080" ;
+    ourvocab:has_releasedate "5 May 2008, 00:00" ;
     ourvocab:has_tag "2pac",
         "hip-hop",
         "rap",
@@ -6849,6 +7235,7 @@
 <http://musicbrainz.org/recording/86724383-f9bb-4f57-bafa-c1d308e60f80#_> a mo:Track ;
     ourvocab:has_listener_count "37467" ;
     ourvocab:has_playcount "494644" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "paktofonika",
         "polish hip-hop",
@@ -6860,6 +7247,7 @@
 <http://musicbrainz.org/recording/8716273b-0639-478f-b038-1ac1d99d52bf#_> a mo:Track ;
     ourvocab:has_listener_count "99168" ;
     ourvocab:has_playcount "306212" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "hardcore punk",
         "hip hop",
         "hip-hop",
@@ -6871,6 +7259,7 @@
 <http://musicbrainz.org/recording/87abfd78-2750-4b8e-9fdc-25932f45e4eb#_> a mo:Track ;
     ourvocab:has_listener_count "47441" ;
     ourvocab:has_playcount "185437" ;
+    ourvocab:has_releasedate "17 Apr 2012, 00:00" ;
     ourvocab:has_tag "future",
         "hip-hop",
         "hiphop",
@@ -6882,6 +7271,7 @@
 <http://musicbrainz.org/recording/88175bd2-7171-47b6-bfce-64ec17a6b1b7#_> a mo:Track ;
     ourvocab:has_listener_count "185646" ;
     ourvocab:has_playcount "863986" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "2010",
         "eminem",
         "hip hop",
@@ -6904,6 +7294,7 @@
 <http://musicbrainz.org/recording/88d65104-f746-475d-a30f-b4a1a720fec9#_> a mo:Track ;
     ourvocab:has_listener_count "92249" ;
     ourvocab:has_playcount "471396" ;
+    ourvocab:has_releasedate "15 Nov 2011, 00:00" ;
     ourvocab:has_tag "awesome as fuck",
         "hip hop",
         "hip-hop",
@@ -6915,6 +7306,7 @@
 <http://musicbrainz.org/recording/892d0b54-ae2e-4163-b2db-323227bacc80#_> a mo:Track ;
     ourvocab:has_listener_count "262610" ;
     ourvocab:has_playcount "524281" ;
+    ourvocab:has_releasedate "27 Nov 2001, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip hop",
         "hip-hop",
@@ -6926,6 +7318,7 @@
 <http://musicbrainz.org/recording/893fa2f1-b725-4df2-92f1-b02dbde141e8#_> a mo:Track ;
     ourvocab:has_listener_count "451350" ;
     ourvocab:has_playcount "2185744" ;
+    ourvocab:has_releasedate "20 Oct 2009, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jesus walks",
@@ -6937,6 +7330,7 @@
 <http://musicbrainz.org/recording/8947e713-0a8b-45c8-96c6-2e26851cc6f6#_> a mo:Track ;
     ourvocab:has_listener_count "125636" ;
     ourvocab:has_playcount "479075" ;
+    ourvocab:has_releasedate "8 Nov 2011, 00:00" ;
     ourvocab:has_tag "bad meets evil",
         "eminem",
         "hip-hop",
@@ -6948,6 +7342,7 @@
 <http://musicbrainz.org/recording/89989730-fbc6-441d-85e1-67f272ddfae7#_> a mo:Track ;
     ourvocab:has_listener_count "197956" ;
     ourvocab:has_playcount "697551" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -6959,6 +7354,7 @@
 <http://musicbrainz.org/recording/8a9f7c9d-6c06-519e-bdcd-cd68159674e5#_> a mo:Track ;
     ourvocab:has_listener_count "45216" ;
     ourvocab:has_playcount "194644" ;
+    ourvocab:has_releasedate "1 Apr 2013, 00:00" ;
     ourvocab:has_tag "alternative rap",
         "hip-hop",
         "rap",
@@ -6970,6 +7366,7 @@
 <http://musicbrainz.org/recording/8ab60832-363c-4409-8f3b-b590f3add64e#_> a mo:Track ;
     ourvocab:has_listener_count "123243" ;
     ourvocab:has_playcount "694209" ;
+    ourvocab:has_releasedate "21 Jun 2011, 00:00" ;
     ourvocab:has_tag "emotional",
         "love",
         "nicki minaj",
@@ -6981,6 +7378,7 @@
 <http://musicbrainz.org/recording/8bd716cd-9bdb-49bb-b1db-e421b78975fb#_> a mo:Track ;
     ourvocab:has_listener_count "339599" ;
     ourvocab:has_playcount "782934" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "50 cent",
         "g-unit",
         "gangsta rap",
@@ -6992,6 +7390,7 @@
 <http://musicbrainz.org/recording/8c603e28-0b6f-43a5-b974-5626ad4c9ef9#_> a mo:Track ;
     ourvocab:has_listener_count "74924" ;
     ourvocab:has_playcount "234679" ;
+    ourvocab:has_releasedate "1 Sep 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "gangsta rap",
         "hip-hop",
@@ -7003,6 +7402,7 @@
 <http://musicbrainz.org/recording/8c6c6e6a-8bc0-4bb6-b177-12ea94bb8a82#_> a mo:Track ;
     ourvocab:has_listener_count "180302" ;
     ourvocab:has_playcount "671104" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -7024,6 +7424,7 @@
 <http://musicbrainz.org/recording/8c95d1fd-018f-426a-9643-354adb964165#_> a mo:Track ;
     ourvocab:has_listener_count "198641" ;
     ourvocab:has_playcount "1002234" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "2010",
         "eminem",
         "hip hop",
@@ -7046,6 +7447,7 @@
 <http://musicbrainz.org/recording/8cf900da-ff73-42c9-a85c-f2a19d8e61ec#_> a mo:Track ;
     ourvocab:has_listener_count "63784" ;
     ourvocab:has_playcount "181534" ;
+    ourvocab:has_releasedate "25 Apr 1995, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "mobb deep",
@@ -7057,6 +7459,7 @@
 <http://musicbrainz.org/recording/8d388812-ca8d-462c-b517-10c86b6c6fd1#_> a mo:Track ;
     ourvocab:has_listener_count "50333" ;
     ourvocab:has_playcount "171509" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "hilarious",
         "hip hop",
         "hip-hop",
@@ -7068,6 +7471,7 @@
 <http://musicbrainz.org/recording/8d8888f7-f63b-4f16-9ec4-e2a412c8411b#_> a mo:Track ;
     ourvocab:has_listener_count "133967" ;
     ourvocab:has_playcount "590326" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "american",
         "eminem",
         "hip-hop",
@@ -7090,6 +7494,7 @@
 <http://musicbrainz.org/recording/8e01f670-2e77-4600-a4be-d193d65adfa7#_> a mo:Track ;
     ourvocab:has_listener_count "122133" ;
     ourvocab:has_playcount "338781" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "beastie boys",
         "hip hop",
@@ -7101,6 +7506,7 @@
 <http://musicbrainz.org/recording/8e564463-db4c-41d0-9845-b9fd4d476a82#_> a mo:Track ;
     ourvocab:has_listener_count "33510" ;
     ourvocab:has_playcount "372392" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "polish",
@@ -7112,6 +7518,7 @@
 <http://musicbrainz.org/recording/8e98d17f-b95e-446e-8060-2dc022749eec#_> a mo:Track ;
     ourvocab:has_listener_count "55007" ;
     ourvocab:has_playcount "133746" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -7123,6 +7530,7 @@
 <http://musicbrainz.org/recording/8ea58071-b397-4ceb-ac68-abc2b8dae381#_> a mo:Track ;
     ourvocab:has_listener_count "428620" ;
     ourvocab:has_playcount "1402709" ;
+    ourvocab:has_releasedate "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -7145,6 +7553,7 @@
 <http://musicbrainz.org/recording/9046d987-13d1-43fa-b817-82755e6d4bdf#_> a mo:Track ;
     ourvocab:has_listener_count "32809" ;
     ourvocab:has_playcount "115631" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "90s",
         "c u when u get there",
         "hip hop",
@@ -7156,6 +7565,7 @@
 <http://musicbrainz.org/recording/9072bfc6-c75a-4c1d-a7b3-2cc350b8c71d#_> a mo:Track ;
     ourvocab:has_listener_count "200957" ;
     ourvocab:has_playcount "715220" ;
+    ourvocab:has_releasedate "20 Jul 1999, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -7178,6 +7588,7 @@
 <http://musicbrainz.org/recording/90f56f36-bf1d-4109-a8fc-246e75a01880#_> a mo:Track ;
     ourvocab:has_listener_count "98052" ;
     ourvocab:has_playcount "327907" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "hip hop",
         "hip-hop",
@@ -7189,6 +7600,7 @@
 <http://musicbrainz.org/recording/916d2868-3fe8-490e-ab09-c68746fc1cfe#_> a mo:Track ;
     ourvocab:has_listener_count "304545" ;
     ourvocab:has_playcount "1067095" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "classic",
         "hip hop",
         "hip-hop",
@@ -7221,6 +7633,7 @@
 <http://musicbrainz.org/recording/92449350-b1f2-472f-89f0-9c1249e59f54#_> a mo:Track ;
     ourvocab:has_listener_count "76381" ;
     ourvocab:has_playcount "441215" ;
+    ourvocab:has_releasedate "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "fort minor",
         "hip hop",
         "hip-hop",
@@ -7232,6 +7645,7 @@
 <http://musicbrainz.org/recording/924ec9d1-3254-4945-a82c-52769341d215#_> a mo:Track ;
     ourvocab:has_listener_count "58781" ;
     ourvocab:has_playcount "220958" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "biggie",
         "gangsta rap",
         "hip hop",
@@ -7243,6 +7657,7 @@
 <http://musicbrainz.org/recording/92b20990-3507-4a09-ac54-0fd02b371f18#_> a mo:Track ;
     ourvocab:has_listener_count "49144" ;
     ourvocab:has_playcount "148224" ;
+    ourvocab:has_releasedate "18 Dec 2001, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -7265,6 +7680,7 @@
 <http://musicbrainz.org/recording/92dc7e56-bbd3-4434-9e24-b180de85e126#_> a mo:Track ;
     ourvocab:has_listener_count "165226" ;
     ourvocab:has_playcount "596800" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "beastie boys",
         "hip hop",
         "hip-hop",
@@ -7297,6 +7713,7 @@
 <http://musicbrainz.org/recording/9325f7bb-cb43-447e-973a-24d5d366060c#_> a mo:Track ;
     ourvocab:has_listener_count "133287" ;
     ourvocab:has_playcount "350504" ;
+    ourvocab:has_releasedate "28 Jun 2005, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip hop",
         "hip-hop",
@@ -7308,6 +7725,7 @@
 <http://musicbrainz.org/recording/934c1660-0e38-49f5-8899-03a81fa26d12#_> a mo:Track ;
     ourvocab:has_listener_count "95202" ;
     ourvocab:has_playcount "359078" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "bagel",
         "hip hop",
         "hip-hop",
@@ -7330,6 +7748,7 @@
 <http://musicbrainz.org/recording/93d180f4-2f3e-4e59-94e5-2ce6e5e92d36#_> a mo:Track ;
     ourvocab:has_listener_count "31819" ;
     ourvocab:has_playcount "347666" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "polish",
         "polski hip hop",
@@ -7363,6 +7782,7 @@
 <http://musicbrainz.org/recording/9468efee-1972-4b80-b59b-582fcea26c73#_> a mo:Track ;
     ourvocab:has_listener_count "133848" ;
     ourvocab:has_playcount "503943" ;
+    ourvocab:has_releasedate "23 Jan 2007, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "legend",
@@ -7396,6 +7816,7 @@
 <http://musicbrainz.org/recording/952b2efd-e4e9-4516-91e6-6753d1eb8de5#_> a mo:Track ;
     ourvocab:has_listener_count "186885" ;
     ourvocab:has_playcount "731465" ;
+    ourvocab:has_releasedate "30 Nov 1994, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "odb",
@@ -7417,6 +7838,7 @@
 <http://musicbrainz.org/recording/958d00e3-d73f-4573-8714-0f81bb0ee5b2#_> a mo:Track ;
     ourvocab:has_listener_count "19082" ;
     ourvocab:has_playcount "171851" ;
+    ourvocab:has_releasedate "1 Jan 2009, 00:00" ;
     ourvocab:has_tag "alternative",
         "noize mc",
         "rap",
@@ -7428,6 +7850,7 @@
 <http://musicbrainz.org/recording/967fe2b2-fe6a-455e-b1a3-7d951c354373#_> a mo:Track ;
     ourvocab:has_listener_count "538045" ;
     ourvocab:has_playcount "3694473" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "rap",
@@ -7471,6 +7894,7 @@
 <http://musicbrainz.org/recording/9865004c-73af-484b-870a-9395d3172c42#_> a mo:Track ;
     ourvocab:has_listener_count "208602" ;
     ourvocab:has_playcount "1065311" ;
+    ourvocab:has_releasedate "21 Mar 2005, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "kanye west",
@@ -7493,6 +7917,7 @@
 <http://musicbrainz.org/recording/98cd4061-5dca-4933-92f7-5a804007d9d3#_> a mo:Track ;
     ourvocab:has_listener_count "32618" ;
     ourvocab:has_playcount "115974" ;
+    ourvocab:has_releasedate "28 Oct 1997, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -7504,6 +7929,7 @@
 <http://musicbrainz.org/recording/98e2d541-96ea-4c13-8831-88beee2c9a33#_> a mo:Track ;
     ourvocab:has_listener_count "117835" ;
     ourvocab:has_playcount "465194" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "gangsta rap",
         "hip hop",
@@ -7515,6 +7941,7 @@
 <http://musicbrainz.org/recording/995f372c-3aea-47b4-8374-25a9817f9644#_> a mo:Track ;
     ourvocab:has_listener_count "191391" ;
     ourvocab:has_playcount "886005" ;
+    ourvocab:has_releasedate "10 Jul 2007, 00:00" ;
     ourvocab:has_tag "chicago",
         "hip hop",
         "hip-hop",
@@ -7570,6 +7997,7 @@
 <http://musicbrainz.org/recording/9a02a932-ea73-49b8-9409-79b5508d56fa#_> a mo:Track ;
     ourvocab:has_listener_count "189492" ;
     ourvocab:has_playcount "566676" ;
+    ourvocab:has_releasedate "22 Nov 2005, 00:00" ;
     ourvocab:has_tag "dance",
         "east coast",
         "hip hop",
@@ -7592,6 +8020,7 @@
 <http://musicbrainz.org/recording/9b8b2a2b-2708-4426-817a-fe768bcc9a99#_> a mo:Track ;
     ourvocab:has_listener_count "177451" ;
     ourvocab:has_playcount "463936" ;
+    ourvocab:has_releasedate "1 Jul 1996, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -7603,6 +8032,7 @@
 <http://musicbrainz.org/recording/9be4cd4d-79aa-4a1a-b458-67acdd7d1961#_> a mo:Track ;
     ourvocab:has_listener_count "103596" ;
     ourvocab:has_playcount "432232" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "00s",
         "hip hop",
         "hip-hop",
@@ -7614,6 +8044,7 @@
 <http://musicbrainz.org/recording/9c117fb6-2250-5581-a392-0c4c58b863e5#_> a mo:Track ;
     ourvocab:has_listener_count "152288" ;
     ourvocab:has_playcount "871827" ;
+    ourvocab:has_releasedate "22 Oct 2012, 00:00" ;
     ourvocab:has_tag "cool",
         "hip hop tag",
         "hip-hop",
@@ -7636,6 +8067,7 @@
 <http://musicbrainz.org/recording/9cabcfa5-295e-4e97-bc9c-6ab46e5623f3#_> a mo:Track ;
     ourvocab:has_listener_count "62515" ;
     ourvocab:has_playcount "204209" ;
+    ourvocab:has_releasedate "15 Feb 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -7658,6 +8090,7 @@
 <http://musicbrainz.org/recording/9d2d9942-d66b-40c5-a71c-0a5e8295f0b9#_> a mo:Track ;
     ourvocab:has_listener_count "77535" ;
     ourvocab:has_playcount "264584" ;
+    ourvocab:has_releasedate "28 Dec 1999, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -7669,6 +8102,7 @@
 <http://musicbrainz.org/recording/9d9aae89-4f48-40a2-906c-732273f98571#_> a mo:Track ;
     ourvocab:has_listener_count "115980" ;
     ourvocab:has_playcount "336463" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "80s",
         "beastie boys",
         "hip hop",
@@ -7680,6 +8114,7 @@
 <http://musicbrainz.org/recording/9e3607ff-5a4e-49cc-942b-42021efea48a#_> a mo:Track ;
     ourvocab:has_listener_count "75538" ;
     ourvocab:has_playcount "284062" ;
+    ourvocab:has_releasedate "30 Nov 1999, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -7691,6 +8126,7 @@
 <http://musicbrainz.org/recording/9f05d77b-eb28-48ab-9269-a19a610cf0f7#_> a mo:Track ;
     ourvocab:has_listener_count "36988" ;
     ourvocab:has_playcount "105035" ;
+    ourvocab:has_releasedate "27 Oct 2003, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip-hop",
         "jay-z",
@@ -7701,6 +8137,7 @@
 <http://musicbrainz.org/recording/9f8df5ae-e3d1-4387-b717-21ebe961aa47#_> a mo:Track ;
     ourvocab:has_listener_count "50440" ;
     ourvocab:has_playcount "224240" ;
+    ourvocab:has_releasedate "26 Jan 2010, 00:00" ;
     ourvocab:has_tag "dmx",
         "dmx - the rain",
         "hip hop",
@@ -7712,6 +8149,7 @@
 <http://musicbrainz.org/recording/9fd360b7-bab8-46ac-bd67-f9d978dec931#_> a mo:Track ;
     ourvocab:has_listener_count "43611" ;
     ourvocab:has_playcount "234189" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "party",
@@ -7723,6 +8161,7 @@
 <http://musicbrainz.org/recording/9fdb7475-7e21-45e8-b4b2-c0200886392e#_> a mo:Track ;
     ourvocab:has_listener_count "283032" ;
     ourvocab:has_playcount "921440" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -7745,6 +8184,7 @@
 <http://musicbrainz.org/recording/a150a478-3979-4a05-b0a0-3cef2e96eaf2#_> a mo:Track ;
     ourvocab:has_listener_count "105410" ;
     ourvocab:has_playcount "288009" ;
+    ourvocab:has_releasedate "1 Jan 2011, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "hip-hop classics",
         "rap",
@@ -7766,6 +8206,7 @@
 <http://musicbrainz.org/recording/a1cf0c00-520a-49c1-80d9-c822bbc345c2#_> a mo:Track ;
     ourvocab:has_listener_count "35611" ;
     ourvocab:has_playcount "161534" ;
+    ourvocab:has_releasedate "1 Jan 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -7787,6 +8228,7 @@
 <http://musicbrainz.org/recording/a2053d96-e24f-4d65-adbb-42cad9ea23dd#_> a mo:Track ;
     ourvocab:has_listener_count "50452" ;
     ourvocab:has_playcount "213527" ;
+    ourvocab:has_releasedate "1 Jan 2004, 00:00" ;
     ourvocab:has_tag "dilated peoples",
         "hip hop",
         "hip-hop",
@@ -7798,6 +8240,7 @@
 <http://musicbrainz.org/recording/a2341a83-5d66-452c-80c1-ff4166d40b59#_> a mo:Track ;
     ourvocab:has_listener_count "162147" ;
     ourvocab:has_playcount "581990" ;
+    ourvocab:has_releasedate "30 Nov 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -7809,6 +8252,7 @@
 <http://musicbrainz.org/recording/a2b86506-5213-4773-af59-608bfa36a297#_> a mo:Track ;
     ourvocab:has_listener_count "47614" ;
     ourvocab:has_playcount "158041" ;
+    ourvocab:has_releasedate "28 Apr 1998, 00:00" ;
     ourvocab:has_tag "big pun",
         "east coast",
         "good ol days",
@@ -7831,6 +8275,7 @@
 <http://musicbrainz.org/recording/a3eecb5a-3c6d-41a4-8b3a-79940e0c8f86#_> a mo:Track ;
     ourvocab:has_listener_count "188351" ;
     ourvocab:has_playcount "530374" ;
+    ourvocab:has_releasedate "8 Nov 2010, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jay-z",
@@ -7841,6 +8286,7 @@
 <http://musicbrainz.org/recording/a490e395-3d55-50e8-8a7c-b99f38e1f145#_> a mo:Track ;
     ourvocab:has_listener_count "39642" ;
     ourvocab:has_playcount "148893" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -7852,6 +8298,7 @@
 <http://musicbrainz.org/recording/a4bfe083-6aab-4749-b845-ee7ece710f07#_> a mo:Track ;
     ourvocab:has_listener_count "65236" ;
     ourvocab:has_playcount "190040" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "big l",
         "hip hop",
         "hip-hop",
@@ -7873,6 +8320,7 @@
 <http://musicbrainz.org/recording/a4f5ef58-bf1b-4bff-ac99-b9770e4718c6#_> a mo:Track ;
     ourvocab:has_listener_count "627666" ;
     ourvocab:has_playcount "2852360" ;
+    ourvocab:has_releasedate "11 Sep 2007, 00:00" ;
     ourvocab:has_tag "chicago",
         "hip hop",
         "hip-hop",
@@ -7895,6 +8343,7 @@
 <http://musicbrainz.org/recording/a5713532-3b1a-42fd-aaa0-80d4d0c415a9#_> a mo:Track ;
     ourvocab:has_listener_count "110278" ;
     ourvocab:has_playcount "360466" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "hip hop",
         "hip-hop",
@@ -7916,6 +8365,7 @@
 <http://musicbrainz.org/recording/a5af46c7-87f9-4bf2-a8d8-c19044203a74#_> a mo:Track ;
     ourvocab:has_listener_count "63058" ;
     ourvocab:has_playcount "402470" ;
+    ourvocab:has_releasedate "16 Jun 2010, 00:00" ;
     ourvocab:has_tag "asael",
         "drake",
         "hip hop",
@@ -7949,6 +8399,7 @@
 <http://musicbrainz.org/recording/a613a65b-9cd1-58a7-b9fd-4a89969ca68c#_> a mo:Track ;
     ourvocab:has_listener_count "215509" ;
     ourvocab:has_playcount "799002" ;
+    ourvocab:has_releasedate "7 May 2007, 00:00" ;
     ourvocab:has_tag "80s",
         "hip-hop",
         "old school",
@@ -7959,6 +8410,7 @@
 <http://musicbrainz.org/recording/a61d87f1-0106-5060-b48b-28f6ea34e7e3#_> a mo:Track ;
     ourvocab:has_listener_count "86673" ;
     ourvocab:has_playcount "242704" ;
+    ourvocab:has_releasedate "31 Oct 2000, 00:00" ;
     ourvocab:has_tag "funky",
         "hip hop",
         "hip-hop",
@@ -7970,6 +8422,7 @@
 <http://musicbrainz.org/recording/a6405bb3-2416-4afe-92b1-d6e9ab498c67#_> a mo:Track ;
     ourvocab:has_listener_count "189747" ;
     ourvocab:has_playcount "726386" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "chillout",
         "cypress hill",
         "hip hop",
@@ -7992,6 +8445,7 @@
 <http://musicbrainz.org/recording/a6c14880-f5d7-4570-a5f5-ca2eff7d4b3b#_> a mo:Track ;
     ourvocab:has_listener_count "110823" ;
     ourvocab:has_playcount "439269" ;
+    ourvocab:has_releasedate "1 Jan 2004, 00:00" ;
     ourvocab:has_tag "club",
         "gangsta rap",
         "hip hop",
@@ -8014,6 +8468,7 @@
 <http://musicbrainz.org/recording/a71b0286-84c1-4b01-8ddc-0fdc744ea3df#_> a mo:Track ;
     ourvocab:has_listener_count "188505" ;
     ourvocab:has_playcount "810732" ;
+    ourvocab:has_releasedate "30 Nov 1990, 00:00" ;
     ourvocab:has_tag "90s",
         "a tribe called quest",
         "hip hop",
@@ -8035,6 +8490,7 @@
 <http://musicbrainz.org/recording/a7c54309-93e2-4a23-abd6-d149ece0c65b#_> a mo:Track ;
     ourvocab:has_listener_count "98413" ;
     ourvocab:has_playcount "285611" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "beastie boys",
         "hip hop",
         "hip-hop",
@@ -8046,6 +8502,7 @@
 <http://musicbrainz.org/recording/a7cb2984-1920-4481-9274-69040005791b#_> a mo:Track ;
     ourvocab:has_listener_count "70106" ;
     ourvocab:has_playcount "169763" ;
+    ourvocab:has_releasedate "3 Apr 2000, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "method man",
         "rap",
@@ -8057,6 +8514,7 @@
 <http://musicbrainz.org/recording/a7d58881-cb1b-49ee-a2dc-9a84bfc0e527#_> a mo:Track ;
     ourvocab:has_listener_count "208390" ;
     ourvocab:has_playcount "584056" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "d12",
         "eminem",
         "gangsta rap",
@@ -8068,6 +8526,7 @@
 <http://musicbrainz.org/recording/a8683d06-7f8d-4998-ac12-117cb7e0b4a4#_> a mo:Track ;
     ourvocab:has_listener_count "75158" ;
     ourvocab:has_playcount "196801" ;
+    ourvocab:has_releasedate "24 Sep 2002, 00:00" ;
     ourvocab:has_tag "hip hop tag",
         "pimp shit",
         "psychopathic",
@@ -8079,6 +8538,7 @@
 <http://musicbrainz.org/recording/a8d7714b-a714-4c29-885e-17a1a91c23ff#_> a mo:Track ;
     ourvocab:has_listener_count "32639" ;
     ourvocab:has_playcount "132871" ;
+    ourvocab:has_releasedate "18 Jan 2005, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "rap",
         "the documentary",
@@ -8090,6 +8550,7 @@
 <http://musicbrainz.org/recording/a916fdab-9246-45d9-a471-ddb3c3b33855#_> a mo:Track ;
     ourvocab:has_listener_count "175686" ;
     ourvocab:has_playcount "632126" ;
+    ourvocab:has_releasedate "30 Nov 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -8112,6 +8573,7 @@
 <http://musicbrainz.org/recording/a9eeadd8-5959-4a68-9394-0c0d304c4f93#_> a mo:Track ;
     ourvocab:has_listener_count "183262" ;
     ourvocab:has_playcount "684795" ;
+    ourvocab:has_releasedate "24 Nov 1997, 00:00" ;
     ourvocab:has_tag "90s",
         "dance",
         "hip hop",
@@ -8145,6 +8607,7 @@
 <http://musicbrainz.org/recording/aac456ea-c747-4e49-ab33-0ab6a874b2bc#_> a mo:Track ;
     ourvocab:has_listener_count "50094" ;
     ourvocab:has_playcount "147563" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "big l",
         "harlem",
         "hip hop",
@@ -8178,6 +8641,7 @@
 <http://musicbrainz.org/recording/ac94a04b-c56a-4136-8a00-7aac6bb091f7#_> a mo:Track ;
     ourvocab:has_listener_count "626814" ;
     ourvocab:has_playcount "1937708" ;
+    ourvocab:has_releasedate "10 Jun 2008, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip-hop",
         "rap",
@@ -8189,6 +8653,7 @@
 <http://musicbrainz.org/recording/acd9d6a3-ecc0-4c9f-8654-92839f6a64c7#_> a mo:Track ;
     ourvocab:has_listener_count "30132" ;
     ourvocab:has_playcount "160396" ;
+    ourvocab:has_releasedate "10 Aug 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "funny",
         "hip-hop",
@@ -8200,6 +8665,7 @@
 <http://musicbrainz.org/recording/ad4eca1b-0b51-49a0-abc3-88fb1593fcbe#_> a mo:Track ;
     ourvocab:has_listener_count "188402" ;
     ourvocab:has_playcount "785429" ;
+    ourvocab:has_releasedate "2 Jun 2008, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "limp bizkit",
         "nu metal",
@@ -8211,6 +8677,7 @@
 <http://musicbrainz.org/recording/ada798cb-ba04-48f4-b553-135438fe3f6c#_> a mo:Track ;
     ourvocab:has_listener_count "265730" ;
     ourvocab:has_playcount "1216875" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "eminem",
         "eminem is back",
         "hip hop",
@@ -8233,6 +8700,7 @@
 <http://musicbrainz.org/recording/b0b7bbda-8159-4e46-afe9-e9d71b2786f8#_> a mo:Track ;
     ourvocab:has_listener_count "42909" ;
     ourvocab:has_playcount "230513" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "dirty south",
         "gangsta rap",
         "hip hop",
@@ -8244,6 +8712,7 @@
 <http://musicbrainz.org/recording/b0f6c499-f792-4163-9aec-43d21276393e#_> a mo:Track ;
     ourvocab:has_listener_count "87983" ;
     ourvocab:has_playcount "593056" ;
+    ourvocab:has_releasedate "9 Nov 2010, 00:00" ;
     ourvocab:has_tag "chill",
         "chillout",
         "hip hop",
@@ -8255,6 +8724,7 @@
 <http://musicbrainz.org/recording/b0f87623-3b07-4c14-930f-40b0972f9871#_> a mo:Track ;
     ourvocab:has_listener_count "126021" ;
     ourvocab:has_playcount "326664" ;
+    ourvocab:has_releasedate "30 Nov 2002, 00:00" ;
     ourvocab:has_tag "dirty south",
         "hip hop",
         "hip-hop",
@@ -8288,6 +8758,7 @@
 <http://musicbrainz.org/recording/b1ded358-7f93-4068-bb5f-d095d1e38447#_> a mo:Track ;
     ourvocab:has_listener_count "96081" ;
     ourvocab:has_playcount "301465" ;
+    ourvocab:has_releasedate "1 Jul 1996, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "hip hop",
         "hip-hop",
@@ -8299,6 +8770,7 @@
 <http://musicbrainz.org/recording/b1f4f0b3-ef7d-48a1-ab5d-6e033f7165d2#_> a mo:Track ;
     ourvocab:has_listener_count "105903" ;
     ourvocab:has_playcount "314115" ;
+    ourvocab:has_releasedate "13 Oct 2009, 00:00" ;
     ourvocab:has_tag "chamillionaire - good morning",
         "cool",
         "haters",
@@ -8310,6 +8782,7 @@
 <http://musicbrainz.org/recording/b24678fb-8944-4123-90aa-69bb1aa3ab4d#_> a mo:Track ;
     ourvocab:has_listener_count "33637" ;
     ourvocab:has_playcount "402105" ;
+    ourvocab:has_releasedate "8 Jul 2011, 00:00" ;
     ourvocab:has_tag "benjamin griffey",
         "german",
         "german hip hop",
@@ -8343,6 +8816,7 @@
 <http://musicbrainz.org/recording/b338e36c-578f-40d3-af71-83ae6adfa9c0#_> a mo:Track ;
     ourvocab:has_listener_count "193434" ;
     ourvocab:has_playcount "688602" ;
+    ourvocab:has_releasedate "29 Sep 1998, 00:00" ;
     ourvocab:has_tag "90s",
         "funk",
         "hip hop",
@@ -8398,6 +8872,7 @@
 <http://musicbrainz.org/recording/b4282957-b7ec-43ff-a72f-91b81238235c#_> a mo:Track ;
     ourvocab:has_listener_count "82779" ;
     ourvocab:has_playcount "274725" ;
+    ourvocab:has_releasedate "18 Dec 2001, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "gangsta rap",
         "hip-hop",
@@ -8409,6 +8884,7 @@
 <http://musicbrainz.org/recording/b4b8e983-addf-404f-afa8-808d766739b3#_> a mo:Track ;
     ourvocab:has_listener_count "57017" ;
     ourvocab:has_playcount "164162" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -8440,6 +8916,7 @@
 <http://musicbrainz.org/recording/b5314846-f082-5cba-ae19-86d0975bef61#_> a mo:Track ;
     ourvocab:has_listener_count "30391" ;
     ourvocab:has_playcount "89475" ;
+    ourvocab:has_releasedate "23 Sep 2002, 00:00" ;
     ourvocab:has_tag "classickhiphop",
         "da real old skool hip hop",
         "rap",
@@ -8451,6 +8928,7 @@
 <http://musicbrainz.org/recording/b58a7abb-96fe-4cd2-971f-fe1d797abec2#_> a mo:Track ;
     ourvocab:has_listener_count "47357" ;
     ourvocab:has_playcount "362147" ;
+    ourvocab:has_releasedate "3 Mar 2010, 00:00" ;
     ourvocab:has_tag "flowing like water",
         "free earl",
         "hip hop",
@@ -8462,6 +8940,7 @@
 <http://musicbrainz.org/recording/b5e251b6-abd2-481e-9740-6419129b7768#_> a mo:Track ;
     ourvocab:has_listener_count "119399" ;
     ourvocab:has_playcount "316578" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "gangsta rap",
         "hip hop",
@@ -8473,6 +8952,7 @@
 <http://musicbrainz.org/recording/b63cc24a-af3f-4492-9b8e-45b8ea5c7c6c#_> a mo:Track ;
     ourvocab:has_listener_count "46716" ;
     ourvocab:has_playcount "175825" ;
+    ourvocab:has_releasedate "23 Sep 2002, 00:00" ;
     ourvocab:has_tag "big l",
         "east coast",
         "hip hop",
@@ -8484,6 +8964,7 @@
 <http://musicbrainz.org/recording/b729f3d9-c630-4505-980a-24baf073a79d#_> a mo:Track ;
     ourvocab:has_listener_count "82587" ;
     ourvocab:has_playcount "331295" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "eminem",
         "gangsta rap",
         "hip hop",
@@ -8495,6 +8976,7 @@
 <http://musicbrainz.org/recording/b7eb6329-9f9e-4c27-b294-717e2a2a8e6e#_> a mo:Track ;
     ourvocab:has_listener_count "85578" ;
     ourvocab:has_playcount "488257" ;
+    ourvocab:has_releasedate "10 May 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "ofwgkta",
@@ -8517,6 +8999,7 @@
 <http://musicbrainz.org/recording/b84c3c1d-aa43-4b9b-9268-e253d1deb667#_> a mo:Track ;
     ourvocab:has_listener_count "117256" ;
     ourvocab:has_playcount "390798" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "90s",
         "hip-hop",
@@ -8561,6 +9044,7 @@
 <http://musicbrainz.org/recording/b934483c-e68a-45e0-8db9-6c3c391b3641#_> a mo:Track ;
     ourvocab:has_listener_count "285252" ;
     ourvocab:has_playcount "1164541" ;
+    ourvocab:has_releasedate "27 Apr 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "beastie boys",
         "hip hop",
@@ -8572,6 +9056,7 @@
 <http://musicbrainz.org/recording/b9ba7418-87c7-4c89-acd7-9dd5cddec7cf#_> a mo:Track ;
     ourvocab:has_listener_count "135316" ;
     ourvocab:has_playcount "584005" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -8583,6 +9068,7 @@
 <http://musicbrainz.org/recording/bab6b4bf-90b4-4c1b-b7a4-9f1fb8c12374#_> a mo:Track ;
     ourvocab:has_listener_count "115839" ;
     ourvocab:has_playcount "279575" ;
+    ourvocab:has_releasedate "30 Nov 1998, 00:00" ;
     ourvocab:has_tag "classic hip-hop",
         "hip hop",
         "hip-hop",
@@ -8615,6 +9101,7 @@
 <http://musicbrainz.org/recording/bb5066e8-179d-45cb-a155-dad90399f017#_> a mo:Track ;
     ourvocab:has_listener_count "72144" ;
     ourvocab:has_playcount "186298" ;
+    ourvocab:has_releasedate "16 Dec 1996, 00:00" ;
     ourvocab:has_tag "funk doc",
         "hip hop",
         "hip-hop",
@@ -8637,6 +9124,7 @@
 <http://musicbrainz.org/recording/bccc3517-3437-45f4-8f61-55e26f76d884#_> a mo:Track ;
     ourvocab:has_listener_count "387055" ;
     ourvocab:has_playcount "855903" ;
+    ourvocab:has_releasedate "18 Dec 2001, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jay-z",
@@ -8668,6 +9156,7 @@
 <http://musicbrainz.org/recording/bd6e1aaf-f079-44cd-879b-31767853df90#_> a mo:Track ;
     ourvocab:has_listener_count "49461" ;
     ourvocab:has_playcount "241931" ;
+    ourvocab:has_releasedate "12 Dec 2000, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -8689,6 +9178,7 @@
 <http://musicbrainz.org/recording/bdefbfd0-b59c-490c-a356-6c618a2dbefe#_> a mo:Track ;
     ourvocab:has_listener_count "134423" ;
     ourvocab:has_playcount "446815" ;
+    ourvocab:has_releasedate "9 Feb 2005, 00:00" ;
     ourvocab:has_tag "00s",
         "hip hop",
         "hip-hop",
@@ -8699,6 +9189,7 @@
 <http://musicbrainz.org/recording/be044e38-66d6-4f79-a10f-0ec3f1204897#_> a mo:Track ;
     ourvocab:has_listener_count "614531" ;
     ourvocab:has_playcount "2095507" ;
+    ourvocab:has_releasedate "11 Mar 2003, 00:00" ;
     ourvocab:has_tag "90s",
         "gangsta rap",
         "hip-hop",
@@ -8710,6 +9201,7 @@
 <http://musicbrainz.org/recording/be0a2b48-0b8f-4fb8-b4bc-0be688d40e31#_> a mo:Track ;
     ourvocab:has_listener_count "237048" ;
     ourvocab:has_playcount "813315" ;
+    ourvocab:has_releasedate "15 Sep 2009, 00:00" ;
     ourvocab:has_tag "alternative",
         "american",
         "hip hop",
@@ -8731,6 +9223,7 @@
 <http://musicbrainz.org/recording/bebd7a6c-380b-41a6-b944-92a517fd8712#_> a mo:Track ;
     ourvocab:has_listener_count "137281" ;
     ourvocab:has_playcount "603333" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -8742,6 +9235,7 @@
 <http://musicbrainz.org/recording/bf0ac0f2-6236-4262-a654-d113e676cc54#_> a mo:Track ;
     ourvocab:has_listener_count "78927" ;
     ourvocab:has_playcount "417969" ;
+    ourvocab:has_releasedate "26 Aug 2006, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jedi mind tricks",
@@ -8753,6 +9247,7 @@
 <http://musicbrainz.org/recording/bf47b472-60f0-49e5-8c79-5c9910edd44e#_> a mo:Track ;
     ourvocab:has_listener_count "41369" ;
     ourvocab:has_playcount "143508" ;
+    ourvocab:has_releasedate "16 Dec 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "oldschool",
@@ -8764,6 +9259,7 @@
 <http://musicbrainz.org/recording/bfef9909-3c45-4b05-bb77-47345584a6bc#_> a mo:Track ;
     ourvocab:has_listener_count "42278" ;
     ourvocab:has_playcount "145153" ;
+    ourvocab:has_releasedate "16 Dec 2002, 00:00" ;
     ourvocab:has_tag "cool hip-hop",
         "hip-hop",
         "nas",
@@ -8775,6 +9271,7 @@
 <http://musicbrainz.org/recording/c002e2ac-cfbb-4620-96b7-7d760c5a1e98#_> a mo:Track ;
     ourvocab:has_listener_count "173331" ;
     ourvocab:has_playcount "699038" ;
+    ourvocab:has_releasedate "25 Apr 1995, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "mobb deep",
@@ -8786,6 +9283,7 @@
 <http://musicbrainz.org/recording/c08e55b2-7bf4-4406-981c-97a01ae073d1#_> a mo:Track ;
     ourvocab:has_listener_count "35347" ;
     ourvocab:has_playcount "249283" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "lil wayne",
@@ -8797,6 +9295,7 @@
 <http://musicbrainz.org/recording/c119aad5-06b1-4b24-9778-8f3066e7a435#_> a mo:Track ;
     ourvocab:has_listener_count "116464" ;
     ourvocab:has_playcount "387937" ;
+    ourvocab:has_releasedate "30 Nov 1992, 00:00" ;
     ourvocab:has_tag "90s",
         "cypress hill",
         "hip hop",
@@ -8808,6 +9307,7 @@
 <http://musicbrainz.org/recording/c11ea51a-eca5-5ef8-9254-a849e7c2b715#_> a mo:Track ;
     ourvocab:has_listener_count "65662" ;
     ourvocab:has_playcount "168907" ;
+    ourvocab:has_releasedate "18 Dec 2012, 00:00" ;
     ourvocab:has_tag "chief keef",
         "gangsta rap",
         "hip-hop",
@@ -8819,6 +9319,7 @@
 <http://musicbrainz.org/recording/c17c4ed9-9ff1-5815-b792-6326fbebb26f#_> a mo:Track ;
     ourvocab:has_listener_count "175060" ;
     ourvocab:has_playcount "500491" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "hip hop",
         "hip-hop",
@@ -8830,6 +9331,7 @@
 <http://musicbrainz.org/recording/c206da00-3a35-48ab-9153-16acca48b5dd#_> a mo:Track ;
     ourvocab:has_listener_count "53930" ;
     ourvocab:has_playcount "128203" ;
+    ourvocab:has_releasedate "8 Oct 2002, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip-hop",
         "rap",
@@ -8874,6 +9376,7 @@
 <http://musicbrainz.org/recording/c36890a8-2ef6-508a-a8f1-ed8260953545#_> a mo:Track ;
     ourvocab:has_listener_count "39624" ;
     ourvocab:has_playcount "165617" ;
+    ourvocab:has_releasedate "1 Apr 2013, 00:00" ;
     ourvocab:has_tag "10s",
         "2013",
         "hip-hop",
@@ -8885,6 +9388,7 @@
 <http://musicbrainz.org/recording/c36e40ed-c5cf-4d29-b4b2-7af89ef13ac8#_> a mo:Track ;
     ourvocab:has_listener_count "138433" ;
     ourvocab:has_playcount "591913" ;
+    ourvocab:has_releasedate "6 Jul 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "jazz hop",
@@ -8917,6 +9421,7 @@
 <http://musicbrainz.org/recording/c46a9eb3-7b2b-4560-8151-05611a784225#_> a mo:Track ;
     ourvocab:has_listener_count "303735" ;
     ourvocab:has_playcount "941213" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "90s",
         "biggie",
         "hip hop",
@@ -8928,6 +9433,7 @@
 <http://musicbrainz.org/recording/c46e355f-6786-4ebf-9916-aed0c9e356cf#_> a mo:Track ;
     ourvocab:has_listener_count "112859" ;
     ourvocab:has_playcount "348861" ;
+    ourvocab:has_releasedate "1 Jan 1997, 00:00" ;
     ourvocab:has_tag "big pun",
         "hip hop",
         "hip-hop",
@@ -8939,6 +9445,7 @@
 <http://musicbrainz.org/recording/c559c5bd-793e-4f15-b418-f66218277228#_> a mo:Track ;
     ourvocab:has_listener_count "131704" ;
     ourvocab:has_playcount "450848" ;
+    ourvocab:has_releasedate "26 Oct 1999, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -8950,6 +9457,7 @@
 <http://musicbrainz.org/recording/c69102f2-f84a-48e9-a47e-51be1aab65c7#_> a mo:Track ;
     ourvocab:has_listener_count "84515" ;
     ourvocab:has_playcount "345325" ;
+    ourvocab:has_releasedate "16 Jul 2001, 00:00" ;
     ourvocab:has_tag "d12",
         "eminem",
         "hip hop",
@@ -8961,6 +9469,7 @@
 <http://musicbrainz.org/recording/c6d40076-a1af-4713-8242-ee0da41d336e#_> a mo:Track ;
     ourvocab:has_listener_count "89931" ;
     ourvocab:has_playcount "780491" ;
+    ourvocab:has_releasedate "12 Oct 2010, 00:00" ;
     ourvocab:has_tag "2010",
         "electronic",
         "hip-hop",
@@ -8983,6 +9492,7 @@
 <http://musicbrainz.org/recording/c6ec7923-fae4-4d68-b906-37e484115c0a#_> a mo:Track ;
     ourvocab:has_listener_count "121000" ;
     ourvocab:has_playcount "445712" ;
+    ourvocab:has_releasedate "30 Nov 1990, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -8994,6 +9504,7 @@
 <http://musicbrainz.org/recording/c6fc1aab-8413-45e3-b20a-a7beab822cb2#_> a mo:Track ;
     ourvocab:has_listener_count "114759" ;
     ourvocab:has_playcount "316326" ;
+    ourvocab:has_releasedate "27 Jun 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "nelly",
@@ -9005,6 +9516,7 @@
 <http://musicbrainz.org/recording/c710cf17-9a77-433c-bcde-cca027b432eb#_> a mo:Track ;
     ourvocab:has_listener_count "161658" ;
     ourvocab:has_playcount "421904" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "joe budden",
@@ -9016,6 +9528,7 @@
 <http://musicbrainz.org/recording/c73f2c89-8035-420c-b9a7-aba91d8d61aa#_> a mo:Track ;
     ourvocab:has_listener_count "88273" ;
     ourvocab:has_playcount "398854" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "90s",
         "dj premier",
         "hip hop",
@@ -9070,6 +9583,7 @@
 <http://musicbrainz.org/recording/c7fe7883-fa3a-4aba-b284-e5b140e0d7ec#_> a mo:Track ;
     ourvocab:has_listener_count "171343" ;
     ourvocab:has_playcount "750818" ;
+    ourvocab:has_releasedate "4 Jun 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "mos def",
@@ -9114,6 +9628,7 @@
 <http://musicbrainz.org/recording/c8d55e67-ac78-4880-9cb4-cc67ce9087c0#_> a mo:Track ;
     ourvocab:has_listener_count "83476" ;
     ourvocab:has_playcount "265325" ;
+    ourvocab:has_releasedate "14 Dec 2010, 00:00" ;
     ourvocab:has_tag "alabama",
         "hip-hop",
         "rap",
@@ -9125,6 +9640,7 @@
 <http://musicbrainz.org/recording/c8d87422-7d88-5e7c-821d-4e52fc10ab10#_> a mo:Track ;
     ourvocab:has_listener_count "86350" ;
     ourvocab:has_playcount "462469" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "dark",
         "eminem",
         "hip hop",
@@ -9136,6 +9652,7 @@
 <http://musicbrainz.org/recording/c8e3d3a3-329e-49c2-b8a9-ef4a9bf66363#_> a mo:Track ;
     ourvocab:has_listener_count "56936" ;
     ourvocab:has_playcount "192424" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "biggie",
         "east coast rap",
         "gangsta rap",
@@ -9147,6 +9664,7 @@
 <http://musicbrainz.org/recording/c99b8702-73ea-47b9-9ddf-245402a981f1#_> a mo:Track ;
     ourvocab:has_listener_count "37714" ;
     ourvocab:has_playcount "214471" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "50 cent",
         "club jammy",
         "hip hop",
@@ -9158,6 +9676,7 @@
 <http://musicbrainz.org/recording/c9ba3759-fb31-4b4c-87e3-47a31f16719e#_> a mo:Track ;
     ourvocab:has_listener_count "67626" ;
     ourvocab:has_playcount "408400" ;
+    ourvocab:has_releasedate "24 Feb 2010, 00:00" ;
     ourvocab:has_tag "dark",
         "hip hop",
         "ofwgkta",
@@ -9201,6 +9720,7 @@
 <http://musicbrainz.org/recording/cb618a8c-cfc4-58c5-826f-33d5d32beb29#_> a mo:Track ;
     ourvocab:has_listener_count "99149" ;
     ourvocab:has_playcount "335105" ;
+    ourvocab:has_releasedate "25 Apr 1995, 00:00" ;
     ourvocab:has_tag "east coast",
         "hip hop",
         "hip-hop",
@@ -9212,6 +9732,7 @@
 <http://musicbrainz.org/recording/cbf93403-9283-43bb-9009-571d35be1fdf#_> a mo:Track ;
     ourvocab:has_listener_count "56591" ;
     ourvocab:has_playcount "199221" ;
+    ourvocab:has_releasedate "16 Sep 2002, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -9222,6 +9743,7 @@
 <http://musicbrainz.org/recording/cc5f718b-ffa6-41aa-ad4f-73cc1e0cb357#_> a mo:Track ;
     ourvocab:has_listener_count "127616" ;
     ourvocab:has_playcount "385741" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -9244,6 +9766,7 @@
 <http://musicbrainz.org/recording/ce1050bd-c201-4686-a267-7f12f8e60959#_> a mo:Track ;
     ourvocab:has_listener_count "67440" ;
     ourvocab:has_playcount "322143" ;
+    ourvocab:has_releasedate "25 Mar 1997, 00:00" ;
     ourvocab:has_tag "east coast rap",
         "gangsta rap",
         "hip hop",
@@ -9298,6 +9821,7 @@
 <http://musicbrainz.org/recording/ce66dfa5-53d5-4015-ad13-0467ad794bd7#_> a mo:Track ;
     ourvocab:has_listener_count "132297" ;
     ourvocab:has_playcount "537217" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -9331,6 +9855,7 @@
 <http://musicbrainz.org/recording/cfee061d-e20c-41d2-965a-b37315527833#_> a mo:Track ;
     ourvocab:has_listener_count "49152" ;
     ourvocab:has_playcount "152659" ;
+    ourvocab:has_releasedate "9 Sep 1996, 00:00" ;
     ourvocab:has_tag "atliens",
         "hip hop",
         "hip-hop",
@@ -9342,6 +9867,7 @@
 <http://musicbrainz.org/recording/d01febd0-2b13-4172-85b9-e9eeff68b0f8#_> a mo:Track ;
     ourvocab:has_listener_count "42693" ;
     ourvocab:has_playcount "201218" ;
+    ourvocab:has_releasedate "24 Feb 2010, 00:00" ;
     ourvocab:has_tag "braggadocio",
         "family ties",
         "hip hop",
@@ -9353,6 +9879,7 @@
 <http://musicbrainz.org/recording/d026a6f7-2f13-4193-b504-618be497921b#_> a mo:Track ;
     ourvocab:has_listener_count "51033" ;
     ourvocab:has_playcount "144708" ;
+    ourvocab:has_releasedate "7 Jun 1994, 00:00" ;
     ourvocab:has_tag "g-funk",
         "hip-hop",
         "rap",
@@ -9364,6 +9891,7 @@
 <http://musicbrainz.org/recording/d063fae6-a4a8-4165-b444-cba8ff10dd63#_> a mo:Track ;
     ourvocab:has_listener_count "60321" ;
     ourvocab:has_playcount "146110" ;
+    ourvocab:has_releasedate "2 May 1995, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -9386,6 +9914,7 @@
 <http://musicbrainz.org/recording/d0985909-9e9b-4668-8c57-abdb4e083601#_> a mo:Track ;
     ourvocab:has_listener_count "126716" ;
     ourvocab:has_playcount "672959" ;
+    ourvocab:has_releasedate "19 Aug 2008, 00:00" ;
     ourvocab:has_tag "2008",
         "hip hop",
         "hip-hop",
@@ -9397,6 +9926,7 @@
 <http://musicbrainz.org/recording/d0a22bf8-a2cc-49d4-beb1-8d43b9729e80#_> a mo:Track ;
     ourvocab:has_listener_count "79272" ;
     ourvocab:has_playcount "350638" ;
+    ourvocab:has_releasedate "30 Nov 2001, 00:00" ;
     ourvocab:has_tag "cypress hill",
         "hip hop",
         "hip-hop",
@@ -9419,6 +9949,7 @@
 <http://musicbrainz.org/recording/d1086b8b-2e08-4bcc-93df-bcfc3dcbe2a1#_> a mo:Track ;
     ourvocab:has_listener_count "61394" ;
     ourvocab:has_playcount "206176" ;
+    ourvocab:has_releasedate "1 Jul 1996, 00:00" ;
     ourvocab:has_tag "dj premier",
         "hip hop",
         "hip-hop",
@@ -9451,6 +9982,7 @@
 <http://musicbrainz.org/recording/d1e17bf8-b957-5ab8-abd4-146e050cef04#_> a mo:Track ;
     ourvocab:has_listener_count "37619" ;
     ourvocab:has_playcount "113560" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "hip hop",
         "hip-hop",
@@ -9462,6 +9994,7 @@
 <http://musicbrainz.org/recording/d2ac7a77-ea3e-4d18-8778-043653b850f5#_> a mo:Track ;
     ourvocab:has_listener_count "42085" ;
     ourvocab:has_playcount "163202" ;
+    ourvocab:has_releasedate "1 Jan 2002, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "porieux-loved",
         "rap",
@@ -9495,6 +10028,7 @@
 <http://musicbrainz.org/recording/d3124ab0-95b2-5f0b-85d7-60ecc109b3a1#_> a mo:Track ;
     ourvocab:has_listener_count "143058" ;
     ourvocab:has_playcount "869884" ;
+    ourvocab:has_releasedate "14 Aug 2006, 00:00" ;
     ourvocab:has_tag "alternative",
         "fort minor",
         "hip hop",
@@ -9506,6 +10040,7 @@
 <http://musicbrainz.org/recording/d38997ac-8db4-41e6-9230-8666e1541751#_> a mo:Track ;
     ourvocab:has_listener_count "179021" ;
     ourvocab:has_playcount "713638" ;
+    ourvocab:has_releasedate "30 Nov 2000, 00:00" ;
     ourvocab:has_tag "eminem",
         "hardcore rap",
         "hip hop",
@@ -9539,6 +10074,7 @@
 <http://musicbrainz.org/recording/d5098ddb-77a4-55c2-8f5d-203dc686f31c#_> a mo:Track ;
     ourvocab:has_listener_count "73574" ;
     ourvocab:has_playcount "365408" ;
+    ourvocab:has_releasedate "9 Nov 2010, 00:00" ;
     ourvocab:has_tag "hiphop",
         "kid cudi",
         "kidcudi",
@@ -9550,6 +10086,7 @@
 <http://musicbrainz.org/recording/d521fe68-9faf-412c-bb80-64927b510fa2#_> a mo:Track ;
     ourvocab:has_listener_count "132488" ;
     ourvocab:has_playcount "889329" ;
+    ourvocab:has_releasedate "12 Oct 2010, 00:00" ;
     ourvocab:has_tag "african",
         "electronic",
         "next level beats",
@@ -9593,6 +10130,7 @@
 <http://musicbrainz.org/recording/d71d4755-d2fe-42f7-b58b-118a4d6d88d5#_> a mo:Track ;
     ourvocab:has_listener_count "40701" ;
     ourvocab:has_playcount "84408" ;
+    ourvocab:has_releasedate "1 Oct 1996, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -9604,6 +10142,7 @@
 <http://musicbrainz.org/recording/d723bb16-c084-596a-a575-3630f1e281ed#_> a mo:Track ;
     ourvocab:has_listener_count "105075" ;
     ourvocab:has_playcount "528126" ;
+    ourvocab:has_releasedate "24 Nov 2008, 00:00" ;
     ourvocab:has_tag "00s",
         "electronic",
         "hip hop",
@@ -9636,6 +10175,7 @@
 <http://musicbrainz.org/recording/d7b67b91-bc5a-5e80-86eb-f6a455887398#_> a mo:Track ;
     ourvocab:has_listener_count "50319" ;
     ourvocab:has_playcount "314875" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "00s",
         "eminem",
         "hip hop",
@@ -9647,6 +10187,7 @@
 <http://musicbrainz.org/recording/d7cc7e28-7b9f-5621-b9fc-2a770780adc8#_> a mo:Track ;
     ourvocab:has_listener_count "35782" ;
     ourvocab:has_playcount "446646" ;
+    ourvocab:has_releasedate "18 Dec 2000, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "paktofonika",
@@ -9690,6 +10231,7 @@
 <http://musicbrainz.org/recording/db0a21e9-72fe-4988-a29c-f53444a2b852#_> a mo:Track ;
     ourvocab:has_listener_count "198142" ;
     ourvocab:has_playcount "559654" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -9701,6 +10243,7 @@
 <http://musicbrainz.org/recording/db59d0c1-06c7-4e2d-889b-30dd20d3014c#_> a mo:Track ;
     ourvocab:has_listener_count "134745" ;
     ourvocab:has_playcount "511395" ;
+    ourvocab:has_releasedate "22 May 2001, 00:00" ;
     ourvocab:has_tag "90s",
         "gangsta rap",
         "hip-hop",
@@ -9712,6 +10255,7 @@
 <http://musicbrainz.org/recording/db5dcb6e-0036-479d-a4d1-64485ed9a4b0#_> a mo:Track ;
     ourvocab:has_listener_count "105265" ;
     ourvocab:has_playcount "348056" ;
+    ourvocab:has_releasedate "9 Feb 2005, 00:00" ;
     ourvocab:has_tag "chillout",
         "hip hop",
         "hip-hop",
@@ -9722,6 +10266,7 @@
 <http://musicbrainz.org/recording/db8cf96a-ecc0-471a-9c90-459fe750fd00#_> a mo:Track ;
     ourvocab:has_listener_count "181948" ;
     ourvocab:has_playcount "498589" ;
+    ourvocab:has_releasedate "26 Sep 2006, 00:00" ;
     ourvocab:has_tag "chingy",
         "hip hop",
         "hip-hop",
@@ -9755,6 +10300,7 @@
 <http://musicbrainz.org/recording/dcf03a2a-3c21-5f33-817a-32091c351149#_> a mo:Track ;
     ourvocab:has_listener_count "43466" ;
     ourvocab:has_playcount "321937" ;
+    ourvocab:has_releasedate "25 Apr 1995, 00:00" ;
     ourvocab:has_tag "classic",
         "dark",
         "hip-hop",
@@ -9766,6 +10312,7 @@
 <http://musicbrainz.org/recording/dcf902a4-f759-4d4f-a480-3ae6b204072e#_> a mo:Track ;
     ourvocab:has_listener_count "156994" ;
     ourvocab:has_playcount "563363" ;
+    ourvocab:has_releasedate "22 May 2001, 00:00" ;
     ourvocab:has_tag "90s",
         "g-funk",
         "gangsta rap",
@@ -9777,6 +10324,7 @@
 <http://musicbrainz.org/recording/dd24ba76-04f5-49bc-85a4-2d165d5e7b02#_> a mo:Track ;
     ourvocab:has_listener_count "55900" ;
     ourvocab:has_playcount "286542" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -9788,6 +10336,7 @@
 <http://musicbrainz.org/recording/dd2a90c0-fd41-49ff-b9ea-0a1dfcf9f0e7#_> a mo:Track ;
     ourvocab:has_listener_count "72280" ;
     ourvocab:has_playcount "380943" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -9799,6 +10348,7 @@
 <http://musicbrainz.org/recording/de5d4d7b-3597-4c4a-91a4-d599bd91ddb3#_> a mo:Track ;
     ourvocab:has_listener_count "121751" ;
     ourvocab:has_playcount "354705" ;
+    ourvocab:has_releasedate "2 May 1995, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "old school",
@@ -9810,6 +10360,7 @@
 <http://musicbrainz.org/recording/de988a6b-9ba8-438b-bb0c-202aa9e5bc25#_> a mo:Track ;
     ourvocab:has_listener_count "513206" ;
     ourvocab:has_playcount "2527109" ;
+    ourvocab:has_releasedate "13 Dec 2005, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -9821,6 +10372,7 @@
 <http://musicbrainz.org/recording/ded07e2f-96c8-4c4f-bf0c-1cfedd2c8b40#_> a mo:Track ;
     ourvocab:has_listener_count "151045" ;
     ourvocab:has_playcount "677985" ;
+    ourvocab:has_releasedate "4 May 2011, 00:00" ;
     ourvocab:has_tag "eargasm",
         "eminem",
         "epic",
@@ -9832,6 +10384,7 @@
 <http://musicbrainz.org/recording/ded95a11-b694-4afa-b226-9033ca41cfd0#_> a mo:Track ;
     ourvocab:has_listener_count "66255" ;
     ourvocab:has_playcount "196556" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "90s",
         "big l",
         "hip hop",
@@ -9853,6 +10406,7 @@
 <http://musicbrainz.org/recording/e1217d4b-e353-4d0b-b499-34232dc9f29f#_> a mo:Track ;
     ourvocab:has_listener_count "93216" ;
     ourvocab:has_playcount "322952" ;
+    ourvocab:has_releasedate "30 Nov 1990, 00:00" ;
     ourvocab:has_tag "90s",
         "a tribe called quest",
         "hip hop",
@@ -9875,6 +10429,7 @@
 <http://musicbrainz.org/recording/e299058e-950a-48e6-9b72-fcdf72c3bd74#_> a mo:Track ;
     ourvocab:has_listener_count "86853" ;
     ourvocab:has_playcount "275009" ;
+    ourvocab:has_releasedate "4 Jun 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "mos def",
@@ -9886,6 +10441,7 @@
 <http://musicbrainz.org/recording/e2ec4ed3-3def-5218-86ae-105f7cac876b#_> a mo:Track ;
     ourvocab:has_listener_count "91335" ;
     ourvocab:has_playcount "352365" ;
+    ourvocab:has_releasedate "10 Feb 2004, 00:00" ;
     ourvocab:has_tag "chicago",
         "hip hop",
         "hip-hop",
@@ -9897,6 +10453,7 @@
 <http://musicbrainz.org/recording/e3536c3d-2570-487a-ad1c-c66c6758a45c#_> a mo:Track ;
     ourvocab:has_listener_count "161092" ;
     ourvocab:has_playcount "727319" ;
+    ourvocab:has_releasedate "8 Nov 2010, 00:00" ;
     ourvocab:has_tag "death of auto tune",
         "hip hop",
         "hip-hop",
@@ -9907,6 +10464,7 @@
 <http://musicbrainz.org/recording/e406a620-9638-47fe-ac62-f50e74236d1f#_> a mo:Track ;
     ourvocab:has_listener_count "80858" ;
     ourvocab:has_playcount "196802" ;
+    ourvocab:has_releasedate "1 Oct 1996, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -9918,6 +10476,7 @@
 <http://musicbrainz.org/recording/e49e8587-89c9-4634-a82a-259b6d433b7d#_> a mo:Track ;
     ourvocab:has_listener_count "81530" ;
     ourvocab:has_playcount "254122" ;
+    ourvocab:has_releasedate "28 Mar 1995, 00:00" ;
     ourvocab:has_tag "90s",
         "big l",
         "hip hop",
@@ -9960,6 +10519,7 @@
 <http://musicbrainz.org/recording/e61fa6ac-3e61-42d7-b499-7b0d6e8e637d#_> a mo:Track ;
     ourvocab:has_listener_count "71973" ;
     ourvocab:has_playcount "207459" ;
+    ourvocab:has_releasedate "4 Aug 1997, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -9971,6 +10531,7 @@
 <http://musicbrainz.org/recording/e6294d62-7491-4014-b3be-55b05119d4d4#_> a mo:Track ;
     ourvocab:has_listener_count "34325" ;
     ourvocab:has_playcount "102334" ;
+    ourvocab:has_releasedate "7 Jul 1995, 00:00" ;
     ourvocab:has_tag "hardcore rap",
         "hip hop",
         "hip-hop",
@@ -10014,6 +10575,7 @@
 <http://musicbrainz.org/recording/e86ee6e1-ccd4-46fe-9781-cea01aa5db92#_> a mo:Track ;
     ourvocab:has_listener_count "256568" ;
     ourvocab:has_playcount "893021" ;
+    ourvocab:has_releasedate "13 Jul 2004, 00:00" ;
     ourvocab:has_tag "biggie",
         "gangsta rap",
         "hip hop",
@@ -10036,6 +10598,7 @@
 <http://musicbrainz.org/recording/e8d9baa2-66f4-4006-a386-7e0cd9553c76#_> a mo:Track ;
     ourvocab:has_listener_count "81008" ;
     ourvocab:has_playcount "239679" ;
+    ourvocab:has_releasedate "16 Sep 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "hiphop",
@@ -10068,6 +10631,7 @@
 <http://musicbrainz.org/recording/e93ffc87-5306-4975-8d7a-298914cb96b9#_> a mo:Track ;
     ourvocab:has_listener_count "120588" ;
     ourvocab:has_playcount "501115" ;
+    ourvocab:has_releasedate "2 Jul 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip hop tag",
         "hip-hop",
@@ -10079,6 +10643,7 @@
 <http://musicbrainz.org/recording/e96855bb-5c68-4349-92bb-7cbc3035a5e3#_> a mo:Track ;
     ourvocab:has_listener_count "146790" ;
     ourvocab:has_playcount "565226" ;
+    ourvocab:has_releasedate "9 Jun 2008, 00:00" ;
     ourvocab:has_tag "50 cent",
         "hip-hop",
         "party",
@@ -10112,6 +10677,7 @@
 <http://musicbrainz.org/recording/eae1550e-ab67-4313-ac9d-699386b6c498#_> a mo:Track ;
     ourvocab:has_listener_count "91694" ;
     ourvocab:has_playcount "202693" ;
+    ourvocab:has_releasedate "14 Sep 2010, 00:00" ;
     ourvocab:has_tag "cali",
         "hip hop",
         "hip-hop",
@@ -10123,6 +10689,7 @@
 <http://musicbrainz.org/recording/eb5d3d25-33af-490c-968f-407206ad5cd7#_> a mo:Track ;
     ourvocab:has_listener_count "76798" ;
     ourvocab:has_playcount "438011" ;
+    ourvocab:has_releasedate "1 Jan 2005, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta",
         "hip hop",
@@ -10145,6 +10712,7 @@
 <http://musicbrainz.org/recording/ebed1db5-219a-49bc-826a-46923144a3a4#_> a mo:Track ;
     ourvocab:has_listener_count "74343" ;
     ourvocab:has_playcount "412828" ;
+    ourvocab:has_releasedate "22 Apr 2008, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "rap",
@@ -10156,6 +10724,7 @@
 <http://musicbrainz.org/recording/ec632922-0610-44b0-b34e-3719f5c896ef#_> a mo:Track ;
     ourvocab:has_listener_count "14938" ;
     ourvocab:has_playcount "116644" ;
+    ourvocab:has_releasedate "25 Jun 2012, 00:00" ;
     ourvocab:has_tag "eh o rep",
         "fip",
         "foda",
@@ -10188,6 +10757,7 @@
 <http://musicbrainz.org/recording/ed55246d-8425-4f53-aadd-6be2b3c1eb44#_> a mo:Track ;
     ourvocab:has_listener_count "200335" ;
     ourvocab:has_playcount "756461" ;
+    ourvocab:has_releasedate "22 Dec 2006, 00:00" ;
     ourvocab:has_tag "chamillionaire",
         "dirty south",
         "hip hop",
@@ -10210,6 +10780,7 @@
 <http://musicbrainz.org/recording/eda2ad6f-e444-4cb9-a1f4-ac2085d8db5e#_> a mo:Track ;
     ourvocab:has_listener_count "771372" ;
     ourvocab:has_playcount "2443385" ;
+    ourvocab:has_releasedate "15 Apr 2003, 00:00" ;
     ourvocab:has_tag "50 cent",
         "gangsta rap",
         "hip hop",
@@ -10232,6 +10803,7 @@
 <http://musicbrainz.org/recording/ee0b8f59-3a87-5b2e-b4b3-d44fd3c5da5c#_> a mo:Track ;
     ourvocab:has_listener_count "235046" ;
     ourvocab:has_playcount "2370521" ;
+    ourvocab:has_releasedate "1 Apr 2012, 00:00" ;
     ourvocab:has_tag "hip-hop",
         "love at first listen",
         "rap",
@@ -10254,6 +10826,7 @@
 <http://musicbrainz.org/recording/ee8313e9-0dad-4d04-8125-d21a9261a851#_> a mo:Track ;
     ourvocab:has_listener_count "278255" ;
     ourvocab:has_playcount "1472528" ;
+    ourvocab:has_releasedate "21 Jun 2010, 00:00" ;
     ourvocab:has_tag "american hip-hop",
         "eminem",
         "hip hop",
@@ -10265,6 +10838,7 @@
 <http://musicbrainz.org/recording/eed9d93c-d6d0-4d89-ae63-16c8b33e34aa#_> a mo:Track ;
     ourvocab:has_listener_count "34480" ;
     ourvocab:has_playcount "178038" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "10s",
         "2013",
         "hip-hop",
@@ -10276,6 +10850,7 @@
 <http://musicbrainz.org/recording/ef839749-2a09-4791-bcae-df46ec2a666b#_> a mo:Track ;
     ourvocab:has_listener_count "47320" ;
     ourvocab:has_playcount "579379" ;
+    ourvocab:has_releasedate "9 Apr 2013, 00:00" ;
     ourvocab:has_tag "2013",
         "bitch",
         "hip-hop",
@@ -10287,6 +10862,7 @@
 <http://musicbrainz.org/recording/efd16be7-b245-416f-a380-00ae2b360e6e#_> a mo:Track ;
     ourvocab:has_listener_count "276313" ;
     ourvocab:has_playcount "911839" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip-hop",
@@ -10298,6 +10874,7 @@
 <http://musicbrainz.org/recording/f00d3e3d-3967-4651-b302-77bde600bc15#_> a mo:Track ;
     ourvocab:has_listener_count "106414" ;
     ourvocab:has_playcount "529814" ;
+    ourvocab:has_releasedate "19 May 2009, 00:00" ;
     ourvocab:has_tag "eminem",
         "hip hop",
         "hip-hop",
@@ -10309,6 +10886,7 @@
 <http://musicbrainz.org/recording/f046b77b-a935-4768-b60a-0e70ee9c7303#_> a mo:Track ;
     ourvocab:has_listener_count "71215" ;
     ourvocab:has_playcount "170109" ;
+    ourvocab:has_releasedate "28 Apr 1998, 00:00" ;
     ourvocab:has_tag "big pun",
         "big punisher",
         "hip hop",
@@ -10353,6 +10931,7 @@
 <http://musicbrainz.org/recording/f1108fde-b466-4a33-b85e-ac5b201bb64b#_> a mo:Track ;
     ourvocab:has_listener_count "15712" ;
     ourvocab:has_playcount "74294" ;
+    ourvocab:has_releasedate "30 Nov 1997, 00:00" ;
     ourvocab:has_tag "french",
         "hip hop",
         "hip-hop",
@@ -10397,6 +10976,7 @@
 <http://musicbrainz.org/recording/f2924320-2d82-4460-b471-db40845e4f71#_> a mo:Track ;
     ourvocab:has_listener_count "97045" ;
     ourvocab:has_playcount "302928" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "90s",
         "eminem",
         "hip hop",
@@ -10419,6 +10999,7 @@
 <http://musicbrainz.org/recording/f3130c13-77dc-462b-9cca-f870796fa705#_> a mo:Track ;
     ourvocab:has_listener_count "21350" ;
     ourvocab:has_playcount "118594" ;
+    ourvocab:has_releasedate "1 Nov 2010, 00:00" ;
     ourvocab:has_tag "g-unit",
         "gangsta rap",
         "hip hop",
@@ -10441,6 +11022,7 @@
 <http://musicbrainz.org/recording/f38cf965-b8c1-4bf3-bdec-f7c40e78e9df#_> a mo:Track ;
     ourvocab:has_listener_count "280749" ;
     ourvocab:has_playcount "1254404" ;
+    ourvocab:has_releasedate "15 Jun 2004, 00:00" ;
     ourvocab:has_tag "beastie boys",
         "hip hop",
         "hip-hop",
@@ -10452,6 +11034,7 @@
 <http://musicbrainz.org/recording/f3d7666a-78e8-50b6-a92a-f5a1a4b88eff#_> a mo:Track ;
     ourvocab:has_listener_count "286731" ;
     ourvocab:has_playcount "1093506" ;
+    ourvocab:has_releasedate "8 Nov 2005, 00:00" ;
     ourvocab:has_tag "80s",
         "hip hop",
         "hip-hop",
@@ -10495,6 +11078,7 @@
 <http://musicbrainz.org/recording/f521411f-698a-4f55-87b7-ff3225ca2c0f#_> a mo:Track ;
     ourvocab:has_listener_count "118642" ;
     ourvocab:has_playcount "496045" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "cleaning out my closet",
         "eminem",
         "hip hop",
@@ -10506,6 +11090,7 @@
 <http://musicbrainz.org/recording/f5c8aee7-7c25-42b7-b6a1-1d5a376769b2#_> a mo:Track ;
     ourvocab:has_listener_count "38456" ;
     ourvocab:has_playcount "215136" ;
+    ourvocab:has_releasedate "30 Jan 2009, 00:00" ;
     ourvocab:has_tag "best shit ever existing in the whole world makes me vomit over my daddys pussy while i listen to the popes earcream following the dark lord to my grandmummies treassure in an iland of dicksucking faggot frogs having silver eyebrows",
         "comedy",
         "hip hop",
@@ -10528,6 +11113,7 @@
 <http://musicbrainz.org/recording/f6b018ad-e78d-4884-934a-ceec0e6485f5#_> a mo:Track ;
     ourvocab:has_listener_count "39764" ;
     ourvocab:has_playcount "191996" ;
+    ourvocab:has_releasedate "27 Apr 2011, 00:00" ;
     ourvocab:has_tag "epic",
         "huge",
         "massive",
@@ -10539,6 +11125,7 @@
 <http://musicbrainz.org/recording/f705ebea-f75e-40ac-a01e-1ee73f4272d9#_> a mo:Track ;
     ourvocab:has_listener_count "66809" ;
     ourvocab:has_playcount "235854" ;
+    ourvocab:has_releasedate "13 Feb 1996, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -10550,6 +11137,7 @@
 <http://musicbrainz.org/recording/f779440f-743d-4e7b-9629-f5e401069311#_> a mo:Track ;
     ourvocab:has_listener_count "125816" ;
     ourvocab:has_playcount "548387" ;
+    ourvocab:has_releasedate "9 Sep 1996, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -10561,6 +11149,7 @@
 <http://musicbrainz.org/recording/f797a397-434e-4c5c-9e36-51da625d680f#_> a mo:Track ;
     ourvocab:has_listener_count "100910" ;
     ourvocab:has_playcount "358167" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "detroit",
         "eminem",
         "hip hop",
@@ -10572,6 +11161,7 @@
 <http://musicbrainz.org/recording/f876e293-cefd-4471-a7db-ccb713a255c4#_> a mo:Track ;
     ourvocab:has_listener_count "227731" ;
     ourvocab:has_playcount "824349" ;
+    ourvocab:has_releasedate "27 Mar 2009, 00:00" ;
     ourvocab:has_tag "dr dre",
         "eminem",
         "hip hop",
@@ -10594,6 +11184,7 @@
 <http://musicbrainz.org/recording/f8c2440b-d5dc-4b4e-b883-8f6aedd774c0#_> a mo:Track ;
     ourvocab:has_listener_count "229190" ;
     ourvocab:has_playcount "923075" ;
+    ourvocab:has_releasedate "24 Nov 1997, 00:00" ;
     ourvocab:has_tag "90s",
         "hip hop",
         "hip-hop",
@@ -10605,6 +11196,7 @@
 <http://musicbrainz.org/recording/f8d3869b-30c5-4a51-8be1-c53fa90ada53#_> a mo:Track ;
     ourvocab:has_listener_count "51054" ;
     ourvocab:has_playcount "186775" ;
+    ourvocab:has_releasedate "21 Nov 2006, 00:00" ;
     ourvocab:has_tag "gangsta rap",
         "hip hop",
         "hip-hop",
@@ -10616,6 +11208,7 @@
 <http://musicbrainz.org/recording/f8dc0e4f-efff-46a9-ab59-cab826d71967#_> a mo:Track ;
     ourvocab:has_listener_count "72934" ;
     ourvocab:has_playcount "201680" ;
+    ourvocab:has_releasedate "24 Sep 2002, 00:00" ;
     ourvocab:has_tag "hip hop tag",
         "hip-hop",
         "rap",
@@ -10638,6 +11231,7 @@
 <http://musicbrainz.org/recording/f8e3754a-ca1f-494f-ac03-9ceb32545726#_> a mo:Track ;
     ourvocab:has_listener_count "32907" ;
     ourvocab:has_playcount "96774" ;
+    ourvocab:has_releasedate "24 Sep 2002, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "horrorcore",
@@ -10660,6 +11254,7 @@
 <http://musicbrainz.org/recording/f9900889-ac1b-57bd-88e3-0c72b2fcfc8b#_> a mo:Track ;
     ourvocab:has_listener_count "107917" ;
     ourvocab:has_playcount "321625" ;
+    ourvocab:has_releasedate "" ;
     ourvocab:has_tag "bone thugs-n-harmony",
         "gangsta rap",
         "hip-hop",
@@ -10670,6 +11265,7 @@
 <http://musicbrainz.org/recording/f9da4c75-be6d-5cde-bdee-ecdc8558c964#_> a mo:Track ;
     ourvocab:has_listener_count "287141" ;
     ourvocab:has_playcount "2060338" ;
+    ourvocab:has_releasedate "23 Aug 2011, 00:00" ;
     ourvocab:has_tag "hip hop",
         "hip-hop",
         "parris",
@@ -10702,6 +11298,7 @@
 <http://musicbrainz.org/recording/fa84d8c8-9e49-5534-8d5a-37b966ae6f35#_> a mo:Track ;
     ourvocab:has_listener_count "151014" ;
     ourvocab:has_playcount "602671" ;
+    ourvocab:has_releasedate "27 Aug 2013, 00:00" ;
     ourvocab:has_tag "d12",
         "eminem",
         "hip hop",
@@ -10713,6 +11310,7 @@
 <http://musicbrainz.org/recording/fb9de884-b4f6-46c3-b783-9d3d37ccc10c#_> a mo:Track ;
     ourvocab:has_listener_count "109972" ;
     ourvocab:has_playcount "328465" ;
+    ourvocab:has_releasedate "23 Sep 2002, 00:00" ;
     ourvocab:has_tag "big l",
         "hip hop",
         "hip-hop",
@@ -10756,6 +11354,7 @@
 <http://musicbrainz.org/recording/fd7f8167-3e9e-4452-83b5-b74b3b556c3e#_> a mo:Track ;
     ourvocab:has_listener_count "345369" ;
     ourvocab:has_playcount "1313053" ;
+    ourvocab:has_releasedate "8 Nov 2005, 00:00" ;
     ourvocab:has_tag "80s",
         "alternative",
         "hip-hop",
@@ -10767,6 +11366,7 @@
 <http://musicbrainz.org/recording/fd83178d-c064-4689-9c09-bef8f1c4cad9#_> a mo:Track ;
     ourvocab:has_listener_count "122322" ;
     ourvocab:has_playcount "686543" ;
+    ourvocab:has_releasedate "22 Oct 2012, 00:00" ;
     ourvocab:has_tag "2012",
         "conscious hip-hop",
         "hip hop",
@@ -10800,6 +11400,7 @@
 <http://musicbrainz.org/recording/fec4a8e9-25c1-4e86-ba7b-fd96d7719766#_> a mo:Track ;
     ourvocab:has_listener_count "54472" ;
     ourvocab:has_playcount "149314" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "hip-hop",
         "me against the world",
@@ -10811,6 +11412,7 @@
 <http://musicbrainz.org/recording/ffa28411-75d2-43af-bb91-5fd3af550a89#_> a mo:Track ;
     ourvocab:has_listener_count "59337" ;
     ourvocab:has_playcount "207750" ;
+    ourvocab:has_releasedate "5 Jul 2011, 00:00" ;
     ourvocab:has_tag "2pac",
         "gangsta rap",
         "hip hop",
@@ -10822,6 +11424,7 @@
 <http://musicbrainz.org/recording/ffc63e78-597f-5189-88a0-ea0c48cb89f6#_> a mo:Track ;
     ourvocab:has_listener_count "386233" ;
     ourvocab:has_playcount "2577923" ;
+    ourvocab:has_releasedate "30 Nov 2004, 00:00" ;
     ourvocab:has_tag "alternative",
         "fort minor",
         "hip hop",
@@ -10833,6 +11436,7 @@
 <http://musicbrainz.org/recording/ffd8f8e6-eeff-5ef3-bbcb-953dfd27bbfd#_> a mo:Track ;
     ourvocab:has_listener_count "77793" ;
     ourvocab:has_playcount "721198" ;
+    ourvocab:has_releasedate "1 Jan 2006, 00:00" ;
     ourvocab:has_tag "fort minor",
         "good beats",
         "hip hop",
