@@ -91,8 +91,8 @@ class lastFm:
             return
 
         try:
-            comments = self._getComments(trackInfo['url'])
-            trackInfo['comments'] = comments
+            comments = self._getComments(trackInfo['track']['url'])
+            trackInfo['track']['comments'] = comments
         except:
             pass
         json.dump(trackInfo, file(self.dataFolder + self.tag + "/trackInfo/" + mbid + ".json", 'w'))

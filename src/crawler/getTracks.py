@@ -12,7 +12,10 @@ if __name__ == '__main__':
     tag = sys.argv[1]
     dataFolder = sys.argv[2]
 
-    key = "9d8eec456625c74e02a7e23bd1d7c68a"
+    #gopal
+    #key = "9d8eec456625c74e02a7e23bd1d7c68a"
+    #patrick
+    key = "75042b6fa095cd3324c78ee30a4e2975"
     fmObj = lastFm(key, tag, dataFolder, )
     #fmObj.storeTopRecs()
 
