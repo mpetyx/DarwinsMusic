@@ -1,0 +1,1068 @@
+{
+  "head" : {
+    "vars" : ["point"]
+  },
+  "results" : {
+    "bindings" : [ 
+      {
+         "point":{"type":"literal","value":"POINT(-90.6 34.23)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74 40.7167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-89.1128 32.7742)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.271 37.8044)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-6.2675 53.3442)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-81.5178 41.0731)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-96.3969 30.1619)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-94.9339 29.4)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.2792 32.3617)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.6132 54.974)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.3222 33.4958)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.9333 38.8833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-91.1403 30.4486)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.72 34.11)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-120 37)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(42.7 42.25)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-93.94 29.885)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.9694 34.7897)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.333 47.6097)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.75 30.25)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-84.1656 31.5822)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.3914 31.865)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.7833 36.1667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.756 34.0608)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-89.375 34.8611)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.8916 53.1903)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.071 51.597)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-95.9372 36.1314)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.46667 53.3833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.99 32.74)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.9522 40.6247)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-93.8372 35.4928)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.25 34.05)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.6475 33.4481)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-92.0982 46.7869)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-72.7 41.6)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-81.66 30.3194)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.0458 42.3314)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.17 39.95)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-87.6278 41.8819)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.4716 31.2445)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-84.9404 32.4896)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-91.7047 30.9336)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.3681 32.6439)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-82.4994 33.4672)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-91.8386 34.2519)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-88.8208 35.6331)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.1275 51.5072)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-95.9758 31.1547)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-89.9711 35.1175)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.6517 32.8347)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.9484 40.809)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-96.7894 46.8714)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.116667 51.5)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.535 35.4822)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-96.8039 32.7828)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.6702 40.3571)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-89.9694 34.6164)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(21.0333 52.2167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-95.9794 31.2564)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-81.6697 41.4822)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-92.0661 31.1267)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-95.3831 29.7628)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.8753 32.3361)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.98333 53.4)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-5.93 54.5969)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.0706 29.9647)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-71.0636 42.3581)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-71.1106 42.3736)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.1978 38.6272)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.328 34.1803)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.2883 43.0692)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(73.68 24.58)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(77.5603 12.9702)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(80.27 13.0839)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(79.1389 10.775)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(81.84 25.45)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(78.178 26.2215)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(80.27 13.09)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(82.9563 25.282)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(77.2083 21)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(76.33 21.83)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-121.469 38.5556)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(175.283 -37.7833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-87.9558 41.7961)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(4.35 50.85)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-21.9333 64.1333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.417 37.7833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.682 45.52)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-110.939 31.3539)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-85.2672 35.0456)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(4.89222 52.3731)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-93.2667 44.9833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.7906 35.9378)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.5456 55.0123)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.8667 40.75)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.1726 40.7242)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(2.35083 47)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-79.895 34.6967)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.3417 40.12)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.0279 40.7453)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.15 39.791)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.1597 38.9006)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.0283 -12.0433)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-95.0358 40.7375)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(18.0686 59.3294)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-123.936 49.1642)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-96.6983 36.1147)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(0.1801 51.5768)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-79.7061 34.8881)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(4 8)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.031 37.9781)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.3833 33.95)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.5753 41.6656)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(18.0667 59.35)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.7758 38.6439)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-87.5347 33.2067)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.1448 40.5763)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(8.20778 44.8989)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.9597 40.7283)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75 43)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(4.4209 50.5138)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.9042 40.7744)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.3332 32.7574)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.6667 45.4)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-98.7031 46.9056)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.8089 33.6533)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.4844 37.0708)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-94.6764 39.1067)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.0167 40.6667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.1265 51.6316)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.1792 32.1978)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-80 40.4417)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.8861 40.8372)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(6.88333 51.4333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.25778 51.7519)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(1.3179 52.0935)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(18.4167 43.8667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(13.3833 52.5167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(11.0519 50.8611)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-4.27 53.14)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.4329 37.5383)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(8.68594 50.1118)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.8656 27.515)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(15.238 58.5281)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(18.9428 69.6758)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-79.0667 43.1167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(51.4167 32)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(9.71667 52.3667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(13.3989 52.5006)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.6167 39.2833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.28 51.75)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(6.78333 51.2333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-99.3667 19.05)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-120.954 39.0972)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-123.1 49.25)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(12.9167 55.5833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(12.4833 41.9)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(151.211 33.86)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(24.9333 60.1667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(11.911 55)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(2.3508 48.8567)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-121.892 37.3333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-4.26667 55.85)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(0.144 51.5757)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(12.85 56.6667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-3.68333 40.3833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-61.5167 10.6667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.1027 51.544)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(11.9667 57.7)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-4.259 55.858)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(149.124 -35.308)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.18333 53)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.325 52.108)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-80.1 26.3686)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.1292 33.2164)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(37.6167 55.75)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.2 36.9167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.969 34.0006)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-59.6167 13.1)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-124.163 40.79)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(115.744 -32.0569)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-115.563 32.7919)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(51.4231 35.6961)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.8028 41.3242)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(35.5131 33.8869)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(10.0014 53.5653)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-81.2989 28.4158)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.7955 56.3404)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.929 33.88)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-6.5 53.8333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-6.29963 53.3902)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(21.1667 42.6667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-80.2605 36.1028)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-105.293 40.0194)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.89361 52.4831)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.0169 32.7153)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-123.366 48.4221)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.9264 40.3417)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(126.978 37.5665)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-80.2242 25.7878)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.173 51.5172)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-106.61 35.1108)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.971 52.195)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.8414 41.0114)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.29306 53.483)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-92.835 33.5708)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.36 51.38)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.23333 53.4667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.481 34.0219)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(7.63333 51.9667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.3833 44.1667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-93.2244 44.0843)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(143 -23)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.8 17.9833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(174.45 -42)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.3522 40.86)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.8575 35.9292)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-80.9667 43.3667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.3894 51.5932)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(14.1667 57.7833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.863 53.725)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.75206 53.8)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-104.792 38.8633)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.8886 43.5951)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(9.55167 56.1833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.17534 51.5902)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-112.067 33.45)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-84.39 33.755)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.91 34.1842)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.38113 54.9061)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.89 33.8361)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-157.826 21.3089)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.349 33.9172)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.0901 51.4988)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(144.963 -37.8136)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.0969 40.9111)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.0367 38.8951)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.1558 31.5514)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-89.9022 35.3367)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.2 51.9)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.275 37.8717)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-82.64 27.7731)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(18.4239 33.9253)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(19.0167 50.25)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.433333 51.9)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.7669 40.6948)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.3456 36.8311)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-85.0319 33.0367)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.2615 40.7488)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(2.3547 48.9364)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.1429 40.0068)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-101.292 48.2331)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-97.4781 26.0733)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.3 40.8)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-94.8367 39.7581)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.8767 38.9664)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.91667 51.3333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-81.0442 34.0006)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.5028 40.7594)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.195 33.9442)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.5855 40.6792)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-47.95 -15.7833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.6172 40.7047)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.5167 45.5333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(0.07981 51.487)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(37.6167 60)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.8569 39.2036)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.1751 51.5361)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.225 33.8967)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.5998 39.3783)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-90.1847 32.2989)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.4 33.8664)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118 33.6928)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(45.3667 2.03333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.196 33.7683)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-66.1 18.45)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.852 18.321)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.162 32.715)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-96 41.25)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-3.18889 55.9531)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.605 39.9586)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(12.5683 55.6761)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-155.994 19.65)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-64.7833 32.3)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-47.8667 -15.7989)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.9 18.0167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117 34)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.026 36.9719)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.5467 39.7458)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-82.325 29.652)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.5 18.0333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-5.3 6.85)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-58.3833 -34.6)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-58.1667 6.76667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.14944 53.4083)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.9494 43.4194)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-43.95 -19.8167)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.13333 52.95)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.7968 17.9849)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-77.1083 38.8803)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-104.985 39.7392)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-3.18333 51.4833)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-0.4527 51.372)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.0204 40.8086)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-116.369 33.7256)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-72.5903 42.1014)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-3.34215 51.6025)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-1.283 51.667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.6064 39.8989)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-84.2533 30.455)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.9899 40.2954)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-117.228 33.9431)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122 37.7)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-79.4 43.7)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-87.6947 42.0464)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-123.208 39.1503)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.25 34.1708)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-119.017 35.3667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-84.5167 39.1)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-94.5783 39.0997)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.5667 45.5)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-111.831 33.415)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.8983 38.6461)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-4.49571 55.6111)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-89.4 43.0667)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-76.5 44.2333)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.661 34.1383)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-93.6208 41.5908)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-123.819 46.9758)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-83.0108 42.8031)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.762 34.1533)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-73.3442 40.8995)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-2.6318 53.5447)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-3.48866 50.5516)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-92.3311 34.7361)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-78.8494 42.9047)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-122.312 37.9158)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.4444 40.4867)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-79.6603 36.1038)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-78.3167 44.3)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-8.6238 52.6653)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-118.132 34.1561)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-86.2483 43.2342)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.4583 40.1856)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(1.75 52.48)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-121.973 38.3539)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-115.136 36.175)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-79.65 43.6)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-78 44.35)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-120.663 35.2742)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-75.8779 41.2444)"}
+      },
+      {
+         "point":{"type":"literal","value":"POINT(-74.0648 40.7114)"}
+      }
+    ]
+  }
+}
