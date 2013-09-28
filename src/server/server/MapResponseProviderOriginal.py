@@ -55,6 +55,7 @@ def mapJson(genre):
     PREFIX dbp-ont:<http://dbpedia.org/ontology/>
 
     SELECT DISTINCT ?s ?title ?listeners ?hits ?performer ?point ?date
+    FROM <file://C:/fakepath/tracks.n3>
     WHERE {
     ?s a mo:Track.
     ?s dc-term:title ?title.
@@ -104,7 +105,7 @@ def mapJson(genre):
     dates = []
 
     for result in res:
-        year = str(result[6])
+        year = result['date']['value']
 
         temp = re.findall(r'\d{4}', year)
         if temp:
@@ -132,7 +133,7 @@ def mapJson(genre):
 
     for result in res:
 
-        year = str(result[6])
+        year = result['date']['value']
 
         res = re.findall(r'\d{4}', year)
 
@@ -141,14 +142,14 @@ def mapJson(genre):
             year = year[:-1] + '0'
             # dates.append(year)
 
-            lem = str(result[5]).replace("POINT(", "")
+            lem = result['point']['value'].replace("POINT(", "")
             lem = lem.replace(")", "")
 
             ena, duo = lem.split(" ")
             points.append([duo, ena])
             myCountry = getCountry(duo, ena)
             countrynames.append(myCountry)
-            performers.append(result[4])
+            performers.append(result['performer']['value'])
 
             the_country_is_already_there = False
 
@@ -161,18 +162,18 @@ def mapJson(genre):
 
                 if year == decade:
 
-                    hits["%s" % decade].append(str(result[3]))
+                    hits["%s" % decade].append(result['hits']['value'])
                     if the_country_is_already_there:
 
                         for temporary in totalhits["%s" % decade]:
                             if myCountry in temporary.keys():
-                                temporary[myCountry] = int(temporary[myCountry]) + int(result[3])
+                                temporary[myCountry] = int(temporary[myCountry]) + int(result['hits']['value'])
                                 break
 
                                 # totalhits["%s"%decade].append({myCountry: result['hits']['value']})
                     else:
-                        totalhits["%s" % decade].append({myCountry: int(result[3])})
-                    listeners["%s" % decade].append(int(result[2]))
+                        totalhits["%s" % decade].append({myCountry: result['hits']['value']})
+                    listeners["%s" % decade].append(result['listeners']['value'])
 
                     # titles.append(result['title']['value'])
                 else:
@@ -206,6 +207,3 @@ def mapJson(genre):
 
 
     return json.dumps(finalized_json)
-
-
-mapJson("jazz")
