@@ -38,7 +38,7 @@ def map(request):
 
     genre = request.GET.get("genre", "")
 
-    response = mapJson(request, genre)
+    response = mapJson( genre)
 
     return HttpResponse(response, status=200)
 

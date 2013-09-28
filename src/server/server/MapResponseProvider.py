@@ -12,6 +12,8 @@ from django.conf import settings
 from geoToCountry import getCountry
 from AllegroGraph import AllegroQueryInterface
 
+from geoSpatial.pointToCountryCode import Points
+
 
 def mapJson(genre):
 
@@ -92,7 +94,7 @@ def mapJson(genre):
     res = sparql.query(superQuery)
 
 
-
+    map_to_points =  Points("./geoSpatial/pointsToCountry.json")
 
     # res = results["results"]["bindings"]
 
@@ -128,7 +130,7 @@ def mapJson(genre):
         listeners["%s" % year] = []
 
     for year in distinct_years:
-        totalhits["%s" % year] = []
+        totalhits["%s" % year] = {}
 
     for result in res:
 
@@ -146,7 +148,8 @@ def mapJson(genre):
 
             ena, duo = lem.split(" ")
             points.append([duo, ena])
-            myCountry = getCountry(duo, ena)
+            # myCountry = getCountry(duo, ena)
+            myCountry = map_to_points.CountryCode(duo,ena)
             countrynames.append(myCountry)
             performers.append(result[4])
 
@@ -154,8 +157,12 @@ def mapJson(genre):
 
             for decade in distinct_years:
 
-                for example in totalhits["%s" % decade]:
-                    if myCountry in example.keys():
+                # for example in totalhits["%s" % decade]:
+                #     if myCountry in example.keys():
+                #         the_country_is_already_there = True
+                #         break
+
+                if myCountry in totalhits["%s" % decade].keys():
                         the_country_is_already_there = True
                         break
 
@@ -171,7 +178,7 @@ def mapJson(genre):
 
                                 # totalhits["%s"%decade].append({myCountry: result['hits']['value']})
                     else:
-                        totalhits["%s" % decade].append({myCountry: int(result[3])})
+                        totalhits["%s" % decade][myCountry]= int(result[3])
                     listeners["%s" % decade].append(int(result[2]))
 
                     # titles.append(result['title']['value'])
@@ -180,7 +187,7 @@ def mapJson(genre):
                     if the_country_is_already_there:
                         continue
                     else:
-                        totalhits["%s" % decade].append({myCountry: 0})
+                        totalhits["%s" % decade][myCountry] =  0
                     listeners["%s" % decade].append(0)
 
         else:
@@ -199,13 +206,13 @@ def mapJson(genre):
     finalized_json["country_names"] = countrynames
     finalized_json["total_hits"] = totalhits
 
-    dumpData = open("rock.json", "w")
-    json.dump(finalized_json, dumpData)
-
-    dumpData.write(json.dumps(finalized_json))
+    # dumpData = open("kouklaki.json", "w")
+    # json.dump(finalized_json, dumpData)
+    #
+    # dumpData.write(json.dumps(finalized_json))
 
 
     return json.dumps(finalized_json)
 
 
-mapJson("jazz")
+# mapJson("rock")

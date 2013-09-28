@@ -5,10 +5,13 @@ import json
 
 class Points:
 
-    def __init__(self):
+    def __init__(self,file_name):
 
+        if file_name is None:
 
-        json_file = open("pointsToCountry.json","r").read()
+            file_name = "pointsToCountry.json"
+
+        json_file = open(file_name,"r").read()
         self.myjson = json.loads(json_file)
 
     def CountryCode(self, ena, duo):
@@ -17,6 +20,6 @@ class Points:
 
 
 
-example = Points()
-
-print example.CountryCode("32.7574","-97.3332")
+# example = Points()
+#
+# print example.CountryCode("32.7574","-97.3332")
